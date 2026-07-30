@@ -35,7 +35,7 @@ jobs:
       - name: Fetch news and build data/news.json
         run: node scripts/fetch-news.mjs
 
-     - name: Commit and push if changed
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
