@@ -1,0 +1,48 @@
+name: Update News Data
+
+on:
+  schedule:
+    # 15分ごとに実行（必要に応じて調整可。災害直後は5分等に短縮してもよい）
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}   # 手動実行用ボタンも有効化
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-news.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install rss-parser@3
+
+      - name: Fetch news and build data/news.json
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update news data [skip ci]"
+            git push
+          fi
