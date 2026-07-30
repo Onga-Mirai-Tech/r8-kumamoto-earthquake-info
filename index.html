@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>令和8年熊本地震情報タイムライン</title>
+    <style>
+        :root {
+            --primary-color: #d32f2f;
+            --bg-color: #f5f7fa;
+            --text-main: #333;
+            --text-light: #555;
+            --border-color: #e0e0e0;
+            --local-color: #e64a19;
+            --official-color: #388e3c;
+            --line-color: #06C755;
+
+            --cat-disaster: #c62828;
+            --cat-infra: #0277bd;
+            --cat-life: #2e7d32;
+            --cat-other: #616161;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #fff; padding: 15px; text-align: center;
+            border-bottom: 2px solid var(--primary-color); position: sticky; top: 0; z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        h1 { font-size: 1.2rem; margin-bottom: 5px; }
+
+        .disclaimer-top {
+            font-size: 0.7rem; color: var(--text-light); background: #fff3cd;
+            padding: 4px; border-radius: 4px; margin-bottom: 10px; display: inline-block; border: 1px solid #ffeeba;
+        }
+
+        .filter-panel {
+            background: #fdfdfd; border: 1px solid var(--border-color); border-radius: 8px;
+            padding: 8px; margin: 5px auto 0; max-width: 600px; text-align: left;
+        }
+
+        .filter-group { margin-bottom: 5px; display: flex; align-items: center; flex-wrap: wrap; gap: 5px; }
+        .filter-group:last-child { margin-bottom: 0; }
+        .filter-label { font-size: 0.75rem; font-weight: bold; color: var(--text-light); width: 60px; }
+
+        .filter-btn {
+            background: #fff; border: 1px solid var(--border-color); padding: 3px 8px;
+            border-radius: 12px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s; color: var(--text-light);
+        }
+        .filter-btn.active { background: var(--text-main); color: #fff; border-color: var(--text-main); }
+
+        .official-link-btn {
+            background: #fff; border: 1px solid var(--official-color); padding: 3px 8px;
+            border-radius: 12px; font-size: 0.75rem; cursor: pointer; color: var(--official-color); text-decoration: none; display: inline-block; font-weight: bold;
+        }
+
+        main { max-width: 600px; margin: 0 auto; padding: 15px; min-height: 50vh; }
+
+        #loading {
+            text-align: center; padding: 30px 0; color: var(--primary-color); font-weight: bold; font-size: 0.9rem;
+        }
+        .spinner {
+            display: inline-block; width: 24px; height: 24px; border: 3px solid rgba(211,47,47,.3);
+            border-radius: 50%; border-top-color: var(--primary-color); animation: spin 1s ease-in-out infinite; margin-right: 8px; vertical-align: middle;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        #error-msg {
+            text-align: center; padding: 10px; color: #856404; font-size: 0.8rem; display: none;
+            background: #fff3cd; border-radius: 8px; margin-bottom: 20px; border: 1px solid #ffeeba;
+        }
+
+        #stale-msg {
+            text-align: center; padding: 8px; color: #555; font-size: 0.75rem; display: none;
+            background: #eef1f5; border-radius: 8px; margin-bottom: 15px; border: 1px solid #dde2e8;
+        }
+
+        .timeline { position: relative; padding-left: 20px; }
+        .timeline::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background-color: var(--border-color); }
+
+        .timeline-item { position: relative; margin-bottom: 20px; animation: fadeIn 0.3s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+        .timeline-item::before {
+            content: ''; position: absolute; left: -25px; top: 5px; width: 12px; height: 12px;
+            border-radius: 50%; background-color: var(--primary-color); border: 2px solid #fff; box-shadow: 0 0 0 2px rgba(211, 47, 47, 0.2);
+        }
+
+        .timeline-date { font-size: 0.8rem; font-weight: bold; color: var(--text-light); margin-bottom: 4px; }
+        .timeline-content {
+            background: #fff; padding: 12px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            border: 1px solid rgba(0,0,0,0.05); border-left: 4px solid var(--border-color);
+        }
+
+        .cat-disaster { border-left-color: var(--cat-disaster); }
+        .cat-infra { border-left-color: var(--cat-infra); }
+        .cat-life { border-left-color: var(--cat-life); }
+        .cat-other { border-left-color: var(--cat-other); }
+
+        .badges { display: flex; gap: 4px; margin-bottom: 6px; flex-wrap: wrap; }
+        .badge { display: inline-block; padding: 2px 5px; border-radius: 3px; font-size: 0.65rem; font-weight: bold; color: #fff; }
+
+        .badge-local { background-color: var(--local-color); }
+        .badge-official { background-color: var(--official-color); }
+        .badge-cat { background-color: #f0f0f0; color: #555; border: 1px solid #ddd; }
+
+        .timeline-title { font-size: 0.95rem; line-height: 1.4; margin-bottom: 6px; }
+        .timeline-title a { color: var(--text-main); text-decoration: none; }
+        .timeline-title a:hover { text-decoration: underline; color: var(--primary-color); }
+        .timeline-desc { font-size: 0.85rem; color: var(--text-light); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+        footer { background: #fff; padding: 20px 15px; border-top: 1px solid var(--border-color); font-size: 0.8rem; color: var(--text-light); max-width: 600px; margin: 0 auto; }
+        footer h4 { margin-top: 15px; margin-bottom: 5px; color: var(--text-main); font-size: 0.85rem;}
+        footer h4:first-child { margin-top: 0; }
+        footer ul { padding-left: 20px; margin-bottom: 10px; }
+
+        .contact-info { background-color: #f9f9f9; padding: 12px; border-radius: 8px; margin-top: 15px; border: 1px solid #eee; text-align: center; }
+        .line-btn {
+            display: inline-flex; align-items: center; justify-content: center; background-color: var(--line-color); color: #fff; text-decoration: none;
+            padding: 10px 20px; border-radius: 20px; font-weight: bold; font-size: 0.85rem; margin-top: 5px; width: 100%; max-width: 250px;
+        }
+        .line-icon { width: 18px; height: 18px; margin-right: 6px; fill: currentColor; }
+        .version-info { text-align: center; margin-top: 20px; color: #999; font-size: 0.7rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>令和8年熊本地震情報タイムライン</h1>
+        <div class="disclaimer-top">※個人開発のプロトタイプです。公式情報も必ずご確認ください。</div>
+
+        <div class="filter-panel">
+            <div class="filter-group">
+                <div class="filter-label">メディア</div>
+                <button class="filter-btn active" data-source="all" onclick="setSourceFilter('all', this)">すべて</button>
+                <button class="filter-btn" data-source="local" onclick="setSourceFilter('local', this)">地元メディア</button>
+                <button class="filter-btn" data-source="official" onclick="setSourceFilter('official', this)">公式・県</button>
+            </div>
+            <div class="filter-group">
+                <div class="filter-label">カテゴリ</div>
+                <button class="filter-btn active" data-category="all" onclick="setCategoryFilter('all', this)">すべて</button>
+                <button class="filter-btn" data-category="disaster" onclick="setCategoryFilter('disaster', this)">災害・地震</button>
+                <button class="filter-btn" data-category="infra" onclick="setCategoryFilter('infra', this)">インフラ</button>
+                <button class="filter-btn" data-category="life" onclick="setCategoryFilter('life', this)">生活</button>
+            </div>
+            <div class="filter-group" style="margin-top: 5px; padding-top: 5px; border-top: 1px dashed var(--border-color);">
+                <div class="filter-label">リンク</div>
+                <a href="https://www.pref.kumamoto.jp/" target="_blank" rel="noopener noreferrer" class="official-link-btn">
+                    熊本県公式HP ↗
+                </a>
+                <a href="https://www.jma.go.jp/bosai/map.html#contents=earthquake_map" target="_blank" rel="noopener noreferrer" class="official-link-btn" style="border-color:#333; color:#333;">
+                    気象庁 地震情報 ↗
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="loading"><span class="spinner"></span>最新情報を読み込み中...</div>
+        <div id="error-msg"></div>
+        <div id="stale-msg"></div>
+        <div class="timeline" id="timeline"></div>
+    </main>
+
+    <footer>
+        <h4>■ 免責事項・アプリについて</h4>
+        <p>本アプリは「Onga-Mirai-Tech」による個人開発です。定期更新（GitHub Actions経由）により情報を集約していますが、情報の網羅性・正確性を保証するものではありません。</p>
+
+        <h4>■ 情報源</h4>
+        <ul>
+            <li>熊本日日新聞・RKK・TKU等（GoogleNews経由・15分おきに自動更新）</li>
+            <li>熊本県庁ホームページ（手動掲載）</li>
+        </ul>
+        <p>※関連キーワード判定により自動抽出を行っています。記事の著作権は各配信元に帰属します。</p>
+
+        <div class="contact-info">
+            <h4>お問い合わせ・ご要望</h4>
+            <p style="font-size: 0.75rem; margin-bottom: 8px;">バグ報告や要望はLINE公式アカウントまで。</p>
+            <a href="https://line.me/R/ti/p/%40860avzup" class="line-btn" target="_blank" rel="noopener noreferrer">
+                <svg class="line-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 3.953 8.904 9.615 9.619.387.086.913.268 1.05.617.126.315.082.805.039 1.129l-.261 1.579c-.066.4-.316 1.954 1.71 1.098 2.025-.855 10.932-6.438 11.847-14.041zM7.371 12.39H5.068c-.247 0-.448-.201-.448-.448V7.551c0-.247.201-.448.448-.448.247 0 .448.201.448.448v3.944h1.855c.247 0 .448.201.448.448 0 .247-.201.448-.448.448zm2.766-.448c0 .247-.201.448-.448.448-.247 0-.448-.201-.448-.448V7.551c0-.247.201-.448.448-.448.247 0 .448.201.448.448v4.391zm3.896 0c0 .247-.201.448-.448.448h-1.928c-.247 0-.448-.201-.448-.448V7.551c0-.247.201-.448.448-.448.247 0 .448.201.448.448v4.391zm4.729-2.923c-.155.155-.38.202-.577.12l-1.996-.84v2.795c0 .247-.201.448-.448.448-.247 0-.448-.201-.448-.448V7.551c0-.247.201-.448.448-.448.212 0 .408.094.538.258l2.036 2.569V7.551c0-.247.201-.448.448-.448.247 0 .448.201.448.448v4.391c0 .213-.095.409-.258.539z"/>
+                </svg>
+                LINEで問い合わせる
+            </a>
+            <p style="font-size: 0.65rem; color: #888; margin-top: 4px;">ID: @860avzup</p>
+        </div>
+
+        <div class="version-info">令和8年熊本地震情報タイムライン v5.0 (Static-Data / GitHub Actions)<br>Developed by Onga-Mirai-Tech</div>
+    </footer>
+
+    <script>
+        let allNewsItems = [];
+        let currentSource = 'all';
+        let currentCategory = 'all';
+
+        // GitHub Actionsが定期的に生成する静的JSON（クライアントは外部APIを叩かない）
+        const NEWS_DATA_URL = './data/news.json';
+
+        function parseDateToJST(dateString) {
+            if (!dateString) return new Date();
+            if (dateString.match(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/)) {
+                return new Date(dateString.replace(' ', 'T') + 'Z');
+            }
+            const d = new Date(dateString);
+            return isNaN(d.getTime()) ? new Date() : d;
+        }
+
+        function formatDateJST(dateObj) {
+            if (!(dateObj instanceof Date) || isNaN(dateObj.getTime())) return "日時不明";
+            const month = dateObj.getMonth() + 1;
+            const day = dateObj.getDate();
+            const hours = dateObj.getHours().toString().padStart(2, '0');
+            const minutes = dateObj.getMinutes().toString().padStart(2, '0');
+            return `${month}月${day}日 ${hours}:${minutes}`;
+        }
+
+        // --- 固定の重要な情報（手動で追記・更新する） ---
+        const staticData = [
+            {
+                title: "【発災】熊本地方で最大震度7を観測",
+                link: "https://www.jma.go.jp/bosai/map.html#contents=earthquake_map",
+                pubDate: "2026-07-28T16:27:00+09:00",
+                sourceName: "気象庁",
+                type: "official",
+                description: "熊本地方を震源とする地震が発生。宇城市等で最大震度7を観測。津波注意報発表中。",
+                category: "disaster"
+            },
+            {
+                title: "【知事コメント】大地震に関する知事コメント",
+                link: "https://www.pref.kumamoto.jp/site/chiji/274483.html",
+                pubDate: "2026-07-28T18:30:00+09:00",
+                sourceName: "熊本県庁",
+                type: "official",
+                description: "発生した大地震に関する知事からのメッセージ。",
+                category: "other"
+            }
+        ];
+
+        function getCategoryName(cat) {
+            const map = { disaster: '災害・地震', infra: 'インフラ', life: '生活', other: 'その他' };
+            return map[cat] || '情報';
+        }
+
+        function renderTimeline(data) {
+            const container = document.getElementById('timeline');
+            container.innerHTML = '';
+
+            if (data.length === 0) {
+                container.innerHTML = '<p style="text-align:center; color:#888; padding:20px; font-size:0.9rem;">該当する情報はありません。</p>';
+                return;
+            }
+
+            const displayData = data.slice(0, 50);
+            let html = '';
+            displayData.forEach(item => {
+                html += `
+                    <div class="timeline-item">
+                        <div class="timeline-date">${formatDateJST(item.dateObj)}</div>
+                        <div class="timeline-content cat-${item.category}">
+                            <div class="badges">
+                                <span class="badge badge-${item.type}">${item.sourceName}</span>
+                                <span class="badge badge-cat">${getCategoryName(item.category)}</span>
+                            </div>
+                            <h3 class="timeline-title">
+                                ${item.link ? `<a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>` : item.title}
+                            </h3>
+                            ${item.description ? `<p class="timeline-desc">${item.description}</p>` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+            container.innerHTML = html;
+        }
+
+        function setSourceFilter(source, btn) {
+            currentSource = source;
+            document.querySelectorAll('button[data-source]').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            applyFilters();
+        }
+
+        function setCategoryFilter(category, btn) {
+            currentCategory = category;
+            document.querySelectorAll('button[data-category]').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            applyFilters();
+        }
+
+        function applyFilters() {
+            let filtered = allNewsItems;
+            if (currentSource !== 'all') filtered = filtered.filter(i => i.type === currentSource);
+            if (currentCategory !== 'all') filtered = filtered.filter(i => i.category === currentCategory);
+            renderTimeline(filtered);
+        }
+
+        async function fetchAllData() {
+            const errEl = document.getElementById('error-msg');
+            const staleEl = document.getElementById('stale-msg');
+            let fetchedItems = [];
+
+            try {
+                // キャッシュ回避のためタイムスタンプを付与（Actionsは15分おきにしか更新しないため過度な負荷にはならない）
+                const res = await fetch(`${NEWS_DATA_URL}?t=${Date.now()}`);
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const json = await res.json();
+                fetchedItems = json.items || [];
+
+                if (json.fetchOk === false) {
+                    staleEl.innerHTML = `※自動取得が一時的に失敗しています。最終成功時刻: ${json.lastSuccess ? formatDateJST(parseDateToJST(json.lastSuccess)) : '不明'}（表示は前回取得分です）`;
+                    staleEl.style.display = 'block';
+                }
+            } catch (err) {
+                console.warn('news.json fetch failed:', err);
+                errEl.innerHTML = `※ニュースデータの読み込みに失敗しました。固定情報のみ表示しています。`;
+                errEl.style.display = 'block';
+            }
+
+            allNewsItems = [...staticData, ...fetchedItems];
+
+            const seenTitles = new Set();
+            allNewsItems = allNewsItems
+                .map(item => { item.dateObj = parseDateToJST(item.pubDate); return item; })
+                .sort((a, b) => b.dateObj.getTime() - a.dateObj.getTime())
+                .filter(item => {
+                    if (seenTitles.has(item.title)) return false;
+                    seenTitles.add(item.title);
+                    return true;
+                });
+
+            document.getElementById('loading').style.display = 'none';
+            applyFilters();
+        }
+
+        window.onload = fetchAllData;
+    </script>
+</body>
+</html>
