@@ -1,12 +1,75 @@
 {
   "items": [
     {
+      "title": "＜新生面＞天狼の眼",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oTWhvN25JMWRjNWlCOVQ4UVFMay0xSXdJYkU4SzZwa0U0d1N1eW9EX0VHQlFwQ1o0d1hHZzRkZkJZcUhWNm5MaHNlYkZGM2s?oc=5",
+      "pubDate": "2026-07-30T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜新生面＞天狼の眼  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
-      "pubDate": "2026-07-30T17:57:53.000Z",
+      "pubDate": "2026-07-30T19:08:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  クラウドファンディング - READYFOR",
+      "category": "disaster"
+    },
+    {
+      "title": "避難生活 にじむ疲労 猛暑に断水 「寝られない」 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gb0tUZ05FdlQtVmFXR1BqOUFaM1ZhV0lMbU5qTnVxaG8wazV1d1ZLN3pvTDNaaXBqWlpVLXJYNWNOUE9LV09HQVdLN2tHQ1FKY0dvZmlXb3lPem04MFE?oc=5",
+      "pubDate": "2026-07-30T19:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "避難生活 にじむ疲労 猛暑に断水 「寝られない」 熊本地震  沖縄タイムス社",
+      "category": "infra"
+    },
+    {
+      "title": "【速報】上天草市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MczdET1o3dEpuZ3I3VHVqSWJkTWFhT0RRejJrOE9vNnJTeWllMV9TblNoTG5DTmlSMnBvU0NCUDZ5QkFJTXlaVVZWQnVzb3M?oc=5",
+      "pubDate": "2026-07-30T18:25:43.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市で震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNGs4RXpCMVFuQi14OFFMUzE0bDZIWk5XaTdjZkp2Q3Z2MlJXdUsxX1ZQZ1Y3MHV6UHQ0dldIRFN1eDd0YXpwRDMtUnhKbElnN001SVp5ek1LeUFKejhJdUpB?oc=5",
+      "pubDate": "2026-07-30T17:20:03.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を  クラウドファンディング - READYFOR",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 死者34人に 県発表、関連調査含む",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBETGU4SFlEOU9qOUhmUF9HTkRHR2pVZTBrWHNBTkZhVzI0UHlKcXBaSi1GTm9jVjdfNmxpTFlzNGVvV2VNV29KUjZ1Y0NsSmQ3YVYzSXJLZVRCVC0yNFNVeEs0TTJzaXgz?oc=5",
+      "pubDate": "2026-07-30T17:02:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 死者34人に 県発表、関連調査含む  毎日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43QjZPWlUwTTBDUDlEbUY3MHlJLVZSSHhFT19SUzNWLVU1NjhkcFhJdl9tSXhwREdLNUxFSVBDNzNwYW1fMTlTaWxwQ3NpVWVjYWwzcmZncmo1cGlWQVFSRG0wM083dzdXM1E?oc=5",
+      "pubDate": "2026-07-30T17:01:07.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい  クラウドファンディング - READYFOR",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞宇城市小川町と嘉島町は震度6強、甲佐町は震度5強 「未入電」3観測点 (熊本日日新聞)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnN6V3BtRVJ6T2d3UUM0dU1ncTg0X0JsRkxPV0R4ZDhEcFhZZTNOOGdmUzI2MldEZUhnQVA3RHFWUDZLQ3gyQVNmeWM1LXdreTgzNHBXc3lhOHNvWHhxNzY4MUppUW0zVE5jV3JqY1ZncGN3aHNMTmRabW5VbkNhVFNFM004OHhlaVcyVEhn?oc=5",
+      "pubDate": "2026-07-30T16:46:53.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞宇城市小川町と嘉島町は震度6強、甲佐町は震度5強 「未入電」3観測点 (熊本日日新聞)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -33,7 +96,7 @@
       "pubDate": "2026-07-30T16:14:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】県発表、死者34人に 8月3日は「酷暑日」予想…熱中症には厳重な警戒を  news.ntv.co.jp",
+      "description": "【熊本地震】県発表、死者34人に 8月3日は「酷暑日」予想…熱中症には厳重な警戒を  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -91,6 +154,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 死者34人に 九州新幹線 博多〜熊本で再開へ",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJME1QX0dqLTdLajM2WmNwQ0tQSVVTSzdYTjlzWHdCSVlJX1p1SDFTRURfa3JJbWVMVFV4SVZtdV9EOTF0UnhWVWE0Q0tOQThVVFJYYlM0RGZlQTktQnZScV9wbTRlUG8zQTJlRjBmVDJ5dw?oc=5",
+      "pubDate": "2026-07-30T14:59:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 死者34人に 九州新幹線 博多〜熊本で再開へ  テレ朝NEWS",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震、死者34人 迫る72時間、救助続く",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fVktFV2l0OGVLME9vQTlVaDhrN2dfZVVnYjZPYVZmWlMweUp4RXZxZ1BZVmR3SzdjN3E1dU1nbG5uWXVwOVRkcjZQUQ?oc=5",
       "pubDate": "2026-07-30T14:57:00.000Z",
@@ -98,15 +170,6 @@
       "type": "local",
       "description": "熊本地震、死者34人 迫る72時間、救助続く  47NEWS",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43QjZPWlUwTTBDUDlEbUY3MHlJLVZSSHhFT19SUzNWLVU1NjhkcFhJdl9tSXhwREdLNUxFSVBDNzNwYW1fMTlTaWxwQ3NpVWVjYWwzcmZncmo1cGlWQVFSRG0wM083dzdXM1E?oc=5",
-      "pubDate": "2026-07-30T14:50:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい  クラウドファンディング - READYFOR",
-      "category": "life"
     },
     {
       "title": "熊本地震で稼働停止した工場、再開の動きも…東京エレクトロンは県内工場で８月３日から本格生産再開へ",
@@ -118,13 +181,13 @@
       "category": "disaster"
     },
     {
-      "title": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNGs4RXpCMVFuQi14OFFMUzE0bDZIWk5XaTdjZkp2Q3Z2MlJXdUsxX1ZQZ1Y3MHV6UHQ0dldIRFN1eDd0YXpwRDMtUnhKbElnN001SVp5ek1LeUFKejhJdUpB?oc=5",
-      "pubDate": "2026-07-30T14:18:32.000Z",
-      "sourceName": "地元メディア",
+      "title": "【速報】八代市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrTkw1bUN4eGY2Zld0dnV0dVhHbWU1UU9tcDdNRm0wak1MalVoTzE5Y2cxc291YlJzck1OQUl6VTR6ZUZDR010YzRtQ0xlU0U?oc=5",
+      "pubDate": "2026-07-30T14:31:53.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を  クラウドファンディング - READYFOR",
-      "category": "life"
+      "description": "【速報】八代市など震度1  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "［熊本地震・爆発事故］窓ない建物でガスが逃げ場失ったか…イオンは全国でガス関連設備点検始める、新潟県内は？",
@@ -325,6 +388,15 @@
       "category": "infra"
     },
     {
+      "title": "熊本地震1時間半後に…自民党福岡県議団の会長が政治資金パーティー「正直やってよかった」 “金銭授受疑惑”についても弁明",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsaGY5RmJrYjBvTVhJU1FKMTJvd0FBNkJiNy1WZ3E5QnZFeENwWk15ZUc1eDJHNWc5eTdGbXVKLVVUMU00QS1TbHZjUnJDYzVjYW5mTWlfaw?oc=5",
+      "pubDate": "2026-07-30T12:59:21.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震1時間半後に…自民党福岡県議団の会長が政治資金パーティー「正直やってよかった」 “金銭授受疑惑”についても弁明  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震の被災者に心寄せられる両陛下、側近が「深く心を痛めている」とのお気持ち明らかに",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVV9PWC1aWjI3YzE0bGxzNUVVbmJlUzVUaGJKUEpsOFhjNk0tZGlndFZtOGplYW5FUkI4b1B1Y3oxWUdUY201T2JhUnlqbDVKdEJCc25yWGRsaUM4TndicDdXQl9zd1E?oc=5",
       "pubDate": "2026-07-30T12:52:00.000Z",
@@ -379,21 +451,21 @@
       "category": "life"
     },
     {
+      "title": "＜2026年熊本地震＞31日夕に停電復旧へ 九電見込み",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
+      "pubDate": "2026-07-30T12:31:21.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞31日夕に停電復旧へ 九電見込み  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "＜２０２６年熊本地震＞31日夕に停電復旧へ 九電見込み",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RkFoaVIydFhUNUhYS2R2cVdIbm8xS1NMRGxtUjBSandzdEtlWldubE1rYWF0TnlyWU9vZTVDVFVSQ3FlRDhrSUtIaWl4MEk?oc=5",
       "pubDate": "2026-07-30T12:31:21.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "＜２０２６年熊本地震＞31日夕に停電復旧へ 九電見込み  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "＜2026年熊本地震＞31日夕に停電復旧へ 九電見込み",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04dk9QOFlSRkpJZDZIazBlaU5XYUR2ZHBpdGthRVg1dWlDc3FqTW9EVzBDd1hyUkdqT0swLXpkN2NvXzF6RFE4NmFfNA?oc=5",
-      "pubDate": "2026-07-30T12:31:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞31日夕に停電復旧へ 九電見込み  47NEWS",
       "category": "infra"
     },
     {
@@ -406,21 +478,21 @@
       "category": "life"
     },
     {
+      "title": "熊本地震の死者34人に 九州新幹線 博多～熊本間、31日始発から本数減らし運行へ【令和8年熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qanJoSVRaakQtckRKd3h1UTJ4N3dDN2NLZjFhMnVzVjVMeUZBNS1DSk5ubVdtWGZEZFh6R0taTFAyVGJvZEY4dkY2LThaVF9xekJOZEVLQXh4dnk2RkdFTUU2dw?oc=5",
+      "pubDate": "2026-07-30T12:24:50.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "熊本地震の死者34人に 九州新幹線 博多～熊本間、31日始発から本数減らし運行へ【令和8年熊本地震】  TKU テレビ熊本",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震 九州道の通行止め続く 県内の運送会社は迂回で対応 鹿児島（KKB鹿児島放送）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQ3VWWnFVdUNTbnZuSGRCRzd4eGVSMUJxWXlndjFlVGl3MGNqMXNjWUw5T2ZpVlh5VGFpVWN6Q2VSRVg3U21idV9zQV9hdlA3c05ndHIxS3ZhbFJ2X0RlMHZYaWpOWFhwTEVFTFVwUmNxNnJBWlYyT2prMFhEOFE?oc=5",
       "pubDate": "2026-07-30T12:23:56.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震 九州道の通行止め続く 県内の運送会社は迂回で対応 鹿児島（KKB鹿児島放送）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の死者34人に 九州新幹線 博多～熊本間、31日始発から本数減らし運行へ【令和8年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qanJoSVRaakQtckRKd3h1UTJ4N3dDN2NLZjFhMnVzVjVMeUZBNS1DSk5ubVdtWGZEZFh6R0taTFAyVGJvZEY4dkY2LThaVF9xekJOZEVLQXh4dnk2RkdFTUU2dw?oc=5",
-      "pubDate": "2026-07-30T12:22:53.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "熊本地震の死者34人に 九州新幹線 博多～熊本間、31日始発から本数減らし運行へ【令和8年熊本地震】  TKU テレビ熊本",
       "category": "infra"
     },
     {
@@ -543,7 +615,7 @@
     {
       "title": "熊本県内6市4町の7万9700戸で断水 給水車の到着に住民が拍手 停電続く所も【令和8年熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRT3FCRV9OMDUzVWNDdXdGOGRlUVRGajdFTmtQYnVkQllQT01NNmUyRUpGejNRcUZqMGtBZGhhbzFGRUFEQmJub3lFdjFFd0tWQlNQcVhDMHQyUG5Ud0hqZGZGOA?oc=5",
-      "pubDate": "2026-07-30T12:03:12.000Z",
+      "pubDate": "2026-07-30T12:03:21.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
       "description": "熊本県内6市4町の7万9700戸で断水 給水車の到着に住民が拍手 停電続く所も【令和8年熊本地震】  TKU テレビ熊本",
@@ -811,6 +883,15 @@
       "category": "life"
     },
     {
+      "title": "熊本地震 約10キロの範囲で地表にずれや段差 衛星画像を分析",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZlhHanUtcmpTRk5aLWJycTVpXzBfbFM0TGhkY1V3TG9NOFB0NkdHZ1VDRHRIRUFoWkhHbS1YVWJuZlRqdTZlQ3hac3FQVWwzaGRHaThFUG1IRjk2enBV?oc=5",
+      "pubDate": "2026-07-30T11:30:52.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 約10キロの範囲で地表にずれや段差 衛星画像を分析  NHKニュース",
+      "category": "disaster"
+    },
+    {
       "title": "政府と熊本県、続いた地震死者数の「ずれ」 県が合わせることに（朝日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GX1hUams0U2oxeTcxenhiRUpwWm9KaEx4d3lfVWhhbW9ERVdpWDByQlhmN1ZMNlpSUlFpQ2JsLXRTLWdCRFNtbDJxczhlUW5XS3psTUFqVFdpNFpFZTVoQThvOFV5eWtDemJHVzRGeHFhY2FrdWticzBOZzQ2NFk?oc=5",
       "pubDate": "2026-07-30T11:30:00.000Z",
@@ -818,90 +899,9 @@
       "type": "local",
       "description": "政府と熊本県、続いた地震死者数の「ずれ」 県が合わせることに（朝日新聞）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "[TKUニュース 26.07.30 20:00 ] 熊本地震の死者３４人に イオン７人 日本製紙８人死亡確認 救助続く【令和8年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PSnVuRVoxWkk2cDRWZ0tsT2JvS0dibGpFZk5fWXpiTE1NUU5OdnJCWHhhcFVNTWJYUktIeVVNbW83c0FBUU1Wb3YySGZQdnlOWVBQSGJ3V2k5QVduMVNob0lJYw?oc=5",
-      "pubDate": "2026-07-30T11:29:17.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.07.30 20:00 ] 熊本地震の死者３４人に イオン７人 日本製紙８人死亡確認 救助続く【令和8年熊本地震】  TKU テレビ熊本",
-      "category": "disaster"
-    },
-    {
-      "title": "[TKUニュース 26.07.30 20:00 ] 熊本地震の死者３４人に イオン７人 日本日本製紙８人死亡確認 救助続く【令和8年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PSnVuRVoxWkk2cDRWZ0tsT2JvS0dibGpFZk5fWXpiTE1NUU5OdnJCWHhhcFVNTWJYUktIeVVNbW83c0FBUU1Wb3YySGZQdnlOWVBQSGJ3V2k5QVduMVNob0lJYw?oc=5",
-      "pubDate": "2026-07-30T11:29:17.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.07.30 20:00 ] 熊本地震の死者３４人に イオン７人 日本日本製紙８人死亡確認 救助続く【令和8年熊本地震】  TKU テレビ...",
-      "category": "disaster"
-    },
-    {
-      "title": "ふるさと熊本に贈るホームラン 村上宗隆が２３号同点弾 県民にメッセージ【令和8年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLT2tjLWJENXNranMxQ2NaRlZqcEhIMDExMk1OeG1xZDN5TjVIOFdiZXd4dENBVkFXUFBJV3E3Mm81SjNDR3d3RHEyYlJObFhIbXVmNlY5SjBuRXJUZjEzWkkwOWkyRnN2dno3dkU5bko5VHp1ejJDYVpuRDFoS28?oc=5",
-      "pubDate": "2026-07-30T11:29:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "ふるさと熊本に贈るホームラン 村上宗隆が２３号同点弾 県民にメッセージ【令和8年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】八代市など震度2",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CR1p1TkQzdXZReGZxdzl2UU5BdVpKWnBCWm1COE5FQU13SDhhRmEzTFFGcHhwOUVOazZrdXYwM2RNUE1oVG9RTHA4ZjhYM1E?oc=5",
-      "pubDate": "2026-07-30T11:24:44.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市など震度2  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞県内自治体、被災者支援の動き始める 罹災証明申請、県ボラセン、災害ごみ仮置き場",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVbnZtbjFzQVl2RFowODRwVkU0bkZFSnVGZnF2bHdHdzFlTDA3bjhjdTNRQURuenk3bmM4cGhYbGYyeDJWZnNvd25VWEFzNjA?oc=5",
-      "pubDate": "2026-07-30T11:19:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞県内自治体、被災者支援の動き始める 罹災証明申請、県ボラセン、災害ごみ仮置き場  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "被災者支援、動き始まる 罹災証明申請、県ボラセン、災害ごみ仮置き場",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVbnZtbjFzQVl2RFowODRwVkU0bkZFSnVGZnF2bHdHdzFlTDA3bjhjdTNRQURuenk3bmM4cGhYbGYyeDJWZnNvd25VWEFzNjA?oc=5",
-      "pubDate": "2026-07-30T11:19:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "被災者支援、動き始まる 罹災証明申請、県ボラセン、災害ごみ仮置き場  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "震度７観測の氷川町『道の駅竜北』被害 特産のナシに影響か【令和8年熊本地震】 （TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MC04TFlIR3JFemFaRjVzVmpZbkdvdU53ZXNrc1FaWm40YkNnN3FuLU5vUXdLX0NRaFFWWjNBOE0ycl9EelZoQVcwMHlJRm91TVBicEdWVzlXZVpJNWcxMmF4enhVRnctRHJVRDQtWmZkX0xXd2pOeFZJRm9WdTg?oc=5",
-      "pubDate": "2026-07-30T11:17:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "震度７観測の氷川町『道の駅竜北』被害 特産のナシに影響か【令和8年熊本地震】 （TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本市電のレールが10センチ剝離 地震の影響か、補修で運休",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWml5a2pwSFlySHNSSUJyZV9JZk9QdFdSbkliWWpzc2k3c21fdlR6WnRPamxJWDQ1QlI3aHQ4dmZ6eC1PRlpUVWNVVnQ3MlU?oc=5",
-      "pubDate": "2026-07-30T11:15:53.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本市電のレールが10センチ剝離 地震の影響か、補修で運休  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "2026年熊本地震＞済生会熊本病院にDMAT47隊 3日間で患者170人 （熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nTlhnLWpsZUtfNWpndzE1ZWNsVnRzd1lRVXZpN25FX2hyZUdJOGNNQy0yUlpFM0w2Ny00RzF0eWR6Q3BoWEZWYXpOUnNDWVJhdFBXUFF6SVlUcFBtSWxRUmpwYlpfaHdFMkpMYU9EUlNKMENEZGFXcW1hZlIxYWM?oc=5",
-      "pubDate": "2026-07-30T11:15:23.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞済生会熊本病院にDMAT47隊 3日間で患者170人 （熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-07-30T18:24:56.745Z",
-  "lastAttempt": "2026-07-30T18:24:56.745Z",
+  "lastSuccess": "2026-07-30T20:02:33.475Z",
+  "lastAttempt": "2026-07-30T20:02:33.475Z",
   "fetchOk": true
 }
