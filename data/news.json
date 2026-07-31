@@ -10,21 +10,21 @@
       "category": "infra"
     },
     {
-      "title": "【速報】宇土市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EWVd3bGJaNGZieUNBdUkyREFvS1g2bnVUcjBjZFByZ0gxUmJlMHBNRmduaXl5TE9aV2JOSHVCeWp1S0sxbnBNcEFRb3BLcjA?oc=5",
-      "pubDate": "2026-07-31T16:52:48.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】宇土市で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRTQ1V2dCcmktNy03LU83Z3RvUVZMR1ZQb055WlM1MV94bzFhNE1LT3F5UzBrRkhSdkpwVElFVlRneV9tdGJLSHFqYWVGdEFPb2lzUmNYbFhHblZrZ2xNQ0ZKdGRtWjBFaEZqbTRQcnfSAXZBVV95cUxNcm1Cc1VjUXluTUphTjJReUJsbzNtTi01ckV6VUpmNkdWVVlOcC1SNmtySkI2VUZlWU4tdGtvcUxGOVZ5VUxUaVByMFE0UHV3R0MyVlVDN3JpNnFERVE2Wm94bnVmd0V6OXplRjU2bGlUTkpqcnh3?oc=5",
       "pubDate": "2026-07-31T16:48:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【熊本地震】崩落した壁の下敷きに…80代男性を心肺停止の状態で救助 爆発とは別のイオンモール",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hcW52LVRrd1FsMjIxRGxQU0hqN0lMVDFCMkpST3huM2xZSTkxR1lFWFExVUo3bE1uV2w0azZQSUF3SlNvbEM4d2xZMVRodTNZQWRvNGFQUnlvTDNwbnozVVpGbTR5Uk1DOFJHYzFzcVNabG5KcUZvN2ZPNjM?oc=5",
+      "pubDate": "2026-07-31T16:42:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】崩落した壁の下敷きに…80代男性を心肺停止の状態で救助 爆発とは別のイオンモール  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -106,6 +106,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "令和8年熊本地震、10年前に学ぶ深部静脈血栓症のリスク  日経メディカル",
+      "category": "disaster"
+    },
+    {
+      "title": "イオンモール宇城で高齢男性を救助、心肺停止 熊本地震（毎日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfb282Zi1fTWhmQ0RBRExobGI5dlRqcFhjbzdGQVlDbm1nd0pnT3FZNW5FM0FQRk1hSWdyTW5vMWZtaUxOU3FnRV92TDMzUWxNNkt0Z0FGNElFMjFUeml0aG1XVzhYOUFaRmdpX3h2UFNGZmZnTk1QQ0E3MjRkTm8?oc=5",
+      "pubDate": "2026-07-31T14:15:39.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "イオンモール宇城で高齢男性を救助、心肺停止 熊本地震（毎日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -217,6 +226,15 @@
       "category": "infra"
     },
     {
+      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
+      "pubDate": "2026-07-31T13:20:57.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  readyfor.jp",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
       "pubDate": "2026-07-31T13:20:57.000Z",
@@ -258,7 +276,7 @@
       "pubDate": "2026-07-31T13:09:53.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "自動車供給網に再び試練、熊本地震で生産停止 二次・三次仕入先にも影響  Reuters",
+      "description": "自動車供給網に再び試練、熊本地震で生産停止 二次・三次仕入先にも影響  ロイター",
       "category": "disaster"
     },
     {
@@ -285,7 +303,7 @@
       "pubDate": "2026-07-31T13:05:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で断水長期化の恐れ、水道管の耐震化進まず…給水所に行列「水の確保だけでも重労働」  yomiuri.co.jp",
+      "description": "熊本地震で断水長期化の恐れ、水道管の耐震化進まず…給水所に行列「水の確保だけでも重労働」  読売新聞",
       "category": "infra"
     },
     {
@@ -325,6 +343,15 @@
       "category": "life"
     },
     {
+      "title": "熊本地震で関西広域連合が災害対策支援本部を設置 兵庫は熊本・宇城市を対口支援",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOVZKWWpkQXNKZHY3eW5aZmdQcmIzS0xxQnpQRGUtZlYtTlJlRzBSQjhYcEtOeEJRcmcxdkZacU5nNnZPTnBXUEhLTEdQeGRObDBfQWlSelcwRWswUmVucTBVT0VSV2NlTlVXbF9jWlIxUFZXTXc?oc=5",
+      "pubDate": "2026-07-31T12:55:13.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で関西広域連合が災害対策支援本部を設置 兵庫は熊本・宇城市を対口支援  産経ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本県内死者36人に 住家被害1526戸、9532人避難 2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16S253Ym1oeFg1VW5JbVUtMFJkaktEelhLQUM1V253VS0yZjdsRW9HSF9ISkZaUjVQbDZDdnJzOUtOay1TNkVhWXJ1czFpTUU?oc=5",
       "pubDate": "2026-07-31T12:44:00.000Z",
@@ -348,7 +375,7 @@
       "pubDate": "2026-07-31T12:41:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、地表に亀裂１０ｋｍ以上…震源域の日奈久断層帯をヘリから取材  yomiuri.co.jp",
+      "description": "熊本地震、地表に亀裂１０ｋｍ以上…震源域の日奈久断層帯をヘリから取材  読売新聞",
       "category": "disaster"
     },
     {
@@ -415,6 +442,15 @@
       "category": "disaster"
     },
     {
+      "title": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNGs4RXpCMVFuQi14OFFMUzE0bDZIWk5XaTdjZkp2Q3Z2MlJXdUsxX1ZQZ1Y3MHV6UHQ0dldIRFN1eDd0YXpwRDMtUnhKbElnN001SVp5ek1LeUFKejhJdUpB?oc=5",
+      "pubDate": "2026-07-31T12:22:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を  readyfor.jp",
+      "category": "life"
+    },
+    {
       "title": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNGs4RXpCMVFuQi14OFFMUzE0bDZIWk5XaTdjZkp2Q3Z2MlJXdUsxX1ZQZ1Y3MHV6UHQ0dldIRFN1eDd0YXpwRDMtUnhKbElnN001SVp5ek1LeUFKejhJdUpB?oc=5",
       "pubDate": "2026-07-31T12:22:30.000Z",
@@ -429,7 +465,7 @@
       "pubDate": "2026-07-31T12:18:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の住宅被害１５２６棟、９５３２人避難…死者３６人・停電おおむね解消  yomiuri.co.jp",
+      "description": "熊本地震の住宅被害１５２６棟、９５３２人避難…死者３６人・停電おおむね解消  読売新聞",
       "category": "infra"
     },
     {
@@ -458,6 +494,15 @@
       "type": "local",
       "description": "【速報】上天草市など震度1  熊本日日新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震、なお９千人超避難 続く断水、死者３６人に（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SUUUxUFhscVdlWjg1VXZFQUNxdzNFUi0tMGg3SkJ0NEFUM245b0ZISEtORkZRc0RfUUlweW5ka3lEbVdpWDFvTEVNOHBxTDg?oc=5",
+      "pubDate": "2026-07-31T12:09:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "熊本地震、なお９千人超避難 続く断水、死者３６人に（共同通信）  熊本日日新聞社",
+      "category": "infra"
     },
     {
       "title": "熊本地震、なお9千人超避難 続く断水、死者36人に",
@@ -537,7 +582,7 @@
       "pubDate": "2026-07-31T12:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、シリコンアイランドを直撃、TSMCの第1工場は再稼働まで時間も  ビジネス+IT",
+      "description": "熊本地震、シリコンアイランドを直撃、TSMCの第1工場は再稼働まで時間も  sbbit.jp",
       "category": "disaster"
     },
     {
@@ -613,6 +658,15 @@
       "category": "life"
     },
     {
+      "title": "【速報】熊本地震による死者36人に 住宅被害は1526棟 熊本県（熊本ニュース KAB ONLINE）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45ZnRKNE9xQ29CNnFvZ2VCRUdUZmNxUzhmX3FNVE1jcG1xdUZjaC1qekJ1UVRmTkxHN1dfd0FFQ3NELS1jdWFGRmxjaEpaYzJPS3JxeGNTbUoycXU0czBKVDNyNDZMYV9zLVE4ZmFMWkI4NTNfUFhwZHhTSlR0RHc?oc=5",
+      "pubDate": "2026-07-31T11:47:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】熊本地震による死者36人に 住宅被害は1526棟 熊本県（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 被災地支援の募金活動に山﨑、小笠原ら５投手が参加",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3SXRVQnpvb0pwZkdiQm9NUmh3TlE4cFJkU2dkSnA4VUpoNjJjWWpfZVNNMno1X3p5eEFRQkk3YU84NENkTnhaVA?oc=5",
       "pubDate": "2026-07-31T11:45:22.000Z",
@@ -636,7 +690,7 @@
       "pubDate": "2026-07-31T11:44:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震による停電復旧「今夜は眠れる」震度7を観測した被災地では  KAB 熊本朝日放送",
+      "description": "熊本地震による停電復旧「今夜は眠れる」震度7を観測した被災地では  kab.co.jp",
       "category": "infra"
     },
     {
@@ -668,11 +722,11 @@
     },
     {
       "title": "＜2026年熊本地震＞ホンダ、8月7日まで操業停止を延長",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q3FlUnExWkVzTi1nd0dZaTFaUVdiVG9YS0ZvY09FYks4a3FkRzF6YUt2eWtuVjJ0QzN1NlE5U3F4dWxKQUNXa09sTEp4WXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOckhhVXAyUmlkMmw3VlBGa0FIb0NlbGRWVlFMVGNWN19XQWhhaEJYMTRNZXcycG9WRjVTczBONXJyVEtFZ29ZQmZmMA?oc=5",
       "pubDate": "2026-07-31T11:39:52.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞ホンダ、8月7日まで操業停止を延長  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞ホンダ、8月7日まで操業停止を延長  47NEWS",
       "category": "disaster"
     },
     {
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "熊本各地で “猛暑日” 八代市の店では停電下で片付け作業「シャワー浴びられないのが辛い」  TBS NEWS DIG",
       "category": "infra"
-    },
-    {
-      "title": "[TKUニュース 26.07.31 20:00 ] 熊本市役所の庁舎で一時 アスベスト露出 部署を移動して業務継続【令和8年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PVkVrTXg0dms2ZGpRLWIxMzFlNUlYc1lYV3ljY1NMZTJzOXZ6N1BMeVpuREtrcTlwaDV4VkNiSFAwbTYwV2EybzA2V2dza3AwOFlrNzFjN2szS1Z2a1MxSUdmQQ?oc=5",
-      "pubDate": "2026-07-31T11:06:10.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.07.31 20:00 ] 熊本市役所の庁舎で一時 アスベスト露出 部署を移動して業務継続【令和8年熊本地震】  TKU テレビ熊本",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震の情報まとめ】死者36人に 停電や断水続く 爆発のあったイオンモール熊本、オンワードが従業員の死亡を発表 ベトナム人技能実習生1人の死亡も確認",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSzBVSDFtVk5PZTIyUm8zZHRubTI5SHgtS2U2Zm5LYmtxOHNCRGotWnd1N3gtSmgyWmJXOGZHYVdIaEJiY0JwYUVzVVZybFlycm81VlZPNnNFdTVST25qUDdtdWhPU2lYWFUtNl9Vdi1kZw?oc=5",
-      "pubDate": "2026-07-31T11:05:54.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震の情報まとめ】死者36人に 停電や断水続く 爆発のあったイオンモール熊本、オンワードが従業員の死亡を発表 ベトナム人技能実習生1人の死亡も確認  テレ...",
-      "category": "infra"
-    },
-    {
-      "title": "【熊本地震の情報まとめ】死者35人に 停電や断水続く 爆発のあったイオンモール熊本、オンワードが従業員の死亡を発表 ベトナム人技能実習生1人の死亡も確認 1月に来日したばかり",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSzBVSDFtVk5PZTIyUm8zZHRubTI5SHgtS2U2Zm5LYmtxOHNCRGotWnd1N3gtSmgyWmJXOGZHYVdIaEJiY0JwYUVzVVZybFlycm81VlZPNnNFdTVST25qUDdtdWhPU2lYWFUtNl9Vdi1kZw?oc=5",
-      "pubDate": "2026-07-31T11:05:54.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震の情報まとめ】死者35人に 停電や断水続く 爆発のあったイオンモール熊本、オンワードが従業員の死亡を発表 ベトナム人技能実習生1人の死亡も確認 1月に...",
-      "category": "infra"
-    },
-    {
-      "title": "宇城市小川町の延福寺 周辺は１メートル沈下 納骨堂も被災した中で炊き出しも【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fRTBRTjZoSGx6MGVSbVg0S0hDOTFBd1I0eHJ3eWRfbDhWdUI3R2EydHRvUHJPTGxwWWtxTkQ3UkR3aFRNRlZLRURQUEtMeUVoaGpzaGNTa1EwaXRLMktDU3lYMFpORzVyUFF4djNZN2o4TklNTEdUUUF4aVF0OG8?oc=5",
-      "pubDate": "2026-07-31T11:05:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "宇城市小川町の延福寺 周辺は１メートル沈下 納骨堂も被災した中で炊き出しも【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本城で石垣４０カ所が崩落 復旧工事中…新たに被災 大西 市長「非常にショック」【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01QkJoakVodFBsNHFBS01MMG5PYnN0QWdvaktUNjg0Y1hzZTk4Z1F0eks4b3hCQWJJSk04V2hNbWJYTDE4TDY3Qjlwc3hVUXFEclAzREpmZHk3TkNPeWpFMVlHZw?oc=5",
-      "pubDate": "2026-07-31T11:04:08.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "熊本城で石垣４０カ所が崩落 復旧工事中…新たに被災 大西 市長「非常にショック」【令和８年熊本地震】  TKU テレビ熊本",
-      "category": "infra"
-    },
-    {
-      "title": "トヨタ、愛知の工場停止 車部品の供給停滞、影響広がる―熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZQWRLTDVHdUo1OHFnOTN0Uy1ERXRuZUpwRE4tMTNSNGdoY3lOWmNiZVhSZHNfa3c4SHJidmN0cnVQTzZfSlFDdklNSWdDWU42ZUhnV0xxYlY0cWVxNnZ1c00zaw?oc=5",
-      "pubDate": "2026-07-31T11:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "トヨタ、愛知の工場停止 車部品の供給停滞、影響広がる―熊本地震  時事ドットコム",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-07-31T17:54:06.594Z",
-  "lastAttempt": "2026-07-31T17:54:06.594Z",
+  "lastSuccess": "2026-07-31T19:24:11.255Z",
+  "lastAttempt": "2026-07-31T19:24:11.255Z",
   "fetchOk": true
 }
