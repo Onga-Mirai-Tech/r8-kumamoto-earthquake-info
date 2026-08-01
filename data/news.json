@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "【速報】熊本市南区など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lSmRSQ3ZxOWRnV2p1MllabjVKdDZaaUNBZWZtSmFRTTYzTEdsbXA0MERQb09TbXVnOUpGREdzMVNSd2RlVmJLMGxibi1LSGc?oc=5",
+      "pubDate": "2026-08-01T19:39:24.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市北区など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QR3JpWXdlNGlUckdwa05FWGZHQzJ2eThYdUQ0MkQwZ1gwcTY3UEptUENmbmI1ZEdkOWRoOHgyTWNlSW1PQTAwNWl5aVAxYk0?oc=5",
+      "pubDate": "2026-08-01T19:17:27.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市北区など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】上天草市など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lSkJ3NGhkZ09GMjNrMzJGbkhOYlRGamNhY3hzX3pOWnFaTVQzTFBnSjIxNUdyM01oSTNldzZnenptdk5TamNZWGxFMzF6dFU?oc=5",
       "pubDate": "2026-08-01T18:26:28.000Z",
@@ -91,6 +109,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 発生後初の週末 10年前の教訓と新たな課題（テレビ朝日系（ANN））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51SWdUUVU4RFBRdFgtUVNKRUU2bUhaVnYzTVRnWFRUYU8zenVLOWpwNmdYcmVHb1RfRFZrdEluYWdWem1HREN4Yms0ZVFDbkdBM2R3RWNUT3MycHc4ZVJGS0tJMEl4eWlaMzNtWVczWk9WU1AyNmpYRTJHM0djcUk?oc=5",
+      "pubDate": "2026-08-01T15:57:16.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 発生後初の週末 10年前の教訓と新たな課題（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 発生後初の週末 10年前の教訓と新たな課題",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KY0ZyVVhoWkFLUUJsZzFfOEE0Z0c1NmhEQ082cWNvSnYwZm93c3FDQmIyNVpqaDladGV1WWNrdHFLb2V3ZUpDOG1GZC0zOTV2QVpNOHJ5VXhqWlpjTzFRN3FER2s0Y3ppQW1CR2ZRaUZyUQ?oc=5",
       "pubDate": "2026-08-01T15:54:00.000Z",
@@ -118,6 +145,15 @@
       "category": "disaster"
     },
     {
+      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
+      "pubDate": "2026-08-01T15:48:22.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  クラウドファンディング - READYFOR",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】上天草市で震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50R0lWRkVma2tLeVVTYXNhSXlZOEhfRlZvczZHY3RaaS1qU1J5b0ZqYWNOeW82X2I0ZnJ6QUsyZ3VtNGFtZG1CUDRtUzZOWG8?oc=5",
       "pubDate": "2026-08-01T15:45:08.000Z",
@@ -134,6 +170,15 @@
       "type": "local",
       "description": "熊本県で最大震度2の地震 熊本県・上天草市  TBS NEWS DIG",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43QjZPWlUwTTBDUDlEbUY3MHlJLVZSSHhFT19SUzNWLVU1NjhkcFhJdl9tSXhwREdLNUxFSVBDNzNwYW1fMTlTaWxwQ3NpVWVjYWwzcmZncmo1cGlWQVFSRG0wM083dzdXM1E?oc=5",
+      "pubDate": "2026-08-01T15:27:56.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震緊急支援～ペットと共に生き抜く全ての「家族」を守りたい  クラウドファンディング - READYFOR",
+      "category": "life"
     },
     {
       "title": "くまモンが熊本地震受け一時活動休止…活動拠点でのステージイベントも中止、再開時期は未定",
@@ -269,15 +314,6 @@
       "type": "local",
       "description": "イオンモール熊本での捜索終了 地震の死者36人、9068人が避難 [2026年熊本地震]  朝日新聞",
       "category": "life"
-    },
-    {
-      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
-      "pubDate": "2026-08-01T13:22:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  クラウドファンディング - READYFOR",
-      "category": "disaster"
     },
     {
       "title": "熊本県宇城市で最大震度5弱 M4.7、津波の心配なし [熊本県] [2026年熊本地震]",
@@ -622,6 +658,15 @@
       "category": "life"
     },
     {
+      "title": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NmdXLXpSLVVqRXZ1clZoWkp2amE1dEFvemZIUHBkOFZaa3FwdF9SeVRpVGNLME50U2NxYzZtTFpEOGg3SEluV1pabkdZc29idWlzSHo1ZFhLZ3U5bmI2Y1V3VUxQaGF3aHB3azd4VF9zQUhYR2hyYVJqYmJCSFU?oc=5",
+      "pubDate": "2026-08-01T10:49:21.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "＜2026熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NmdXLXpSLVVqRXZ1clZoWkp2amE1dEFvemZIUHBkOFZaa3FwdF9SeVRpVGNLME50U2NxYzZtTFpEOGg3SEluV1pabkdZc29idWlzSHo1ZFhLZ3U5bmI2Y1V3VUxQaGF3aHB3azd4VF9zQUhYR2hyYVJqYmJCSFU?oc=5",
       "pubDate": "2026-08-01T10:49:21.000Z",
@@ -739,15 +784,6 @@
       "category": "life"
     },
     {
-      "title": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tV2U3N0ZQN3B0QlpickRGaEpid2ZqMkJWbDFqUWdxenY2U3FqUXJNc050NzI0SkNMWllGaGMzT0lnOFJ4aC1pYjZrMA?oc=5",
-      "pubDate": "2026-08-01T10:36:27.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  47NEWS",
-      "category": "life"
-    },
-    {
       "title": "台湾・高雄市、熊本を応援 フルーツ祭で急きょ支援（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaZklUbVhkcmxFZ2pqNkVjblk3R0tPWURyY2FJTlBzQllXbENVTktFOVpKUWhOUlI1bkZULWRtYm1OamxrWDUxUVVnXzluTUU?oc=5",
       "pubDate": "2026-08-01T10:32:23.000Z",
@@ -757,21 +793,21 @@
       "category": "life"
     },
     {
-      "title": "＜2026熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EYjlfeEJsUnVyRUZFSXFkOUxBRmxSS2V3QTlhX2dyd0ZFZUJQNWFFTTk1bHVJYU0xTkNUaVJ4dF9XT1hhd2UzdjFvZl9XV2F4a3c3Tg?oc=5",
-      "pubDate": "2026-08-01T10:31:52.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "＜2026年熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TQW81Zkh2WHZTT3JyMzJhOXRlNi1zNjNBcW51N2FCMUtRUlF1MmlFcFU0MFdkUG04XzlpU005QnZDNUhtMWRsQmlnOA?oc=5",
       "pubDate": "2026-08-01T10:31:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "＜2026年熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EYjlfeEJsUnVyRUZFSXFkOUxBRmxSS2V3QTlhX2dyd0ZFZUJQNWFFTTk1bHVJYU0xTkNUaVJ4dF9XT1hhd2UzdjFvZl9XV2F4a3c3Tg?oc=5",
+      "pubDate": "2026-08-01T10:31:52.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -784,21 +820,21 @@
       "category": "other"
     },
     {
-      "title": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布（朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc0E5U3lCSHJBZHdiMmROTjhOOVpGUnBTOFgzSTBra1ZkeXhNVEpwQmJMbkhGZG1HWEY5cmFpNWdWcEgxaDZ3WDdqRnVRaFUtaXcyZVBnVER6dGZVc0ExaWZEZFREQnE5S0FYWXZJRTRPZUVIOUc0RGx2UTZNQlU?oc=5",
-      "pubDate": "2026-08-01T10:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布（朝日新聞）  news.yahoo.co.jp",
-      "category": "life"
-    },
-    {
       "title": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZR3BYQUFVRUwtSmo2dm5GV28yaFlxMFVXSERsaklUbzVxbm5jZ3dIVExvbHVJdldGUmlybFpDUU9TVnpSX1pjQ1F3Ynh0UW1xbHhNUEtnU3lKRTUtQ2xhOFRXRzlGMlU?oc=5",
       "pubDate": "2026-08-01T10:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布  朝日新聞",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布（朝日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJc0E5U3lCSHJBZHdiMmROTjhOOVpGUnBTOFgzSTBra1ZkeXhNVEpwQmJMbkhGZG1HWEY5cmFpNWdWcEgxaDZ3WDdqRnVRaFUtaXcyZVBnVER6dGZVc0ExaWZEZFREQnE5S0FYWXZJRTRPZUVIOUc0RGx2UTZNQlU?oc=5",
+      "pubDate": "2026-08-01T10:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 炎天下のかき氷に涙 被災地でボランティアが無料配布（朝日新聞）  news.yahoo.co.jp",
       "category": "life"
     },
     {
@@ -856,15 +892,6 @@
       "category": "life"
     },
     {
-      "title": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PN2lEQXpHeWNTWFNTLVk3UGtFZW5rUXItMXp5ZExXNXdnbjlnWFhGdVFWNW53QW44dXZvakpSLUJSbkprLWRZM1g0VWUxb2t5OTNFTzcyVE11WkZhdUZDODRxbEFSWUZBbkxLSHRrU21jbEhfRldUVnNEUzJFODQ?oc=5",
-      "pubDate": "2026-08-01T10:25:21.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
       "title": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警 (熊本日日新聞)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3BmM1ppandmdUFXcTRJR0pjT2liVlpqRGFjNm5MMTM4S0NOMmtUVmlSNmZKV3Z0WTFvSnVHb0I2X0RuNHpUb0x6VGh0ZFFPQTFTaWlhVkFRNmNXbFFXbVNWaEY5VTZaanh2NUkzVVloNHExeWsteGhDNnNHMmhYUl91SWEyRzJBQU4zdWpB?oc=5",
       "pubDate": "2026-08-01T10:25:21.000Z",
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警 (熊本日日新聞)  Yahoo!ニュース",
       "category": "infra"
-    },
-    {
-      "title": "2026熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PN2lEQXpHeWNTWFNTLVk3UGtFZW5rUXItMXp5ZExXNXdnbjlnWFhGdVFWNW53QW44dXZvakpSLUJSbkprLWRZM1g0VWUxb2t5OTNFTzcyVE11WkZhdUZDODRxbEFSWUZBbkxLSHRrU21jbEhfRldUVnNEUzJFODQ?oc=5",
-      "pubDate": "2026-08-01T10:25:21.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣 （ＢＳＮ新潟放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03THhpbFYtbzFxdzRoMWR0SHVlajFHQmFCbmRveG1qMlJ4YmJTOE1qV2JWNmJvVG14b1hBS2ZQVi1ZcGpSUlU1Zm1ISDlsVXdUZHg2VWo2YWhUcE9uSXF0d016ZWpvQ25GcG14YlBHb3FIc1BsZkNodVVYTERlVlE?oc=5",
-      "pubDate": "2026-08-01T10:24:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣 （ＢＳＮ新潟放送）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBydlRVU0F3VUhEWDFUbHlfY2dMYjRCbGtqR045LVBVQVJzekFrb1hMaUsxZXVNZGcyd00yVDhEcVFjNDk2MDhMU09heTUwU1NTRVYwWnZNTEZOYXdJdzAyV2NYai1FVnpvYTJkN0JvWVNpZTZ2eUxtR2h0b3llOXc?oc=5",
-      "pubDate": "2026-08-01T10:24:21.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”（RKK熊本放送）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-01T18:43:24.613Z",
-  "lastAttempt": "2026-08-01T18:43:24.613Z",
+  "lastSuccess": "2026-08-01T19:58:29.536Z",
+  "lastAttempt": "2026-08-01T19:58:29.536Z",
   "fetchOk": true
 }
