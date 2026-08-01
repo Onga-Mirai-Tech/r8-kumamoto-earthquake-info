@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "title": "【速報】上天草市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lSkJ3NGhkZ09GMjNrMzJGbkhOYlRGamNhY3hzX3pOWnFaTVQzTFBnSjIxNUdyM01oSTNldzZnenptdk5TamNZWGxFMzF6dFU?oc=5",
+      "pubDate": "2026-08-01T18:26:28.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 3649棟被害 初の週末、片付け追われ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xREcyR1ZoWVlvWnVhRl9FTGpTQVhtRlBjdExTZE10UGpXTV9ZbnNTcVBYU1A2V29aVDVKZ2NVcDNfSzBnQ1B3OWMxd09Pa2lYRUM5ZzAwaEVDVXFjaDlzOHJ2TWExbDVW?oc=5",
+      "pubDate": "2026-08-01T17:03:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 3649棟被害 初の週末、片付け追われ  毎日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 迫る天井 死への恐怖 閉じ込め5時間 救助に感謝",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIQjlRejlFOEg4N003eVpsRGdtenNNUXRoekpwaVBEUEh1bjVIVmdMM0RrcEw2MzM0clhCbFpubDFnQkswSm1FZFNfenFBVE8tZkttNHNkNDdLUHVBTzBicjFBa2V1SHc2?oc=5",
+      "pubDate": "2026-08-01T17:02:22.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 迫る天井 死への恐怖 閉じ込め5時間 救助に感謝  毎日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震、官民で被災地に負担かからぬ支援 ニーズ把握や避難所運営",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSmJnTnZxelRRZ1RDWkJ2b1ZRRHpHRnN5YllEY0I4ZV9OM0dRbm9mNUN3T3RIRFduTUhxaXloZ0I3VzN4UUxVUFoyblFDcEt3c19mWkNFNHdRaWlsc2JvYmIyc05RSF9mZmNsQQ?oc=5",
       "pubDate": "2026-08-01T17:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、官民で被災地に負担かからぬ支援 ニーズ把握や避難所運営  nikkei.com",
+      "description": "熊本地震、官民で被災地に負担かからぬ支援 ニーズ把握や避難所運営  日本経済新聞",
       "category": "life"
     },
     {
@@ -136,6 +163,24 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 発生翌日に誕生した「新しい命」母語る願い（ABEMA TIMES）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wejJyWWVEVm9hTnNVN3JGVUh6V1NiM1FWMDl4UjhrNjRDR0FCaGw5ZTlsS01DNmc0aTBOSDN2aklLbDhROFZoeW9KWnhFUHM0eWUzaXZ3ZlQzOXp5TC1CRWxnR0VqZWFjSHJwYThna0R5Vjl6ZG5fYVl6djBrN0E?oc=5",
+      "pubDate": "2026-08-01T14:36:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 発生翌日に誕生した「新しい命」母語る願い（ABEMA TIMES）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 発生翌日に誕生した「新しい命」母語る願い (ABEMA TIMES)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVNOWI1T1FpT0FmaUk5WW1Oa0ZNQTROZjdIMTlUM3pPTk03UTBwdl8yR1g2ZWZMcVIxODBmbjN0ajN5bi1XVFFtbWxtX0x2eTJkMWRkUG9rZVZERURGWE9VVHdMSXM3Y1hqYmpBeTZmakRiUVZxNFFRWXhYNGNkclg4eG9NbUxRd2oyY2hn?oc=5",
+      "pubDate": "2026-08-01T14:36:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 発生翌日に誕生した「新しい命」母語る願い (ABEMA TIMES)  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】熊本市南区など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00TE1WTS1ONElxWGNhbWljbTh1UjlaUHFwdXJISWtKeG1QcGkzczdMR3VBeWlpNDdCRGJYTTVWY3hUZEkxWjVsMXBKbWpzR00?oc=5",
       "pubDate": "2026-08-01T14:07:54.000Z",
@@ -150,7 +195,7 @@
       "pubDate": "2026-08-01T13:50:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から4日…「車中泊」する人も 過酷な避難生活“課題”は山積み 宇城市から中継（日テレNEWS NNN）  news.yahoo.co.jp",
+      "description": "熊本地震から4日…「車中泊」する人も 過酷な避難生活“課題”は山積み 宇城市から中継（日テレNEWS NNN）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -168,7 +213,7 @@
       "pubDate": "2026-08-01T13:35:29.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞医療機関、水の確保に苦慮 自衛隊などの給水続く 透析患者には「命の水」（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞医療機関、水の確保に苦慮 自衛隊などの給水続く 透析患者には「命の水」（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -177,7 +222,7 @@
       "pubDate": "2026-08-01T13:35:26.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞被災者、床に雑魚寝…「TKB48」は？ 10年前の光景、今も 熊本市（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞被災者、床に雑魚寝…「TKB48」は？ 10年前の光景、今も 熊本市（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -186,7 +231,7 @@
       "pubDate": "2026-08-01T13:35:26.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞被災者、床に雑魚寝…「TKB48」は？ 10年前の光景、今も 熊本市 (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞被災者、床に雑魚寝…「TKB48」は？ 10年前の光景、今も 熊本市 (熊本日日新聞)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -294,7 +339,16 @@
       "pubDate": "2026-08-01T12:52:14.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "【地震】熊本県で最大震度5弱の強い地震（RKK熊本放送）  news.yahoo.co.jp",
+      "description": "【地震】熊本県で最大震度5弱の強い地震（RKK熊本放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度5弱の強い地震 熊本県・宇城市",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MUTk2eVNoZWNuZXVhRTZwMi1jSG1HUXJqb29JSHM0Z3loWHQ4OEtzQm9VemJjUGR4Zi1GQnNMcm1EV29McHF3OHBOcHVHNmVmWjhNV3JkNA?oc=5",
+      "pubDate": "2026-08-01T12:51:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度5弱の強い地震 熊本県・宇城市  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -312,7 +366,7 @@
       "pubDate": "2026-08-01T12:50:34.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本県で最大震度5弱の強い地震 熊本県・宇城市（TBS NEWS DIG Powered by JNN）  news.yahoo.co.jp",
+      "description": "熊本県で最大震度5弱の強い地震 熊本県・宇城市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -343,6 +397,15 @@
       "category": "disaster"
     },
     {
+      "title": "７９３カ所の高齢者施設で被災 熊本含め４県で（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41WERrN3dKQi01anpRVGFad0xIUWRNUU9yYUhQNXNVaUl4LWJ0amo3ai1sUGQ2dzYtVkNGZ1VEY3h5clk1VTNDa3lVT2hIMDQ?oc=5",
+      "pubDate": "2026-08-01T12:31:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "７９３カ所の高齢者施設で被災 熊本含め４県で（共同通信）  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "【随時更新】著名人ら、支援の輪広がる 寄付や支援の表明相次ぐ 2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ec1RYTHpOUUk4cDFVNWJqbEtBcEtUOHlpRU1qb3NXUVVaZmlWRUQ2VWt4NGJvRGd4cUNsYmI2d3RYTTRoMjQyaC1kcmFRQkk?oc=5",
       "pubDate": "2026-08-01T12:30:00.000Z",
@@ -350,6 +413,15 @@
       "type": "local",
       "description": "【随時更新】著名人ら、支援の輪広がる 寄付や支援の表明相次ぐ 2026年熊本地震  熊本日日新聞社",
       "category": "life"
+    },
+    {
+      "title": "6万9400戸断水続く 避難者9045人 熊本県発表 2026年熊本地震 (熊本日日新聞)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNXdFBxR0Qydkloc19IZkFEZDVMeFI2RVBfdXNWU0xIUkNJQW5aaEVYZXN3WlNxOUlTX21rdTJJYVBlS1BFd1hLSF9PcWc4OEFialZOeGxIUWljbmN1VDVYSDNPWEdVbjZmRVFxSFFVUVdDd1NfbzNpeVZmeFVROHVoTzNIT3FkNFBEWF9R?oc=5",
+      "pubDate": "2026-08-01T12:19:22.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "6万9400戸断水続く 避難者9045人 熊本県発表 2026年熊本地震 (熊本日日新聞)  Yahoo!ニュース",
+      "category": "infra"
     },
     {
       "title": "6万9400戸断水続く 避難者9045人 熊本県発表 2026年熊本地震（熊本日日新聞）",
@@ -361,13 +433,13 @@
       "category": "infra"
     },
     {
-      "title": "6万9400戸断水続く 避難者9045人 熊本県発表 2026年熊本地震 (熊本日日新聞)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNXdFBxR0Qydkloc19IZkFEZDVMeFI2RVBfdXNWU0xIUkNJQW5aaEVYZXN3WlNxOUlTX21rdTJJYVBlS1BFd1hLSF9PcWc4OEFialZOeGxIUWljbmN1VDVYSDNPWEdVbjZmRVFxSFFVUVdDd1NfbzNpeVZmeFVROHVoTzNIT3FkNFBEWF9R?oc=5",
-      "pubDate": "2026-08-01T12:19:22.000Z",
+      "title": "＜2026年熊本地震＞久しぶりの温かい風呂「最高」 海保巡視船が入浴支援 八代港",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95akd5cUJLLVJBclcyZTJZNnNMS3hzdWNVcEFtcWNpWDN1RW0tRkg5bTBtUGNtWHJTMXdHM05QeUIzbDVJZmlNTERlVkNOLUE?oc=5",
+      "pubDate": "2026-08-01T12:13:41.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "6万9400戸断水続く 避難者9045人 熊本県発表 2026年熊本地震 (熊本日日新聞)  news.yahoo.co.jp",
-      "category": "infra"
+      "description": "＜2026年熊本地震＞久しぶりの温かい風呂「最高」 海保巡視船が入浴支援 八代港  熊本日日新聞社",
+      "category": "life"
     },
     {
       "title": "久しぶりの温かい風呂「最高」 海保巡視船が入浴支援 八代港",
@@ -429,7 +501,16 @@
       "pubDate": "2026-08-01T11:49:45.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 生き埋めの妻救った夫  news.yahoo.co.jp",
+      "description": "熊本地震 生き埋めの妻救った夫  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞熊本県、熱中症対策を強化 飲料水や移動式クーラー発送 八代市や宇城市などへ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kRFlLaDh0SGhRX0tMd0Y5ekt5MVc5c2dqR0o0RkhLQ1Y3RDNFSjZ6cXJodnVreDRsYUU5OWdGWFRtNnEyMHppOEVMS0FqNlU?oc=5",
+      "pubDate": "2026-08-01T11:48:12.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞熊本県、熱中症対策を強化 飲料水や移動式クーラー発送 八代市や宇城市などへ  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -447,7 +528,7 @@
       "pubDate": "2026-08-01T11:45:41.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本 10市町の7万2千戸で断水続く  news.yahoo.co.jp",
+      "description": "熊本 10市町の7万2千戸で断水続く  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -510,16 +591,16 @@
       "pubDate": "2026-08-01T11:05:26.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞熊本市動植物園、4日再開（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞熊本市動植物園、4日再開（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
       "title": "＜2026年熊本地震＞熊本市動植物園、4日再開",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pVDRnZ0d0UG52bkNNRUFiNmtRcWNsRkVSeFBPbDY5T1E2cUhCUENZd1RaQ21MVHlKa1QtNmo4RjFVR3pkUmhoOE9RRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55cjVYZG8wV0VlMGNCX3ZMdlRBNTBGd2pYcnA5VDdtOEt0Zl90T1F5X0RFNTJwdHNCVGNkZkVNT0lPT0dQT1RZUGNGWUNrT0E?oc=5",
       "pubDate": "2026-08-01T11:01:45.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "＜2026年熊本地震＞熊本市動植物園、4日再開  47NEWS",
+      "description": "＜2026年熊本地震＞熊本市動植物園、4日再開  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -537,7 +618,7 @@
       "pubDate": "2026-08-01T10:55:24.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞避難所のろう者「周囲とコミュニケーションが…」 宇城市 困り事伝えられず（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞避難所のろう者「周囲とコミュニケーションが…」 宇城市 困り事伝えられず（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -546,7 +627,7 @@
       "pubDate": "2026-08-01T10:49:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  news.yahoo.co.jp",
+      "description": "＜2026熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -564,7 +645,7 @@
       "pubDate": "2026-08-01T10:45:25.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円 (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞東京・「銀座熊本館」に長蛇の列 義援金箱に寄付400万円 (熊本日日新聞)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -618,7 +699,7 @@
       "pubDate": "2026-08-01T10:39:27.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞負けんバイ！ 氷川町「道の駅竜北」 規模縮小して営業再開（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞負けんバイ！ 氷川町「道の駅竜北」 規模縮小して営業再開（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -726,7 +807,7 @@
       "pubDate": "2026-08-01T10:29:31.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -735,7 +816,7 @@
       "pubDate": "2026-08-01T10:29:31.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる (熊本日日新聞)  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -744,7 +825,7 @@
       "pubDate": "2026-08-01T10:29:31.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026熊本地震＞「狭くて眠れない」「暑さがこたえる」…避難いつまで 避難所生活、9千人強いられる（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -780,7 +861,7 @@
       "pubDate": "2026-08-01T10:25:21.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警（熊本日日新聞）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -789,7 +870,7 @@
       "pubDate": "2026-08-01T10:25:21.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警 (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警 (熊本日日新聞)  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -807,7 +888,7 @@
       "pubDate": "2026-08-01T10:24:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣 （ＢＳＮ新潟放送）  news.yahoo.co.jp",
+      "description": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣 （ＢＳＮ新潟放送）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -816,92 +897,11 @@
       "pubDate": "2026-08-01T10:24:21.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”（RKK熊本放送）  news.yahoo.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BakdUeFpFaUthVDNOMDNVcnlIZmdxWm5jMGg0ZG9QZ3l3clJTWkJHVnZrUmdGLUhHdVYtYXczX3pRZkNTZHZLR2tIeklFQnV0S2xWa21fSnBEdw?oc=5",
-      "pubDate": "2026-08-01T10:24:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震・いのち守る＞消化性潰瘍、痛み止め服用はダメ 鋭い腹部の痛み、黒い便に注意 市販薬の「制酸剤」有効",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiZzhLX0VNZGRZY01OdXFQU20zVlg2RkxWQlN5M3NySWxhc1A3ZjA3eG9naFpVVnNndnpuWjJ2QkpKR3B1ZEt0VjlWS3VTbTQ?oc=5",
-      "pubDate": "2026-08-01T10:23:23.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震・いのち守る＞消化性潰瘍、痛み止め服用はダメ 鋭い腹部の痛み、黒い便に注意 市販薬の「制酸剤」有効  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tX3ZkdldJX3MxOHBSTURyQXJpWUtzbmZlbVVVTk1BRnBIcnNsUlh5QXdhbjZ6TXdCX2dLMy1ZM1RKQzNOUVZFLUQ4RnpoY0N3RzBvZ2tGdTJkd0NMX0d1TXNJVU4?oc=5",
-      "pubDate": "2026-08-01T10:23:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「熊本地震」発生から5日目 新潟市が被災地支援で熊本に職員派遣  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
-      "pubDate": "2026-08-01T10:22:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  readyfor.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞処方せんなしの調剤、厚労省通知 想定は限定的 県薬剤師会「医療機関受診を」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZSURRdUhvc2V2amhOLV9Sdk0zeUJtcHRianRWa2gwRnB4aktGVGhKUEFOdm5oS0IwS3ZmOC1FZl9oaXdtT2ltRjJDb3dSSEk?oc=5",
-      "pubDate": "2026-08-01T10:19:10.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞処方せんなしの調剤、厚労省通知 想定は限定的 県薬剤師会「医療機関受診を」  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026熊本地震＞処方せんなしの調剤、厚労省通知 想定は限定的 県薬剤師会「医療機関受診を」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZSURRdUhvc2V2amhOLV9Sdk0zeUJtcHRianRWa2gwRnB4aktGVGhKUEFOdm5oS0IwS3ZmOC1FZl9oaXdtT2ltRjJDb3dSSEk?oc=5",
-      "pubDate": "2026-08-01T10:19:10.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026熊本地震＞処方せんなしの調剤、厚労省通知 想定は限定的 県薬剤師会「医療機関受診を」  kumanichi.com",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYjdKaG1PbVhqNms5YlA5T3lVMkphVFhvUVM1aWNMbGRveVBjcG1lLWI0c2VERFRqajVjOTdUc2N0bmRXYnIyaDFxUTJxRzQ?oc=5",
-      "pubDate": "2026-08-01T10:17:16.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "＜2026熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EYjdKaG1PbVhqNms5YlA5T3lVMkphVFhvUVM1aWNMbGRveVBjcG1lLWI0c2VERFRqajVjOTdUc2N0bmRXYnIyaDFxUTJxRzQ?oc=5",
-      "pubDate": "2026-08-01T10:17:16.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026熊本地震＞通行止めの南九州道 緊急車両など限定通行可能に 熊本県警  kumanichi.com",
-      "category": "infra"
-    },
-    {
-      "title": "熊本震度7 同程度の地震注意 猛暑予想 熱中症対策も",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzWE9WVDNiaHpzOVlxLURoMGFNVjZpX1FBTTc4a2ZjWFRYLU43SkJfTWU4QmpYVjZ4S2h6WXF2ZHF1WlZEMkFjNlpZeXhvNVpfdmNvMkRFb19RQ3RLa0pz?oc=5",
-      "pubDate": "2026-08-01T10:14:37.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本震度7 同程度の地震注意 猛暑予想 熱中症対策も  NHKニュース",
+      "description": "熊本地震の発生から初めての週末 シャワーのお礼に かき氷で“ありがとう”（RKK熊本放送）  Yahoo!ニュース",
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-01T17:43:31.923Z",
-  "lastAttempt": "2026-08-01T17:43:31.923Z",
+  "lastSuccess": "2026-08-01T18:43:24.613Z",
+  "lastAttempt": "2026-08-01T18:43:24.613Z",
   "fetchOk": true
 }
