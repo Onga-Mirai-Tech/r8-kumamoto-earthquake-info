@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "熊本地震 生き埋めの妻救った夫",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4bFZXNmRlR2VLZjRQMUtiVUplS1QwcUNLa0hVQzBSc1JoUGJPNV93QW1yWnk3M2VpOExUTklUSjNpQzZkdEJ3TkdFMkJ4ZU9C?oc=5",
+      "pubDate": "2026-08-01T23:57:42.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 生き埋めの妻救った夫  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "イオンモール熊本の捜索終了、新たな被災者いないと判断…県は避難所の環境改善や生活再建に注力へ",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrTGxXQkdTOVFFdW4zTFAwV1ZTc1RYMldrNlVhZzZFa1BUOWJXZFc1ZGx3YXo3WWhqMVNiMEFYVGtFZlNhWHI2UGZqaHF5ZmRiMEZOWk1iU05DTVB0Q1doVWkzNmRvUQ?oc=5",
+      "pubDate": "2026-08-01T23:50:40.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "イオンモール熊本の捜索終了、新たな被災者いないと判断…県は避難所の環境改善や生活再建に注力へ  読売新聞",
+      "category": "life"
+    },
+    {
+      "title": "山日ＹＢＳ厚生文化事業団あすから 熊本地震救援金受け付け",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5bnlrVVRVNWYwU3Z1ZUlRMWVqQ3hnbUJmRmVORHRuM2h4eEhFMFNMSnR4QUYxRDlBY3hERmZZeUczSDJZbU4zLWMzWQ?oc=5",
+      "pubDate": "2026-08-01T23:29:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "山日ＹＢＳ厚生文化事業団あすから 熊本地震救援金受け付け  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市南区で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnNnowSWNSMnAxSDVhMlNnZ3pTNkRxUkl2X2oxOWdISVk2MURzYk9SMkdmblJJdmFJUk5wUTBjSWNoc25aRHpRM2d1RmwxbGM?oc=5",
+      "pubDate": "2026-08-01T23:16:45.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度1の地震 熊本県・熊本南区",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqTDJTUDlFVDlHSWJqZ3JQeWdNcy0xZ2pDc3FaWHJVTEhSTjVnZXhNRExSbktKdC1WTjVhemJoNDcyY2tvVUFXTG0ycERUTEdqYTZ5S1RmWQ?oc=5",
+      "pubDate": "2026-08-01T23:15:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・熊本南区  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】宇城市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xdnY0aHhEQTJYeWxraGJ0SkliZE5GTjFnYUpFMnZnZ3cweGVlQ0RwVEJRUjZVR3RSa0pqLXJkV21rb20xUVgweXFjR1JvVWs?oc=5",
+      "pubDate": "2026-08-01T23:09:52.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇城市で震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
       "pubDate": "2026-08-01T22:28:31.000Z",
@@ -26,6 +80,15 @@
       "type": "local",
       "description": "熊本地震と活断層 続くリスク、直視して対応を  chugoku-np.co.jp",
       "category": "disaster"
+    },
+    {
+      "title": "災害ボランティア、参加の前提は「自己完結」 熊本地震、受け入れ開始も態勢整わぬ自治体",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JSGVhclB1WEREN1lSSmtTTGVuY0ZrTWlmSjdCYVNsb1dQSE5KTFVXeVVNaDZHbk5fa1BlSkd3YmJna2VDLVZQU0NCb0k3VEpFeFliZnFhZ2Z0d2JKUG5iUk8zOU9HeHZLSGllS3pyNFItTzJZR2c?oc=5",
+      "pubDate": "2026-08-01T22:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "災害ボランティア、参加の前提は「自己完結」 熊本地震、受け入れ開始も態勢整わぬ自治体  産経ニュース",
+      "category": "life"
     },
     {
       "title": "熊本県に8月2日「熱中症警戒アラート」",
@@ -64,12 +127,12 @@
       "category": "life"
     },
     {
-      "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14TlNVWEduRTZVcWVPUVp2aHJqblJkZF9CaFhyYWVTVFBjUjNWX19oUXNRWkRPSDdfT2FPRmNuaXV0LS1LWkpSbHlOZnAxcjA?oc=5",
-      "pubDate": "2026-08-01T21:22:19.000Z",
-      "sourceName": "熊本日日新聞",
+      "title": "熊本県で最大震度1の地震 熊本県・八代市",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXSFFPT1Q4Uzl0VXc1LXhFUzlUbzQ5M21pd0RqMm1CUmNQZ3lRVzNhTzJJbTNfdUs3bHE0dTlmX0wwemlSQXpUNzZSb1dsOEZFcmhuSGdmWQ?oc=5",
+      "pubDate": "2026-08-01T21:20:00.000Z",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -209,7 +272,7 @@
     },
     {
       "title": "【熊本地震】支援の輪広がる 八代市で児童養護施設のシャワーが住民に開放され、益城町では災害ボランティアの受け入れ始まる 発生から初の週末",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XSHl1MHlZcHNuMV94VlV5WG81Q0RVS0FROXpraVBldG9vQVhPN3Vabjk5N3MtZ3JJMzNHYTI4TTRQblc1UTdJMTdZSjJWZlVGelYtMms3cDkyeDU1bkJ3R3V2Nmo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tZDdsSjctOW1BRGJudXoxN2U5VE5fNy1VSmhtY1RWM3dyUkJ3eW9DNGdUQ2hUcGpsakFGUTRRckRnQUVnd2FMcDBIRk52VWExT1M0QWpGRQ?oc=5",
       "pubDate": "2026-08-01T19:33:24.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -235,12 +298,30 @@
       "category": "disaster"
     },
     {
+      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
+      "pubDate": "2026-08-01T18:56:41.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える  readyfor.jp",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】上天草市など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lSkJ3NGhkZ09GMjNrMzJGbkhOYlRGamNhY3hzX3pOWnFaTVQzTFBnSjIxNUdyM01oSTNldzZnenptdk5TamNZWGxFMzF6dFU?oc=5",
       "pubDate": "2026-08-01T18:26:28.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】上天草市など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "震度4 熊本県天草・芦北地方 2026年08月02日01:07ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRGxkMTNzaTNhNUxZUC0zSFF2YnNaTVB4cXFyUTRaYW1wRHpkODRNU0pRU0VkQ2I1ZmFYVHpHQnJnR3E4S2Y5elk0cE1tQ2Z3Q0MxVG8zbVJLaEZJYm9WZzR2NjdvcnFwQUxMUEU2Wi16UWNHT3BOcXYxdHZlV0R5OXBDYS1Vc1U?oc=5",
+      "pubDate": "2026-08-01T17:22:31.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "震度4 熊本県天草・芦北地方 2026年08月02日01:07ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -403,6 +484,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "久里浜商店会 「他人事ではない」 熊本地震受け義援金活動  タウンニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ubTV6VGtUZnJza3ZPanhYU0ZyZVltUzJmd2ctaFZPVjl0QUxLeHVIZkxGaVJHUmh4cVlYLTFhSXZCbWJZTjMxUEhBOTdGLWM?oc=5",
+      "pubDate": "2026-08-01T14:54:09.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -721,15 +811,6 @@
       "category": "infra"
     },
     {
-      "title": "イオンモール熊本の捜索終了、新たな被災者いないと判断…県は避難所の環境改善や生活再建に注力へ",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrTGxXQkdTOVFFdW4zTFAwV1ZTc1RYMldrNlVhZzZFa1BUOWJXZFc1ZGx3YXo3WWhqMVNiMEFYVGtFZlNhWHI2UGZqaHF5ZmRiMEZOWk1iU05DTVB0Q1doVWkzNmRvUQ?oc=5",
-      "pubDate": "2026-08-01T12:08:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオンモール熊本の捜索終了、新たな被災者いないと判断…県は避難所の環境改善や生活再建に注力へ  読売新聞",
-      "category": "life"
-    },
-    {
       "title": "【速報】八代市で震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CZm5CZ0VrWk5vRXM3Yml1NjZIUnk3VTczVEpRSEtRY0hzNjRCNE1QcHFYc1JOR3pGVkVyZG95TDdVUGViallJWThRNkJqbVk?oc=5",
       "pubDate": "2026-08-01T12:05:31.000Z",
@@ -746,15 +827,6 @@
       "type": "local",
       "description": "【熊本地震】「トイレが一番厳しい」被災地を悩ます水不足…給水所では衣装ケースに入れる人も（読売テレビ）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "熊本地震 生き埋めの妻救った夫",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4bFZXNmRlR2VLZjRQMUtiVUplS1QwcUNLa0hVQzBSc1JoUGJPNV93QW1yWnk3M2VpOExUTklUSjNpQzZkdEJ3TkdFMkJ4ZU9C?oc=5",
-      "pubDate": "2026-08-01T11:49:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 生き埋めの妻救った夫  Yahoo!ニュース",
-      "category": "disaster"
     },
     {
       "title": "2026年熊本地震＞熊本県、熱中症対策を強化 飲料水や移動式クーラー発送 八代市や宇城市などへ",
@@ -827,81 +899,9 @@
       "type": "local",
       "description": "＜2026熊本地震＞猛暑、高齢者の体力奪う 施設で熱中症続出 エアコン使えず室温上昇  kumanichi.com",
       "category": "disaster"
-    },
-    {
-      "title": "8月2日（日）令和8年熊本地震 支援金募金活動実施のお知らせ",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BbnhtQ1dGckxDeTZtcUx6NnJoSktLYXFnZFhqTXBRSEZDT0laaExJSjl2LWttTk1hbE0xcHNRTEV5X1BaLTRicTBGVlRuUQ?oc=5",
-      "pubDate": "2026-08-01T11:12:40.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "8月2日（日）令和8年熊本地震 支援金募金活動実施のお知らせ  albirex.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "2026年熊本地震＞熊本市動植物園、4日再開（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ta1dqdURPcjFfTjhONGU0X2pteDBXVjRaZ1dDenVfYTUzOVpudC1iZlFFWm9hSEp6dWRaNWM3TmlpckYyYUdJNFhhS2t0STh4MTMwQlNHMDZiTzBPOGRybEtQZXpkd2xwa2gtMFVPbndjR0RKWXN6WWthekI5WFE?oc=5",
-      "pubDate": "2026-08-01T11:05:26.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞熊本市動植物園、4日再開（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞熊本市動植物園、4日再開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55cjVYZG8wV0VlMGNCX3ZMdlRBNTBGd2pYcnA5VDdtOEt0Zl90T1F5X0RFNTJwdHNCVGNkZkVNT0lPT0dQT1RZUGNGWUNrT0E?oc=5",
-      "pubDate": "2026-08-01T11:01:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞熊本市動植物園、4日再開  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震 製造業への打撃と再開 半導体関連の投資加速 熊本地震 生活インフラの早期復旧【熊本の経済1週間】（7/25～31）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SdF9ueElwOEU4ZzFrcE5MdU1PQnhUemJPT2tGNG1EZ0MzWGhvQUtOVGVrUmRoU3NLR3lEdnROWkFlWjJUcHNmd1FiaWx2WmM?oc=5",
-      "pubDate": "2026-08-01T11:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本地震 製造業への打撃と再開 半導体関連の投資加速 熊本地震 生活インフラの早期復旧【熊本の経済1週間】（7/25～31）  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "2026年熊本地震＞避難所のろう者「周囲とコミュニケーションが…」 宇城市 困り事伝えられず（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rTTFJQ1pZQTR3RDZEanNhcGQzZGx0MGNzTThPdEJOc3V2RzlrSnFDQUItMVNYZ0lEWGxKWlczSzAzaFFMeWFvd2dpN0ZGMU1qQU9MTURQamNuR29vY3ItUE92WEFQa1h6dEwwNFZyY29GQV8wM3M3a2MtZ1d5Q0E?oc=5",
-      "pubDate": "2026-08-01T10:55:24.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞避難所のろう者「周囲とコミュニケーションが…」 宇城市 困り事伝えられず（熊本日日新聞）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NmdXLXpSLVVqRXZ1clZoWkp2amE1dEFvemZIUHBkOFZaa3FwdF9SeVRpVGNLME50U2NxYzZtTFpEOGg3SEluV1pabkdZc29idWlzSHo1ZFhLZ3U5bmI2Y1V3VUxQaGF3aHB3azd4VF9zQUhYR2hyYVJqYmJCSFU?oc=5",
-      "pubDate": "2026-08-01T10:49:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "＜2026熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NmdXLXpSLVVqRXZ1clZoWkp2amE1dEFvemZIUHBkOFZaa3FwdF9SeVRpVGNLME50U2NxYzZtTFpEOGg3SEluV1pabkdZc29idWlzSHo1ZFhLZ3U5bmI2Y1V3VUxQaGF3aHB3azd4VF9zQUhYR2hyYVJqYmJCSFU?oc=5",
-      "pubDate": "2026-08-01T10:49:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026熊本地震＞熊本県内各地でセンター開設 ボランティア活動本格化 益城町出身大学生「地元の役に立ちたい」  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "ベトナム実習生、子と会えず犠牲 熊本県甲佐町の工場で（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fYWRleUpCbHNBbjdSWW1ZWVVlSzFMUUtuRGNETE9ZVG5YRXdlUlVrYkU5ODlSRVNDemlaNl9oMkgtbUVRQmxCSXlJUXVnaDQ?oc=5",
-      "pubDate": "2026-08-01T10:48:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "ベトナム実習生、子と会えず犠牲 熊本県甲佐町の工場で（共同通信）  熊本日日新聞社",
-      "category": "other"
     }
   ],
-  "lastSuccess": "2026-08-01T23:11:34.161Z",
-  "lastAttempt": "2026-08-01T23:11:34.161Z",
+  "lastSuccess": "2026-08-02T00:13:32.427Z",
+  "lastAttempt": "2026-08-02T00:13:32.427Z",
   "fetchOk": true
 }
