@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【速報】熊本市南区で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nU3RuMEpTQW0wZ3V5ZTc5UlpuNVZIU3NjMEt3dEhVTjNKdklXZ2NpLW5qWnFzd3lsZzZZVGxSZkdxWENTZEMxR2NsZUpFdnc?oc=5",
+      "pubDate": "2026-08-02T19:22:16.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 車中避難者、熱中症で死亡 初の災害関連死か 酷暑警戒",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JOU1sNDMtMnVwYVF1OWxBNldsNERvZWdXbnpDMDA3eDdMSmQ4VU03dWZNZnpTb2E0YnJnODBwRmZ5dXFOOG4tVk9zZzhZaDctRVhmYTNkX3ExQjdXNncxcEdoc1ZMRTdC?oc=5",
       "pubDate": "2026-08-02T17:04:07.000Z",
@@ -8,6 +17,33 @@
       "type": "local",
       "description": "熊本地震 車中避難者、熱中症で死亡 初の災害関連死か 酷暑警戒  毎日新聞",
       "category": "life"
+    },
+    {
+      "title": "熊本地震被害状況",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kSGctOWFMdkZ0S1l3Y0R1N0pmRlMzUkZ2UmsxbE9BaUpuVVlKNG5tZG1EeEJaSGpDWlNKYTdIOVAtb0RKbjNwdExmd1NaWGxjMHY5MUFrVQ?oc=5",
+      "pubDate": "2026-08-02T16:47:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被害状況  nippon.com",
+      "category": "disaster"
+    },
+    {
+      "title": "死亡の従業員は会社の指示で館内に、テナント会社が遺族に謝罪 熊本地震（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1saDN1Y2JIUDVwUXQ4eFlBSFd4b3FIN0FCelMxampTQm1HMVJldUJ5U2M4bHRDWXZDQTRrVnJ5cWVRS2d5N2p5RWgzRktkZDN6ejE0X211bkJlYmNIcWtkX3d5Q0lCcW1rclhTb0Vsal9yTE9XbnVTRXJkVmxpaU0?oc=5",
+      "pubDate": "2026-08-02T16:24:41.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "死亡の従業員は会社の指示で館内に、テナント会社が遺族に謝罪 熊本地震（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【2026年熊本地震・リアルタイム速報】地震の死者「38人に」と熊本県",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83THVxMG9CMU9ISlo5YWh5UTl6b1FvNGEzYVdYSmNfczRpeHlVTkt1Q0RDalBiMVppU25oeXMtS0xTakNfeFVqc0tPcVg2eFE?oc=5",
+      "pubDate": "2026-08-02T16:10:56.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【2026年熊本地震・リアルタイム速報】地震の死者「38人に」と熊本県  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "イオンモール宇城で発見の男性死亡 熊本地震の犠牲者38人に",
@@ -64,6 +100,15 @@
       "category": "other"
     },
     {
+      "title": "「命に代えるものではなかった」イオンモール熊本爆発事故 従業員2人死亡のテナント幹部が通夜で謝罪 「売上を金庫に入れるよう」指示 | 熊本のニュース｜RKK NEWS｜RKK熊本放送 (1ページ)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWUd5WXpWdjdlX3R5aENRWUNRVjM5a04zOC02U1pLN2Rwb0tvTVpaenNvUnprRXRmUU02RVpvT2Y2Sy1GMEN4MXoyQjNUSXBBNENGa3N3ZGF0bTNyX2N1b1VfWDU5Y28?oc=5",
+      "pubDate": "2026-08-02T15:02:00.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "「命に代えるものではなかった」イオンモール熊本爆発事故 従業員2人死亡のテナント幹部が通夜で謝罪 「売上を金庫に入れるよう」指示 | 熊本のニュース｜RKK N...",
+      "category": "other"
+    },
+    {
       "title": "「命に代えるものではなかった」イオンモール熊本爆発事故 従業員2人死亡のテナント幹部が通夜で謝罪 「売上金を金庫に入れるよう」指示 | 熊本のニュース｜RKK NEWS｜RKK熊本放送 (1ページ)",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWUd5WXpWdjdlX3R5aENRWUNRVjM5a04zOC02U1pLN2Rwb0tvTVpaenNvUnprRXRmUU02RVpvT2Y2Sy1GMEN4MXoyQjNUSXBBNENGa3N3ZGF0bTNyX2N1b1VfWDU5Y28?oc=5",
       "pubDate": "2026-08-02T15:02:00.000Z",
@@ -115,15 +160,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で家失う 診療続ける医師  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震被害状況",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kSGctOWFMdkZ0S1l3Y0R1N0pmRlMzUkZ2UmsxbE9BaUpuVVlKNG5tZG1EeEJaSGpDWlNKYTdIOVAtb0RKbjNwdExmd1NaWGxjMHY5MUFrVQ?oc=5",
-      "pubDate": "2026-08-02T13:45:04.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震被害状況  nippon.com",
       "category": "disaster"
     },
     {
@@ -241,15 +277,6 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "初の災害関連死疑い 70代女性が車中泊で熱中症か 2026年熊本地震  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【2026年熊本地震・リアルタイム速報】地震の死者「38人に」と熊本県",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83THVxMG9CMU9ISlo5YWh5UTl6b1FvNGEzYVdYSmNfczRpeHlVTkt1Q0RDalBiMVppU25oeXMtS0xTakNfeFVqc0tPcVg2eFE?oc=5",
-      "pubDate": "2026-08-02T13:06:07.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【2026年熊本地震・リアルタイム速報】地震の死者「38人に」と熊本県  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -420,7 +447,7 @@
       "pubDate": "2026-08-02T11:25:22.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞「責任感強い子だった」 イオンモール爆発で犠牲の大竹さん通夜 一度退避、店舗へ戻る 同僚女性の葬儀も  Yahoo!ニュース\n【証言】爆発...",
+      "description": "＜2026年熊本地震＞「責任感強い子だった」 イオンモール爆発で犠牲の大竹さん通夜 一度退避、店舗へ戻る 同僚女性の葬儀も  Yahoo!ニュース\n【熊本地震】...",
       "category": "disaster"
     },
     {
@@ -577,15 +604,6 @@
       "category": "disaster"
     },
     {
-      "title": "［熊本地震］イオン爆発で犠牲の女性従業員、一時避難も館内に戻る「会社に言われた」 指示したテナント会社が遺族に謝罪",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IQ1R4WVJCbHo0Qm5meEQtalhpT3VHMEIwbnk1b2RzaDFpeWhwNVJwNFR1NUFudWl6MGpmTVdxSVdPSHZWSWlZSk1nRQ?oc=5",
-      "pubDate": "2026-08-02T11:05:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［熊本地震］イオン爆発で犠牲の女性従業員、一時避難も館内に戻る「会社に言われた」 指示したテナント会社が遺族に謝罪  47NEWS",
-      "category": "life"
-    },
-    {
       "title": "＜2026年熊本地震＞高市首相、3日に被災地入り 金子国交相、赤間防災担当相も",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QRFprWXVzSmZfcVpVdWFvTDUtallQXzlxQ3JkZWI2MXphclZtVkVPYVNoazlzVk5selBUUnREUlo0NDRSSXI3Ymx6MA?oc=5",
       "pubDate": "2026-08-02T11:03:21.000Z",
@@ -647,6 +665,15 @@
       "type": "local",
       "description": "巨人の東京ドーム３連戦に合わせ熊本地震へ募金、９０００人から５７０万円…山崎・竹丸ら協力呼びかけ  読売新聞",
       "category": "disaster"
+    },
+    {
+      "title": "［熊本地震］イオン爆発で犠牲の女性従業員、一時避難も館内に戻る「会社に言われた」 指示したテナント会社が遺族に謝罪",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iWGdDS3NRMTUwdlUza2ZwbHJrMWZwbVZ0cGg0M000OXl1U3Z6TEJCMUpYM3RWRVpNZXMxTkFhUW92MlR4ZkpIQ3FCdDVyNU9HYnU4NEQ0NWQya2ppb3c?oc=5",
+      "pubDate": "2026-08-02T10:55:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［熊本地震］イオン爆発で犠牲の女性従業員、一時避難も館内に戻る「会社に言われた」 指示したテナント会社が遺族に謝罪  新潟日報",
+      "category": "life"
     },
     {
       "title": "［熊本地震］イオン爆発で犠牲の女性従業員、一時避難も館内に戻る「会社に言われた」 指示したテナント会社が遺族に謝罪 - niigata-nippo.co.jp",
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "＜2026年熊本地震＞「体力の限界」「人手足りない」 片付けの被災者襲う猛暑  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞被災地のコンビニ、復旧急ぐ ローソン社長視察 物資提供や募金など被災者支援も",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11bV9UeGM4UjRXeVFTWU5XalBpWnprd2J2NlZNTkFZdVNKWVJ4SWZSeV9oVTNkVlZlY2FaY2tLWFA0OVBDQTZKODdCZWNJeFk?oc=5",
-      "pubDate": "2026-08-02T09:57:28.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞被災地のコンビニ、復旧急ぐ ローソン社長視察 物資提供や募金など被災者支援も  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "＜2026年熊本地震＞被災地のコンビニ、復旧急ぐ ローソン社長視察 物資提供や募金など被災者支援も",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hSGhMTEFlTl9BTndteGpmRTJheklrS0FnQ3l3RVpGb2xNUVVieDFxNUttNjBMdk5paFBxcF9EUzA0MFM1Y000aE1QMA?oc=5",
-      "pubDate": "2026-08-02T09:57:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞被災地のコンビニ、復旧急ぐ ローソン社長視察 物資提供や募金など被災者支援も  47NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "被災地のコンビニ、復旧急ぐ ローソン社長視察 被災者支援も 2026熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11bV9UeGM4UjRXeVFTWU5XalBpWnprd2J2NlZNTkFZdVNKWVJ4SWZSeV9oVTNkVlZlY2FaY2tLWFA0OVBDQTZKODdCZWNJeFk?oc=5",
-      "pubDate": "2026-08-02T09:57:28.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "被災地のコンビニ、復旧急ぐ ローソン社長視察 被災者支援も 2026熊本地震  熊本日日新聞社",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-02T18:29:31.042Z",
-  "lastAttempt": "2026-08-02T18:29:31.042Z",
+  "lastSuccess": "2026-08-02T19:46:11.478Z",
+  "lastAttempt": "2026-08-02T19:46:11.478Z",
   "fetchOk": true
 }
