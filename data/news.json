@@ -1,12 +1,48 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUT2sxR2lQSS1CNjk3TkVCWnFHc0NOcS1JZGs4S0Q4aDhqeGtfNENSc1FZbEZsWUQ0aGZpbHZaSURqcEkxaHhPcWhneFktTTQ?oc=5",
+      "pubDate": "2026-08-07T18:26:37.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "力になりたい一心で——村上宗隆、熊本地震支援に動いた\"恩返し\"の正体",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTJIb3pqYUFVTjZvZ1hiWXBkMDg4d3RpbnAyZHJMZkFyaGZrdXNsWWpoQzRlNm9KaWdmaUFaX1F5VkUxZWpXczB0d085Wk94bkxWWUctcHRsTTB4QXJDNU55aHdCRUlfdmNuSnNtZkhzVE50WF90Z2N1STkwWFVOTUZxRjZiOXBLaUtBZ0owM1pTVWw3OUFySjdNVmVWd9IBowFBVV95cUxQSk52REZfWThlTFpWU2xNXzlLYUJjX3FuUHJvR0ZSUVdiN0lLQVExNkRnZGRWVVVLaFIwQ0RaVXJFc2JzSGwwakNGejRtSTZBWmRUQkptckNlYkliNVBOdkM3dTZmWFdiRFJ5RnBrLUNzbjJPUlNRSmJTdEVNMlZjQlZDNjBIbmFzdG9qMVJ3VXZDZ3h6cVdDcGk1Nkw1UlQ0YmRN?oc=5",
+      "pubDate": "2026-08-07T18:22:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "力になりたい一心で——村上宗隆、熊本地震支援に動いた\"恩返し\"の正体  ｄメニューニュース",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 犠牲の妻へ、感謝のドレス イオン爆発が奪った夢と日常",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mWWpveHpOOVAzNUJFLTl1Z0RGY2VvQUpvWHZSN1RsWmt1OGRzdGlHRXZyTTZreUhaSHNlbExESFQzZzF1N1VSeXZ2X2d1YUZzbjY0UUtVTFpYbTFtLV9DYl9sX3l2TDlo?oc=5",
+      "pubDate": "2026-08-07T17:02:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 犠牲の妻へ、感謝のドレス イオン爆発が奪った夢と日常  毎日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "【熊本地震】激しい揺れの中…「患者守る医師たちの様子」記録 病院内では無事4件の手術終える",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YejV4WUR2b21kZXJZZ0F3N19vNlZIbUJwQlJ0eXQ4MEVsc2tCR04zWGVTaWR3dlhYOWs4NFBIdENuOTVqMHNzeVZoN3JOVUxzMGNJM0tNcEpTdmJoVHFZelpGUUwtT2tRbTliQ2RJYjhBdHRNMjFxWm9JVUE?oc=5",
       "pubDate": "2026-08-07T16:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【熊本地震】激しい揺れの中…「患者守る医師たちの様子」記録 病院内では無事4件の手術終える  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SEstUnd5QzctanNYcUlUdDgwMlF6b0lIY0k5YkRza0tORlgweE85X0JVTkhNcnA0RlRoRW1VMHJuVUlvY3EyNHA0dzZ2bVYyNmdldVNueEVvRkljdzlHaVd2NGdrdExvOGdPQVBfMlpxTGM?oc=5",
+      "pubDate": "2026-08-07T16:07:05.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報  日本赤十字社",
       "category": "disaster"
     },
     {
@@ -17,6 +53,15 @@
       "type": "local",
       "description": "【熊本地震から10日】被災地は断水で消火活動難航…竹やぶ火災、発生から27時間で鎮火 九州新幹線、新水俣～鹿児島中央で運転再開  日テレNEWS NNN",
       "category": "infra"
+    },
+    {
+      "title": "悠仁さま 初の“おことば”で熊本地震の被災者にお見舞いも 広島県で原爆慰霊碑に供花（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbG1vc3lnSFlTWDBaWGlQN2U4U25wVFRzcUdfNUtKZlRKNU9LTjZpeHRMX004cFhmd3VTRU4wOWlGWlhoc1JTVUtudFdLc0xBOGctWDZTTy1aQktVc1JRV0FhSzJ3RUowVzhzS3dZNDVUbVFXektvYmowbUc0cVE?oc=5",
+      "pubDate": "2026-08-07T15:49:49.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "悠仁さま 初の“おことば”で熊本地震の被災者にお見舞いも 広島県で原爆慰霊碑に供花（TBS NEWS DIG Powered by JNN）  news.yah...",
+      "category": "disaster"
     },
     {
       "title": "【令和8年熊本地震】JCHO熊本総合病院の復旧と医療継続にご支援を - クラウドファンディング",
@@ -60,7 +105,7 @@
       "pubDate": "2026-08-07T14:15:22.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震、土木・農業被害1155億円 犠牲者3人の氏名公表 熊本県（熊本日日新聞）  Yahoo!ニュース",
+      "description": "2026年熊本地震、土木・農業被害1155億円 犠牲者3人の氏名公表 熊本県（熊本日日新聞）  news.yahoo.co.jp",
       "category": "disaster"
     },
     {
@@ -145,13 +190,13 @@
       "category": "disaster"
     },
     {
-      "title": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SEstUnd5QzctanNYcUlUdDgwMlF6b0lIY0k5YkRza0tORlgweE85X0JVTkhNcnA0RlRoRW1VMHJuVUlvY3EyNHA0dzZ2bVYyNmdldVNueEVvRkljdzlHaVd2NGdrdExvOGdPQVBfMlpxTGM?oc=5",
-      "pubDate": "2026-08-07T13:06:28.000Z",
-      "sourceName": "地元メディア",
+      "title": "＜2026年熊本地震＞物流乱れ「輸送時間3倍」も 国、県、道路復旧急ピッチ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMFRhYm9uTTd5ZVh1RnVNYy1hc25qQUJRQ1BKS1JQcGk0Z3N3bGpaQUVhTU1RVnRoWHVrbU45S1MzU0ExQjJKNHd1cFAyQlU?oc=5",
+      "pubDate": "2026-08-07T12:37:48.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報  日本赤十字社",
-      "category": "disaster"
+      "description": "＜2026年熊本地震＞物流乱れ「輸送時間3倍」も 国、県、道路復旧急ピッチ  熊本日日新聞社",
+      "category": "infra"
     },
     {
       "title": "＜2026年熊本地震＞物流乱れ「輸送時間3倍」も 国、県 道路復旧急ピッチ",
@@ -330,7 +375,7 @@
       "pubDate": "2026-08-07T11:32:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "熊本地震を\"激甚災害\"に指定決定「財政面を心配せず復旧を」 政府 | 熊本のニュース｜RKK NEWS｜RKK熊本放送 (1ページ)  newsdig.tbs....",
+      "description": "熊本地震を\"激甚災害\"に指定決定「財政面を心配せず復旧を」 政府 | 熊本のニュース｜RKK NEWS｜RKK熊本放送 (1ページ)  TBS NEWS DIG",
       "category": "infra"
     },
     {
@@ -339,7 +384,7 @@
       "pubDate": "2026-08-07T11:32:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震を\"激甚災害\"に指定決定「財政面を心配せず復旧を」 政府  newsdig.tbs.co.jp",
+      "description": "熊本地震を\"激甚災害\"に指定決定「財政面を心配せず復旧を」 政府  TBS NEWS DIG",
       "category": "infra"
     },
     {
@@ -555,7 +600,7 @@
       "pubDate": "2026-08-07T11:04:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、対策パッケージ策定へ＝片山財務相、熊本市を訪問(時事通信)  Yahoo!ファイナンス",
+      "description": "熊本地震、対策パッケージ策定へ＝片山財務相、熊本市を訪問(時事通信)  finance.yahoo.co.jp",
       "category": "disaster"
     },
     {
@@ -627,7 +672,7 @@
       "pubDate": "2026-08-07T10:53:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「いま自分たちができることを」阿蘇地域で2万人 3億円分の観光キャンセル 熊本の経済を回して被災地支援を＜2026年熊本地震＞  newsdig.tbs.co....",
+      "description": "「いま自分たちができることを」阿蘇地域で2万人 3億円分の観光キャンセル 熊本の経済を回して被災地支援を＜2026年熊本地震＞  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -699,7 +744,7 @@
       "pubDate": "2026-08-07T10:43:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【片山財務大臣】熊本地震の経済影響を聞き取り 高市総理と同じ反応に木村知事「非常に安心した」  newsdig.tbs.co.jp",
+      "description": "【片山財務大臣】熊本地震の経済影響を聞き取り 高市総理と同じ反応に木村知事「非常に安心した」  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -780,7 +825,7 @@
       "pubDate": "2026-08-07T10:34:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「私の生きがいだった」30年愛されたおばあちゃんのかき氷店 熊本地震で奪われた居場所  newsdig.tbs.co.jp",
+      "description": "「私の生きがいだった」30年愛されたおばあちゃんのかき氷店 熊本地震で奪われた居場所  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "熊本地震の死者、県が新たに7人公表 2人は嘉島町で被災  朝日新聞",
       "category": "disaster"
-    },
-    {
-      "title": "地震でガタガタ…国道3号の復旧を 夜間の補修工事で「なだらかに」改善目指す ＜2026年熊本地震＞（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCTXpCNHlaLUxDWHZtOEVUYllhUnZnQUhoVjVmSjlvN3c0c0I3OGR1OGNXd0JkNGc4dDhZZmVuTzBINUFIN2sxVl9nSEp6Um1rZzgxMFRES3ZCdW5GNjFtcXhRYmFmWEQyQ0FpSWVhNERMUV9RTVVoME9yV183M0U?oc=5",
-      "pubDate": "2026-08-07T10:24:18.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "地震でガタガタ…国道3号の復旧を 夜間の補修工事で「なだらかに」改善目指す ＜2026年熊本地震＞（RKK熊本放送）  news.yahoo.co.jp",
-      "category": "infra"
-    },
-    {
-      "title": "九州FGの4〜6月、純利益7%減 熊本地震の影響は「調査中」",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFR0FtZU9KT3dQS29fUWV1QXBTNW9PTF9La25SZXN3cXhBdjFxTWE5X2QtbVlscTFZTDJWZGZmXzJ4emF4WVF6WjRZazhMeGl3VzczaWVfa2RSUjdyR0Z4OW5GVWpCTU1YQ3k2dA?oc=5",
-      "pubDate": "2026-08-07T10:23:23.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州FGの4〜6月、純利益7%減 熊本地震の影響は「調査中」  日本経済新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "登山家の野口 健さんが氷川町に支援物資届ける 災害用トイレの設置も【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zX0VpbHlySUFENmVDMFg2LVdzT3AyTzVvU0hFMkZxVUQ3V29pa2dqWm5FNXFZUGU5OWhHeWdNM1RWN2E0STR4cENOSDd6N3lFV2QxMWlwTVhfc0M3SmdRSTc5OG1qYmExa2F4Z3ViYkJHbUtxZ2x5M0E3Y01GWDA?oc=5",
-      "pubDate": "2026-08-07T10:23:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "登山家の野口 健さんが氷川町に支援物資届ける 災害用トイレの設置も【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "地震でガタガタ…国道3号の復旧を 夜間の補修工事で「なだらかに」改善目指す ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpWUlwM2ctMDNINGt4dk0zY0F5bk8wT25qMnZsRHlsM29wLS1BM0VUZU1GX2FsN1lhOVJzdldXMi03WV9ub0RNZlJ5N0diV1R3RjgwQXdOeVNwbTd4MnFvdm5sSnZscGc?oc=5",
-      "pubDate": "2026-08-07T10:23:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震でガタガタ…国道3号の復旧を 夜間の補修工事で「なだらかに」改善目指す ＜2026年熊本地震＞  TBS NEWS DIG",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震に義援金1000万円 Jリーグ（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EdU9GY3g5bUt3VmZuMkc1emk1aFNQMFZHVXM5SE41T2xmWjY1M0RlQjlMNUNwSHJvX19wR1RvRWlEcmlrb0d2Q0JmdE1VZFBBZDZmb3lpbEZtLUlrY2tXQ1BBODA2X3pmcTRYRXN0YVBBeGFudWU4cW1iTURJSjg?oc=5",
-      "pubDate": "2026-08-07T10:21:18.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震に義援金1000万円 Jリーグ（時事通信）  news.yahoo.co.jp",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-07T18:30:11.257Z",
-  "lastAttempt": "2026-08-07T18:30:11.257Z",
+  "lastSuccess": "2026-08-07T19:34:43.111Z",
+  "lastAttempt": "2026-08-07T19:34:43.111Z",
   "fetchOk": true
 }
