@@ -1,6 +1,195 @@
 {
   "items": [
     {
+      "title": "熊本地震 日赤鹿児島県支部 第2陣となる救護班を派遣（2026年8月8日掲載）｜KYT NEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGYzd3VYNEVqZFlsVFFPV1pVZVcwdjRvczdWTkNQcTBqamhEQUhJcjEtQ0FpTDBoX2F5dmlGaWdOREpDZnY5ejMtOHRaSW5Bb2tvZzl0d1BUUHd4bVRqTGZxMnBlNXEzcEV2a2VoY2VsRHVoQmlHdG9kM1ZTUUswLUlMS1VGemM?oc=5",
+      "pubDate": "2026-08-08T08:56:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 日赤鹿児島県支部 第2陣となる救護班を派遣（2026年8月8日掲載）｜KYT NEWS NNN  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "ボランティアも本格化で 熊本地震“お盆休み”迎える（テレビ朝日系（ANN））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jbEVic3FWQ29KSlpLSXVYTlNxNEpTN2E1ZEotUjdPQzRzWmN4cTlxNzBWdUNaUTFUY1k1OVZXcDV0ckRady1sb3A3U3JMSEtMbDh6TV9wU21qSjhCNmRGNW9rdVl1T2JYbm1MRXdyVDR4anhNSlhuRUtFeHBIdTQ?oc=5",
+      "pubDate": "2026-08-08T08:54:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ボランティアも本格化で 熊本地震“お盆休み”迎える（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "ボランティアも本格化で 熊本地震“お盆休み”迎える",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bmF5T3BDbHdwYnJ1NksxeGZWZnZsMHItVkpaazNaN0RPb001TzFQeFk3U281ZHRiMUE2WHlWVFk2ZkNfbzc5dlJBUVFNc21JZGZPLW1DalZrUUxWLWdYYW5NbFpSTlF3eFV1QUFZaF85dw?oc=5",
+      "pubDate": "2026-08-08T08:54:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ボランティアも本格化で 熊本地震“お盆休み”迎える  テレ朝NEWS",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞金剛（熊本市）、夏季休業返上で復旧支援 被災事業者に物資供給（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZZEh1YUFTbnNHbGNkOHNIZ3ZCbm1nZzlXNmFEMUwtTmY2WGVwQzJVcVdDalFYMXQ2Q3pwb3VVTTE3NlBoU3lGcks3NkdOd2NWWVJVRjRxMEJzY1Ryd2dseENYb2JOTDVCZjg3cXk1VzdUU2t1X1F6WE5HRnJxME0?oc=5",
+      "pubDate": "2026-08-08T08:45:22.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞金剛（熊本市）、夏季休業返上で復旧支援 被災事業者に物資供給（熊本日日新聞）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "【熊本地震】断水の被災地 地元の鮮魚店が周辺住民に地下水を提供（テレQ（TVQ九州放送））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYkpiRkY4N2RWMUQzUzFaV21nV1BfMkZtamM2WDVvUVB5Yk9rcEZqeGctQ3Rabjd6YXpGZWs5azlObVdMcWZHZzBxRnpVanVRTm96dmtLVjh5RDBrbUo2d0g0bHpOTW5tN3dKbTNXSHZaWk5SUENuUUZLZEpkNjQ?oc=5",
+      "pubDate": "2026-08-08T08:45:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】断水の被災地 地元の鮮魚店が周辺住民に地下水を提供（テレQ（TVQ九州放送））  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "宇和島のＮＰＯが熊本地震の被災地に支援物資【愛媛】（eat愛媛朝日テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWGtOZDMwTWNQSk8wWV9rTDNHdzJYOUZnV2Z4NzMwcVg3VTJ5YUdBRnM5NGVsVmJoaEZiTnVyMWZYQkRpejNsdmhMV1pQRmI2eWtkdHhQcUFsdnplbE5nUjl6ajlzN1RDT3N5bkkzdGhHdUNrRU9kTUFxdUVtS2s?oc=5",
+      "pubDate": "2026-08-08T08:41:49.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "宇和島のＮＰＯが熊本地震の被災地に支援物資【愛媛】（eat愛媛朝日テレビ）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "「地域に恩返し」…ランナーたちが被災地支援 家財の片付けや掃除など 八代市、氷川町で活動",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kbFVxLW9zTEIzTjlzcnZVb3htRXVrb2xYNkJQckh6VE1Mb0p3WEROcW1jd2pETkNyRGRRajNnclYxNmthbzVLSU94YlJDQmc?oc=5",
+      "pubDate": "2026-08-08T08:40:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "「地域に恩返し」…ランナーたちが被災地支援 家財の片付けや掃除など 八代市、氷川町で活動  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "夏休みに被災 ストレス感じる子も",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaQXZSYVZFY2Q3aFRid193aFlpRmYtWmdEdTBocF96MENDb2wzUGItMGQzeXF2YUFlcGFjMU5XR2g4cFlFZmRvQVdKY2JLVWo3?oc=5",
+      "pubDate": "2026-08-08T08:34:27.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "夏休みに被災 ストレス感じる子も  Yahoo!ニュース",
+      "category": "other"
+    },
+    {
+      "title": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表（2026年8月8日掲載）｜KKT NEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1hCR3BGeUJqSWxSOGZGN2tDOHBJaUtSQVRud19KdlRENDJTYS1DVjViYzkxTzhoQVFhaDFZd1R0RmQ5el9XVjBaNEoxenJoVmVQcmlGT1dnTGF0SG83Ny1zamtBU2laTkwzcmU1dWJWUWxfNHlsZGE3Ti1jSUsyWDVKcTRVLTQ?oc=5",
+      "pubDate": "2026-08-08T08:33:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表（2026年8月8日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞金剛（熊本市）、夏季休業返上で復旧支援 被災事業者に物資供給",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90eFAyVDJ2bVN4c1pDZ2ppSjd1a2VKRGJBUDZ4RWZjWl9xRGRnZW9GYlJKY201bzFTMW05cVhicUNIQ2VjUjY0T0dBd3d0NkE?oc=5",
+      "pubDate": "2026-08-08T08:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞金剛（熊本市）、夏季休業返上で復旧支援 被災事業者に物資供給  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "「地震にも暑さにも負けない」…高森町で「くまTOMOデイキャンプ」 地震の犠牲者に黙とう 復旧願いうちわ作り（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaXpHZkFvTDZpcjVoM0ZPeTIzZFpfZlhydTZ6RnRRZGdhS2MzZGpmTmwwU0FpUk9tSTFObkhsY2wzbkxkMllEQ2plMnYtUDhBRDlXRlZ2UHdhV1VRcklhRE5oaHJfTmJQUDVfVndXRFo4UksybVh2TjFTQUlWYjA?oc=5",
+      "pubDate": "2026-08-08T08:29:21.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "「地震にも暑さにも負けない」…高森町で「くまTOMOデイキャンプ」 地震の犠牲者に黙とう 復旧願いうちわ作り（熊本日日新聞）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "【熊本地震から11日】被災地で災害廃棄物の受け入れ拡大も 氷川町では建物の危険度判定",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CYU52X1JpWGpGb1R4ZmpfeE5Vd2pYWEdNQWs0bEJfbGlSRV9jTjRQa0VJNXFLTFhKZDI4YlZmbl9hLXI3RnR6WUJaWHNuUXF4QThGTnpmdFp3YjhpVkhicEozNUVVOTlwMi1Sb0NLNDdPSUxjSWhtb3lUS08?oc=5",
+      "pubDate": "2026-08-08T08:22:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震から11日】被災地で災害廃棄物の受け入れ拡大も 氷川町では建物の危険度判定  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "ＤｅＮＡ吉野 熊本地震の募金に参加 故郷に思いはせ「プレーで元気を与えられたら」 自身も高３時の１０年前に被災",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtQlJOS2V5VVZRZ25ZRTVMRGVnYnBfMlAyMUY3Z1B1V01McGlEbDBhbGNEQ05VdG1RNElreWUxZzR1WGxWMmZDQmpROGZ0UDFFMExzdks3Wk9qS1dHWDh4cm5EYTVqcUt2U2ZNdkpTSG9YeDBTNzBpcklmeDl1b3M?oc=5",
+      "pubDate": "2026-08-08T08:19:24.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ＤｅＮＡ吉野 熊本地震の募金に参加 故郷に思いはせ「プレーで元気を与えられたら」 自身も高３時の１０年前に被災  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "「地震にも暑さにも負けない」…高森町で「くまTOMOデイキャンプ」 地震の犠牲者に黙とう 復旧願いうちわ作り",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jZ2p4ZGVJLWpDcUh2VnNIdzNMZjVWbzd5TjFoYmYtZjlGVGE1NkV3MG5Udk1IWHlxbWl0S0tmWHBxOGx5aEZHUnA4cTdCT0U?oc=5",
+      "pubDate": "2026-08-08T08:19:06.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "「地震にも暑さにも負けない」…高森町で「くまTOMOデイキャンプ」 地震の犠牲者に黙とう 復旧願いうちわ作り  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "【DeNA】試合前に熊本地震支援で募金活動 熊本出身の吉野光樹「有明高校の皆さんのように…」（日刊スポーツ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFeXlnLWpuZV9RZ0tKdVM1N0t1TFVNVFNqSW1Sc2p3ZlliWWVsbHlRcFhiWHQ3S0pBVnpSRTc2ajB2cUNaSGpya21JMDJpXzBsLWZfYm91al9FRTdmVFNLUmtmeXdMQ3A2TzBIb25tdHVPdmVIT1o1bFcwZlBYekE?oc=5",
+      "pubDate": "2026-08-08T08:17:05.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【DeNA】試合前に熊本地震支援で募金活動 熊本出身の吉野光樹「有明高校の皆さんのように…」（日刊スポーツ）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "【追加公表】熊本地震で亡くなった方の名前など 熊本県8月8日発表（RKK熊本放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTWxBXzZpZzNjWkNHSGpoZ3dFVWxnOVYwYkdTWkloNlJfMVBBTmFNN1BMR1JWaHcyQWpaSXg0NkowVzlqcWllMHpFUVAzQjIwY0FYaWIxVHVMTUZldE8zTVN4SjJrS3EyaUN0SUNiRDlzZUNBWE5mMU5DZkk4d1U?oc=5",
+      "pubDate": "2026-08-08T08:08:14.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "【追加公表】熊本地震で亡くなった方の名前など 熊本県8月8日発表（RKK熊本放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【追加公表】熊本地震で亡くなった方の名前など 熊本県8月8日発表",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjUTJoOUxzdDdYM2F3ZzZnMFNuZlNRVllHVTFnN2ZFUTZQMmp3RzlKNWt2Q2RYcXpZMWFqZGc5RGl5QU5fZ2NrWWFweURaS0R1UnYya2xhX2lTMG8tZExuVnhWeHU?oc=5",
+      "pubDate": "2026-08-08T08:07:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【追加公表】熊本地震で亡くなった方の名前など 熊本県8月8日発表  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【追加公表】熊本地震で亡くなった方の名前など　熊本県8月8日発表",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLRFBPYzE3MTQyWXlJeUJVNnlRRnRyN3dicU1hUFpWLThXa21YaGhkcWdkZ3dhMmlXLUM4c2lLWEhBOF9qOHljNkZaTzVtdmUwMDlFSDlHMF8yRmplb1czOWI0VWhvNkpMWmNEMi1wRdIBdEFVX3lxTE1HNjlIcmJHNlVuR2ZlVlp2UXZfa25tVEhrRzEtVEg2YVRzc0NZZEc5THF2cnJLNU9veXhaWE1VYjUzUjEzVGtqM3I4MEo4OXV3b2NERHZ6MS1qMWc0YlRXR0VtYmlxRmNlSU14NzlMdjNGOHJ3?oc=5",
+      "pubDate": "2026-08-08T08:07:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【追加公表】熊本地震で亡くなった方の名前など　熊本県8月8日発表  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県熊本地方 2026年08月08日03:22ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc281YnlISlZTR0ZyOEU0RG5ZVDNIblcwYnpmcmJVNlRXejFEc0tSZXFOcE9rNnVjSW92YnBuSlpoZmRacVFhVWJwc1BxSzVYM0dNZkhVc0czLWd6VDZ6NWUtVHN5dDRzRGJKTFh0UDEzRl9ZbGN4bE1SOEJaUHZGVkJ6cVlnSGs?oc=5",
+      "pubDate": "2026-08-08T08:07:00.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "震度1 熊本県熊本地方 2026年08月08日03:22ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "阪神、熊本地震被災地支援で募金活動 村上頌樹「チーム全員で話し合って」（サンケイスポーツ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90cHUxZFdhSXFHN0lCVDgwVkJENmJ3WTBBUEJaZkp2T2RIUnFkNFdERU9CcVRHaXBhZ1d5bmNRdlg0OUlHb3FLOEpURUhacUdmZW12QU40OTU0aEFxcHczcjJ0allRTkdtUlVYN1hDMDBxY3dTdHBRbE5EQk5CVlU?oc=5",
+      "pubDate": "2026-08-08T08:05:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "阪神、熊本地震被災地支援で募金活動 村上頌樹「チーム全員で話し合って」（サンケイスポーツ）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "「うれしい出来事がありました」 熊本地震の被災地で活動する水道局スタッフに届いた手書きメッセージ 「泣けるね」「こういうのすげえ大事」と感動の声（Hint-Pot）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOWFUYlZmd3NQcDlLRFlrMFhoLUdUdHc1VS04MnU3Z3FudDZIYlY5X2ROYlRTRUhtNHl3YUViMmNNTU5FcmQwSGRLWnBOWjNZVHhVV0FMbmg0Sm43el9Vc0NfVU9nQzFlU0VUSGloa3pIdVFhTXlEd2hvVkFGRFk?oc=5",
+      "pubDate": "2026-08-08T08:03:03.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「うれしい出来事がありました」 熊本地震の被災地で活動する水道局スタッフに届いた手書きメッセージ 「泣けるね」「こういうのすげえ大事」と感動の声（Hint-Po...",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】募金箱設置について",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZkNKUXdIVmZJbUZMdl9QX0trVHBXMnZ4X2lGeVVsM0JPTDlvNm5lYlo1OURwTVluMXpEOGkwaVQwWTAyRmRQZDU2QzFhRThSbFRla28yMDRWRU1FekFxZlVPRzFtN0k1?oc=5",
       "pubDate": "2026-08-08T08:01:24.000Z",
@@ -52,6 +241,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "「戦争はやっちゃいかん」松本まりか、祖父母から受け継いだ“言葉”に共感広がる…熊本地震の支援でも見せた“社会派”の素顔  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞子どもの居場所「もっとほしい」 夏休み中の発災…家族行事中止、部活もできない 専門家「自由に遊べる場所、安心感に」「ボランティアは心の回復に」 (熊本日日新聞)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTXlsTkVpRFJ0NUJoa0pzMXFCZEt4REttTFBRVWkwOGxSQVFxQjdla2JuUmJWLWQyUjVvckNrRmFUSVJXQ3dfRXhxY1BVYWVpNW5CWHdZQzVBa1R4LXgxUjh0T0dKaUdNdVhMYTIwdFJMbFdmY1V4MEczU1lRbnNXalVlS29LNENwODd5dzhR?oc=5",
+      "pubDate": "2026-08-08T07:19:30.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞子どもの居場所「もっとほしい」 夏休み中の発災…家族行事中止、部活もできない 専門家「自由に遊べる場所、安心感に」「ボランティアは心の回復に...",
       "category": "life"
     },
     {
@@ -127,15 +325,6 @@
       "category": "disaster"
     },
     {
-      "title": "10年前の熊本地震の教訓生きる 患者370人受け入れた熊本赤十字",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41MTNmMlhtSE1wbUkyaVE0TUVkVjVpcmcwTV9tNmtNTHpQT3h5U0dwTUFOdHVJM3B1NEJWWEVLWWdmOEFpX2dNSkdkMUcwYzdCa0dic2RrbDRaajhfWFJUVGJxaFdpemc?oc=5",
-      "pubDate": "2026-08-08T06:23:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "10年前の熊本地震の教訓生きる 患者370人受け入れた熊本赤十字  朝日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "高市早苗首相、夏の外遊見送り調整 熊本地震対応に注力 特別国会ずれ込みも影響か",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSlY4WnAwZ3lYOXJxcUVGa1ZBeWRjTl9vUkRxYmllZGN5NlJvc2k2UjloN3dfcGFqdlU5WkppYXI1a01ENEk2dTdVZEptN1JVd2pjaGZFeXBNVGNsSGo2dVllQ1ZpalpMUXVXNzVyTENrZnBBX1E?oc=5",
       "pubDate": "2026-08-08T06:21:47.000Z",
@@ -187,6 +376,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "首相、夏の外遊見送りで調整 熊本地震対応に注力（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の強い地震動、八代平野の軟弱層影響か 京大調査",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nNl9aSE9BRURjR21EN2prd3ctR0I0YTY0RlhNbGVBOHhhX3lNZGpaQ0JvYVNGMkQ3T3pUTjdFbmtVd2ducms1eDFMVVctRk9JamI2bHJCLUlMNGRtQVlHOVlNTlZrS0x2QjBlTw?oc=5",
+      "pubDate": "2026-08-08T05:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の強い地震動、八代平野の軟弱層影響か 京大調査  日本経済新聞",
       "category": "disaster"
     },
     {
@@ -501,7 +699,16 @@
       "pubDate": "2026-08-08T02:53:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震から11日】災害廃棄物の受け入れ拡大、朝から車の列 エアコン室外機窃盗事件も  news.ntv.co.jp",
+      "description": "【熊本地震から11日】災害廃棄物の受け入れ拡大、朝から車の列 エアコン室外機窃盗事件も  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本・日奈久温泉が存続の危機 地震で配管損傷か 旅館や施設の大半で温泉水止まる（西日本新聞me）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02QlF0bE5Xc19PLWYtX1dHaXhqUHgzVlVualp1dngtX3VGdDJ3aWkxWktTMHk2Z0FTUkZFUlR6OTlpRWV2d3NFT3Z1NWRqMXo4Vnd3ZXpCTS1scTgyRmxzcnIyOE5nZDNYbzV0NzNSODFyZnF6S2ZmZ1hYWDgtaHc?oc=5",
+      "pubDate": "2026-08-08T02:52:29.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本・日奈久温泉が存続の危機 地震で配管損傷か 旅館や施設の大半で温泉水止まる（西日本新聞me）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -604,6 +811,15 @@
       "category": "disaster"
     },
     {
+      "title": "10年前の熊本地震の教訓生きる 患者370人受け入れた熊本赤十字",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41MTNmMlhtSE1wbUkyaVE0TUVkVjVpcmcwTV9tNmtNTHpQT3h5U0dwTUFOdHVJM3B1NEJWWEVLWWdmOEFpX2dNSkdkMUcwYzdCa0dic2RrbDRaajhfWFJUVGJxaFdpemc?oc=5",
+      "pubDate": "2026-08-08T02:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "10年前の熊本地震の教訓生きる 患者370人受け入れた熊本赤十字  朝日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震の被災地へ 災害医療チーム派遣 日赤県支部",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbjA1WTU1RkpPVVFGbDJKU0c2ZEdEakFGamw4SkJGZGxJdm01N0xmcW0zN3JXbjVVd2xNdzh5c2p3RmEtZWJwUWZ0OA?oc=5",
       "pubDate": "2026-08-08T02:00:00.000Z",
@@ -683,225 +899,9 @@
       "type": "local",
       "description": "熊本地震、死者３９人に＝関連調査中が１人増え  nippon.com",
       "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震、死者「39人に」 熊本県が発表（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jSWRjcnRLYkhnZThRc1NVUEdUcUZydjV5eGxvQ2ZMZ1UySU1YRmgtM2NhNWt0eVZsSGFtRDhlYUppUU5MTW1JTGV2bzhaNTZ0ME8zUXB2NmtLWWxHUnhPTXJkeVNPbC1kc052bE5OVVNLYVVYOTlMVWgxdTF6Sk0?oc=5",
-      "pubDate": "2026-08-08T01:29:21.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】熊本地震、死者「39人に」 熊本県が発表（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の死者は１人増え計３９人に…住宅被害は１万８０８６棟、６５９１人がなお避難（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMDZGTW5hTHdYRHpNeE05VDZ6LXJYZWF3MGl1R0pXeUF6ZEJqUzkxY3hCUEdTWmpYcjhnTVRMbnRpYUpWYzR1Ny13WUNaVHhFc1VvUEZRVkhxQjlya3RzMU9QdzJfR0xHV1hXenVjR3pKc2VkLWFQTHJFMlloeUE?oc=5",
-      "pubDate": "2026-08-08T01:28:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の死者は１人増え計３９人に…住宅被害は１万８０８６棟、６５９１人がなお避難（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の死者は１人増え計３９人に…住宅被害は１万８０８６棟、６５９１人がなお避難",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQTXZRR2phZmdENGMydGpPbko4c1BrN0l4WnFmRnNaYnhOQzF0ZkJIQlRzNFdZcGpISXlwdWR0R1NQUHBnZGZPVUJSNTQzX1RPdnJJMDhqTndHTmc4VXNUNG1HcU0zQQ?oc=5",
-      "pubDate": "2026-08-08T01:28:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の死者は１人増え計３９人に…住宅被害は１万８０８６棟、６５９１人がなお避難  読売新聞",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の死者、計３９人に…地震との関連を調査中の死者が新たに１人増加",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQTXZRR2phZmdENGMydGpPbko4c1BrN0l4WnFmRnNaYnhOQzF0ZkJIQlRzNFdZcGpISXlwdWR0R1NQUHBnZGZPVUJSNTQzX1RPdnJJMDhqTndHTmc4VXNUNG1HcU0zQQ?oc=5",
-      "pubDate": "2026-08-08T01:28:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の死者、計３９人に…地震との関連を調査中の死者が新たに１人増加  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震、死者「39人に」 熊本県が発表",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qbTVaMHhwN3c5Rll0d3I1T1R2NURzM2tGTXpPbDRYMHFpWkFSNTBDbXV3eEhnT3Y3S1FHQlR2Y0tYc0FDSGFVSkhOME15LWs?oc=5",
-      "pubDate": "2026-08-08T01:25:57.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】熊本地震、死者「39人に」 熊本県が発表  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震、死者「39人に」 熊本県が発表、関連死か",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qbTVaMHhwN3c5Rll0d3I1T1R2NURzM2tGTXpPbDRYMHFpWkFSNTBDbXV3eEhnT3Y3S1FHQlR2Y0tYc0FDSGFVSkhOME15LWs?oc=5",
-      "pubDate": "2026-08-08T01:25:57.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】熊本地震、死者「39人に」 熊本県が発表、関連死か  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震、死者「39人に」　熊本県が発表、関連死か",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3c3R3JVdkZ5bThwTFdtdmZvYVRlSUF6TDJHTEtOelBzcktMUl9iUmNhblJmTk9VTlBnLS0tMm9iU0tRWXBVYWdxV2Utd2tnTmxpQkR3ZDdLNVB0U2p0bDRWREo2cXhjcWd0bTczSDV0UTdMWXZOdllONzhjZDlUenMwd2syYTTSAYcBQVVfeXFMUEd3N0dyVXZGeW04cExXbXZmb2FUZUlBekwyR0xLTnpQc3JLTFJfYlJjYW5SZk5PVU5QZy0tLTJvYlNLUVlwVWFncVdlLXdrZ05saUJEd2Q3SzVQdFNqdGw0VkRKNnF4Y3FndG03M0g1dFE3TFl2TnZZTjc4Y2Q5VHpzMHdrMmE0?oc=5",
-      "pubDate": "2026-08-08T01:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震、死者「39人に」　熊本県が発表、関連死か  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "悠仁さま 公式行事で初のお言葉 熊本地震の被災者にお見舞いを述べられる",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVjFpN1U3OWFIempRQlVDVVB6UTJzanhPOEh5Z1RXd1FLWWk1UlNSUVp4MHpvcndaeHgxQmxGUDRubjU4dkZ2cGprQ2FMWFdOZDJoVjNiU0tIZFhYVTZGWWRuM1NBUzZlTHJTZ196UUNxQQ?oc=5",
-      "pubDate": "2026-08-08T01:23:46.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "悠仁さま 公式行事で初のお言葉 熊本地震の被災者にお見舞いを述べられる  テレ朝NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "悠仁さま 公式行事で初のお言葉 熊本地震の被災者にお見舞いを述べられる（テレビ朝日系（ANN））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISzUyczJrRmgwNlV2bWg5WUlGaDc4T2lwVjl4OFgzZFkzdzE5RkdUYmZSVVdfYmljZi11MnluUm9hLTRnUWpYb3FaQjJVWVUwc0I4aklaWTFpZ3pqblN3SlJRZ3RaYjAyQ2xuZWgydFdmNjRvb1ZDb0xxVXhqU1E?oc=5",
-      "pubDate": "2026-08-08T01:23:46.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "悠仁さま 公式行事で初のお言葉 熊本地震の被災者にお見舞いを述べられる（テレビ朝日系（ANN））  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震による死者39人に 熊本県（熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hUHA0OG1oUnRnelVjekV1YXRfZ214Z0tSVVNmazREeFlZcFRhWTgweUJfNGJORDV6OHd6MXJmMkpkMnBjR3ZTdnp3ZXpmZ3V1T1ZLdGY2dVhtVVd1YVgzTVlJeUF2T25sa09DM0VrQ3RsNTV0QTd6cUJadVpMaDA?oc=5",
-      "pubDate": "2026-08-08T01:22:08.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震による死者39人に 熊本県（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震による死者39人に　熊本県",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfM3pUOVo0bXRma2pWclVpekhVcXJpUlF0NENKRm1VMEZlREY0d1JFZW5lXzZiQmZkdUJ3UlhlS2tRVDdJa1EtWTZnYU1NUXN0WUkyVGlKY1BZMGFkNUJ3U1pkZC1tNWYxeG1zSHl6SzPSAXZBVV95cUxPN1huTlJpX2plT0NjZC0yZThoV2wwSkpHcXJvWTFtejYtLTczTHd0M1kzVF92eUhuTndvbDE1Qmg2b2IxZW9TZVRPNmg0aHZ6UTNoT1dyUTAya19fNTJfazBPMzZUdUFNVE5NUHhqMWdhMi02U0RR?oc=5",
-      "pubDate": "2026-08-08T01:21:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震による死者39人に　熊本県  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で教員派遣、避難所で支援／弘前大大学院（陸奥新報）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HRExsOVhMaF9hOFlpMnFpVWFyVTBqb0x3clIwN05kUTBmWDB5UEZWN3llYnZ2YkhQT2FIMm1oT0dxZ3Z5UVZKZlNhWHNrMGdreUpxRmhaSG13dnRXSFBfZERJU2VTM0dFaGkzenNBR3pqRzVrdlBOMGZBUjNycUE?oc=5",
-      "pubDate": "2026-08-08T01:17:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で教員派遣、避難所で支援／弘前大大学院（陸奥新報）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "【熊本地震】「複合災害」で被害拡大も 台風シーズンでリスク高（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tYmR0RVJLdE92UVZEWE1wMDcxSjVWcVp1YWo2SXQyaGhFaVVReDdhWnA2cUJNQUZWWG5ZTDdOdjAzTncwczF3SDU3alE2bVU?oc=5",
-      "pubDate": "2026-08-08T01:17:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【熊本地震】「複合災害」で被害拡大も 台風シーズンでリスク高（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、熊本県の農林水産業関連の被害額２３３億円…農作物の被害などは調査中でさらに増える見込み",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oWUxjNzRpQWZHNjh1R3pSMkM1NWJMdE92aGdSUVBVb3hjV2tIb0F4V0VZVk02YkJzMGdlZ3diVDlfLUhEMDNJRkNJSURUWlRtaVYyRV8wdDZMMGlld1ByTUY1b3ZzUFZHMWx6NDZZSXQ3QQ?oc=5",
-      "pubDate": "2026-08-08T01:15:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、熊本県の農林水産業関連の被害額２３３億円…農作物の被害などは調査中でさらに増える見込み  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災者に公営住宅を提供 県20戸、3市18戸予定 岡山",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CY2thdm1kQ2FKVjF2RmllY2tkekFPSFNTb1VfRUVfZGZ0dEY2MnRKeUZ1anBTaUxibmV3NVMyM05FblAzVkhVTGR4R21GQ0dPZ20zckdFVUkwRXpRdHVaNTJZenVVWkU?oc=5",
-      "pubDate": "2026-08-08T01:15:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災者に公営住宅を提供 県20戸、3市18戸予定 岡山  asahi.com",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】「複合災害」で被害拡大も 台風シーズンでリスク高",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81S0dEcjVQZlIwb3V3WFlvRUV5YmFQUXpBZ09XajRadjNjSkV0VkJZa1JKSWxQMng1VUx0eFFuV0FRaVJFV002OW9TRG41TVhUVXV4U0otRVRLNkhtWXc?oc=5",
-      "pubDate": "2026-08-08T01:14:35.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】「複合災害」で被害拡大も 台風シーズンでリスク高  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の死者39人に",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tdjExZHUtMHdyaUZfRDNiemVma2FHdFJpY1NuOWVqNzVfdGNENGQ3aFBFTEtsZHd3NFpBRTgxV1RhcWtSQkFPajZVOFo5TVozS1U1U3JUZlVteVdjUmx0Vy1BWQ?oc=5",
-      "pubDate": "2026-08-08T01:14:03.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の死者39人に  nippon.com",
-      "category": "disaster"
-    },
-    {
-      "title": "お盆休みの交通ラッシュ本格化 駅や空港混雑、熊本地震影響も（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NR3NSckoxNl9hUW1xREp4MXkxSDR5TlRWOVJ3OGtHODU1ODMwXzRmbG8zZm9hRFAzWkdKYWpUekJjbC01Y3hVNXNBVHMtRDA?oc=5",
-      "pubDate": "2026-08-08T01:14:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "お盆休みの交通ラッシュ本格化 駅や空港混雑、熊本地震影響も（共同通信）  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "【速報】熊本地震の死者39人に",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QeEFicXlCMV9jYkJPM2VnT0hRUEdtY3NKMnhzUnBNckZGR0k2WEx5aWF2Z0dSU1haQkZNdHVvZldmZEhlblpvUXZiUQ?oc=5",
-      "pubDate": "2026-08-08T01:13:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震の死者39人に  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の死者３９人に",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlMkpTUWcwY0JzZENWamtJZHhJS25wQ3JXMjVIQ1NGUGtoS2NSWE12b3JFQmlhc1RhNThBa1MxWk9nem1LWDJnSVU4YzlzMnVW?oc=5",
-      "pubDate": "2026-08-08T01:13:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の死者３９人に  nnn.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQzhIZ2pyeURJaHNCcE93N3dIQUsxeW1iN0d3Rkc0dENNYU4tODBJVWt4eUtIT2RDczJ0LTUtLXl1SWlOX2tYYnY2OHIxRlE?oc=5",
-      "pubDate": "2026-08-08T01:12:50.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞7人犠牲のイオンモール熊本、避難後になぜ再入館? 生存したテナント従業員ら証言、浮かび上がる実態  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震、熊本県の避難者は今なお６６３０人…住宅被害は１万８０８６棟・３万６７３０戸で断水：地域ニュース",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vMEVlWnZxeE1VNUhySHNvbWR0NW5PSXpoUWFZQ3k5S1NEb2NZSDM4UkY2VE5XcWdCUk5ib01rSVBMczRFTWxQOVB5V1NOZEg5UnA3WjdGSDZEbzZlWlJZZVNVSG44eUxHZ3Q3V00tN1gtdw?oc=5",
-      "pubDate": "2026-08-08T01:09:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、熊本県の避難者は今なお６６３０人…住宅被害は１万８０８６棟・３万６７３０戸で断水：地域ニュース  読売新聞",
-      "category": "infra"
-    },
-    {
-      "title": "お盆期間中の事故、渋滞に注意 熊本地震 広域迂回路の東九州道で交通量２倍（宮崎日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnT01nZVNlQVlza2FZdFZJbzRreV9udVFPZGxXdTVteXd0VHctMW81TE5XY20wRnFDS0ZkT2hRQ250cHNmUm45MmJfcmlkelRPazNXdmpkTjdQcmVYQWpreWZ6LWUtNFZjOXBtM2xEMGlIN0FfUFJRZk0yY0RydDA?oc=5",
-      "pubDate": "2026-08-08T01:02:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "お盆期間中の事故、渋滞に注意 熊本地震 広域迂回路の東九州道で交通量２倍（宮崎日日新聞）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で福祉施設1700カ所超に被害 DWATが活動開始（福祉新聞WEB）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VY1IyaGtvVFpHWERGQXl2MElOT0tBcjlyTkpfRE5Qa1FmX0tzbVo5OUFlZlRhZk9XNW1FSUhpczVCRFZBOGNRXzJjdy1ZVEFyZDZPcDhkY2pZWWlNc2hmZ0pfMWxxOTlYNERGZTk2V2RmU1M0a0lFTHZNNzA1aHc?oc=5",
-      "pubDate": "2026-08-08T01:01:11.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で福祉施設1700カ所超に被害 DWATが活動開始（福祉新聞WEB）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-08T08:06:13.452Z",
-  "lastAttempt": "2026-08-08T08:06:13.452Z",
+  "lastSuccess": "2026-08-08T09:00:17.483Z",
+  "lastAttempt": "2026-08-08T09:00:17.483Z",
   "fetchOk": true
 }
