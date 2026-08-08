@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "【速報】芦北町で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bWZjNnRrdXFhVV9rU2pfMkJBTGhiT1FzRHVUYXh1Z3dBWUVSTVVLZ2dPY1M3MnpWT094LWJMcmlWb3pPdm1uaW5MSEdpdkk?oc=5",
+      "pubDate": "2026-08-08T20:21:58.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県天草・芦北地方 2026年08月09日05:18ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVJEQkV4WGZkNUtmUnM3VDBqMW9sLWFfcW1RaGhXRVNJQnBBU1NQcUY4dlN5dXBmOWNraE94UkIxaDZ2bkZNZHJQanNYb1dMYzF3OGhBOFVJN1U4MzFkZVJ0VlhYcVNjWkwxTHBnOG8xNXBEUXV2ejEyNW0yUXZZTmZucEk4V1k?oc=5",
+      "pubDate": "2026-08-08T20:18:00.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "震度1 熊本県天草・芦北地方 2026年08月09日05:18ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "（２０２６年熊本地震）ためらう避難、遠い支援 人多い場苦手・音に敏感・車いす用トイレない",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtSFJEQ2Fqd2R1elY4MWZDblcwRDR3cGp0Y1VValU5NkZ5eFA4NUhvYndmOHluZER3b2pUOFhUcUROazUwWmNERGFBSkk1QnpsQk1YamVSRVlad2JS?oc=5",
+      "pubDate": "2026-08-08T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "（２０２６年熊本地震）ためらう避難、遠い支援 人多い場苦手・音に敏感・車いす用トイレない  asahi.com",
+      "category": "life"
+    },
+    {
+      "title": "福岡：熊本地震 被災者へ無料法律相談 県弁護士会：地域ニュース",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucU12TjNwbmVORW14VVd6YnA1NEpNV085eFNvRG1RWjF3dGhDTnBqZU1SZUw4ZTNBTTRHNmJkLXI2dU81SU1hXy1lNVJYUk9MQWVnS0tpc0F2Z01xbm1fVHYwMEQ3Z2szcnRIUC1PWkNsaVE?oc=5",
+      "pubDate": "2026-08-08T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "福岡：熊本地震 被災者へ無料法律相談 県弁護士会：地域ニュース  読売新聞",
+      "category": "life"
+    },
+    {
+      "title": "感情と涙",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lemtuTXJUaS1Ycm9pNnRocE1QWF9qM1I2SGxnRjZJaU4xMkVnYjBpNkxHbGtTT01OTmVXNUE4Nk9NMEttcUljNVpidmd3VkU?oc=5",
+      "pubDate": "2026-08-08T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "感情と涙  熊本日日新聞社",
+      "category": "other"
+    },
+    {
+      "title": "農業被害深刻 産地の維持へ支援手厚く",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84d2x3V0d2Q0otSFlGWjNtTUwwanoxTkhSZnpoMDdhU0tNMWRtdmRXb1dfcGNwRlo3SUxWVktfVGh1ZE5ZUWF3NmVzVVpuYXM?oc=5",
+      "pubDate": "2026-08-08T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "農業被害深刻 産地の維持へ支援手厚く  熊本日日新聞社",
+      "category": "life"
+    },
+    {
       "title": "【地震】宮崎県内で震度1 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RT3p3X0VGM3RMZlljdUlGMzdzUG16R0JFQTU1YjZqWTRFdGpVRTZocTA3UHdGVHhiMVI0bENRVVE3RThHbWFMLWNwZl9TX0pDZ0U4ZVQzOEVCak1HaVBfYWViTF9nZEFLekxDRNIBckFVX3lxTFBvYnRfQkUySF8tdjMyc0w0MU42Sk8yZHNLY0hTS3BfdmotZVNvMTE3SExPTDNubjR4TEQ0TlF0WUhJbUpGZS1WS0psRGxSQ3lwUzNTRS1QSktJN09EMHc4WW1RR2RuRGtLS0tFWERMZU9iUQ?oc=5",
       "pubDate": "2026-08-08T19:47:50.000Z",
@@ -19,12 +73,30 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県で最大震度1の地震 熊本県・熊本西区",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EX3F2dUc2bmNGNzVKb2RGamVQZjlyeTlrRW1VLUJTQ2dnMHN2THZQQXJpNWlYN1R0cXNOU29aUmpRY1VvMTVMcW1lRTFKSEo3ZVJqekhQNkRkV0JENUgwZ2VDRGg?oc=5",
+      "pubDate": "2026-08-08T19:44:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・熊本西区  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "多くの墓石が倒れ「お盆」に影響も 熊本地震 被災地復旧急ぐ（TBS NEWS DIG Powered by JNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jbkkzY2RPZzdwbzJ5LVhFZ0F4MFVQMndLNXZQa3NZdVJLSjluRWItNFY5aTlIRFpuS1ZDSWJqRVdvc3VGenQ3QkJjaERJSlNKVFdWQ2diRWxZSGJOcy0wU0ZWUFJJSVNvb01wLVhhWDdrcTYtZE9WQXF1ajhtdUk?oc=5",
       "pubDate": "2026-08-08T19:42:30.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "多くの墓石が倒れ「お盆」に影響も 熊本地震 被災地復旧急ぐ（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震被害で墓石が多数倒壊“お盆に影響も” ボランティアが復旧作業「道を作ればお参りに来られるのでは」",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kVWtPM0ZaSVpQd2Q4TTFIYVRDQnJQTGprTlQ5VGlPclBJOEtQLV9scG9TTFhvaTd5NkpfNEJxbFVuVFdEZXlwQ18tSVZEVi1OUkljQ29wdkREeklSaU43ZmJXUkU?oc=5",
+      "pubDate": "2026-08-08T19:41:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被害で墓石が多数倒壊“お盆に影響も” ボランティアが復旧作業「道を作ればお参りに来られるのでは」  TBS NEWS DIG",
       "category": "infra"
     },
     {
@@ -43,6 +115,24 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "震度3 熊本県熊本地方 2026年08月09日04:33ごろ 地震詳細 | 富山のニュース｜天気・防災｜チューリップテレビ  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県熊本地方 2026年08月09日04:39ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXdrX3Q4TDFQYlQ1VHA5OHJVUUpSSTlOaVphMU5MVm9kdTZESW00ckVBQ2kxYkhkUUlUSUVSekRINDMtYk85bGpBZFI5X1hNTnJUWjhuaFctUEdlUkhDT1RjYXctTDVfaHNHMU50c3R2Y0oybDZnUzdlVi1NZlhTUjFnZ2w5RkE?oc=5",
+      "pubDate": "2026-08-08T19:39:00.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "震度1 熊本県熊本地方 2026年08月09日04:39ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県熊本地方 2026年08月09日04:39ごろ 地震詳細 | 静岡のニュース | SBSNEWS | 静岡放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0xaSC0xSkE1S19lSEg0U1NQbFlURTJYUWFYOElUVUFCck9DTFdaQS0wZl9aWG1rYV95ZFRiekMxUXo3WTRXTWR2QVZjVVNDNHZBb1RsOXh4d0k1S0lnRUxWNURXX0liSmVzRnk2TWt4aHpnYnlxVUpORTl2d2M1N1hLei1wTVE?oc=5",
+      "pubDate": "2026-08-08T19:39:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度1 熊本県熊本地方 2026年08月09日04:39ごろ 地震詳細 | 静岡のニュース | SBSNEWS | 静岡放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -132,7 +222,16 @@
       "pubDate": "2026-08-08T17:02:59.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "時代の風：熊本地震の思わぬ被害 進んだ10年 進まぬ10年＝藻谷浩介・日本総合研究所主席研究員  毎日新聞",
+      "description": "時代の風：熊本地震の思わぬ被害 進んだ10年 進まぬ10年＝藻谷浩介・日本総合研究所主席研究員  mainichi.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "妻愛した花 がれきに 「お父さん助けて」届かず 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUU50VXU1am9Hd1VNazRrc2liTVhIMkt3UGtxUENDc1JyYkg0M1I4aHBUenJOazREeVI3R1VOajJWXy1IbjNINXlMbEhiOUk4aWdzUVg0ckNueVBVX245bTRNbHdaM09Z?oc=5",
+      "pubDate": "2026-08-08T17:01:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "妻愛した花 がれきに 「お父さん助けて」届かず 熊本地震  mainichi.jp",
       "category": "disaster"
     },
     {
@@ -143,15 +242,6 @@
       "type": "local",
       "description": "熊本地震 断水解消で近づく“日常” 「二次避難」に新たな課題も  テレ朝NEWS",
       "category": "infra"
-    },
-    {
-      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yWWNNZWhTX1Bwdm9DUFh0SVo1dE9DUHRoUEFSVVE2eUJ5STRhYWxjOE5PbVFaTWRHX2Y5Q1JFLWJqTVA3N0pFR3c0SHpobGJweldGOXgzMmxhYXpBR3lj?oc=5",
-      "pubDate": "2026-08-08T16:53:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析  NHKニュース",
-      "category": "disaster"
     },
     {
       "title": "【熊本地震】関連調査中1人増え死者39人に 災害廃棄物受け入れ拡大へ（日テレNEWS NNN）",
@@ -397,6 +487,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWHFJWUVsdDk1cVEwamQtNlZqVDhvTkZBNUVoQWdJT0Nxb0NTdWQxa3BFSktWSGdjWkQ3N2JtM2xVb0EyU2dDM0lacTVQMDNhTncxMThscjJuczduUVI0?oc=5",
+      "pubDate": "2026-08-08T11:53:49.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析  NHKニュース",
+      "category": "disaster"
+    },
+    {
       "title": "「ガソリン届けようと…」車中泊で死亡女性の遺族が胸中語る 熊本地震“見えづらい避難者”どう支えるか “要配慮者”避難の現状 子どもの心ケアする医師も【報道特集】（TBS NEWS DIG Powered by JNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ObUVXMGZYdnAyNF8zVm1LV2RuV0tibXVTdUg4MlBuemJkeUJISXBWTXBlZ29RLUtOMlpmRld6SDBjUlF0VlhVNlNMbHk5UkF3YjFkS0Vrc1BMU2lUeFl0YWl6Z1paMjdISW0wQ0F4cVBIY0FGaGhlVzFJeE93cHM?oc=5",
       "pubDate": "2026-08-08T11:38:12.000Z",
@@ -609,7 +708,7 @@
       "pubDate": "2026-08-08T10:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災地に全国からボランティア 発生2度目の週末  朝日新聞",
+      "description": "熊本地震の被災地に全国からボランティア 発生2度目の週末  asahi.com",
       "category": "life"
     },
     {
@@ -800,108 +899,9 @@
       "type": "local",
       "description": "２度目の被災地入り…金子国交大臣が八代港など視察「経済を回すため貨物船の入港を」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "震度７観測 宇城市の印刷会社「鉄骨の工場でも…」《発災時の映像》が伝える衝撃【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aGh1NUhWc3hVdkVTelZBOF9kRkhjaEZiNnJTMlUxZG9VZUI0eHAzb3VZX1BROWtlNjJfZlh0N09KNlRZbWxBRWhyMmNEd1B2SnlMeVRIWmZERGpZb3Z5dUdqanFhd3FVRXdEZENWR0RuUk5OZlR5cnBkcVVtaFU?oc=5",
-      "pubDate": "2026-08-08T09:25:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "震度７観測 宇城市の印刷会社「鉄骨の工場でも…」《発災時の映像》が伝える衝撃【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「海で泳ぎたい」 熊本地震の影響で福岡便の予約は増加 お盆の帰省ラッシュ始まる（宮崎ニュースUMK）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVy1xWEg4a3ZjQzlTQ1JxcWx2V29LWExRakpFZVNfeTRVMUNfSmtPXzBIeFVMV0R3X2VuTk01ZERNVVlkYnk0WV84c1VwclJQZVlyRTU3b3RybE1SSjFHV2l2MFV1UTl5NlBHMlBTNUJraDNDMjRyUVJkREhRTFU?oc=5",
-      "pubDate": "2026-08-08T09:25:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「海で泳ぎたい」 熊本地震の影響で福岡便の予約は増加 お盆の帰省ラッシュ始まる（宮崎ニュースUMK）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、レイソル選手が募金活動 宇城出身の岩永選手「少しでも復興進めば」",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sVnRIMDU2QUIyOXV0VUZRalBYRlNlMWRPUmhrVDlVUTZqenhhaWZBY0NlamwtSGFPeUg0SDF0S3NFUUZjYl9vbjBzLTBFVEJ0N1dtdUR4WQ?oc=5",
-      "pubDate": "2026-08-08T09:24:38.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、レイソル選手が募金活動 宇城出身の岩永選手「少しでも復興進めば」  朝日れすかPLUS",
-      "category": "disaster"
-    },
-    {
-      "title": "阪神が「令和８年熊本地震」の募金活動を実施 村上、才木、高橋が参加 選手会長の村上「何とか少しでも助けになれるように」",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRDRBWXlSX09vZzY4c3Q2YzZ4dHpaTlZjS2xVOVVGb0dzSVUwSzhUa0dQTXVreTR4MkJsOXZyWXdJdnN4U1JUcVdMVW1vQUt3Z2Q2dF9BRHkzQ0VaNlI3Q1J1QTlVem9haXc?oc=5",
-      "pubDate": "2026-08-08T09:22:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "阪神が「令和８年熊本地震」の募金活動を実施 村上、才木、高橋が参加 選手会長の村上「何とか少しでも助けになれるように」  daily.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災者へ出発 車を無償で貸し出し「軽トラック・軽バンなどにニーズ」 富士市からボランティアが現地へ 車の寄付も呼びかけ（テレビ静岡NEWS）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZS1RfOTV5SC1INEo4aFVkbHFmaTFrWUthS3AyWnhDOWMzcjYzZUxTcVlucmVwWFdhSVBBeGpjUzRqTVdJV2dkMmE3X2JoZE1SZG1nZmRNR2xlZmxkbUhVY0tYWm5qLUV1bUZJb3VPbjlrck9OdDVlSEVRQkIxdkE?oc=5",
-      "pubDate": "2026-08-08T09:20:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災者へ出発 車を無償で貸し出し「軽トラック・軽バンなどにニーズ」 富士市からボランティアが現地へ 車の寄付も呼びかけ（テレビ静岡NEWS）  Yah...",
-      "category": "life"
-    },
-    {
-      "title": "ボランティアなど被災者支援の動き本格化 熊本地震2度目の週末 氷川町 全国から約50人集まり炎天下で仕分け作業 八代市 保健師が高齢者の家を巡回（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14UUZ5cEVqYkk4UkFlNnRMVUNsWDNqVkh1emN5WnVQVkVrNU8wYWZiWDRTN0MxUE4ycmx3d296Y2docnFfOEJDMmhha3VFNU1YWkFvWTd2YlRSbmRpNnJxbFVyeUVJVmk5bUZOTVlxNURXRDhIelBYS1JmNDY5aW8?oc=5",
-      "pubDate": "2026-08-08T09:18:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ボランティアなど被災者支援の動き本格化 熊本地震2度目の週末 氷川町 全国から約50人集まり炎天下で仕分け作業 八代市 保健師が高齢者の家を巡回（TBS NEW...",
-      "category": "life"
-    },
-    {
-      "title": "兵庫県所属騎手が熊本地震被災地を支援（競馬のおはなし）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VZGpnQ0Y5MDFvUXVVU3JWeV9qSGxRVFU1VXh5WFc0eTZ5aUFCVHhKZ1dpNEFWS1VXdVZ0YlFCX3lYdUl3bm9VX0p2U1ZlRXQ4eTlmVnVYWFFBZmp2LW9RcndpV3MxTk0yRTA0MmxqQkpyRFJNVk40NTBRQlNaTWs?oc=5",
-      "pubDate": "2026-08-08T09:14:27.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "兵庫県所属騎手が熊本地震被災地を支援（競馬のおはなし）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "フードドライブに合わせ熊本地震の被災地支援 宮交シティで２日間実施",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HNXdWbi12WENvVFp2X1pHY1p1OFZBeUZ4MVpyNHBkTXpOMG4zR2wtcmVrOU1IMXJYZkV5UEZ0b0RtU3Z4NFptR0xjc1MtMzZQRXZVMWpoOWJyalBtcWxLWW43bWo?oc=5",
-      "pubDate": "2026-08-08T09:14:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "フードドライブに合わせ熊本地震の被災地支援 宮交シティで２日間実施  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "2016年の熊本地震直後に、車中泊をしていた頃の有明の実田聡志主将（家族提供） - 熊本に届け、有明が甲子園で勇気の1勝 九回に逆転、10年前の地震で被災の実田主将は「古里に恩返しを」 - 写真・画像(3/3)",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqTEZ5YVlVX09mOGwzeVh4NXlpV0RoeVYyeWQ3bGstYTdQY01KQjFRd1pZMHVUclJXcmVGUnhxajU1VW1LOUJibkR2RzMzdkN6TUpEWlZwOA?oc=5",
-      "pubDate": "2026-08-08T09:11:57.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "2016年の熊本地震直後に、車中泊をしていた頃の有明の実田聡志主将（家族提供） - 熊本に届け、有明が甲子園で勇気の1勝 九回に逆転、10年前の地震で被災の実田...",
-      "category": "disaster"
-    },
-    {
-      "title": "売上は熊本地震の被災地に寄付 復興応援バザー開催 鹿児島市",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NcU1UdjNqdkM4WGY0RW91VEJicjJxMDNqeGtjbWtkUV9lb0VkcE5wT3NrR2dqdkp2R2RvX1BwZnNiS1JIQXkxdVVmcHNjTTE5WVJOSzJxdzl6c0JubUxHdGpkdWpydGJ4eXVUcy1oS3ZfYXdSdkRvRHhHc2dsX28?oc=5",
-      "pubDate": "2026-08-08T09:08:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "売上は熊本地震の被災地に寄付 復興応援バザー開催 鹿児島市  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【ＤｅＮＡ】ハマスタで熊本地震被災地支援募金活動 熊本出身の吉野は「暑い中で並んでいただきありがたい」と感謝",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUXNTSFhIQVFFaEVyclRlUG5UYklMdzNqTUhCTFdZX0RyX09Rd2kwVUJHdXdwVDFsd1VuZzJjMnlVbWxVa0dPRU1sc1BqU3ZfZklvWlo1aTlSS2dZR3FPaE9TTlJxdk5lSXJiX184bFVIbjdjdXFtNUNHZkI0Y00?oc=5",
-      "pubDate": "2026-08-08T08:56:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【ＤｅＮＡ】ハマスタで熊本地震被災地支援募金活動 熊本出身の吉野は「暑い中で並んでいただきありがたい」と感謝  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-08T19:54:03.490Z",
-  "lastAttempt": "2026-08-08T19:54:03.490Z",
+  "lastSuccess": "2026-08-08T20:28:43.382Z",
+  "lastAttempt": "2026-08-08T20:28:43.382Z",
   "fetchOk": true
 }
