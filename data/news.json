@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pRjR2Um4tcVBQOF95VnBRV3ZtN2xpVGdRdFQ0M2FzLXBTM2FmQVBpaFBSUEtBZ0M0WGRHTEdaUmZrMHZueWRmMnBwMlhfUEE?oc=5",
+      "pubDate": "2026-08-08T18:15:23.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk1WbjVwcFdyNWE5UjVSZnIzNUVqUkl0bFlSUmNrWVJBT2YyNHM5Ukx3aFJwM1lwWmRSYlhtVEVNbVhsdG9HSDRlaXRvOVRoZnJSak1mZ2pRNjBwV2QwV2lmTl9nZlEyeG9URkVTX1nSAXZBVV95cUxOYTljYlhuNVdVOGFqdktqSEFGb1haYV9QVDVpUHM2b3FWRlA5RTFaX3pWSWFHRUFDMjZJUlI1cXROMFRGdEM0UU1FWjlXRmtIQmtxMEh2X01TbmQxekZiQURsZWRRd1lId0VnM3RiMnl2VEVJbHdn?oc=5",
+      "pubDate": "2026-08-08T18:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県熊本地方 2026年08月09日03:10ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3g2MmkyZXotM0pnQ3dSNUVTcEMyZ2dxdnRCOUlpZkxiYzJoTjZOMG14cXhVQXRHb1pEWEh5R2FTUnpfUjVQZGI5bGo5UWQ0XzJFaUdXX3JlOEpEdE8zdlhxeFJheUp0eFVmalgyX0tvb3E3QlQ3MUluZjVnejF1ZzJ0TjN2VXc?oc=5",
+      "pubDate": "2026-08-08T18:10:00.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "震度1 熊本県熊本地方 2026年08月09日03:10ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市西区など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42a2RieFRQbUh5OTc1TlhSMi1QM3NEamJxcExvcG5Mc0JQanJFWHNtRE4wcmhiOUdoNDUxR0VXTjU1T1FORlBMamZJWm5ramM?oc=5",
+      "pubDate": "2026-08-08T17:57:30.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市西区など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度1の地震 熊本県・熊本西区、熊本南区、宇土市、宇城市、熊本美里町、甲佐町",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GOG1RWEVfV1JpbFQwV0V3N2dUbGs4Uy1nbFBISVcwSW02UzBUbm84dmx1TTZHWVZraXlRU19lclJ1OEFfcHUtSlRFZ2lFZ0J5Vng5WkJDZ1ZoRTZmR1BLWUo4NUQ?oc=5",
+      "pubDate": "2026-08-08T17:56:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・熊本西区、熊本南区、宇土市、宇城市、熊本美里町、甲佐町  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "時代の風：熊本地震の思わぬ被害 進んだ10年 進まぬ10年＝藻谷浩介・日本総合研究所主席研究員",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ZkNtdzhMUkMxMTY5Y2psQmJ4cEs0LVVtYjFaODJXeHFVMjdReUpoTGFOaXVMenVDUXlGWDhWd2VMRS1QaXpvWmxIQ1pOSjRFbjhyamxhdEIwQU1PQTFfYWlvRF9xQmdW?oc=5",
       "pubDate": "2026-08-08T17:02:59.000Z",
@@ -17,15 +62,6 @@
       "type": "local",
       "description": "熊本地震 断水解消で近づく“日常” 「二次避難」に新たな課題も  テレ朝NEWS",
       "category": "infra"
-    },
-    {
-      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yWWNNZWhTX1Bwdm9DUFh0SVo1dE9DUHRoUEFSVVE2eUJ5STRhYWxjOE5PbVFaTWRHX2Y5Q1JFLWJqTVA3N0pFR3c0SHpobGJweldGOXgzMmxhYXpBR3lj?oc=5",
-      "pubDate": "2026-08-08T16:53:31.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析  NHKニュース",
-      "category": "disaster"
     },
     {
       "title": "【熊本地震】関連調査中1人増え死者39人に 災害廃棄物受け入れ拡大へ（日テレNEWS NNN）",
@@ -145,6 +181,15 @@
       "category": "disaster"
     },
     {
+      "title": "Ｊ３熊本、今季初戦分ける 宇城出身ＤＦ「日常尊い」（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14alZWcW55d0FFUlpTSzlNQTl5V25tUTFHak5QY0NaeGJBVEE4cWdIR01ENEpoeDNDaUExZGhGRTBiUnNCX29rc2VZWWJyVWM?oc=5",
+      "pubDate": "2026-08-08T13:01:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "Ｊ３熊本、今季初戦分ける 宇城出身ＤＦ「日常尊い」（共同通信）  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "＜2026年熊本地震＞「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGVBRDYzWmgxVG1aM2J4WV85eTRlWk1vdGlrS1FLRENzYW5BSlhTNDlvZUF0emt1S3NsRDFaZERmeVM0ZFF1SHVBaHg1T2M?oc=5",
       "pubDate": "2026-08-08T12:49:51.000Z",
@@ -250,6 +295,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震の被災地で“火事場泥棒”か 上天草市の住宅から室外機を盗んだ疑いで40代の男を逮捕  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyWHFJWUVsdDk1cVEwamQtNlZqVDhvTkZBNUVoQWdJT0Nxb0NTdWQxa3BFSktWSGdjWkQ3N2JtM2xVb0EyU2dDM0lacTVQMDNhTncxMThscjJuczduUVI0?oc=5",
+      "pubDate": "2026-08-08T11:53:49.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析  NHKニュース",
       "category": "disaster"
     },
     {
@@ -379,15 +433,6 @@
       "category": "life"
     },
     {
-      "title": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05SEstUnd5QzctanNYcUlUdDgwMlF6b0lIY0k5YkRza0tORlgweE85X0JVTkhNcnA0RlRoRW1VMHJuVUlvY3EyNHA0dzZ2bVYyNmdldVNueEVvRkljdzlHaVd2NGdrdExvOGdPQVBfMlpxTGM?oc=5",
-      "pubDate": "2026-08-08T10:12:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【第４報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報  日本赤十字社",
-      "category": "disaster"
-    },
-    {
       "title": "HIKAKIN、熊本地震で2000万円寄付に「いつも先頭にたってくれて心強い」ファン絶賛の一方、3.11の投稿を蒸し返す声も",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQdU1wcGlCNU1NVE5vLXFBSjhKdDdJOEpTaWFGNGkzVUV6Y3I2QUJESmdIYWlmWjdaYWVIeEs2VE5VR3R2X2VaUDd6QVBRdXA5T293VVc4eHpxT1REOFNSRGFxMjNOU1pGemwtdjk3U1R2S1hIQ1cwRlR3a2tOSTg?oc=5",
       "pubDate": "2026-08-08T10:10:19.000Z",
@@ -456,7 +501,7 @@
       "pubDate": "2026-08-08T10:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災地に全国からボランティア 発生2度目の週末  asahi.com",
+      "description": "熊本地震の被災地に全国からボランティア 発生2度目の週末  朝日新聞",
       "category": "life"
     },
     {
@@ -501,7 +546,7 @@
       "pubDate": "2026-08-08T09:52:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.08.08 18:39 ] ストレスを抱える被災者の心のケアも課題 「しんどいです」不安抱える住民【令和８年熊本地震】  TKU テレビ...",
+      "description": "[TKUニュース 26.08.08 18:39 ] ストレスを抱える被災者の心のケアも課題 「しんどいです」不安抱える住民【令和８年熊本地震】  tku.co....",
       "category": "disaster"
     },
     {
@@ -562,9 +607,9 @@
       "title": "全国から大勢のボランティア駆けつける 住宅などの復旧作業に住民「うれしいです」【令和８年熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LM05qdmZTR3FCVk01UFBreEd1VzRyYnJyOTVLRHNHbUx4aFRrblhOWjF4alBOZUFHWVIxTGJmWmxkbE8tbDZybHI3VlpBQjgtM1EwT0VIaE1TRXY3NXNlSy1hUQ?oc=5",
       "pubDate": "2026-08-08T09:42:04.000Z",
-      "sourceName": "TKUテレビ熊本",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "全国から大勢のボランティア駆けつける 住宅などの復旧作業に住民「うれしいです」【令和８年熊本地震】  TKU テレビ熊本",
+      "description": "全国から大勢のボランティア駆けつける 住宅などの復旧作業に住民「うれしいです」【令和８年熊本地震】  tku.co.jp",
       "category": "infra"
     },
     {
@@ -600,7 +645,7 @@
       "pubDate": "2026-08-08T09:36:56.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.08.08 18:00 ] 犠牲者は１人増えて３９人に 新たに４人の氏名を公表【令和８年熊本地震】  TKU テレビ熊本",
+      "description": "[TKUニュース 26.08.08 18:00 ] 犠牲者は１人増えて３９人に 新たに４人の氏名を公表【令和８年熊本地震】  tku.co.jp",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "「地域に恩返し」…ランナーたちが被災地支援 家財の片付けや掃除など 八代市、氷川町で活動  熊本日日新聞社",
       "category": "life"
-    },
-    {
-      "title": "熊本地震、死者３９人に＝関連調査中１人増",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02akhuNk1MUXRyYXR1XzY4OTE5TEZqbXFhQjJpQXJFSU1QQ0tTWE1FaEJJeFhuaTc0MWxETjFSUTJKaHJZLUprcjY4T1ZLQ3Jrc09LQnotQzN2SUJZ?oc=5",
-      "pubDate": "2026-08-08T08:36:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、死者３９人に＝関連調査中１人増  nippon.com",
-      "category": "disaster"
-    },
-    {
-      "title": "夏休みに被災 ストレス感じる子も",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaQXZSYVZFY2Q3aFRid193aFlpRmYtWmdEdTBocF96MENDb2wzUGItMGQzeXF2YUFlcGFjMU5XR2g4cFlFZmRvQVdKY2JLVWo3?oc=5",
-      "pubDate": "2026-08-08T08:34:27.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "夏休みに被災 ストレス感じる子も  Yahoo!ニュース",
-      "category": "other"
-    },
-    {
-      "title": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表（2026年8月8日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1hCR3BGeUJqSWxSOGZGN2tDOHBJaUtSQVRud19KdlRENDJTYS1DVjViYzkxTzhoQVFhaDFZd1R0RmQ5el9XVjBaNEoxenJoVmVQcmlGT1dnTGF0SG83Ny1zamtBU2laTkwzcmU1dWJWUWxfNHlsZGE3Ti1jSUsyWDVKcTRVLTQ?oc=5",
-      "pubDate": "2026-08-08T08:33:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表（2026年8月8日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表 (ＫＫＴ熊本県民テレビ)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmQ2SkhaVmhzb0E2ekVqMVBfMEJXMVF5d2QzYmpsdjFoRXBpVGlxMEZ3cnY2M0lFeFZPa0xwTXJrOEVrLXRXOTNkNWF0WS15ZDRTVGVzWlA2NDFuenVSNkpWbjNxZ1dkOGtTX2dvdmRDUFdINm1rd29HdUNqaENJN1EyM1ZlOW0wOEM2NFBB?oc=5",
-      "pubDate": "2026-08-08T08:33:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BeEdmNjJ0Ykx2bHpIODhXS2hvTXljN3EwWGIyTzI3V2MwYTNjT3JoN0VCaWwzVlhWa002WjFBNHFqRHZpNlcwVUgzTm1FM0dmWXVRMHhBYVFuQlM4a1liNmhjdm1jOXZHRHhMb1NB0gFuQVVfeXFMTUF4R2Y2MnRiTHZsekg4OFdLaG9NeWM3cTBYYjJPMjdXYzBhM2NPcmg3RUJpbDNWWFZrTTZaMUE0cWpEdmk2VzBVSDNObUUzR2ZZdVEweEFhUW5CUzhrWWI2aGN2bWM5dkdEeExvU0E?oc=5",
-      "pubDate": "2026-08-08T08:33:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震による死者1人増え39人と発表 遺族の同意を得て4人の氏名公表  Infoseek",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-08T17:47:05.478Z",
-  "lastAttempt": "2026-08-08T17:47:05.478Z",
+  "lastSuccess": "2026-08-08T18:36:26.017Z",
+  "lastAttempt": "2026-08-08T18:36:26.017Z",
   "fetchOk": true
 }
