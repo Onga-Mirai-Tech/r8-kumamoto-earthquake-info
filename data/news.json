@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "熊本地震のメカニズム",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IYVp3bE9DY1h5cEdxNVJDZC1UcnVfc0JyTGcxWTJTcTRzRDFRYWVYSDRaclhNY015Y0hqYzF0b3lKLXBGSnpVUFJRWmZaMnQwd0lqOUs0R0o0ZGVCLWFUYklBRkRRLUNpc3h6QlBRQ0Y?oc=5",
+      "pubDate": "2026-08-09T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震のメカニズム  毎日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災地を応援したい 「支援金」と「義援金」は何が違うの？＜かほQチェック＞",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1My1JeUpwb0NfTE13MDBjUDhpTkU5clFHY1pLZ1hCcjVINjlzN3pXS1FMVG9Jdl95OTVFdDNCVzkwWGhLcUxNWlJCbEY4XzNzcjRSazJWWkZhdnQ2RDlCaw?oc=5",
+      "pubDate": "2026-08-09T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地を応援したい 「支援金」と「義援金」は何が違うの？＜かほQチェック＞  河北新報オンライン",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震で便乗犯罪や悪質商法が横行か 避難所にカウンセラー名乗る不審者も",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZTEzTTNpNjRZaGhHWl9ZYVJtRUdqVl9vbk1SV0VzRzVNcTJNa3UwNXlGWFJCdmdfbnMwUHh5OVBJXzdPUEJCOFNCY1JydDVGNks5N3hR?oc=5",
+      "pubDate": "2026-08-09T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で便乗犯罪や悪質商法が横行か 避難所にカウンセラー名乗る不審者も  西日本新聞me",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震で注目される活断層リスク、東北でも 山形3ヵ所「切迫度最高」 「長町－利府」も備えを",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zbGd1NzA1bk9seWhZZ3JYNkR4TF93aU1sclEyckVBY0thaTM3andDQ0VQRGFXWnY1NUlCbjdobGFUUkNULVVWRnpXUU1lSERKdUZ6OG1oSU9ndThHOWZaSw?oc=5",
+      "pubDate": "2026-08-09T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で注目される活断層リスク、東北でも 山形3ヵ所「切迫度最高」 「長町－利府」も備えを  河北新報オンライン",
+      "category": "disaster"
+    },
+    {
       "title": "ゆず、熊本地震支援で配信リリース 東日本大震災伝承歌のライブ音源（朝日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RTXhkQ0hxVGVhSnpmWUtTSkRZTGxQWE54WXBORmVKOHNoczJjZ3RzbGg1V0JhZ1JqdE9ja041T1lFMkJCa2R3WXNodFNuSDBBSG5HYWM3TnJvNnRuNkNiM1pYbEZFQm52eUU2WmlieDQwOEE1c0VwRlVTLWVTazQ?oc=5",
       "pubDate": "2026-08-09T20:14:58.000Z",
@@ -55,15 +91,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震・南九州道ルポ 分断損傷の高架橋、落下防止システムが機能",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NFh0ZEtFYmNrOXRKcVVHRkhmcUVFNWR2Tk5xcFMzMVBOcGhTMkRPVGROV183SkVRNTdReTNNejJCbFRkQjZGTnFWeXJvWFR2M0tJN3RjV1RMRVFiZlR5OGo5U253bmJNWmhWOQ?oc=5",
-      "pubDate": "2026-08-09T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震・南九州道ルポ 分断損傷の高架橋、落下防止システムが機能  日本経済新聞",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震で損傷の南九州道「完全復旧まで半年以上かかる」熊大教授",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HWlp4ZVNVTVBUSlFJX3IwVGM1bUZ4bEhXdkJxYU9kUy1fVnJBelBlTFU4cFZLMXY2RmhWQlJsSVdWVlJWT0hRdk5FenNhNFNJTXVURGIwOVZ3amtWOUdDNVB4WEVzd243dlZwVA?oc=5",
       "pubDate": "2026-08-09T20:00:00.000Z",
@@ -73,6 +100,15 @@
       "category": "infra"
     },
     {
+      "title": "熊本地震・南九州道ルポ 分断損傷の高架橋、落下防止システムが機能",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NFh0ZEtFYmNrOXRKcVVHRkhmcUVFNWR2Tk5xcFMzMVBOcGhTMkRPVGROV183SkVRNTdReTNNejJCbFRkQjZGTnFWeXJvWFR2M0tJN3RjV1RMRVFiZlR5OGo5U253bmJNWmhWOQ?oc=5",
+      "pubDate": "2026-08-09T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震・南九州道ルポ 分断損傷の高架橋、落下防止システムが機能  日本経済新聞",
+      "category": "disaster"
+    },
+    {
       "title": "（２０２６年熊本地震）寸断・自粛、観光に影 ホテル各階で亀裂、予約千人断る",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvUHZzRmVXd05nb05penpSRkV6Vm9nMWxtZ056M25zUlF2RG9OZVVjR2l1OW1zUjc3SkRnUFZyZ2p1eEU4QnR0LXlhRXFKNWtaY2IyWklNN1pJXzhQ?oc=5",
       "pubDate": "2026-08-09T20:00:00.000Z",
@@ -80,6 +116,15 @@
       "type": "local",
       "description": "（２０２６年熊本地震）寸断・自粛、観光に影 ホテル各階で亀裂、予約千人断る  朝日新聞",
       "category": "disaster"
+    },
+    {
+      "title": "ゆず、熊本地震支援で配信リリース 東日本大震災伝承歌のライブ音源",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uNG1JclBaM3RSbUtEU3dpWjY2MjcyWHB5R3R5d3ZRaFp2ejdMTWVWNFhnQkE5eEtjWUkxYlF6b2lRaFFTcmNsSmhoeENLM19pbkN3b2xfckpCVjFnc1h0Y0hjMGxWNEU?oc=5",
+      "pubDate": "2026-08-09T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ゆず、熊本地震支援で配信リリース 東日本大震災伝承歌のライブ音源  朝日新聞",
+      "category": "life"
     },
     {
       "title": "熊本：熊本地震 くらしの掲示板：地域ニュース",
@@ -366,7 +411,7 @@
       "pubDate": "2026-08-09T12:19:37.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "盗難被害支援の「恩返し」…熊本地震被災地で炊き出し ナシ農家とダレノガレさん  産経ニュース",
+      "description": "盗難被害支援の「恩返し」…熊本地震被災地で炊き出し ナシ農家とダレノガレさん  sankei.com",
       "category": "life"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "【熊本地震】お盆の帰省ラッシュ本格化する中 被災地では片付け作業（テレQ（TVQ九州放送））  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞延べ16万人が利用…投稿サイト「イマココナビ」、被災者の欠かせぬ存在に 御船町の女性経営者、地震後に立ち上げ 買い物、ガソリン…被災者ら情報を共有（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ybzlnb01wVy1GbmtlTU9vOXpqNENZMG5MblFxUGpNcHU4dGlQTUk4bmVBSWVUdnFmQl9MQjc2dFhxMmVJU3JLdFgxdi1XLVpJaGt5UXExLWxvYTUwOWREWVRIM1RWdXJuVXJ3aHlZZ0VIdV9pcmp0T0dURVdScXM?oc=5",
-      "pubDate": "2026-08-09T08:48:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞延べ16万人が利用…投稿サイト「イマココナビ」、被災者の欠かせぬ存在に 御船町の女性経営者、地震後に立ち上げ 買い物、ガソリン…被災者ら情報...",
-      "category": "disaster"
-    },
-    {
-      "title": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UMnBTSFdHWnNnVHVia2FTUmwyOFM0aS1zZnRibU9YS255cDRhbkxYeFBGZ2hjNFl2X0JoTWxhcUhtUDlrZHZVRnotVXJyWVVrNzlfRUF2Rm5oSkwxenZWR085VQ?oc=5",
-      "pubDate": "2026-08-09T08:47:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  時事ドットコム",
-      "category": "life"
-    },
-    {
-      "title": "「31年前の支援を神戸は忘れていない」 三宮センター街関係者らが熊本地震募金活動/兵庫県（サンテレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWnF2ZDNTZ3E5ZDE0SFRtVG1qUEZSMWQxRnRHZ0E2NXN3TGxid2dUMWpYRzhETk5QZzQ0N3hnUHAwd3N0MXg1RERMZHpMV3phUi1Eb0dkSEdFUXU0TW5aaUdVM0RIcGlxU25laHIwdTJZSm1iN1E2N2hrMUxKMHc?oc=5",
-      "pubDate": "2026-08-09T08:44:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「31年前の支援を神戸は忘れていない」 三宮センター街関係者らが熊本地震募金活動/兵庫県（サンテレビ）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUTVQbVlfT3lVQVZjWWQzeUVDb3NpRFVPNVhDUW9sTjY4ckZPRnhkelJpWWpPZllqcko3Wm1YeW9xeGlUa01hY3IzbUZlWURac21waFdOT0RiNmw2MlpkcTFyM2Q?oc=5",
-      "pubDate": "2026-08-09T08:42:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し  TBS N...",
-      "category": "infra"
-    },
-    {
-      "title": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNXp3LVViR25ReWlTX1BzbDBpV0lyMTFlTUpvRzZua051bkJxM1NmMmhkOER6Z2RyMWVYUHJ2WDJybVdqb2RIczkxM3Z3alIxVjE2MnNGaUxRR05hRGVuRGNXaU9jUXBBUzZoZkhRbUtjdWkxYVFXcWNiXzVBS2s?oc=5",
-      "pubDate": "2026-08-09T08:39:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し（TBS NE...",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-09T20:39:22.532Z",
-  "lastAttempt": "2026-08-09T20:39:22.532Z",
+  "lastSuccess": "2026-08-09T21:13:12.817Z",
+  "lastAttempt": "2026-08-09T21:13:12.817Z",
   "fetchOk": true
 }
