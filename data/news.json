@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYk9CcDRhRUJGUWpLV3JFOXRCUmpZV2VlT3N4OU92a0hIX1R6dWpHanQwMEcwQ05SY1BMRmYwRzl5cGM4cW84WDNHYWdkQUV1aFJvSkdzNTNNZUZsME5icnRYbV9ZYUN0T0RtMUROTFFZei1jaTNSNFU1ZWdXbnl6cmVSRQ?oc=5",
+      "pubDate": "2026-08-09T15:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供  日経クロストレンド",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VbXZYdTlva29oYWYxa3QwVjVySDdjUEstTUdUQ1FfUzlrMmxDZmtqZ21ZSzVYRGwtdW8zdldSaUlFVDJISWRsYnV1MndKckhXOGVJczRqdlQ4SnR1RDNj?oc=5",
+      "pubDate": "2026-08-09T14:33:33.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か  NHKニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震の住家被害、2万棟を超す 早期把握に向けて人工衛星も活用",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Uk9jX3lXM2gzblhqNEwwMTNqMVN5WmtXdzV5RnV5ZWoyOW40eVdTZ0tMekFNcjZJc0NHTmx2WUoxQ3lNR1RSRWZWYVYyRjQtQXlNQWtibk1GVXNkaHAyU2k5amxGTkU?oc=5",
       "pubDate": "2026-08-09T13:47:34.000Z",
@@ -17,15 +35,6 @@
       "type": "local",
       "description": "熊本地震、家屋被害2万棟超える 6千人避難 (共同通信)  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞日奈久断層帯「なお警戒を」 ひずみ移動「地震起きやすく」 産業技術総合研究所",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HLVdvejhsRHpmODJSLVNWRkJHUUVDUUJFSU1YSlVkUEVFM1RocEpQSXhpTXZ3VzZQZHU5ZmpoS25Yd2FvSEtITWVhaw?oc=5",
-      "pubDate": "2026-08-09T13:35:29.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞日奈久断層帯「なお警戒を」 ひずみ移動「地震起きやすく」 産業技術総合研究所  47NEWS",
-      "category": "disaster"
     },
     {
       "title": "2026年熊本地震＞日奈久断層帯「なお警戒を」 ひずみ移動「地震起きやすく」 産業技術総合研究所（熊本日日新聞）",
@@ -136,15 +145,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UcXJaVEdUWk9pNkZzaDItbWZZNkVRNzQ5TGdpMTA1NWVYVDVsT2dGa2JzVFNQbEdtdV9uanh6T2wwdEhaUWVsSHlyZzFrNHJPVnlMbzVsM1ExR2o2ZFVj?oc=5",
-      "pubDate": "2026-08-09T12:45:04.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難  NHKニュース",
-      "category": "life"
-    },
-    {
       "title": "2026年熊本地震＞住家被害2万棟超え 熊本県が新たに犠牲者1人の氏名公表（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1McDJtZjdiZTdFenJPOE83YTRPS19WZFJGVHpYT3Vtb0JWV3AzTEpLbjVDOGNIZXk3UHJnWjJlN0xkOU0tMUc1b3ZMMERYdWRhWHNrOE1FVzBpdVNWTjlxQU1TSmh0Um1VYmwzMzFJTERsa1A5bTIzcjEzWFNBNXM?oc=5",
       "pubDate": "2026-08-09T12:29:25.000Z",
@@ -218,11 +218,11 @@
     },
     {
       "title": "「跳びまくれて楽しい」 被災地で子どもが遊べる場所オープン 子ども向け運動教室の運営団体が開設＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04cVMtWlNqLW1iWFpydTlibmJkdTFIeVpvU0pCYm9ubnZFdmRxc3lrMDl2OW41cFJCZ2pXVDhnVG1NYzdXTUxNTkhjSU1NSkViN2VNd3Nlc2Q1ZjhWS3RLUzh3dm1MT2JXLV9sdnlMZXlka0ZCR2pvTHNnN09Bb0E?oc=5",
-      "pubDate": "2026-08-09T11:04:12.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaGFZYnYtMHhnaU5CV3VDci1Ybjh6dHJmbmhQRjJNQkxZLU9RSW9FLWdxVC1pX0RLOThlWVNuQzRvOEJPQ1JqQy1fQVFZTWNDRENoampRcS1HNThEQXE4V0kzZ2EzRmc?oc=5",
+      "pubDate": "2026-08-09T11:03:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「跳びまくれて楽しい」 被災地で子どもが遊べる場所オープン 子ども向け運動教室の運営団体が開設＜2026年熊本地震＞  Yahoo!ニュース",
+      "description": "「跳びまくれて楽しい」 被災地で子どもが遊べる場所オープン 子ども向け運動教室の運営団体が開設＜2026年熊本地震＞  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -487,6 +487,15 @@
       "category": "disaster"
     },
     {
+      "title": "＜2026年熊本地震＞日奈久断層帯「なお警戒を」 ひずみ移動「地震起きやすく」 産業技術総合研究所",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HLVdvejhsRHpmODJSLVNWRkJHUUVDUUJFSU1YSlVkUEVFM1RocEpQSXhpTXZ3VzZQZHU5ZmpoS25Yd2FvSEtITWVhaw?oc=5",
+      "pubDate": "2026-08-09T09:23:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞日奈久断層帯「なお警戒を」 ひずみ移動「地震起きやすく」 産業技術総合研究所  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "＜2026年熊本地震＞日奈久断層帯、ひずみ移動 「16年の地震が影響」 産業技術総合研究所",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FQ0VNb1VMclk1Mk5xX3RsOEQzSFppZEtPcnRwWUhKa1RPSUFUYUwyOXVwQmVJMVk5QWc5bFRxbWFSNk92STNncERXRzkxTkU?oc=5",
       "pubDate": "2026-08-09T09:23:20.000Z",
@@ -512,15 +521,6 @@
       "type": "local",
       "description": "熊本地震　今も3万戸以上で断水　配られた洗剤は能登の被災者の声から生まれる  ｄメニューニュース",
       "category": "infra"
-    },
-    {
-      "title": "がれきの下から「ワン」 熊本地震で生き埋め15時間、一時絶望も…声に気づき奇跡の救出（産経新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUE9CWGtoQzBnd19QTTk1TTFhdk52ZERkNVZKaFN5YTlWLThaSkNSNmJTcWQ5Q0ZHM05KU0pwajZvNHczT3ZMbXpuZm1nYzAzMDZmelZxZlpBYjZ6Y3RJZ3lVUTVBaEhGalB1S1JTdmhvbGw1d1BqUFh4TlFCMlE?oc=5",
-      "pubDate": "2026-08-09T09:14:08.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "がれきの下から「ワン」 熊本地震で生き埋め15時間、一時絶望も…声に気づき奇跡の救出（産経新聞）  Yahoo!ニュース",
-      "category": "disaster"
     },
     {
       "title": "熊本地震の被災地へ秋田県職員を派遣 住宅被害状況の調査に従事（秋田朝日放送）",
@@ -730,6 +730,15 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表 (熊本日日新聞)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHBHc0JrWHE0T0dBN3FhUmZaQ1JXSlhHdFl6a1ROT3BleDBqeTRJY0hjeE5nTEJiT2t6Zk5TaVdoZDJtMXNpWThaazh6T3FaR0diYjM4aHNvbElSTjYyVVBoZkZCQjg0SjZGUm9OdW5XT0JEeVJjRnFDOXhCeV9wTnd2LWJTTHJWbGNVeFF3?oc=5",
+      "pubDate": "2026-08-09T07:55:29.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表 (熊本日日新聞)  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OajdIWVByUWd5aE9hUm9nVGxhcEJmNFhHUTlWOXN4WU0zcHVKZDgtRG9iSFYzOGxFLUVwazFadU8zVnl2UWhJY3YyQnY4TTl6ZTNSQU55OG93U1ZVb2E1LU5PV21jV3RHRHVpNGJyWVdfLUlSUnBBdTdkb3JLb1k?oc=5",
       "pubDate": "2026-08-09T07:55:29.000Z",
@@ -757,21 +766,21 @@
       "category": "disaster"
     },
     {
+      "title": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMa2JNNmQ2LVkwN1dkajF0YTc5NWpIZVJldWFWUkFlSlVaWWE3NHpzR3FGOFh5d1lldWM0QjJlOGtOUkRwZlJ1Z3BhZFliYU0?oc=5",
+      "pubDate": "2026-08-09T07:49:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SN1Fkb2JxRFZjbjM1OFVxeW5jaGZqdFd6cDNMOGxrZldHZFpGZXc4RWV4YVF5RWx3d0p6WDJvOGxKOGIzcUxGZ0ZxRVJCQzE3N2ZVbzNn?oc=5",
       "pubDate": "2026-08-09T07:48:22.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も  西日本新聞me",
-      "category": "infra"
-    },
-    {
-      "title": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bkZQNkxkaHN5d2V2YlJFdDhicU5nbndkU3Ayd3dZMDRwN3piQ1ZSNGc3eHlheVJrTHdJNUJkQnhqbmVjM1F4Y0lwQzJPaVlfY3hucmFFaUpzMjczeERHYTRrUHpEY0hKVzB0Z2JWX1JvZ0c1dC1FWFowc2dCQTA?oc=5",
-      "pubDate": "2026-08-09T07:48:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "熊本県で最大震度2の地震 熊本県・熊本南区、宇土市、宇城市  TBS NEWS DIG",
       "category": "disaster"
-    },
-    {
-      "title": "【令和8年熊本地震】ダレノガレ明美、現地でボランティア “食べ物”“不足していると感じる物質”など詳細に伝える",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSlBUN3VyQjZGRnRJcFFWQzhZM0lXZ1NDN2FaSWJWSE5OMDNOTE5TclFVTE5HaDEtTnE0aWJIQkxQWXdxQWEtOVNqMjZwMW8?oc=5",
-      "pubDate": "2026-08-09T07:20:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】ダレノガレ明美、現地でボランティア “食べ物”“不足していると感じる物質”など詳細に伝える  オリコンニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-09T14:33:52.321Z",
-  "lastAttempt": "2026-08-09T14:33:52.321Z",
+  "lastSuccess": "2026-08-09T15:08:48.648Z",
+  "lastAttempt": "2026-08-09T15:08:48.648Z",
   "fetchOk": true
 }
