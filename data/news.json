@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "title": "【速報】八代市など震度1",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ0bm9vVXozbXVsMURLLUZ2MG9nUHl0UTdsYUJERG1GOWhLeHh1a0ZqWlpBT3AxSTUzd1JEZkM1TVdmMmthaF9XVDY1b3M0aXdVTjh4TGlsdEd6OUp0QW0wakk2TUF4dTFIMUI5WDYtVDYwcVJLYXNGS0xHN21SSy1pcEJEUWc0XzI2R0lITmQ3UVFT0gGHAUFVX3lxTE5aNXNXSExqektFV0JZVU9lWUoxZGNKQmp6bUpncFRZZWlERVFlLVVDWjZ1UVl6bFZoN0JsUEdhS05wVGRQVkgtdm1MclR0OGgwR2lDOWdjQWRWN1REOHVEQzRCeGY0OTFFZFFMbUZ4RDlPWEsyRjd4MTdOcGdodDMwMGk4LUR4NA?oc=5",
-      "pubDate": "2026-08-09T17:41:39.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】八代市など震度1  topics.smt.docomo.ne.jp",
-      "category": "disaster"
-    },
-    {
       "title": "【速報】八代市など震度1（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWFNES2lLbXBoYjJYbC1KWGRqN3A0RE45RXpKU2JjNDJhSkFLLW9sMWVranM2X0Q4VERIOHJNdlZmem8tU3FhWU41S2o1cnlrbk1uVXlTM3BNQkdUdVVqYVgxRWVVT19rX0pEeENiMURVMGEyTWtKZlZocVNrZ0k?oc=5",
       "pubDate": "2026-08-09T17:40:41.000Z",
@@ -34,6 +25,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "震度1 熊本県熊本地方 2026年08月10日02:23ごろ 地震詳細 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知  TBS NEWS...",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQ2QtdlhaRlJFblZXMFRIN296UXA1QlJaWlBOa1B1SHBjVkRrek5PdnFMSnJlQS1UcDVxU0NRWXJZZWxRN0V6YUJfZw?oc=5",
+      "pubDate": "2026-08-09T17:27:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市など震度1  47NEWS",
       "category": "disaster"
     },
     {
@@ -105,7 +105,7 @@
       "pubDate": "2026-08-09T15:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供  日経クロストレンド",
+      "description": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供  xtrend.nikkei.com",
       "category": "life"
     },
     {
@@ -771,7 +771,7 @@
       "pubDate": "2026-08-09T08:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  時事ドットコム",
+      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  jiji.com",
       "category": "life"
     },
     {
@@ -901,7 +901,7 @@
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-09T18:39:17.864Z",
-  "lastAttempt": "2026-08-09T18:39:17.864Z",
+  "lastSuccess": "2026-08-09T19:20:07.777Z",
+  "lastAttempt": "2026-08-09T19:20:07.777Z",
   "fetchOk": true
 }
