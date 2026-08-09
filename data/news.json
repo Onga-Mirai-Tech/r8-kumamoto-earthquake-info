@@ -105,7 +105,7 @@
       "pubDate": "2026-08-09T15:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供  xtrend.nikkei.com",
+      "description": "熊本地震に本業開放型支援 再春館は社員寮、エニタイムはシャワー提供  日経クロストレンド",
       "category": "life"
     },
     {
@@ -771,7 +771,7 @@
       "pubDate": "2026-08-09T08:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  jiji.com",
+      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  時事ドットコム",
       "category": "life"
     },
     {
@@ -820,21 +820,21 @@
       "category": "infra"
     },
     {
-      "title": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線 (ABEMA TIMES)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFl6WmpmVVM2UGV2aHNhSU5aWG8tSEp6MUtkWmJzVVNHbXZ6NF9UOVpEVWF0SWdnZXlaVGFjXzhpVTFDR3g2TWhrWHVPMkdNcGItWks2SVNfb2FZaXFGV1BjTU10d0VGQnNURjYxU0VGMGNacWp3S0l3d0lLYW5pbFBCaWw5d3piY3U3STF3?oc=5",
-      "pubDate": "2026-08-09T08:27:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線 (ABEMA TIMES...",
-      "category": "infra"
-    },
-    {
       "title": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線（ABEMA TIMES）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SUjRRd3V5WGlNbnlQaVBIczNhTmdNc2dLMDJ5aU9CUV9lYnZCTHlLWEVSckdWeFAtRFNzcFAtNnQ3dGFqR3VIMHNSX19aMlhELUJEVmNKaWw2UlZxV25VN0dGTUJNcS1ZSWN0cEZjVm1NclU0VmhPb0I3Qzg3c0U?oc=5",
       "pubDate": "2026-08-09T08:27:15.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線（ABEMA TIMES）...",
+      "category": "infra"
+    },
+    {
+      "title": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線 (ABEMA TIMES)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFl6WmpmVVM2UGV2aHNhSU5aWG8tSEp6MUtkWmJzVVNHbXZ6NF9UOVpEVWF0SWdnZXlaVGFjXzhpVTFDR3g2TWhrWHVPMkdNcGItWks2SVNfb2FZaXFGV1BjTU10d0VGQnNURjYxU0VGMGNacWp3S0l3d0lLYW5pbFBCaWw5d3piY3U3STF3?oc=5",
+      "pubDate": "2026-08-09T08:27:15.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線 (ABEMA TIMES...",
       "category": "infra"
     },
     {
@@ -901,7 +901,7 @@
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-09T19:20:07.777Z",
-  "lastAttempt": "2026-08-09T19:20:07.777Z",
+  "lastSuccess": "2026-08-09T19:57:23.815Z",
+  "lastAttempt": "2026-08-09T19:57:23.815Z",
   "fetchOk": true
 }
