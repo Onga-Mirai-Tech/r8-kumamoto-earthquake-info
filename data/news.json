@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "熊本・上天草で震度4 M4.2",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mV3VKOVFsWWdmdGZPamlGVEtZWXBuSHhqVFlReml1WHdyR2gzT3JacEpBWmNLNlV2THhuckF5UEZHbEhRb21BcnRkMA?oc=5",
+      "pubDate": "2026-08-08T23:42:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本・上天草で震度4 M4.2  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本・上天草で震度４ Ｍ４・２（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tbGc4aV9FbWY0UTZHcE9renUyV1RURW1vNVlId1Q3RXNOT1NzcDU3VDdRNlJDZlFrUVF2QmZudVhoalBxMU1Sd1UyeXdjWFU?oc=5",
+      "pubDate": "2026-08-08T23:42:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "熊本・上天草で震度４ Ｍ４・２（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度4 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XU3JYY1RPekNzU05PWkYtN0hET0JsZUxoYjJ2dTNEQzBUbzJ0WmphRHhvTF9CeTRXM1JXNFQxeXMyVTNGaHZOeXBsWnIzbkdod29TeTR3?oc=5",
+      "pubDate": "2026-08-08T23:40:16.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度4 熊本県天草・芦北地方を震源とする最大震度4の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "category": "disaster"
+    },
+    {
       "title": "震度4 熊本県天草・芦北地方 2026年08月09日08:02ごろ 地震詳細 | 富山のニュース｜天気・防災｜チューリップテレビ",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXR0WUZCckQxdnpBVWxrZFJjN1lpSUNNSGhKUHB4ZHVfc1FHWnB5UFVCbVlWN0pVcjdZT0tMNXF3a2MzcEN2Z2hTTzJCQzE2bXJLUGc4bTZuaVN5VmtHNVQxVmg3ZVA1ODZxVmJMZGtDT2UwT2FBVWpHcGFMZUc2bmlhX0dqVW8?oc=5",
       "pubDate": "2026-08-08T23:14:17.000Z",
@@ -19,8 +46,26 @@
       "category": "disaster"
     },
     {
+      "title": "【地震情報】震源は熊本県天草・芦北地方 マグニチュード4.2 上天草市で震度4、南島原市で震度3（NBC長崎放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05SjZ4VnRlODNMYVBfeHNycUFwRzY2TEdfMTRoYVlnYkYxdUlsMnNRNjVCV3pxSGozZVNmVGVxd0M0ald4ZjUyalpEd2RjQmljOVBwTXZVWjczMndSUDF5WlU1dWtPMkc4azl5UkJiV1hLM0daNzVvZ1A1YW9JeUE?oc=5",
+      "pubDate": "2026-08-08T23:06:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震情報】震源は熊本県天草・芦北地方 マグニチュード4.2 上天草市で震度4、南島原市で震度3（NBC長崎放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度4のやや強い地震",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00N3oyOTNtNUY1WkE2SkdUWXkyVEJNWU00dlJhQ01MeTlYcEd1QzBDTlFnb2ZiNXhBZ0FPMTMwU2tlTExTSFBMV2R1RjJUM1hXZFJDS1ctM0RWbjNOMVA2d3lQTUM?oc=5",
+      "pubDate": "2026-08-08T23:04:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度4のやや強い地震  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "【地震情報】震源は熊本県天草・芦北地方 マグニチュード4.2 上天草市で震度4、南島原市で震度3",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tWll2VktFdVhXUDFzanhIUjNqb1kwRkZQYkkyTmZWS0dwVm80dXRYblNybXhsYzZ6clBQbUE4Q19nemtUNW02NG5rVzZmT0tsbThOclN1UHVfR1hGZFVwMHA2Uy0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZk9mVEhLOFZkbkdBT18xRV9GWkF1dkZBb19EVmIzQVBfTHZDS2FFTlBMOFA4VFBtN3VhU2pjLXpxZlVWSkFOaUlZNzVMamlpNDFMdVFodVJrQQ?oc=5",
       "pubDate": "2026-08-08T23:02:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -145,6 +190,15 @@
       "category": "disaster"
     },
     {
+      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OODFWQXZYcUlUbFBtSjd1M1RTNVdyY191alNtZEFKSE5YUV9ESDQ1QThJbE5DTHBfcHBPcElwV3B4N2lDbGEweWZud0xhMnpDYk40cEhLYzJkOVd6dkxRVmJyLWptb0ktcTNtZEVYcVbSAXZBVV95cUxPNjg5dTd4M3hHTXdtd1QwWDNuUlYtdXJCVDVaekJGTXpNdE5wbzJuTUdQOFRqT0diUW5NOVlfWGZCc1ZMVElpbzBJUDZINGk5WUdzdVNKRlFpTm9peVVSME9ERVB1azRjREtrdGU4TW1zbk12aU1R?oc=5",
+      "pubDate": "2026-08-08T21:18:18.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  topics.smt.docomo.ne.jp",
+      "category": "disaster"
+    },
+    {
       "title": "震度1 熊本県熊本地方 2026年08月09日06:05ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckdpVEl5RDQ0QlRmOUVGVU5BbXVmUnV3Y0ZYdWU2dkxMRTQxcmxFN3ZKSlpXdHNZQlo0OFFsdlVGZ2tmSXhKTXJOd0JKRDF3THRFVzl0N0F3YWY3WXhfV0JMczlHXzh6bm90eTFUazR1UFJ3MVhDVjk2ZGxkbzVyNGNQbnJockU?oc=5",
       "pubDate": "2026-08-08T21:05:00.000Z",
@@ -160,6 +214,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "頼みのイオンがまさかの爆発…全国858自治体が防災協定、熊本地震の事故に衝撃「不安はゼロではない」  東京新聞デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "【熊本地震】奈良国道事務所、被災地にコンテナトイレ発送 - nara-np.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwWFdMQUY3eEV5enR3LThXNWhQXzhwekd0X0pnRGZGVGl4Q0gzQ3lHdkhOMjQ3MEVVNUFuR2dtNGtrWFlLWG5Rc1VFY0RER2RnQmVWSk40dW13Sk9KeGJj?oc=5",
+      "pubDate": "2026-08-08T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】奈良国道事務所、被災地にコンテナトイレ発送  nara-np.co.jp",
       "category": "disaster"
     },
     {
@@ -226,6 +289,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県で最大震度1の地震 熊本県・芦北町",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WUnYzYlgxRWZrMmp6Z0JhY05TYTFVbTVjLURKY0o2Ymh0U24ySGduWU92bktuZzREOU15SGhtbFllRjFxdk5veGZoSXdqeTBKbDdlcmowaHVOM1JlTzhXblh0Tmo?oc=5",
+      "pubDate": "2026-08-08T20:20:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・芦北町  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "震度1 熊本県天草・芦北地方 2026年08月09日05:18ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVJEQkV4WGZkNUtmUnM3VDBqMW9sLWFfcW1RaGhXRVNJQnBBU1NQcUY4dlN5dXBmOWNraE94UkIxaDZ2bkZNZHJQanNYb1dMYzF3OGhBOFVJN1U4MzFkZVJ0VlhYcVNjWkwxTHBnOG8xNXBEUXV2ejEyNW0yUXZZTmZucEk4V1k?oc=5",
       "pubDate": "2026-08-08T20:18:00.000Z",
@@ -241,6 +313,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【令和8年熊本地震】JCHO熊本総合病院の復旧と医療継続にご支援を  クラウドファンディング - READYFOR",
+      "category": "infra"
+    },
+    {
+      "title": "(熊本地震)生活インフラ復旧早く 公明、現場の声聴き支援につなぐ 2026.8.9付",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lWEhOcTV1TjBrSk5rdW5rLTJNY0xxNW1ZMjdsUUxWbGN3S1BfcC0yVEVLdUVHQXhRd2pBbklRUFphR0lacUZmUFp3TTl2WUlITDNERGtIODVNNGdWRjl4Wm5LNDM2SDRiREU2SldR?oc=5",
+      "pubDate": "2026-08-08T20:04:57.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "(熊本地震)生活インフラ復旧早く 公明、現場の声聴き支援につなぐ 2026.8.9付  公明新聞電子版プラス",
       "category": "infra"
     },
     {
@@ -312,7 +393,7 @@
       "pubDate": "2026-08-08T19:47:50.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】宮崎県内で震度1 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし  ｄメニューニュース",
+      "description": "【地震】宮崎県内で震度1 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし  topics.smt.docomo.ne.jp",
       "category": "disaster"
     },
     {
@@ -442,15 +523,6 @@
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVk1WbjVwcFdyNWE5UjVSZnIzNUVqUkl0bFlSUmNrWVJBT2YyNHM5Ukx3aFJwM1lwWmRSYlhtVEVNbVhsdG9HSDRlaXRvOVRoZnJSak1mZ2pRNjBwV2QwV2lmTl9nZlEyeG9URkVTX1nSAXZBVV95cUxOYTljYlhuNVdVOGFqdktqSEFGb1haYV9QVDVpUHM2b3FWRlA5RTFaX3pWSWFHRUFDMjZJUlI1cXROMFRGdEM0UU1FWjlXRmtIQmtxMEh2X01TbmQxekZiQURsZWRRd1lId0VnM3RiMnl2VEVJbHdn?oc=5",
-      "pubDate": "2026-08-08T18:10:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
       "title": "震度1 熊本県熊本地方 2026年08月09日03:10ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3g2MmkyZXotM0pnQ3dSNUVTcEMyZ2dxdnRCOUlpZkxiYzJoTjZOMG14cXhVQXRHb1pEWEh5R2FTUnpfUjVQZGI5bGo5UWQ0XzJFaUdXX3JlOEpEdE8zdlhxeFJheUp0eFVmalgyX0tvb3E3QlQ3MUluZjVnejF1ZzJ0TjN2VXc?oc=5",
       "pubDate": "2026-08-08T18:10:00.000Z",
@@ -568,21 +640,21 @@
       "category": "life"
     },
     {
-      "title": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vekMwc3JMLWdnX29IdGR4TWpRZktQZkd2VWZ4SlRfMTM3cDJJTjNMR2luTXVMQldjamdrNGxSUENfOE82TmE2VkNUZXB4a3ZYODlDckZ0Z29HQ0l2Wmg4ZVB4NTMxNEVpRHR5OHdsb2pJQ0ExX0Y4N3o1VjlLb0E?oc=5",
-      "pubDate": "2026-08-08T13:35:27.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？ (熊本日日新聞)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTJhNmlKQVhqZG14THFPcWg2UE1McjlmaXlJM29vWjhzS05ZZjZ5UF8xRU9PUFlUVzdPQ0haSWo4aFUxY1hQdVZwSDUyWG1iODlMMUE5a2dFckhoNlhaVkRjYWpsWkNmdmNTdG1FYUpjS2VfOG1kbnlyMThleEJxVlNFVTZqQTdUZ2xTd3Bn?oc=5",
       "pubDate": "2026-08-08T13:35:27.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？ (熊本日日新聞)  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vekMwc3JMLWdnX29IdGR4TWpRZktQZkd2VWZ4SlRfMTM3cDJJTjNMR2luTXVMQldjamdrNGxSUENfOE82TmE2VkNUZXB4a3ZYODlDckZ0Z29HQ0l2Wmg4ZVB4NTMxNEVpRHR5OHdsb2pJQ0ExX0Y4N3o1VjlLb0E?oc=5",
+      "pubDate": "2026-08-08T13:35:27.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -595,24 +667,6 @@
       "category": "other"
     },
     {
-      "title": "2026年熊本地震 この人に聞く＞被災者支援に詳しい弁護士の津久井進さん 行政は人権守る姿勢を 2次避難、孤立防いで",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NUTJtNl9xbnZnajBoejdMTmlONTZBMVZaMkZSeXh3YWFLdFFFUEVtN2pYM29XcU01b3dSalZKOUxGNkFUZEpiOElSVjNuRXc?oc=5",
-      "pubDate": "2026-08-08T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震 この人に聞く＞被災者支援に詳しい弁護士の津久井進さん 行政は人権守る姿勢を 2次避難、孤立防いで  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震　この人に聞く＞被災者支援に詳しい弁護士の津久井進さん　行政は人権守る姿勢を　2次避難、孤立防いで",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlU3VDF2cmJBallVeDNnQjZ5SkNNTndjT3lNZk9zbWl5UWk3Q09hN3BXc2hFYnJEckVHZGVVRElFcFFRUFRValNIOFhIVWZhQmdIMElMQlpsSjk4NUhhYy1ZZFprNWgyQ09nV1lpNV9NSGNpTnIxV3E2QnZKZmQzZ3V30gGHAUFVX3lxTE1acHVzckR5cmNMSTFoeWV6dWVteHN6UUI5N2NES3dFenlVaVk0dWFId0lQVzBFTEQ2R3plMHdTR3Q3UFlTcEZVLXI0Y2VweHFha0s2YXFxa2hpbUdGcHdXVmZlOTZCRzlJUFo4cXlKWm9BblFFUG5FUTVCbm12YXBISTB0M1FERQ?oc=5",
-      "pubDate": "2026-08-08T13:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震　この人に聞く＞被災者支援に詳しい弁護士の津久井進さん　行政は人権守る姿勢を　2次避難、孤立防いで  ｄメニューニュース",
-      "category": "life"
-    },
-    {
       "title": "＜2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZFVac3FhS1JJUzNmVWc5bTk0MEoxd3U2ZzJNWkRBRHIwTFZDMVVkaklrOGJqN0Jic0VDZ0t3YnRzTXd3aHo4dVFOQzROSTQ?oc=5",
       "pubDate": "2026-08-08T13:30:00.000Z",
@@ -620,6 +674,24 @@
       "type": "local",
       "description": "＜2026年熊本地震＞「店頭に納豆がない」…3工場被災のマルキン食品 生産再開はいつ？  熊本日日新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震　この人に聞く＞被災者支援に詳しい弁護士の津久井進さん　行政は人権守る姿勢を　2次避難、孤立防いで",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlU3VDF2cmJBallVeDNnQjZ5SkNNTndjT3lNZk9zbWl5UWk3Q09hN3BXc2hFYnJEckVHZGVVRElFcFFRUFRValNIOFhIVWZhQmdIMElMQlpsSjk4NUhhYy1ZZFprNWgyQ09nV1lpNV9NSGNpTnIxV3E2QnZKZmQzZ3V30gGHAUFVX3lxTE1acHVzckR5cmNMSTFoeWV6dWVteHN6UUI5N2NES3dFenlVaVk0dWFId0lQVzBFTEQ2R3plMHdTR3Q3UFlTcEZVLXI0Y2VweHFha0s2YXFxa2hpbUdGcHdXVmZlOTZCRzlJUFo4cXlKWm9BblFFUG5FUTVCbm12YXBISTB0M1FERQ?oc=5",
+      "pubDate": "2026-08-08T13:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震　この人に聞く＞被災者支援に詳しい弁護士の津久井進さん　行政は人権守る姿勢を　2次避難、孤立防いで  topics.smt.docomo.n...",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震 この人に聞く＞被災者支援に詳しい弁護士の津久井進さん 行政は人権守る姿勢を 2次避難、孤立防いで",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NUTJtNl9xbnZnajBoejdMTmlONTZBMVZaMkZSeXh3YWFLdFFFUEVtN2pYM29XcU01b3dSalZKOUxGNkFUZEpiOElSVjNuRXc?oc=5",
+      "pubDate": "2026-08-08T13:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震 この人に聞く＞被災者支援に詳しい弁護士の津久井進さん 行政は人権守る姿勢を 2次避難、孤立防いで  熊本日日新聞社",
+      "category": "life"
     },
     {
       "title": "自治体同士の助け合い【記者ノート】",
@@ -677,11 +749,11 @@
     },
     {
       "title": "＜2026年熊本地震＞「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nT00wODNCQVJVYmplRDdxeUN3dklfUHB1Qk80Z1JzT3ZLMEljYWZMa1FGR2txWEhHeG10M3lZRnlLWE5ONUdJbl8yTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGVBRDYzWmgxVG1aM2J4WV85eTRlWk1vdGlrS1FLRENzYW5BSlhTNDlvZUF0emt1S3NsRDFaZERmeVM0ZFF1SHVBaHg1T2M?oc=5",
       "pubDate": "2026-08-08T12:49:51.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "＜2026年熊本地震＞「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る  47NEWS",
+      "description": "＜2026年熊本地震＞「証拠に基づく事実が知りたい」 イオンモール熊本爆発事故 妹亡くした兄語る  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -827,81 +899,9 @@
       "type": "local",
       "description": "令和8年熊本地震災害義援金募金活動の結果について  nagoya-grampus.jp",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞阿蘇地域の7市町村観光協会が対策協議 （熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUEZDWXVmVnhLaUs2NHFKTGhBdUR5d3dOelVPcFR1emt1SDBQRndoQy1IcEowV0hydHo1aE5YY3JYclBLMDBWZ0c5WEVaTUs0UkViQVRvOTdOT29fREVEcUxjR1ZRWXlFUExaN1pocnRjaG5yRC15YVlTeXhOX3c?oc=5",
-      "pubDate": "2026-08-08T11:05:21.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞阿蘇地域の7市町村観光協会が対策協議 （熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震関連疑いの死者、新たに１人…関連調査中含め死者３９人に（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVzlGRHNBeWs2N204QjJsUjZINk5xVnlzeWV1X2dPTUZUQ09qY1pDbHBDT2lEX0lVa1NpekVmbVRYZW04SlpsbnNIelZMUGxoUHllNVFVZlVzOUZWamlQS2FxdnVxUS1LWXQ0MDZFY1FWZGNzSmJYTEFfUEYwOEk?oc=5",
-      "pubDate": "2026-08-08T11:03:17.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震関連疑いの死者、新たに１人…関連調査中含め死者３９人に（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震関連疑いの死者、新たに１人…関連調査中含め死者３９人に",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aenpHOXAxbU1JTERjcGRKLS1KdDZKdGJLeHVvbk1DcnQ4N3Bzcnd6VzE2QzBRRFlGanVFaG9lZG1LRXktSWlGdzd2Sy1UV3B2QmpVNURkal9DR29IcFV1N3Zrb0RzUQ?oc=5",
-      "pubDate": "2026-08-08T11:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震関連疑いの死者、新たに１人…関連調査中含め死者３９人に  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "半導体の早期復旧 物流の寸断 小売業の営業再開【熊本の経済1週間】（8/1～7）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92eWkwdmctZndiV1NLWngwaVNfN0FWcGg0dzVuMzZnYVE0Wk5tZGx1MldYdmRuN0RwdFFzbjFJUmRoalZBbE9TWTdoNVpSbEU?oc=5",
-      "pubDate": "2026-08-08T11:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "半導体の早期復旧 物流の寸断 小売業の営業再開【熊本の経済1週間】（8/1～7）  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震 文化財や名勝も被害甚大 県北部も夏休み需要取り込めず… くまモンも活動自粛 (産経新聞)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm53UE9VakdtQzk2Q18tam5BWTktZGVQS2hWdnJJSGNtU3dvQ1JqcTBZdTZuMkRFY3ZqeWluSlRHNTR6WFpCOGkxMGRodDNuVWFiN1RTUWZMOEZkVXh3Uy1LeFhUclpXQXBLQlJLanZrdWtrQ1NHSmxmTW90aTFqbUhKN2dGX0wtcENTUUdB?oc=5",
-      "pubDate": "2026-08-08T10:47:56.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 文化財や名勝も被害甚大 県北部も夏休み需要取り込めず… くまモンも活動自粛 (産経新聞)  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【名古屋vs清水】「令和8年熊本地震」義援金募金活動にシュミット ダニエル選手が参加。 : 赤鯱新報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1maDlTZnpESHVBeFZfaEg1TGk4dGlfM3QwUEc5NnBRc1Vua2FDdk5kQWp1SGw3dWtqNXcyR2g1b0lLd0tlUlIyMW55NmE4ZEJhVjB4NXhTRFRlaHFxVHE5UXN2aGEyUQ?oc=5",
-      "pubDate": "2026-08-08T10:42:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【名古屋vs清水】「令和8年熊本地震」義援金募金活動にシュミット ダニエル選手が参加。 : 赤鯱新報  targma.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震 文化財や名勝も被害甚大 県北部も夏休み需要取り込めず… くまモンも活動自粛",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qWmg0OFc3Tm9wMmZucWhyQVN0YkF6YnNMdnNkWU5BRWJWN3AtbFdjRG9TWmpVX2gzVXZKUVk3c2s3NUR5dkFQelVuVVdBa1U5NDRnSVFENTUwaUp6aVhjeVVJUnJ4RG9CRnVIUWQ3YlJJWG93bVE?oc=5",
-      "pubDate": "2026-08-08T10:39:49.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 文化財や名勝も被害甚大 県北部も夏休み需要取り込めず… くまモンも活動自粛  産経ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震　文化財や名勝も被害甚大　県北部も夏休み需要取り込めず…　くまモンも活動自粛",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkFyUnhINXJMRmJ5dFFVcW5MMEVtRG0zZzRoRlc0Z3NSRVB2TGs1Zlh1YTRZU0Noak1Id24yTThOM2RMM0ZRZHp6bFBjVi1Zdmlhc2otYzVLZnNCaDMzeHdjc09peGVfVktZTDZPWlMzaGQ0SUlNSjNEbC0xTlhzeTN0SXlQRFdhTklDdU5uOWJRRURxNHl0LVJUNUxLLS1QemlscmlSNTnSAa4BQVVfeXFMT01WYkdVM1NINlc4TXpOaEtYTFNXc2UxZEY2QVhXMGtmb2dHd0hjTWlpU3Q3dHMtY3JuM2JNNkJDVFJOM2dYUF9fOVBWdkVwU3AxVGs1RW5xdmR6VG00cEU1NTZTTTNrbWplOUFQSmlIMVZnQkVLbFU5b2YxYzc5TXdGUVVsdktaaXhqdWNtTHh1R2tiZkhhQjhhbHlKMjlBOFBVUlE1Zmp1OVo1N2t3?oc=5",
-      "pubDate": "2026-08-08T10:39:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震　文化財や名勝も被害甚大　県北部も夏休み需要取り込めず…　くまモンも活動自粛  ｄメニューニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-08T23:37:38.131Z",
-  "lastAttempt": "2026-08-08T23:37:38.131Z",
+  "lastSuccess": "2026-08-09T00:02:38.190Z",
+  "lastAttempt": "2026-08-09T00:02:38.190Z",
   "fetchOk": true
 }
