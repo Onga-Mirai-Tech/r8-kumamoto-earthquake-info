@@ -1,12 +1,174 @@
 {
   "items": [
     {
+      "title": "熊本地震、家屋被害２万棟超える",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWFdfVVVNZFo0YTRWVEdMb2daM0VNa2pNd1MxMXpNTm8yaFFobGxsS3NHX09PaWcydHZoUG5zRU5kUzlsSGRFbTA5N1B5a2FNQTI3YWpSWWhyMlk?oc=5",
+      "pubDate": "2026-08-09T09:52:43.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、家屋被害２万棟超える  下野新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、家屋被害２万棟超える ６千人避難（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zazlWNUtxaHlIRHFtSGJQTHBKT3lMWGpXUUkySjVJNDNEdDlGMUVkN1A2enJTVmlkMzlFZXAyODg1dkwwLTJKeXRMMjB1OVE?oc=5",
+      "pubDate": "2026-08-09T09:47:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "熊本地震、家屋被害２万棟超える ６千人避難（共同通信）  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "熊本・氷川町で公衆浴場が再開 災害ゴミの受け入れ拡大 約6300人が避難生活 令和8年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qT2QxdHpJWUtzbExmU0pYX0RYSkxWQzViT25YMXRxZzAzcENDd1JzYTZmVWc5QWM5X2RmRE1IWWZOaTNpeFBScG9JMFM5dDM3MHM4UzNNNUpnSks2VTVadzFYZ0ItSlBuRzYzdldkTllNU1pHejBWUmp5dTBFWjA?oc=5",
+      "pubDate": "2026-08-09T09:28:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本・氷川町で公衆浴場が再開 災害ゴミの受け入れ拡大 約6300人が避難生活 令和8年熊本地震  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "木村知事が八代市鏡町の鏡小学校を視察 冷房やプライバシー保護の“仕切り”が設置【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Hc1VVdUtPVU9IWlplaWVnbk53VEQyNUpPVk0tZjh2RU5IcWhrVDV6WnkyR1gwby1SMFBmdjJWY3IxVmYzWXhTYXhUS0dlWlFudTY1aHljb1NJUDhmc2k0azVEWEw5VGVsY2NHb2x2cEpEN204Sm9wTVFPNGZxMzA?oc=5",
+      "pubDate": "2026-08-09T09:28:02.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "木村知事が八代市鏡町の鏡小学校を視察 冷房やプライバシー保護の“仕切り”が設置【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "「ホテルへの二次避難」マッチング加速 熊本県がコールセンターを開設【令和8年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10Tm4taVdBMjRFWWpHTkRSRm1YWVJHWWV6d3U0SDJVRld3Z1dqSlV3ck1NUGJrbTR2ek8yZDU1a01IeW5yVWlGTWo5NFl2aTRuQXhkbURLM1VKRXZpX2xVNjRQRm9hVXo4UWwwZldib3pCUm5ZQTRoWGlIUnRKaDA?oc=5",
+      "pubDate": "2026-08-09T09:25:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "「ホテルへの二次避難」マッチング加速 熊本県がコールセンターを開設【令和8年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "「インフラを担う会社として貢献したい」NTTドコモが避難所に電子看板を無償提供【令和8年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycjlrbnIzRUN5aklSaTF2VjFMRFBYNEkzMEcwUXdibnN1VVJaWUFBbmc2OXBIQTlBRzRXa3h4MkxTcFZUTmh3Zzk5TEtmMVpBRGNfVVNDbmFNYU4ybWROaXprQjRVLWZHWjFkZUd2cXpjT05rMFhGOWZ1b2VHbVE?oc=5",
+      "pubDate": "2026-08-09T09:25:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "「インフラを担う会社として貢献したい」NTTドコモが避難所に電子看板を無償提供【令和8年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "＜2026年熊本地震＞日奈久断層帯、ひずみ移動 「16年の地震が影響」 産業技術総合研究所",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FQ0VNb1VMclk1Mk5xX3RsOEQzSFppZEtPcnRwWUhKa1RPSUFUYUwyOXVwQmVJMVk5QWc5bFRxbWFSNk92STNncERXRzkxTkU?oc=5",
+      "pubDate": "2026-08-09T09:23:20.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞日奈久断層帯、ひずみ移動 「16年の地震が影響」 産業技術総合研究所  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 今も3万戸以上で断水 配られた洗剤は能登の被災者の声から生まれる",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fWFZrN3hLUWluaXVVR3JTTWhXcXh6cGgxRk9hajI1ZTRnSmpqeV9wLWg1Z282YWFiTWdPZEV5RUZQREJFQVc4c19GQllHeGs?oc=5",
+      "pubDate": "2026-08-09T09:16:51.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 今も3万戸以上で断水 配られた洗剤は能登の被災者の声から生まれる  khb東日本放送",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震の被災地へ秋田県職員を派遣 住宅被害状況の調査に従事（秋田朝日放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZZUEybVdmVHE0aWJPcHVHOHhUTzB6X1A5YmZMMDVrTFdTbklldHdmZDFHWEdHaE9xa2hYdTQyd0t0NUNmY3Q4SUZ1UTBiYkpiRTdrRXRsZzZvQzRQV052SkVoVTJvc3d3cG05cFZNMkxacjN2QTYxTVZIbWxRYlE?oc=5",
+      "pubDate": "2026-08-09T09:13:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地へ秋田県職員を派遣 住宅被害状況の調査に従事（秋田朝日放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震復興へ チャリティーバザー 鹿児島（KKB鹿児島放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XWjBhNGpsNDlJTkpwZ0VacHJndGNmYVdnbWkyeTA2VGhfQ3ZUVTRLVWpNUEUtYTdubXJLUzYyOEFRTm5MdXBTeDNOOTN0dnpqLXE0MmIzazlvN2EwVU44MG16RU15WVFHZkh1VTB0ZTVpQVZQVlNEZmlkOE5RVlU?oc=5",
+      "pubDate": "2026-08-09T09:03:34.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震復興へ チャリティーバザー 鹿児島（KKB鹿児島放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震、冷房2割の体育館で起きていること 真夏の雑魚寝と段ボールベッドの「限界」（木矢部通） - エキスパート",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2dWbHRNR0VZX2x0cFZoLXRFRVE3dDZEVlM4bTlWMU9PZ2hjTUYyOHRERHdyU1prNmtkdDZ4aHpoLXFHOEI4M2NiOVNHUDMzTU9QZnp1d0dabjdTMmFvSzUydUNmVks2b241Z2VCU3ItVWJXbHVybGxiRkY2MjJvUnFzbjJpdzR4?oc=5",
+      "pubDate": "2026-08-09T09:01:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "2026年熊本地震、冷房2割の体育館で起きていること 真夏の雑魚寝と段ボールベッドの「限界」（木矢部通） - エキスパート  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、観光に影 余震・自粛… 交通断たれた隣県「陸の孤島」",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3VINW14eUdlZVdNZ19DUU8wdndBczdZajhjc1BWaGFFcVd0andLcFZ6Uk4tWU1EeDFBV0w1Y3JVMl9aS1ptd2JuSmhyazNNZ3gtUGZTeG5qcVpIYmtyR1ZweWJRdGotd2tFMXFWY2FRYTREd2FPM2c3SWRLYkxIZmtBdFlkeG8?oc=5",
+      "pubDate": "2026-08-09T09:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、観光に影 余震・自粛… 交通断たれた隣県「陸の孤島」  朝日新聞",
+      "category": "infra"
+    },
+    {
+      "title": "九州道の迂回路、事故・通行止め相次ぐ 物流業者「拘束時間超過」 [宮崎県] [2026年熊本地震]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUmVGVkJBTU9NMmNYa3JKdWQ3Yk1qUFN5dzZlNHZId0RkdWdGemFha0I2d0FqREE3ZkVTY1dIUGp6WTFaOHM1ekhYVjZVUUcxSzVsWWc0bm9yS3Y1NjVCQW53azRlM2s?oc=5",
+      "pubDate": "2026-08-09T09:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州道の迂回路、事故・通行止め相次ぐ 物流業者「拘束時間超過」 [宮崎県] [2026年熊本地震]  朝日新聞",
+      "category": "infra"
+    },
+    {
+      "title": "【熊本地震】お盆の帰省ラッシュ本格化する中 被災地では片付け作業（テレQ（TVQ九州放送））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1STVhyRGZFVkZmMlRPTzJMd2ZuVFZQS1VaYzFxMmxYSGhWcHp4SWlfQjd5MEVNU1IxZnlqLXU3dGpOV1JERmJ1UnFPSVhuVjFNSndGeTBIcWJkY0dfbEptT3dBdTM1MDJxcnJPak0yUjFRajBvVjZMS094STJXM1k?oc=5",
+      "pubDate": "2026-08-09T08:49:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】お盆の帰省ラッシュ本格化する中 被災地では片付け作業（テレQ（TVQ九州放送））  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UMnBTSFdHWnNnVHVia2FTUmwyOFM0aS1zZnRibU9YS255cDRhbkxYeFBGZ2hjNFl2X0JoTWxhcUhtUDlrZHZVRnotVXJyWVVrNzlfRUF2Rm5oSkwxenZWR085VQ?oc=5",
+      "pubDate": "2026-08-09T08:47:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  時事ドットコム",
+      "category": "life"
+    },
+    {
       "title": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUTVQbVlfT3lVQVZjWWQzeUVDb3NpRFVPNVhDUW9sTjY4ckZPRnhkelJpWWpPZllqcko3Wm1YeW9xeGlUa01hY3IzbUZlWURac21waFdOT0RiNmw2MlpkcTFyM2Q?oc=5",
       "pubDate": "2026-08-09T08:42:28.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し  TBS N...",
+      "category": "infra"
+    },
+    {
+      "title": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNXp3LVViR25ReWlTX1BzbDBpV0lyMTFlTUpvRzZua051bkJxM1NmMmhkOER6Z2RyMWVYUHJ2WDJybVdqb2RIczkxM3Z3alIxVjE2MnNGaUxRR05hRGVuRGNXaU9jUXBBUzZoZkhRbUtjdWkxYVFXcWNiXzVBS2s?oc=5",
+      "pubDate": "2026-08-09T08:39:45.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "都市ガスなどライフライン復旧進む 熊本地震発生から13日目 八代市 約8900戸で都市ガス供給止まるが5割ほど復旧 残る世帯も今週中に復旧の見通し（TBS NE...",
+      "category": "infra"
+    },
+    {
+      "title": "上天草市でエアコン室外機窃盗の疑い男を逮捕 被害者は地震で車中泊避難中【令和8年熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Pa1dwWnJaeWN4RGFRa3JRZ25udlU4eWgtRXJ2cFpNZjZIaWFrQXVxelE5X3JrYkVxcENBRGhxdS1BVi0zRnczQ3g1R0x3V3NtemRBYncxdkcyRnh4cE5USFAzSQ?oc=5",
+      "pubDate": "2026-08-09T08:37:51.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "上天草市でエアコン室外機窃盗の疑い男を逮捕 被害者は地震で車中泊避難中【令和8年熊本地震】  TKU テレビ熊本",
+      "category": "life"
+    },
+    {
+      "title": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mU2xmVUlDS1hMX2tDVlJpODJybkVEcUkxRmM2b3d2TFhJSnlMVFo1aDh6MkxRYVdvNTVPR1FwUjhCYm5wQlV0NWV4MEdDMmh2ODZuN01YZlR2cmVFNlo5QjNrVlZ5MnFJWTRVSkNhV1dZdw?oc=5",
+      "pubDate": "2026-08-09T08:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】熊本・八代市鏡町で建物の崩落や道路途絶…今足りないものは？「生活用水が足りない」「紙皿や紙コップがほしい」被災地支援最前線  テレ朝NEWS",
       "category": "infra"
     },
     {
@@ -31,18 +193,9 @@
       "title": "熊本地震被災地で給水支援 三重 紀宝町が給水車と職員を派遣",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oSmZUREZTdlB1aE5WaVlEVzBZVmVkWDVjQzlaclhPT1BVTXNjemZBU2xpN1puVkp2Z2IydEZEeWtYU0F4NHlNU01wS0x3MWlPSHl3dEkxTVg?oc=5",
       "pubDate": "2026-08-09T08:25:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震被災地で給水支援 三重 紀宝町が給水車と職員を派遣  NHKニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震、子どもの居場所がない 避難所すみっこでゲーム、親も限界",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZzZSZzZOOUppMHNZWG1uX2czdGlxMHh3M2FNa0VNdWxUMVpLTlFIMzJxZGN3VElERENjVUx5STNtd2tzYnI1b2ZRZi1HaF9NV1pvM093Rml4MmNjRW96b3hyQU50dFk?oc=5",
-      "pubDate": "2026-08-09T08:21:02.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、子どもの居場所がない 避難所すみっこでゲーム、親も限界  朝日新聞",
+      "description": "熊本地震被災地で給水支援 三重 紀宝町が給水車と職員を派遣  news.web.nhk",
       "category": "life"
     },
     {
@@ -51,7 +204,7 @@
       "pubDate": "2026-08-09T08:11:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "阪神、熊本出身の大竹耕太郎ら3投手が「令和8年熊本地震」の募金活動に参加「人の痛み、苦しみをわかって募金をしていただいていると感じた」（サンケイスポーツ）  n...",
+      "description": "阪神、熊本出身の大竹耕太郎ら3投手が「令和8年熊本地震」の募金活動に参加「人の痛み、苦しみをわかって募金をしていただいていると感じた」（サンケイスポーツ）  Y...",
       "category": "disaster"
     },
     {
@@ -103,18 +256,18 @@
       "title": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyeXJvY1lPQnpMbzc4TlZ2VkRBeEk4aVJscDhiR1dZTHA5UGdEbHpRSXlaSFRxWF9UYmlEMDI0NlJidURtbkFlMXRWa0V4cnc?oc=5",
       "pubDate": "2026-08-09T07:50:21.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表  kumanichi.com",
+      "description": "【速報】熊本地震の住家被害、2万棟超える 熊本県発表  熊本日日新聞社",
       "category": "disaster"
     },
     {
       "title": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMa2JNNmQ2LVkwN1dkajF0YTc5NWpIZVJldWFWUkFlSlVaWWE3NHpzR3FGOFh5d1lldWM0QjJlOGtOUkRwZlJ1Z3BhZFliYU0?oc=5",
       "pubDate": "2026-08-09T07:49:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）  kumanichi.com",
+      "description": "陸路寸断、お盆にフェリーで帰省 熊本地震で高速道・新幹線不通も（共同通信）  熊本日日新聞社",
       "category": "infra"
     },
     {
@@ -157,9 +310,9 @@
       "title": "【速報】上天草市で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IbDlrc2h4d0dxOE5pSHJSSkZIYlFPbTI4Uzl0MlI5TFRma1k4TkRtTERQdlV1M2hPZjJxV3hFYnBia0pENTVOQ1NNYzRQQ1k?oc=5",
       "pubDate": "2026-08-09T07:36:30.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】上天草市で震度1  kumanichi.com",
+      "description": "【速報】上天草市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -181,22 +334,22 @@
       "category": "disaster"
     },
     {
+      "title": "在日米軍が支援物資輸送 飲料水3万本超 熊本地震（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QRTNXT0llNUdLMkpLelpTekF0cmJRdk5NU2xKTE1MV3BYTG83dXB6MFRBMzZhOVBJWEJRdS0zR2RmUmdJczRhellwbDFnckRSRjFiZVBMeXpYOHl1ck1kNlZMSkdkeFI5UXlvc3BrNWhrOTRBNW9ENHRScHlUZ3c?oc=5",
+      "pubDate": "2026-08-09T07:32:57.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "在日米軍が支援物資輸送 飲料水3万本超 熊本地震（時事通信）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "【速報】熊本市南区など震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BaU9xNkd0MWppT2IxZ1lKR1NpNE5TZTNsaWk4MmNhU3V0a21JT3NSTGtrWGlaUlpfVW9WODFob0I2ZDB0N2RjMkRYNmhDRVk?oc=5",
       "pubDate": "2026-08-09T07:32:02.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】熊本市南区など震度2  kumanichi.com",
+      "description": "【速報】熊本市南区など震度2  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UMnBTSFdHWnNnVHVia2FTUmwyOFM0aS1zZnRibU9YS255cDRhbkxYeFBGZ2hjNFl2X0JoTWxhcUhtUDlrZHZVRnotVXJyWVVrNzlfRUF2Rm5oSkwxenZWR085VQ?oc=5",
-      "pubDate": "2026-08-09T07:32:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "在日米軍が支援物資輸送 飲料水３万本超―熊本地震  時事ドットコム",
-      "category": "life"
     },
     {
       "title": "震度1 熊本県天草・芦北地方 2026年08月09日16:32ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
@@ -235,6 +388,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県で最大震度2の地震 熊本県・熊本南区、宇土市、宇城市",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16MnlTVGU4NnVZd01kVzVzNkpsWU5FYjBVdE5MQ0NPUk9sWktLOHg5X3EwM3VRTHNFdklMN3BTTzNTLWZsRkM0V3JFWmtVVk1zVElRbWVfLXQwUGt3dXZxc3p0dDc?oc=5",
+      "pubDate": "2026-08-09T07:29:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度2の地震 熊本県・熊本南区、宇土市、宇城市  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】ダレノガレ明美、現地でボランティア “食べ物”“不足していると感じる物質”など詳細に伝える",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LSlBUN3VyQjZGRnRJcFFWQzhZM0lXZ1NDN2FaSWJWSE5OMDNOTE5TclFVTE5HaDEtTnE0aWJIQkxQWXdxQWEtOVNqMjZwMW8?oc=5",
       "pubDate": "2026-08-09T07:20:20.000Z",
@@ -258,16 +420,34 @@
       "pubDate": "2026-08-09T06:49:22.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "熊本地震で車中泊…不在の家から室外機盗んだか 上天草署、窃盗容疑で男逮捕（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "熊本地震で車中泊…不在の家から室外機盗んだか 上天草署、窃盗容疑で男逮捕（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "リュウジ氏 令和8年熊本地震の被災地に寄付と独自の応援報告「料理研究家に出来るのはこれくらい」（スポニチアネックス）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96bXpqVlpwdnB3bm95WUc4dGJ5Y2xvY0ZidlZIdEJUZ0VfQjlFdzF0dTVDUU41X2tJaEdOMFR4ZGExZWFReElkOXVkLU52bjdOU2kxY29iODAwWVJSVFRZMHFzSmdHQzROZnJKSDZ5VlA1bU1kemp1eV9RVk9PT0E?oc=5",
+      "pubDate": "2026-08-09T06:48:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "リュウジ氏 令和8年熊本地震の被災地に寄付と独自の応援報告「料理研究家に出来るのはこれくらい」（スポニチアネックス）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
       "title": "【2026年熊本地震】 益城町の神社 再び被災 木山神宮と惣領神社",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UODMzc3VZeWR0RXRFUktGOFA4Y0RkWXNEeGlVYlRsbHN2b0RCOFItb3JtUnpGaGVLMjBVOERGMlNhTHZzb0IteFJHUGo2b1k?oc=5",
       "pubDate": "2026-08-09T06:23:17.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【2026年熊本地震】 益城町の神社 再び被災 木山神宮と惣領神社  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "「熊本地震への対応」蔵内勇夫・福岡県議会議長が政治資金パーティーを延期 (西日本新聞me)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXJITTk4VHE3YURfVmVQNlhpbWw1ZkpFRGs1MWpFRXhDZGpxOUFIaXNSNFdOREdYa0lmV2NVbDllZ2RuYVdYX1BTS3RwaV9Wb19faEpoTGhqbHJrNWFSZVRDX3B5bHdOdnBDaEprSUw5Mnd2bEpDTjVqcHlPQlRoY3BXSzJKWVRoTEwtYjBR?oc=5",
+      "pubDate": "2026-08-09T06:21:23.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【2026年熊本地震】 益城町の神社 再び被災 木山神宮と惣領神社  kumanichi.com",
+      "description": "「熊本地震への対応」蔵内勇夫・福岡県議会議長が政治資金パーティーを延期 (西日本新聞me)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -285,7 +465,7 @@
       "pubDate": "2026-08-09T06:11:20.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "がれきの下から「ワン」 熊本地震で生き埋め15時間、一時絶望も…声に気づき奇跡の救出  産経ニュース",
+      "description": "がれきの下から「ワン」 熊本地震で生き埋め15時間、一時絶望も…声に気づき奇跡の救出  sankei.com",
       "category": "disaster"
     },
     {
@@ -319,9 +499,9 @@
       "title": "【速報】熊本市南区など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCaXh6Z21FQ2FXc09SbnRaczZSbkxrRXRzZ09NNEF1SUtuZlc2aUhfdVVIUGxVT3ZqajdxTWtoYUNYTkJ0ZGtrY24wMWItTWc?oc=5",
       "pubDate": "2026-08-09T05:52:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】熊本市南区など震度1  kumanichi.com",
+      "description": "【速報】熊本市南区など震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -355,9 +535,9 @@
       "title": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6332人避難",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UcXJaVEdUWk9pNkZzaDItbWZZNkVRNzQ5TGdpMTA1NWVYVDVsT2dGa2JzVFNQbEdtdV9uanh6T2wwdEhaUWVsSHlyZzFrNHJPVnlMbzVsM1ExR2o2ZFVj?oc=5",
       "pubDate": "2026-08-09T05:34:09.000Z",
-      "sourceName": "NHK",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6332人避難  NHKニュース",
+      "description": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6332人避難  news.web.nhk",
       "category": "life"
     },
     {
@@ -366,7 +546,7 @@
       "pubDate": "2026-08-09T05:30:11.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「熊本地震への対応」蔵内勇夫・福岡県議会議長が政治資金パーティーを延期（西日本新聞me）  news.yahoo.co.jp",
+      "description": "「熊本地震への対応」蔵内勇夫・福岡県議会議長が政治資金パーティーを延期（西日本新聞me）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -375,7 +555,7 @@
       "pubDate": "2026-08-09T05:06:28.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "高市総理、内閣改造「熊本地震に総力。現時点で申し上げることない」（FNNプライムオンライン（フジテレビ系））  news.yahoo.co.jp",
+      "description": "高市総理、内閣改造「熊本地震に総力。現時点で申し上げることない」（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -411,7 +591,7 @@
       "pubDate": "2026-08-09T05:00:44.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "〈2026年熊本地震〉「熊本城だけではない」 文化財等の被害、85件に #エキスパートトピ  news.yahoo.co.jp",
+      "description": "〈2026年熊本地震〉「熊本城だけではない」 文化財等の被害、85件に #エキスパートトピ  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -433,12 +613,21 @@
       "category": "life"
     },
     {
+      "title": "熊本地震、子どもの居場所がない 避難所すみっこでゲーム、親も限界",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZzZSZzZOOUppMHNZWG1uX2czdGlxMHh3M2FNa0VNdWxUMVpLTlFIMzJxZGN3VElERENjVUx5STNtd2tzYnI1b2ZRZi1HaF9NV1pvM093Rml4MmNjRW96b3hyQU50dFk?oc=5",
+      "pubDate": "2026-08-09T04:33:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、子どもの居場所がない 避難所すみっこでゲーム、親も限界  朝日新聞",
+      "category": "life"
+    },
+    {
       "title": "熊本地震の被災者向け、福岡県弁護士会が無料相談…債務整理や住宅修繕を巡るトラブルなど幅広く受け付け",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaTRjaUFzbHBLdE5GdnIwdHMzLTRTeWVXcHcwa1JneHFfMWtaZkJhamdZQ0tzZFY4ZkNxLW5NQ2VWWHprcDRlVmFZRHFQRDA1TkxxVnZjVjNzYzVwUGY4MjFVakI5eFJXLW1sMDRwQ0ZPU2ZxZEREVjhKbXpGT2c?oc=5",
       "pubDate": "2026-08-09T04:26:55.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災者向け、福岡県弁護士会が無料相談…債務整理や住宅修繕を巡るトラブルなど幅広く受け付け  news.yahoo.co.jp",
+      "description": "熊本地震の被災者向け、福岡県弁護士会が無料相談…債務整理や住宅修繕を巡るトラブルなど幅広く受け付け  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -499,9 +688,9 @@
       "title": "熊本地震 【専門家Ｑ＆Ａ】障害者の心身の健康 どう維持する",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHRnlRN25INDJPNUhoM1dVOEs1eHNkdlFGYWU2VjFJWlVCSG1fWkFMeEY5dDFXYm5xN1lkQU41SnF3QWc4Y3lwajVJdGRSbEZEZEx6LThOVWdqZEI1dWRn?oc=5",
       "pubDate": "2026-08-09T03:56:33.000Z",
-      "sourceName": "NHK",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 【専門家Ｑ＆Ａ】障害者の心身の健康 どう維持する  NHKニュース",
+      "description": "熊本地震 【専門家Ｑ＆Ａ】障害者の心身の健康 どう維持する  news.web.nhk",
       "category": "disaster"
     },
     {
@@ -517,9 +706,9 @@
       "title": "【速報】熊本市西区で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WYnRNcllxNk5yNy1ER2ZNLWlSN1lkTEFpalA2Q0l3MEZnUzNXSlpCQ0dMSG1xSmN5NUh2d1lFOXBTeUYzNi1IcmhIODJPQm8?oc=5",
       "pubDate": "2026-08-09T03:54:41.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】熊本市西区で震度1  kumanichi.com",
+      "description": "【速報】熊本市西区で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -535,9 +724,18 @@
       "title": "熊本地震 赤間防災相“資源投じて 被災者ニーズに応えていく”",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wT09SNnh2UTE5cmhUZndNQ1NrbFdWU19JaVJIU0JBdjVWTklWc2cwSjhyY2FBbmE4NVFEdGdCa0hJZlBLcm11RUxCOGRCNXdCYVVnZk5fSWhjRVl0QzBn?oc=5",
       "pubDate": "2026-08-09T03:45:13.000Z",
-      "sourceName": "NHK",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 赤間防災相“資源投じて 被災者ニーズに応えていく”  NHKニュース",
+      "description": "熊本地震 赤間防災相“資源投じて 被災者ニーズに応えていく”  news.web.nhk",
+      "category": "disaster"
+    },
+    {
+      "title": "震度7の熊本・氷川町で住宅の危険度判定 二次被害防止へ 令和8年熊本地震（FNNプライムオンライン（フジテレビ系））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NS1lBc2RKSmhtMXNucFVmclpqOElhdVdObVNPMF9Qa0k3T3IweFFPVWVDOTB4U0RPM3YtWmFZeWo0ZkhBY1ZyTmRHYzZ4UW9yNFFDNTVaUURNWG5QMDVYSWNRSDhBM09LRjZlSXlXa2hWWWh2LU00WXFobHBEeEU?oc=5",
+      "pubDate": "2026-08-09T03:43:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度7の熊本・氷川町で住宅の危険度判定 二次被害防止へ 令和8年熊本地震（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -564,7 +762,7 @@
       "pubDate": "2026-08-09T03:34:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震受け応援職員を派遣 震度６強観測の嘉島町で住家被害認定調査など担う 秋田（秋田テレビ）  news.yahoo.co.jp",
+      "description": "熊本地震受け応援職員を派遣 震度６強観測の嘉島町で住家被害認定調査など担う 秋田（秋田テレビ）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -573,7 +771,7 @@
       "pubDate": "2026-08-09T03:29:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "上天草市でエアコン室外機窃盗の疑い男を逮捕 被害者は地震で車中泊避難中【令和8年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "上天草市でエアコン室外機窃盗の疑い男を逮捕 被害者は地震で車中泊避難中【令和8年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -609,7 +807,7 @@
       "pubDate": "2026-08-09T03:21:20.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「お盆休みはすべてボランティアに」全国から被災地に駆けつけ汗流す 熊本・宇城市に200人 ＜2026年熊本地震＞  news.yahoo.co.jp",
+      "description": "「お盆休みはすべてボランティアに」全国から被災地に駆けつけ汗流す 熊本・宇城市に200人 ＜2026年熊本地震＞  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -645,7 +843,7 @@
       "pubDate": "2026-08-09T03:14:48.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.08.09 12:00 ] 上天草市で震度４の地震 天草市・水俣市・芦北町などで震度３を観測【令和８年熊本地震】  tku.co.jp",
+      "description": "[TKUニュース 26.08.09 12:00 ] 上天草市で震度４の地震 天草市・水俣市・芦北町などで震度３を観測【令和８年熊本地震】  TKU テレビ熊本",
       "category": "disaster"
     },
     {
@@ -654,16 +852,25 @@
       "pubDate": "2026-08-09T03:14:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "上天草市で震度４の地震 天草市・水俣市・芦北町などで震度３を観測【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "上天草市で震度４の地震 天草市・水俣市・芦北町などで震度３を観測【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
       "title": "熊本地震 災害ゴミ搬入に長蛇の列「高齢者多く若い人がいれば助かる」",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KM1pnZnNEOXBRdl8yOUhJOU02Ulk3aGNzSG9pV2pteTNxQmJiaVJEYVZ1cVU1U2JEVkxaVy0zS2VHYUVIcDFVSWhJVng0NjBLWURaNjZwNGhNVldjTnhMbndSV0lKdjJONHd3Qmh3YUhPUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FTmVaaFh5Z054a1B1U3lPdVFzeF9yZUNkelVxU2E4a3JHYU96aDJNT1ZQZXhmUEVnZXdFV1R1cXRjWTFYMGhCVURjNVdPelU?oc=5",
       "pubDate": "2026-08-09T03:08:54.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 災害ゴミ搬入に長蛇の列「高齢者多く若い人がいれば助かる」  テレ朝NEWS",
+      "description": "熊本地震 災害ゴミ搬入に長蛇の列「高齢者多く若い人がいれば助かる」  khb東日本放送",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 災害ゴミ搬入に長蛇の列「高齢者多く若い人がいれば助かる」（テレビ朝日系（ANN））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VYXZNQnVxS0QxeDZrMThmTXpIVmdqUDdWRzd1QWRPUlBRM2ZibGQzQm9YQ1djVkZWOERPWmo3dUNYeUd1c3RlQVRLMUJHNzVIMk95UFVOSXpPb1dzNHBTamc4dG5MZUtqeGMyNWlYV2hxeExjX1dBcnlpenotWVU?oc=5",
+      "pubDate": "2026-08-09T03:08:54.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 災害ゴミ搬入に長蛇の列「高齢者多く若い人がいれば助かる」（テレビ朝日系（ANN））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -692,216 +899,9 @@
       "type": "local",
       "description": "500個のランタン灯し、被災地に元気を　熊本県天草市・牛深でフェス　入場無料で8月16日まで  ｄメニューニュース",
       "category": "other"
-    },
-    {
-      "title": "熊本地震で寮や道場が使用不能に…それでも「ピンチはチャンス」 被災地から“日本一”へ 監督の実家で稽古続け「インターハイ団体準優勝」の快挙 八代白百合学園高校女子剣道部",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52VExraGZKUHh5NGppcVN1TXFMRlMwUWg2dzJSWHdSLUNHT3VPS3VOaFZTVVVZQ1MxcTgtaGp6bHllRzNuRU5CNGVja21rZw?oc=5",
-      "pubDate": "2026-08-09T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で寮や道場が使用不能に…それでも「ピンチはチャンス」 被災地から“日本一”へ 監督の実家で稽古続け「インターハイ団体準優勝」の快挙 八代白百合学園高校女...",
-      "category": "disaster"
-    },
-    {
-      "title": "【 熊本地震 】ダレノガレ明美さん 8日に被災地支援で炊き出し「ノンストップで700食」 盗難被害で支援受けた梨農家さん「お返ししたい」と参加（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91X2gybTRTc25MTUkxMjlWS3ByYmR5NGwzU21pLVRiV0V3dDN6X096Sm9yZlBzSDJrTFIxaVpmdnR0ZnlfU0hpQ01vdFdjN3lUNFFsUWQ1dzZSX0JKOHBJRk4xY0w2SThmcWF3Si1tN1hVZGdqWWxIeGo1cDJKUU0?oc=5",
-      "pubDate": "2026-08-09T02:52:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【 熊本地震 】ダレノガレ明美さん 8日に被災地支援で炊き出し「ノンストップで700食」 盗難被害で支援受けた梨農家さん「お返ししたい」と参加（TBS NEWS...",
-      "category": "life"
-    },
-    {
-      "title": "【熊本地震被災地を支援】ジュビロ磐田の選手らが募金活動 熊本出身江崎選手もサポーターに呼びかけ（静岡・磐田市）",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFk0akdqYmhibGt0U05IWTZSYlhMUGZvTW9aSXUzc2NJaDE4eDV6VGttOTVzbmVLejJJd2U3a2NGVUVjRmlDU0lCRWU4eDcyV3B6UG5NcGl1MGVMa0RzdHRGT2Z2S3k0cDZLUzl4ZmlzRUZ1MTBPczBteXNQOGtpMUVxcWJWUFU?oc=5",
-      "pubDate": "2026-08-09T02:50:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震被災地を支援】ジュビロ磐田の選手らが募金活動 熊本出身江崎選手もサポーターに呼びかけ（静岡・磐田市）  日テレNEWS NNN",
-      "category": "life"
-    },
-    {
-      "title": "「POWER TO KUMAMOTO ～令和8年熊本地震災害義援金募金活動～」実施のお知らせ",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhamxUWkUxeXYzdGx6Z01oeVN6UkVQMFdaN3dhT1dIa0JnQU5sSjM4cmVvbS1hb3BhbFV6U051NlVHX1VnbV9KOGFmRQ?oc=5",
-      "pubDate": "2026-08-09T02:44:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「POWER TO KUMAMOTO ～令和8年熊本地震災害義援金募金活動～」実施のお知らせ  RIZIN",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】温泉地も被災による影響…県内の宿泊施設の予約キャンセル料9億円に 老舗温泉旅館「金波楼」も被害",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBbm9HM1FidmFwemNFakpLUHZadkt6akNOTDY3OVR4ZEhnSGpJZEwxTDBLRHBMZFhScndpNlNwRnZmMDdyYm1GVGE1bl9MOUJZMTZVb29OSkVORWhNWWtITm5HS1J4SlJiNGpsRGRFZ3c1SDZOWFp4M2I2MEM?oc=5",
-      "pubDate": "2026-08-09T02:42:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】温泉地も被災による影響…県内の宿泊施設の予約キャンセル料9億円に 老舗温泉旅館「金波楼」も被害  news.ntv.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "「誰もいなくてよかった…」木村知事が被災地を視察 氷川町と宇城市 天井崩れ、機械が被災した集荷場 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ER1BkSTNJUjkwSlpnVmJXbjN6S3BrUGhTZmRfdXlCSlhILTJ6bHpwWFdIX0VTcE5ZM3dOWHlsLVNDUVVuTi02MHh5eVM5UTZCS2ZYb1k1dERra3gydXUyV3VIemFNTkVqdTlpS005bW5SWFBKbGlUd2tWQmVZdnc?oc=5",
-      "pubDate": "2026-08-09T02:39:16.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「誰もいなくてよかった…」木村知事が被災地を視察 氷川町と宇城市 天井崩れ、機械が被災した集荷場 ＜2026年熊本地震＞  news.yahoo.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震 WAMが災害復旧資金等の取扱い開始",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BclZ2eU5JOVJadld2SGxpdkxHc3ItZmR2Rkx2UW1rWm55S2d5QmpzdGM3cElvNDdaekE1V1hFNHpOMzlfd295S3podmlqMVFtT2xn?oc=5",
-      "pubDate": "2026-08-09T02:30:57.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震 WAMが災害復旧資金等の取扱い開始  老施協デジタル",
-      "category": "infra"
-    },
-    {
-      "title": "10日から八代―水俣でバス代行 熊本地震で被災の肥薩おれんじ鉄道 [熊本県] [2026年熊本地震]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00eG1HUjJyMG5kQW1aZ2FUeU56dGN6eng4OGowMGNBeUVWa2JPT1RxQnl6R25BbUdnUVlyNVQ1UVI3dk9SX2kzY2Z3VjQ3NnJ2b1F6OG1oajRPT1NabGVYY09SMFRrQmM?oc=5",
-      "pubDate": "2026-08-09T02:30:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "10日から八代―水俣でバス代行 熊本地震で被災の肥薩おれんじ鉄道 [熊本県] [2026年熊本地震]  朝日新聞",
-      "category": "infra"
-    },
-    {
-      "title": "熊本県知事が熊本地震の被災地を視察 「ニーズ早めに把握を」（朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LTnJaV0VrTGRxdHluak82YW5hSEw5TE15YnNEMHRxRDU3Q0MtZTdXZnpvQm15bTNGTGxFMmcwT25xMW5aMTZ6WHVDdWhEdlRCMkVuOFBndHQ4ZEE1N1BWaXZfZWZvLXkzOVJJZnY2YUw0bDYxRzhCbWF3R3Z5UDA?oc=5",
-      "pubDate": "2026-08-09T02:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本県知事が熊本地震の被災地を視察 「ニーズ早めに把握を」（朝日新聞）  news.yahoo.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震支援、米軍が救援物資輸送と防衛相",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80Z3gwNExsd3JLeXd3NW9vcTU4S2RJRFpHVHdMVHdRUXhPZG9hSy1BUXI5LXJPVWZ0bGdueE8tNlF6ZGowM2tVcUl2Vm1VSzhEbkVNb1N6elFNQjQ?oc=5",
-      "pubDate": "2026-08-09T02:27:46.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震支援、米軍が救援物資輸送と防衛相  下野新聞社",
-      "category": "life"
-    },
-    {
-      "title": "「９連休を取れた」長崎県内、帰省ラッシュ始まる 熊本地震の影響も（長崎新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbTNfQ1lBckQxcVVaRElYMG81QWtZb1M0c0NJSFdqUXpkeHpiTlAyVldLdExiZ1VQNlFOdjY2MEdDWnFkZ2o3cHVwZ0R0TVRCYnJSNlRRRnhzMDUydlY5NnBVcFJrR2g4c0tQdFJKZzhZckgzaHpPQndLR0tnQzQ?oc=5",
-      "pubDate": "2026-08-09T02:20:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「９連休を取れた」長崎県内、帰省ラッシュ始まる 熊本地震の影響も（長崎新聞）  news.yahoo.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "「９連休を取れた」長崎県内、帰省ラッシュ始まる 熊本地震の影響も",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JSG5Odk56QzUwTGIyUkRRUUVNNUtya0VodmppdjB4OUw1YmUwb0djbWpuSHpYd3ZOakhSZTVjbVpaSTJGWU9OQmZXTQ?oc=5",
-      "pubDate": "2026-08-09T02:20:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「９連休を取れた」長崎県内、帰省ラッシュ始まる 熊本地震の影響も  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災地に怪しい「心理カウンセラー」…派遣中の福岡県警の警官が相談受け、警戒強めると現れず",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbXZYZkFMa2JhY20xeWRVVG1rQmtQVGVEeEQ5bDlaa0xPempBekhjRTN0QkVkZF9CTGZCS0F5VzRBdjVMNlZXcEtGQ0tVM0lwWkxJOUNaVzVtdWZqMnF4YkJ6Y1c1M09Lb3JSTXRTd1JJQQ?oc=5",
-      "pubDate": "2026-08-09T02:17:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地に怪しい「心理カウンセラー」…派遣中の福岡県警の警官が相談受け、警戒強めると現れず  読売新聞",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震、クリーニング店の有志らが洗濯支援「遠慮せずに持ってきて」…断水続く避難所などで衣服集め",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ETmNxbldHMnMwbXh1eHlWdF93WmpTSHFfY2hBM01scWNlMmR2WkNGMDd3QzlfRHBJMGpXYlZzM3VxQkZqUS1NSDItTF8waFhLbDA0cUxSdm9LdG9HRmRRUDR1bTBrNTBDd05DeUFVdHlldw?oc=5",
-      "pubDate": "2026-08-09T02:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、クリーニング店の有志らが洗濯支援「遠慮せずに持ってきて」…断水続く避難所などで衣服集め  読売新聞",
-      "category": "infra"
-    },
-    {
-      "title": "【速報】熊本地震支援、米軍が救援物資輸送と防衛相",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVGtwUEJRV1Z4Y0ZVZmdJZF9kRlE5MnE1NUZaUTctQzBEQ1FGNVVUX0tkNU1MQmlscFhQZ2EzcUtXTDdWQUhqUy1YYw?oc=5",
-      "pubDate": "2026-08-09T02:10:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震支援、米軍が救援物資輸送と防衛相  47NEWS",
-      "category": "life"
-    },
-    {
-      "title": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ 小泉防衛大臣が発表",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3dUxvU1J3a3VOWE1wbjg5ZEhQNEE4RlV4c0h6ekt3Vjk3a0ZiaXB6Q21JTjdNRG5PVmg5MndsVnR0UUgycjhvNlBBTy01MGJfalNBRW82QQ?oc=5",
-      "pubDate": "2026-08-09T02:01:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ 小泉防衛大臣が発表  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ　小泉防衛大臣が発表",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HM3ZoQ2VfZUVOdm9xRV9FWmJpWGVsbjMzNGd3ZmsxckRSQklGTWI1Uzh3aVgxM2NDYVZwS1pUYmY4QVhudi1LQjZyN1pSQldDQVhFX1hxaE9hRkJPdjZNRC1Jc2JKamNOSE9ROHcxR0dDZ9IBd0FVX3lxTE14cXY1UmJGUXlYOVM1TVkyRXFUY1lsUkVHZXU0ekhncG5VMUpNS09qbkZ0YWkxdy1CdThUaTcyOExUcHZvRzhYQlE1Qi11cFBiUFhtUlRUcmlvcnFzSnFZOEtTRHBFVTlUNzlLWGpmVlRIa3h0a05F?oc=5",
-      "pubDate": "2026-08-09T02:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ　小泉防衛大臣が発表  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ 小泉防衛大臣が発表（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11ZHV1UFB6cFhtQ2NQSnFReFZiMmxzS01nSGp4VFdUMmtucmZtWW9aVUhyRzc4UmdvY1N5c2xMcl9kdGhUamN5cUM5cDY3NlJadHNCOFc3QVZpZkFOUFFNVkIxd0hhYzRvSnZNVUwzdEkwTUJ2OFp0a2FacjBnZms?oc=5",
-      "pubDate": "2026-08-09T02:00:55.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】政府、熊本地震で米軍による物資輸送支援受け入れへ 小泉防衛大臣が発表（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の被災地での性被害防止へ 能登半島地震で被災した医師らが防犯ブザーと笛を寄贈",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rUlpndHkxeWhhODJCZVNpaXg4NEtuOWJxSFZkUHFnOTFtOTBJVm53WjItSVBxSC1XSlJRUWU1aF9DUGs3WEUwdjdnbFZOaXdFR1JvOQ?oc=5",
-      "pubDate": "2026-08-09T02:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地での性被害防止へ 能登半島地震で被災した医師らが防犯ブザーと笛を寄贈  中日新聞Web",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災地に給水応援 伊賀市上下水道部が職員3人派遣 三重（朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNVBNZEdwTE5MZWViNHU3M3hKM2NNNzBONXhpVmZfdkx1NkRzX0RNUjVhdkMxcFBSNHJwTlRtX0RNY2k2NVpfaWZpNmNHUktOUTNBdHl6RURzZjFQeUEwdVdvS0F0SXFKelAxME5pMEFoZUtMQXlOWjRNNU84eHc?oc=5",
-      "pubDate": "2026-08-09T02:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地に給水応援 伊賀市上下水道部が職員3人派遣 三重（朝日新聞）  news.yahoo.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "地震避難中の隙を狙う「火事場泥棒」上天草市でエアコン室外機盗難、無職男を逮捕【令和8年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Pa1dwWnJaeWN4RGFRa3JRZ25udlU4eWgtRXJ2cFpNZjZIaWFrQXVxelE5X3JrYkVxcENBRGhxdS1BVi0zRnczQ3g1R0x3V3NtemRBYncxdkcyRnh4cE5USFAzSQ?oc=5",
-      "pubDate": "2026-08-09T02:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震避難中の隙を狙う「火事場泥棒」上天草市でエアコン室外機盗難、無職男を逮捕【令和8年熊本地震】  tku.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の被災地に給水応援 伊賀市上下水道部が職員3人派遣 三重",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRnZPRnRFYWM4ZXRaalBNazhXRExRc2x3ZXBJVlhDTjVDeG1mU09sVU5qaFRWV2xNdXRndC1XVGtPRW9rd0s0MnJtWW9aYmxUNEl4allNMWQwaGJUcG8zaG9lZEREZG8?oc=5",
-      "pubDate": "2026-08-09T02:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地に給水応援 伊賀市上下水道部が職員3人派遣 三重  朝日新聞",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震で車中泊、自宅に戻るとエアコンの室外機がない…「お金に困ってやった」窃盗容疑で無職男を逮捕",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fUE9tUml1a3NwYTN4NDRuTF8tUVl2bUpMaHRFdks2NUpaVzFPb2VMNEh4RFNiTDJZS3FuN2d6RlIyMlBna2dXSTk2by14bXBCQUJxYXpISDF3cnZGUEE4LWdQQ3NxbTdsMmVSMWhlRjV2QQ?oc=5",
-      "pubDate": "2026-08-09T01:48:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で車中泊、自宅に戻るとエアコンの室外機がない…「お金に困ってやった」窃盗容疑で無職男を逮捕  読売新聞",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-09T09:02:18.821Z",
-  "lastAttempt": "2026-08-09T09:02:18.821Z",
+  "lastSuccess": "2026-08-09T09:56:16.969Z",
+  "lastAttempt": "2026-08-09T09:56:16.969Z",
   "fetchOk": true
 }
