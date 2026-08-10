@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【速報】上天草市で震度3（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqMEQwUWxHVDlRWHAwT3p1NHlJQmF3Rm1SWXNBTkNZVmltdTd2VGoyWTVTMGlLU2VRdzdOQURfeEt1ZFd6bktoQkpIbWkxbkxKVzZOc0ZyaThWVjhBQnJCaDV1M0xwUmtTRWwxUWxPZHpNSkhMSlhQSVlzcmpxMzQ?oc=5",
+      "pubDate": "2026-08-10T18:32:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市で震度3（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "震度3 熊本県天草・芦北地方 2026年08月11日03:12ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0JLNGl3ZzNvWUc3TTRoN2F6YUVUZjc4RU1heGZfSXo0RlF6bG12SXdsUUU2dElzT2ZQc2t5LS16QUFtZXVVVzFidXYtclhxZkYyMTlxOEFqNS0zNTM3b3NYVU5zMUk4c1ZsU0JsRDIyaGlOaXJZZG8zcmNSdXdhZF9qS0xKaW8?oc=5",
       "pubDate": "2026-08-10T18:17:29.000Z",
@@ -16,15 +25,6 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】上天草市で震度3  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】上天草市で震度3（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFM3Ym9YZC1FYUpnZnNYRTNQR3c5Y2VyOTNGWDFtWFN2MDNBcUFWYU5CVG03TFVzSVlMNEdwVkNIOHB6VzF1eC1iZXZFWGFjekVqU0ZMZ0lWRjRIT1JseUxWS01VdHN0anpFQlJNaHBaWWI2UDJFUEtOYVp0ZG1id1JpczhHRXhDLWFMWU1R?oc=5",
-      "pubDate": "2026-08-10T18:12:58.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】上天草市で震度3（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -89,6 +89,15 @@
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・宇城市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
       "category": "disaster"
+    },
+    {
+      "title": "【熊本地震】八代市でボランティア受け入れ始まる 農業にも影響続く…農林水産業関連の被害額は現時点で約233億円 路線バスは復旧に遅れ【news23】",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JM1B3R2dlWndjYkRVMFhiZWpDVTktb2NsMktaZVR3cVpQbTdNVkZjTkRVY1RDS2VwME5wQ20tOFNkQjVEUGtaSTVxd2Zta3QwejFtLUU3Zw?oc=5",
+      "pubDate": "2026-08-10T16:09:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】八代市でボランティア受け入れ始まる 農業にも影響続く…農林水産業関連の被害額は現時点で約233億円 路線バスは復旧に遅れ【news23】  TBS ...",
+      "category": "infra"
     },
     {
       "title": "【速報】宇城市で震度1",
@@ -160,6 +169,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "令和8年熊本地震 救援金受け付けのお知らせ【9月30日まで】（熊日、ＲＫＫ、熊本善意銀行）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市西区で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YT3c5VktDSzR2c3FYaXBOalJqQ0JDdHZsZGV2YXdZcFc3OW5pUTJYRkRkUHF1ZGFuODFtanVZbm81ZzdmYmU4bml1QnJxbGM?oc=5",
+      "pubDate": "2026-08-10T15:00:51.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市西区で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "熊本市で仮設住宅の建設作業が開始 10年前の熊本地震の経験を活かし早期着手へ 計50戸を整備し9月中旬の完成見通し  TBS NEWS DIG",
       "category": "life"
-    },
-    {
-      "title": "被災地に響く子どもたちの歓声 寺が地下水使ったプールを開放 断水続く氷川町【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRmprcGFlb1FWOTJyUUczUnlvdS15SmJ1NFV2cERYQ0dQU2NONE1FeU9pRklHZVJpYkh4X0tnREM0ZEMxMzdSTGp6UV9WQllnZDNCYXBwVEYzRVZtZ2UxSXBKdWEwSUd0ODAtQ2RuUHVxRU1aQXRKUW1sTG1RRUk?oc=5",
-      "pubDate": "2026-08-10T10:22:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "被災地に響く子どもたちの歓声 寺が地下水使ったプールを開放 断水続く氷川町【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "「パトロールしっかりして安心安全を確保」 熊本地震被災地に地域警察官12人を派遣 静岡県警（静岡朝日テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GakxNeE1jZGo5cUxkT0RnWXFjU2duWlpKWVdUUC1Qd1ktUlNWRmZrWGtMTkJtcDZMWHpWNjFvTEtlTXNRS0NFSjVKZEg5N1BWNDIyZHpWMnMtYlBqckpRVm11NFRNck9YVEY4MEpfandZc0FsRDkzN3RzXzJYdk0?oc=5",
-      "pubDate": "2026-08-10T10:17:16.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「パトロールしっかりして安心安全を確保」 熊本地震被災地に地域警察官12人を派遣 静岡県警（静岡朝日テレビ）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-10T18:34:24.150Z",
-  "lastAttempt": "2026-08-10T18:34:24.150Z",
+  "lastSuccess": "2026-08-10T19:42:30.699Z",
+  "lastAttempt": "2026-08-10T19:42:30.699Z",
   "fetchOk": true
 }
