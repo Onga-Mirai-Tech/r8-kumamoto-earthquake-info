@@ -24,16 +24,7 @@
       "pubDate": "2026-08-11T21:22:59.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 新潟のニュース・天気｜BSN NEWS｜BSN新潟放送  newsdig.tbs.c...",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本県で最大震度1の地震 熊本県・八代市",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WHczbEZBeUQ0MGRYVFFDN2UweE9FUE51VFpnVkNORUpkeERTX3FRc1VqY3FHeXlPdk42RjQxbmR4cXMxaDRRckxhWDQwVTl0M2owbzMzcVVBM3dBbTJZMXpCNng?oc=5",
-      "pubDate": "2026-08-11T21:13:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本県で最大震度1の地震 熊本県・八代市  newsdig.tbs.co.jp",
+      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 新潟のニュース・天気｜BSN NEWS｜BSN新潟放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -42,7 +33,7 @@
       "pubDate": "2026-08-11T21:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 富山のニュース｜天気・防災｜チューリップテレビ  newsdig.tbs.co.jp",
+      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 富山のニュース｜天気・防災｜チューリップテレビ  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -51,7 +42,7 @@
       "pubDate": "2026-08-11T21:10:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.j...",
+      "description": "震度1 熊本県熊本地方 2026年08月12日06:10ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -91,12 +82,39 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 フェリーによる入浴支援再開 3万戸以上で断水続く",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRjBKRVhPal9QQlItaUwzM2VDYlpKV2NHVDE2SW15NmNDT1hDNm84bXl5X3ZLN2JWUV8tbzAzYU9nLU5YR3NpRklrVzRGX1ZDZ29ELUZPZW96NUUwUmUwOTZBd2xmZXY4bWhPTE9OVks3UQ?oc=5",
+      "pubDate": "2026-08-11T20:52:25.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 フェリーによる入浴支援再開 3万戸以上で断水続く  テレ朝NEWS",
+      "category": "infra"
+    },
+    {
+      "title": "熊本県で最大震度1の地震 熊本県・八代市",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMmw3cXBtRWI5SEhiVDlVR0JIemd4RHp2NXBPWW9hU1laVGRId24wS0FndlBhSExyRVZVcngtaE50dWxDMURPOTdDMXdHNXc4eEFPOGVaMA?oc=5",
+      "pubDate": "2026-08-11T20:50:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度1の地震 熊本県・八代市(放送局のニュース )",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01Yy1sbFpDWjZzdWQ4R3RIRFFvS0hrZ1lpMGN6VXllbHNsM2FrLVdjZlRZWnFRazB2emZITnZWR2lmX1VTREt0bTVwQ18wUlpnUmdKTXlKcWp2NU55eUVNclpYUXZfM3l1SmYzMS1DSmdXZFg3Rmc?oc=5",
+      "pubDate": "2026-08-11T20:50:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市(放送局のニュース )  tenki.jp",
+      "category": "disaster"
+    },
+    {
       "title": "震度1 熊本県熊本地方 2026年08月12日05:47ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeEFnaDN0QURBd0FfQlBNVUhVZnJMQ05QV1I2MXlPZ1RhRGJRSzV0aGtRN2VVUThva2NwWFNmNDFvUmpBVlpXWDN3WWJtbGgzOW1lYkVaUjZmbURRZlIyTVktTFZCdW1VMzZ2bEt4SnpkQjVEUlAxTDlfWEEyWXFvMVpQbzVXUnc?oc=5",
       "pubDate": "2026-08-11T20:47:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月12日05:47ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.j...",
+      "description": "震度1 熊本県熊本地方 2026年08月12日05:47ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -127,15 +145,6 @@
       "category": "infra"
     },
     {
-      "title": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcjRxV01relFqNHJWNENEN295Yzh2RDJ6cS1lNk54dFRuTmU2MGNZWnp0S2hsWGVnSy1fcGJ6Smdqd1B2c2hOLXB5VzNQU3RWQ2pSVUROaXlIT3dMTW9nNXMxLVBxQlVCMThIdA?oc=5",
-      "pubDate": "2026-08-11T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全  日本経済新聞",
-      "category": "infra"
-    },
-    {
       "title": "熊本地震、高まる次への警戒 活断層がもたらす連鎖の正体を動画解説",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLR3BLdEpfTldSVkRXd1JZVDIxVnVHcDd0TXcyQWJIczB6SnlhU0NBRlpGVzBOdWFfV2FUTERaZG96bUZoaUNzR0R4QUFlRFlmWnBxWWxuSGVzTEk5VEhodC1uSzdVZUE2TTQzNQ?oc=5",
       "pubDate": "2026-08-11T20:00:00.000Z",
@@ -152,6 +161,15 @@
       "type": "local",
       "description": "熊本地震、家庭に電力自衛迫る 再エネ先行も「非常用」に蓄電足りず  日本経済新聞",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcjRxV01relFqNHJWNENEN295Yzh2RDJ6cS1lNk54dFRuTmU2MGNZWnp0S2hsWGVnSy1fcGJ6Smdqd1B2c2hOLXB5VzNQU3RWQ2pSVUROaXlIT3dMTW9nNXMxLVBxQlVCMThIdA?oc=5",
+      "pubDate": "2026-08-11T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全  日本経済新聞",
+      "category": "infra"
     },
     {
       "title": "震度2 熊本県熊本地方 2026年08月12日04:29ごろ 地震詳細 | 山梨のニュース | ＵＴＹテレビ山梨",
@@ -195,7 +213,7 @@
       "pubDate": "2026-08-11T19:20:48.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放  newsdig.tbs.co.jp",
+      "description": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -231,7 +249,7 @@
       "pubDate": "2026-08-11T17:37:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 和歌山県北部 2026年08月12日02:37ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.jp",
+      "description": "震度1 和歌山県北部 2026年08月12日02:37ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -258,7 +276,7 @@
       "pubDate": "2026-08-11T16:02:26.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震2週間】爆発で7人死亡のイオンモール「一時入館を認めた」 被災地では子どもたちの“安心できる居場所”づくり【news23】  newsdig.tbs....",
+      "description": "【熊本地震2週間】爆発で7人死亡のイオンモール「一時入館を認めた」 被災地では子どもたちの“安心できる居場所”づくり【news23】  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -321,7 +339,7 @@
       "pubDate": "2026-08-11T15:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和8年熊本地震による災害支援で10万ドル寄付ギリアド・サイエンシズ  iyakutsushinsha.com",
+      "description": "令和8年熊本地震による災害支援で10万ドル寄付ギリアド・サイエンシズ  医薬通信社",
       "category": "life"
     },
     {
@@ -330,7 +348,7 @@
       "pubDate": "2026-08-11T14:58:19.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震発生から2週間 仮設住宅の整備進む 避難所に約3700人（FNNプライムオンライン（フジテレビ系））  news.yahoo.co.jp",
+      "description": "熊本地震発生から2週間 仮設住宅の整備進む 避難所に約3700人（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -429,7 +447,7 @@
       "pubDate": "2026-08-11T13:30:07.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月11日22:19ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.j...",
+      "description": "震度1 熊本県熊本地方 2026年08月11日22:19ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -442,21 +460,21 @@
       "category": "disaster"
     },
     {
-      "title": "2026年熊本地震＞10年前の恩返し…被災地で弁当、麺料理など振る舞う 益城町の満田さん 2016年熊本地震で被災",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VMXVPTUoxN2FicExGbF9wQWR0OHZVUWU0YVBPUDBPZWZHN1U1VEJ4NWg1eW9OZHBqZ1RVLUU4Zk5BM2FxeGpwRXZxdUk1MEU?oc=5",
-      "pubDate": "2026-08-11T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞10年前の恩返し…被災地で弁当、麺料理など振る舞う 益城町の満田さん 2016年熊本地震で被災  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "2026年熊本地震＞10歳のアーティストが個展 山鹿市めのだけ小4年・角田さん 収益の一部、義援金に",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TDREMkNPU3BRWHlTY3hleE8tLUNyNTZlLTZnSlZJeVlRWjZqa0tjeG1iRWR5ZmF3TFhZOTZ2LUlTQW4xblpoN1dNeDNFcFE?oc=5",
       "pubDate": "2026-08-11T13:30:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "2026年熊本地震＞10歳のアーティストが個展 山鹿市めのだけ小4年・角田さん 収益の一部、義援金に  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞10年前の恩返し…被災地で弁当、麺料理など振る舞う 益城町の満田さん 2016年熊本地震で被災",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VMXVPTUoxN2FicExGbF9wQWR0OHZVUWU0YVBPUDBPZWZHN1U1VEJ4NWg1eW9OZHBqZ1RVLUU4Zk5BM2FxeGpwRXZxdUk1MEU?oc=5",
+      "pubDate": "2026-08-11T13:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞10年前の恩返し…被災地で弁当、麺料理など振る舞う 益城町の満田さん 2016年熊本地震で被災  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -636,7 +654,7 @@
       "pubDate": "2026-08-11T11:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「パパー！」「顔を見て安心した」熊本でお盆の帰省ラッシュがピークに 地震後の再会を喜ぶ声や観光による支援の動きも  newsdig.tbs.co.jp",
+      "description": "「パパー！」「顔を見て安心した」熊本でお盆の帰省ラッシュがピークに 地震後の再会を喜ぶ声や観光による支援の動きも  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "各地でボランティア １０年前の地震で助けられた恩返し西原村消防団 長崎からかき氷【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "「全壊約１１００棟」熊本地震発生から２週間、約３７００人避難、３万戸超で断水続く【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9INnM5ZHBuRzJEdmpIb2Uzdno4S0x2eWRtN2pzc0JYaGRtWXd1V1JiZnhtZkFnZ2x4Q2UzQUtLX1lxUC1VMGVzV0xaT1BUQVQ1cjI5cVdPc2haSzRSNVYwQkUwSEhod2w3VVNIYmZBOWZEeGVzd3llZWRnREZzZ1k?oc=5",
-      "pubDate": "2026-08-11T10:12:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "「全壊約１１００棟」熊本地震発生から２週間、約３７００人避難、３万戸超で断水続く【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "[TKUニュース 26.08.11 18:50 ] 熊本地震から２週間 子どもの不安にどう寄り添うべきか【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SeU0yUlQ4cGVJczU0eWg2WFFMUFpVcUN5YllBYUFZYTBfRFlnZTJjdDFZNFBxNndsSHFyZzNWS2p2SDNaNThDSm1oLXJzdktaOEhSWmhKRXY1TTZ6Njk0UVM0aw?oc=5",
-      "pubDate": "2026-08-11T10:11:29.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.08.11 18:50 ] 熊本地震から２週間 子どもの不安にどう寄り添うべきか【令和８年熊本地震】  TKU テレビ熊本",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-11T21:29:58.226Z",
-  "lastAttempt": "2026-08-11T21:29:58.226Z",
+  "lastSuccess": "2026-08-11T22:21:28.927Z",
+  "lastAttempt": "2026-08-11T22:21:28.927Z",
   "fetchOk": true
 }
