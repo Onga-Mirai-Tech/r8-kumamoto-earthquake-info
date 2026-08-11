@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcjRxV01relFqNHJWNENEN295Yzh2RDJ6cS1lNk54dFRuTmU2MGNZWnp0S2hsWGVnSy1fcGJ6Smdqd1B2c2hOLXB5VzNQU3RWQ2pSVUROaXlIT3dMTW9nNXMxLVBxQlVCMThIdA?oc=5",
+      "pubDate": "2026-08-11T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、「食のインフラ」の葛藤 ヒライ社長が考える使命と安全  nikkei.com",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震、家庭に電力自衛迫る 再エネ先行も「非常用」に蓄電足りず",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuTDFSdUZSTWhWRldhUnhDcGY1NlQtTlRrU3IzRFhjbkp3aEZ4OWZIQ2lBNmUzLWxLX3FXMS1ISDU0ZjFvM2tMQXY1bGd0MXFQR1Y4aFlXV2xyaDh3a3NEcTVOOFR2STdlS205cg?oc=5",
+      "pubDate": "2026-08-11T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、家庭に電力自衛迫る 再エネ先行も「非常用」に蓄電足りず  nikkei.com",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、高まる次への警戒 活断層がもたらす連鎖の正体を動画解説",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLR3BLdEpfTldSVkRXd1JZVDIxVnVHcDd0TXcyQWJIczB6SnlhU0NBRlpGVzBOdWFfV2FUTERaZG96bUZoaUNzR0R4QUFlRFlmWnBxWWxuSGVzTEk5VEhodC1uSzdVZUE2TTQzNQ?oc=5",
+      "pubDate": "2026-08-11T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、高まる次への警戒 活断層がもたらす連鎖の正体を動画解説  nikkei.com",
+      "category": "disaster"
+    },
+    {
+      "title": "台湾の人々が熊本地震を熱心に支援する原点とは？三つの「要因」から読み解く、TSMCがあるだけではない事情",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxTW5lcUd5bFNtVWhwZVZacm1zRHBVQldXWWlYZEQtWU1IUlNDY0tvREtpYVNWVFV5UDFCdE9sUVk1Mkg0UW1uOXg2Nkpxb04xdEdr?oc=5",
+      "pubDate": "2026-08-11T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "台湾の人々が熊本地震を熱心に支援する原点とは？三つの「要因」から読み解く、TSMCがあるだけではない事情  Wedge ONLINE",
+      "category": "life"
+    },
+    {
       "title": "震度2 熊本県熊本地方 2026年08月12日04:29ごろ 地震詳細 | 山梨のニュース | ＵＴＹテレビ山梨",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3hPbmdxTndBbEVJR01PUlVCQzlsbXpOQU5DVmNHRU0zbUMtZEZIRTk5YXpUVXR1V1pJVV9IQnRwLUJWbmJQQTVEc1B6SGMxNmRxNWlyV21ic2w4UUtVSlgta21iSVBha3laUC1ZakhSVDV3TVFCOFNXX0hOa21WVGVlMjZHbEk?oc=5",
       "pubDate": "2026-08-11T19:40:18.000Z",
@@ -24,8 +60,17 @@
       "pubDate": "2026-08-11T19:29:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度2 熊本県熊本地方 2026年08月12日04:29ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.j...",
+      "description": "震度2 熊本県熊本地方 2026年08月12日04:29ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNmJ2R1JyNXRRTXlfd3NEdFhUN0Z2TlBzTmdXblc0cWdWLTIxWnNhcDdkUGl6YmVxTVl4Y2Ric3kzamJBN2Y4WHRqZlMzZTJpdllCWWdJZEgwc0FCUjJlZ2M1MVpnSXVjbDkxcmVHLTBVSUpwdkhKTlhOeml1Vlk?oc=5",
+      "pubDate": "2026-08-11T19:28:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "life"
     },
     {
       "title": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放",
@@ -33,7 +78,7 @@
       "pubDate": "2026-08-11T19:20:48.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放  newsdig.tbs.co.jp",
+      "description": "熊本地震から2週間 寺が子どもたちの居場所支援 学童保育休止を受けプール開放  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -44,6 +89,15 @@
       "type": "local",
       "description": "熊本地震に係る申告納付の期限延長  税理士法人 浅田会計事務所",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災者を「全力で支援」 日本赤十字社岩手県支部が救護班を派遣",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xcUlReWtFS1gwaDF1bnhzQTNfWWxkMHdHYzIxRHRiRVIzeHFTTjJwZlZVOVpYb2tHQ1JFSFZpT3cwbXN2SE13dWVZYXg0T3NtV2pZTWtGQzU2MjhOZ3Jvdg?oc=5",
+      "pubDate": "2026-08-11T19:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災者を「全力で支援」 日本赤十字社岩手県支部が救護班を派遣  岩手日報",
+      "category": "life"
     },
     {
       "title": "熊本地震の被災者を「全力で支援」 日本赤十字社岩手県支部が救護班を派遣 - iwate-np.co.jp",
@@ -60,7 +114,7 @@
       "pubDate": "2026-08-11T17:37:00.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 和歌山県北部 2026年08月12日02:37ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.jp",
+      "description": "震度1 和歌山県北部 2026年08月12日02:37ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -87,7 +141,7 @@
       "pubDate": "2026-08-11T16:02:26.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震2週間】爆発で7人死亡のイオンモール「一時入館を認めた」 被災地では子どもたちの“安心できる居場所”づくり【news23】  newsdig.tbs....",
+      "description": "【熊本地震2週間】爆発で7人死亡のイオンモール「一時入館を認めた」 被災地では子どもたちの“安心できる居場所”づくり【news23】  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -118,21 +172,21 @@
       "category": "life"
     },
     {
-      "title": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbl8xZUY1MTU4RmctTEs1ZlZUN3JleEFOUGphYUhuWlFOVjU4aV9acTRGbzZtaXd5aVJSblBaR2NLRGRpdUhHclRCbVFUa1BweFN5UzBLRnNJRnhBRkw4aEcwWDhDZFNzZjdQaVN6ZkNkc0JQeWV2aXFIa2pVVWs?oc=5",
-      "pubDate": "2026-08-11T15:09:25.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261  週刊エコノミスト Online",
-      "category": "disaster"
-    },
-    {
       "title": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261 - weekly-economist.mainichi.jp",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbl8xZUY1MTU4RmctTEs1ZlZUN3JleEFOUGphYUhuWlFOVjU4aV9acTRGbzZtaXd5aVJSblBaR2NLRGRpdUhHclRCbVFUa1BweFN5UzBLRnNJRnhBRkw4aEcwWDhDZFNzZjdQaVN6ZkNkc0JQeWV2aXFIa2pVVWs?oc=5",
       "pubDate": "2026-08-11T15:09:25.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261  weekly-economist.mainichi.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbl8xZUY1MTU4RmctTEs1ZlZUN3JleEFOUGphYUhuWlFOVjU4aV9acTRGbzZtaXd5aVJSblBaR2NLRGRpdUhHclRCbVFUa1BweFN5UzBLRnNJRnhBRkw4aEcwWDhDZFNzZjdQaVN6ZkNkc0JQeWV2aXFIa2pVVWs?oc=5",
+      "pubDate": "2026-08-11T15:09:25.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "鎌田浩毅の役に立つ地学：最大震度7の熊本地震 日奈久断層帯の北東部が震源／261  週刊エコノミスト Online",
       "category": "disaster"
     },
     {
@@ -204,7 +258,7 @@
       "pubDate": "2026-08-11T13:36:50.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本市に鹿児島県指宿市から熊本地震の義援金贈呈 9日のコンサートで指宿市民らから募金（サンケイスポーツ）  news.yahoo.co.jp",
+      "description": "熊本市に鹿児島県指宿市から熊本地震の義援金贈呈 9日のコンサートで指宿市民らから募金（サンケイスポーツ）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -222,7 +276,7 @@
       "pubDate": "2026-08-11T13:35:27.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞馬肉工場被災、一時出荷停止も 千興ファーム（御船町） (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞馬肉工場被災、一時出荷停止も 千興ファーム（御船町） (熊本日日新聞)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -231,7 +285,7 @@
       "pubDate": "2026-08-11T13:35:27.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞馬肉工場被災、一時出荷停止も 千興ファーム（御船町）（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞馬肉工場被災、一時出荷停止も 千興ファーム（御船町）（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -240,7 +294,7 @@
       "pubDate": "2026-08-11T13:35:22.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞10歳のアーティストが個展 山鹿市めのだけ小4年・角田さん 収益の一部、義援金に (熊本日日新聞)  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞10歳のアーティストが個展 山鹿市めのだけ小4年・角田さん 収益の一部、義援金に (熊本日日新聞)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -258,7 +312,7 @@
       "pubDate": "2026-08-11T13:30:07.000Z",
       "sourceName": "RKK熊本放送",
       "type": "local",
-      "description": "震度1 熊本県熊本地方 2026年08月11日22:19ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  newsdig.tbs.co.j...",
+      "description": "震度1 熊本県熊本地方 2026年08月11日22:19ごろ 地震詳細 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -375,7 +429,7 @@
       "pubDate": "2026-08-11T12:20:42.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "スザンヌ 熊本地震から２週間…現地での心境吐露「今年の夏の思い出がなくなってしまいました」（東スポWEB）  news.yahoo.co.jp",
+      "description": "スザンヌ 熊本地震から２週間…現地での心境吐露「今年の夏の思い出がなくなってしまいました」（東スポWEB）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -411,7 +465,7 @@
       "pubDate": "2026-08-11T11:29:19.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】約30年続いた店を失った人も...発生から8月11日で2週間 避難生活を想定して具体的に備えることの大切さ  news.yahoo.co.jp",
+      "description": "【熊本地震】約30年続いた店を失った人も...発生から8月11日で2週間 避難生活を想定して具体的に備えることの大切さ  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -465,7 +519,7 @@
       "pubDate": "2026-08-11T11:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「パパー！」「顔を見て安心した」熊本でお盆の帰省ラッシュがピークに 地震後の再会を喜ぶ声や観光による支援の動きも  newsdig.tbs.co.jp",
+      "description": "「パパー！」「顔を見て安心した」熊本でお盆の帰省ラッシュがピークに 地震後の再会を喜ぶ声や観光による支援の動きも  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -501,7 +555,7 @@
       "pubDate": "2026-08-11T11:09:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
-      "description": "【中継】復旧が続く中お盆を迎える被災地 帰省した家族も片づけをお手伝い（ＫＫＴ熊本県民テレビ）  news.yahoo.co.jp",
+      "description": "【中継】復旧が続く中お盆を迎える被災地 帰省した家族も片づけをお手伝い（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -600,7 +654,7 @@
       "pubDate": "2026-08-11T10:26:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "八代市の国指定名勝・松浜軒が倒壊 復旧費用５０億円【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "八代市の国指定名勝・松浜軒が倒壊 復旧費用５０億円【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -609,7 +663,7 @@
       "pubDate": "2026-08-11T10:23:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "「口の中に細菌がとても多く増殖する」 避難生活で見落とされがちな歯と口の健康【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "「口の中に細菌がとても多く増殖する」 避難生活で見落とされがちな歯と口の健康【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -627,7 +681,7 @@
       "pubDate": "2026-08-11T10:19:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【静岡目線】熊本地震から2週間 藤井キャスターが見た熊本の現状は 被災地や被災者の様子をリポート（静岡）  news.yahoo.co.jp",
+      "description": "【静岡目線】熊本地震から2週間 藤井キャスターが見た熊本の現状は 被災地や被災者の様子をリポート（静岡）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -636,7 +690,7 @@
       "pubDate": "2026-08-11T10:18:15.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から2週間 氷川町で唯一の病院に密着（テレビ朝日系（ANN））  news.yahoo.co.jp",
+      "description": "熊本地震から2週間 氷川町で唯一の病院に密着（テレビ朝日系（ANN））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -645,7 +699,7 @@
       "pubDate": "2026-08-11T10:18:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "被災地の生産者はいま 地震で農業用水も不足…コメ、イグサ、ブドウにも影響 【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "被災地の生産者はいま 地震で農業用水も不足…コメ、イグサ、ブドウにも影響 【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -654,7 +708,7 @@
       "pubDate": "2026-08-11T10:17:07.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の避難者3700人に 実数報告で大幅減、県内89カ所  日本経済新聞",
+      "description": "熊本地震の避難者3700人に 実数報告で大幅減、県内89カ所  nikkei.com",
       "category": "life"
     },
     {
@@ -699,7 +753,7 @@
       "pubDate": "2026-08-11T10:14:02.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "各地でボランティア １０年前の地震で助けられた恩返し西原村消防団 長崎からかき氷【令和８年熊本地震】（TKUテレビ熊本）  news.yahoo.co.jp",
+      "description": "各地でボランティア １０年前の地震で助けられた恩返し西原村消防団 長崎からかき氷【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -726,7 +780,7 @@
       "pubDate": "2026-08-11T10:10:41.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災地に派遣されていた日赤病院の医師や看護師らが帰還 八代市の避難所等で被災者の健康確認など行う  news.yahoo.co.jp",
+      "description": "熊本地震の被災地に派遣されていた日赤病院の医師や看護師らが帰還 八代市の避難所等で被災者の健康確認など行う  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -735,7 +789,7 @@
       "pubDate": "2026-08-11T10:09:49.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災 ネコ様マンガの作者「つながってきたもの失われるかも…」（熊本ニュース KAB ONLINE）  news.yahoo.co.jp",
+      "description": "熊本地震で被災 ネコ様マンガの作者「つながってきたもの失われるかも…」（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -744,7 +798,7 @@
       "pubDate": "2026-08-11T10:06:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
-      "description": "【一転】イオン「再入館認めていた」 遺族に爆発事故の経緯を報告 （ＫＫＴ熊本県民テレビ）  news.yahoo.co.jp",
+      "description": "【一転】イオン「再入館認めていた」 遺族に爆発事故の経緯を報告 （ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "other"
     },
     {
@@ -753,7 +807,7 @@
       "pubDate": "2026-08-11T10:04:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震支援の石巻赤十字病院救護チーム帰還 保健師不足を指摘＜宮城・石巻＞（ミヤギテレビ）  news.yahoo.co.jp",
+      "description": "熊本地震支援の石巻赤十字病院救護チーム帰還 保健師不足を指摘＜宮城・石巻＞（ミヤギテレビ）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -843,65 +897,11 @@
       "pubDate": "2026-08-11T10:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災者支援の目的も 日向市で中学生が手作りお化け屋敷  newsdig.tbs.co.jp",
+      "description": "熊本地震の被災者支援の目的も 日向市で中学生が手作りお化け屋敷  TBS NEWS DIG",
       "category": "life"
-    },
-    {
-      "title": "記録的大雨から１年、熊本地震2週間、宇城市で二重被災と農家を襲う猛暑【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TN1BxN3VqMjRtclR5eE55ek41VjZ6elNqVk54Q3ZqbmhIVU1WZll1ekQwdFE2T2xmVm1LZzI2REdlM2dzeTR2VHNiSDR5UQ?oc=5",
-      "pubDate": "2026-08-11T10:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "記録的大雨から１年、熊本地震2週間、宇城市で二重被災と農家を襲う猛暑【令和８年熊本地震】  FNNプライムオンライン",
-      "category": "disaster"
-    },
-    {
-      "title": "阿蘇でキャンプ、被災地からリフレッシュ 八代市「ナザレ園」の子どもら 夏の思い出に",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUDR0WEphWWppUGdpbjJZVXFsaUxFUW5QTWNOc3JVd0lyenhJdTc4Qi1yVWxhNnMtMWxqa2gzTDdPLVZvQkQ0ckViN3lwV0E?oc=5",
-      "pubDate": "2026-08-11T10:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "阿蘇でキャンプ、被災地からリフレッシュ 八代市「ナザレ園」の子どもら 夏の思い出に  kumanichi.com",
-      "category": "other"
-    },
-    {
-      "title": "＜2026年熊本地震＞宇城市の避難者減 目視確認で600人台、8割減",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kR1BFaFgxUjR0U2pCNzgxYVhwdTBibEFBaTVSbFdpNUgyODJPR1V3RWpEWjJzbFlCaVZ0S250aUJUejY0S3hsVkVIcHVNMGM?oc=5",
-      "pubDate": "2026-08-11T09:59:43.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞宇城市の避難者減 目視確認で600人台、8割減  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞宇城市の避難者減 目視確認で600人台 11避難所 8割減",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kR1BFaFgxUjR0U2pCNzgxYVhwdTBibEFBaTVSbFdpNUgyODJPR1V3RWpEWjJzbFlCaVZ0S250aUJUejY0S3hsVkVIcHVNMGM?oc=5",
-      "pubDate": "2026-08-11T09:59:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞宇城市の避難者減 目視確認で600人台 11避難所 8割減  kumanichi.com",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞宇城市の避難者減　目視確認で600人台、8割減",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0w0UXVKTHItaUFreEY2Nl9UdEE3bnlIMkh6WE1BMHFaaGxIa2s3RG9DbW5tcXZvaGNhWjRLaG5iaHN3VUVrUW1QMG5XUl85MHIxblJKOUdNdU1JbS1LeUlRanhNelVMYTJ0YXlic21wdEUzVmRFaFowLURDTEQ1dEw0OVhybEN4QmY1MVBlWVFpRlFtd0lIcUc2Yi15Ym1wNGFxNWxWTjFsOHAxWWVSM3htRm9SVTlqdGZZMmdUMi15SXNMYkN6UGxmUm5YdXAyV3A3Sjk5UWfSAYcBQVVfeXFMTXE5OXR1djZFZjlWaDJoQ05LcDFaOHhJV0YtQ1lrMVpaX0xZLXFNanJObUZjNWlSSVU5Rno0M2wyX0xJb0RHaURvczhmQ2tzWXVQdHkyLXJ1MXJ4aGZtaDJGaXFrZ0pDQ3U0Um1OdFNfOG5CVlRnR1hhaTlEQjk2NUVrdDBsTTZZ?oc=5",
-      "pubDate": "2026-08-11T09:59:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞宇城市の避難者減　目視確認で600人台、8割減  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "「命があってよかった。それに尽きる」 熊本地震から2週間 記者が見た被災地のいま",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yYVpRMGN1enhleDJMVzVqbGdLTUFzbllpVGhUQXNFc2tRNkFMRVY2cG1TdXFIRjRpODNhci1BaGNHcWF1LXk3alZhUmhXRXhfS2FTaGYzelZZUmUyd3plai1rWlp2Zk9HN1Bnb1ZWZnAwRVRRdzljeUFVU0UyMXM?oc=5",
-      "pubDate": "2026-08-11T09:57:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「命があってよかった。それに尽きる」 熊本地震から2週間 記者が見た被災地のいま  news.yahoo.co.jp",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-11T19:46:27.914Z",
-  "lastAttempt": "2026-08-11T19:46:27.914Z",
+  "lastSuccess": "2026-08-11T20:42:33.856Z",
+  "lastAttempt": "2026-08-11T20:42:33.856Z",
   "fetchOk": true
 }
