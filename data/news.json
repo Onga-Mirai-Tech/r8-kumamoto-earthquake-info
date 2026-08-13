@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "title": "熊本地震 農業用水で試験通水 供給なお限定、確保に苦慮",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTmw2N3ZZZXdFU0ZxRU4zYnRqWEdFV2ZhREtaN3BuNUxOQ1p1a1F6cktkX1ZMWjI4b2N2OGJrWmIybWVfZzl1RkZyZW5JbTRfbFBJTUNXT202d2s?oc=5",
+      "pubDate": "2026-08-13T20:02:59.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 農業用水で試験通水 供給なお限定、確保に苦慮  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "(熊本地震2026)被災者の声、実現急ぐ 地方・国会議員が力合わせて ユーチューブで秋野、竹内氏が力説 2026.8.14付",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vb1BUdmN4V1BrbGZZcVoxTE9Fc0xic1BVdlRlQzBwZEJXakEzMGRnV0ZReGVBWFN1ZkJQMmpRTTJxZGVuUlc0cDMtdHdSb1h1eExJSFc3ZmF5c0tvcjhETGQ3OFNOZnRRVklQOEp3?oc=5",
+      "pubDate": "2026-08-13T20:02:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "(熊本地震2026)被災者の声、実現急ぐ 地方・国会議員が力合わせて ユーチューブで秋野、竹内氏が力説 2026.8.14付  公明新聞電子版プラス",
+      "category": "disaster"
+    },
+    {
+      "title": "ドローン制御のブルーイノベーション、熊本地震でも活躍",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KeGdJRkRFLXlqNWpLakR4OXJieGRxOGJ2QkRjQlhOYkdJZy1RbDdNSTJvdDlGcXhvdWRGTHRPRWlsbGdOcnRTZFhBcGRYN2htZi1qYktXY1VtX2phODl1dHVVYUxVaWlGdmpYcE9tOXZOWDBWZVdKd0tzSGVLZw?oc=5",
+      "pubDate": "2026-08-13T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ドローン制御のブルーイノベーション、熊本地震でも活躍  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で九州の消費行動一変 介護やベビー用品3割増、POS分析",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fa3pUcUJhRzBLWmJ3N3RmZEE5MFNvRVMyMEtNOXduUDgwSGk5NHZhY3dqY2kzNjQ0YUlPeGo1NjRIXzdROEJUZ0tuc2FxcDJSUndaM1ZNOVNDZHF6XzlzUmJGYjdLTDBENExjTw?oc=5",
+      "pubDate": "2026-08-13T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で九州の消費行動一変 介護やベビー用品3割増、POS分析  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0clFCa2FwdlhfTVZxU2dfMVBYY0JNeHN5dDJPQS1fdjlacG5YejROekVqS09VS1pqWjhQYU5rUWVwTmgydjZvLV9pcGUyd2s?oc=5",
+      "pubDate": "2026-08-13T19:56:36.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】上天草市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iMXpvbG9pb1hhdnI0MjJRMjBwbDdJMDZQb19rQmRKakExb1BXODZBTDVPSWxiZVhrcDZlWjRreVlaMDNFNzh4UUJRYVAxc1k?oc=5",
+      "pubDate": "2026-08-13T19:54:28.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市で震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sLUVRc0txS0hiLWVpVXpEQlVsNm1URUFUakJ6SFlvLXlNUWNnSUJLV2MwdHpVMWZkX1hIWDhjRzdMbXFoUlpCVnhrRzgtTEhqWkN0ZnROMnR0SjdOcl9vVlFKOWIyc1BXSWh5UFFhUVXSAXZBVV95cUxOXzFQV1JscURfMVN4M3FqTHBMU0dONEtOWFlNeHZiMWdWYjJGM1UtdjBGZFpBUHNGYUpidE1GWFYwclBlWEluc1RBSHNVTGJEMUhGYUVwa2ZLbDVvOElqX1ROREdzVnNiRkd3TVd5TEQ3TUozSVln?oc=5",
+      "pubDate": "2026-08-13T19:50:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "「情報は大事。高齢の方々はスマホも持っていないので…」熊本地震でいま必要なもの【被災地の声】（日テレNEWS NNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX29zTzJKdDhHYnpjTFdFVHpPcEc3bHJsTG53UXpZU3NsS3N6MjludmljRm9iWEZZUG1Qd25rbVZpaTF5cXNfNUlDQUFPNzFKY0p1TWNQTjlIWjk5d010NWtPVlJCcU8xcFNrWFpGcEE0X1FwQ1B4b2R4eHo0MWc?oc=5",
       "pubDate": "2026-08-13T15:51:35.000Z",
@@ -11,11 +74,11 @@
     },
     {
       "title": "【速報】八代市で震度2",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSHZleHV6X2J3OVRfQ1VtVklfSFdoTkxxMFBqUkVZVTAzRkZPalRiRHNZc1hKaWlqU1plczhUNFJlZFp6cWY1aXdpMkdVYWtLZkc4Wi1LSDBWd0xsalZrU1JXdHZDVjB4VzNHdGNPMGROZl8wZ0pFN1hkM3JjelVTSlpHUl9tZWJTX1E5NXRSRnFYTm0ydW43WEs1cjZkdnVMUUN2blJaM29VSktTQ1pPMC1BWTRIbHR4NTI0TUdWTFZtT29YU1dLVTZvV3BxblRodEhCNGhGNNIBhwFBVV95cUxPdk5TTjRMUUNUaVRCUWVBVkEzbXRBQnNZSWZUaUp0SUdNRFE5N01SRXh0SExkcnBtcUlnWTJDenQ2RVo4X3d1NnN5aHRXVUFUSl9yTlBZM3BCcENlZnh6Nk16d3NKdHpZTERVdTV3VlI3V3UwYWRBV1ctdVpBbjNpdHg3NWsxVTQ?oc=5",
-      "pubDate": "2026-08-13T15:44:12.000Z",
-      "sourceName": "地元メディア",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kcjQ0TW54Tm9JeEp4Y1BvUnFxOHZmZ0VLRnAtZ2czZ2tHdHJKQkI3eWs0YlpoZ0xHazkxXzZiRzd5WjVPNDR2Q1ZMc2FlQWM?oc=5",
+      "pubDate": "2026-08-13T15:29:44.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】八代市で震度2  ｄメニューニュース",
+      "description": "【速報】八代市で震度2  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -70,6 +133,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震 この人に聞く＞末松直洋・宇城市長 住まいの確保、最優先に（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tY3ZTQ3ZRMk53c2lSNFZYaDFYd1cwQklRVE5sZ0l3aU1xcXM2cXNlV3FrS0FoQ1FzczgySXdDQzcya3R5QjAzbHJLY3pQYl9WRG9aUXplaXRxMXhTOWw2SWRwM1Iwb3B1dWg5c3QwcFBJb09tLW5na0hhMmRTelE?oc=5",
+      "pubDate": "2026-08-13T13:35:29.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震 この人に聞く＞末松直洋・宇城市長 住まいの確保、最優先に（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -187,6 +259,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "バスケットボール女子が韓国と親善試合 熊本地震の支援募金も（毎日新聞）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
+      "pubDate": "2026-08-13T12:50:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を  readyfor.jp",
       "category": "life"
     },
     {
@@ -366,7 +447,7 @@
       "pubDate": "2026-08-13T11:41:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "九州自動車道全線通行可に 学校再開、来月１日までに―熊本地震  jiji.com",
+      "description": "九州自動車道全線通行可に 学校再開、来月１日までに―熊本地震  時事ドットコム",
       "category": "disaster"
     },
     {
@@ -532,21 +613,21 @@
       "category": "life"
     },
     {
-      "title": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcUFlRmJpWEFRYlQ2bGRWN0l2UWFCTGY1SWF3MGJmQnlWby1adnVlMVExYWYwX2VrQ3luQVFBSVJ6ZlAtWVJNY2M5YzJ6cEZaZHFvTDV5elVnUzRxYzlWQ01EZmlMUW4xbm9Ld282TXFPOGtMOGxBRDliMHBFODg?oc=5",
-      "pubDate": "2026-08-13T10:57:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
       "title": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWtxQmpYd1NjYVViVjg0RUdFeXdxOW5ROXpBdVdVSzNya0xadnU5RWpjcDNkanFhMThyTEFranc1SFlmNzVuaHVKSWZBdWsyTXZ3c050X2h2eF9WT3lkWDRxTS1BeWVwaW9hSkFEVVJua3BndnlpNzFQWEE2Nms1YUNnWmRSUQ?oc=5",
       "pubDate": "2026-08-13T10:57:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用  日テレNEWS NNN",
+      "category": "life"
+    },
+    {
+      "title": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcUFlRmJpWEFRYlQ2bGRWN0l2UWFCTGY1SWF3MGJmQnlWby1adnVlMVExYWYwX2VrQ3luQVFBSVJ6ZlAtWVJNY2M5YzJ6cEZaZHFvTDV5elVnUzRxYzlWQ01EZmlMUW4xbm9Ld282TXFPOGtMOGxBRDliMHBFODg?oc=5",
+      "pubDate": "2026-08-13T10:57:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "新球場の候補地選定｢年内は凍結｣提案自治体のうち3市町に熊本地震の災害救助法適用（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -818,90 +899,9 @@
       "type": "local",
       "description": "＜2026年熊本地震＞「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lTGJWSXY3RW1tWEo3M3JtSXc0R05PRnZDU1lJRk1BbWU3R2ZQR0dyaDVJQVVRc2NxTU8ya2tBU2VheG9Pcy1DMlAybDg5aWc?oc=5",
-      "pubDate": "2026-08-13T10:02:07.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞「同じ犠牲者、二度と出さないで」 イオン爆発事故で妻亡くした男性 最後のデートかなわず後悔  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞「同じ犠牲者、二度と出さないで」　イオン爆発事故で妻亡くした男性　最後のデートかなわず後悔",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNE9QWXdBRVQ0QkJTZzFVbV9JZVpZa1g4UThPZkwzYWQ0cVZDU0hFc1J4QVk3YkNNTmktN3VwOG45Rnd0X2REcnFZUVJWRTZXOWtDZmc0Z2VnS2hrS2xRZlBvbWJlWGVpaWV0ZG84MV93ZVJxWWxPOEJvX0hadkI4TkVPVnc4cEwtY2dhWkMxWEVqQ2ZlNjVuUzBMd3VtLXNqZHpuUXI2Y3NPamxUWEYtRjBlMXVtU1RwanhZcG42bFIxM2tra3ZKZVB6X3g2dHoxQkwzR2lKMNIBhwFBVV95cUxNR2tqX3hnMDlZS3hCSm9ycFVmNlNyVGpKaUh4WW5vUVV2OU9ZUG1rTnJodENkMDJ5Qi1WQmJvZjFGX0IxaW5YQmpFdC1XeTljemhyS1cxRFZLalJhbnlYNlVjVUdtUG0tYzR5ekQ1blg4ZDE4dG4xcGlXRXBEeW9TRV9WOUZ1LTg?oc=5",
-      "pubDate": "2026-08-13T10:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞「同じ犠牲者、二度と出さないで」　イオン爆発事故で妻亡くした男性　最後のデートかなわず後悔  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "コロンビア地震、死者265人に 熊本やベネズエラとの比較報道も",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3TWNxcFVxekhLajRzOF81bnU3QzlzcWZ2MVJGd1lPSHpjZGJhSHFLZU1ybGFBemhMVkdzTzRoamloOXNORGluVUxBYkVEMGFab0lIVjJ2UjhOM1dJc25QVlBVLVNVV1U?oc=5",
-      "pubDate": "2026-08-13T10:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "コロンビア地震、死者265人に 熊本やベネズエラとの比較報道も  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "地震で倒壊した墓石も 盆の入りに墓参り「守ってくれてありがとう」 （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdlNVUWllVWpmOExnYVhIaVB1d1F6Z2c2OERoQmphWWI5a0tKb1BrRXZpWVRJQTlELWNyWEQ0Z3VQckpDTkdGMkJJZFBZZ2ZhWmxDRERpOUFkMEk3Z19Bd0tqb2JuVHR6QVZfYkdSbGpXdnpPZEk3NWVVY0JtbnotbThmMA?oc=5",
-      "pubDate": "2026-08-13T09:59:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震で倒壊した墓石も 盆の入りに墓参り「守ってくれてありがとう」 （熊本ニュース KAB ONLINE）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "避難所3か所を1か所に集約 段ボールベッド、エアコン、トイレカーも 宇城市 ＜2026年熊本地震＞（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ZldxekRtS1hqN2dnaVFKeG4xaGtLTGY2bzBLbWQ0Rm9udndoMDRSdjFwUVNDeXRSUXF1THhBWWpLWnVVeEs5UHg4ZDRRY1lpeE40RC05Y21hMUFTeXAtVXlJYjNHWnp2ZDZjb3RFRWptXzFwTHNZRGx2WXNSd0k?oc=5",
-      "pubDate": "2026-08-13T09:58:13.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "避難所3か所を1か所に集約 段ボールベッド、エアコン、トイレカーも 宇城市 ＜2026年熊本地震＞（RKK熊本放送）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "避難所3か所を1か所に集約 段ボールベッド、エアコン、トイレカーも 宇城市 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aWDhXeVg4UEIxZDlRUnhod0RqMG9RcUlXTUVEZ0dXZkloVVBTVVV5amFNU2NkRHpla3oyU3dvSkdrelpnbXl1QWhmLW02Slg4RzU0aWs0V3cyN2Rwcmk3NndGOXBack0?oc=5",
-      "pubDate": "2026-08-13T09:57:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "避難所3か所を1か所に集約 段ボールベッド、エアコン、トイレカーも 宇城市 ＜2026年熊本地震＞  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "避難所3か所を1か所に集約　段ボールベッド、エアコン、トイレカーも　宇城市　＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnV4QTRXeEFabkRBNHdEYjh3RGJYNDRRNjlaTWxxSUN1NHNfSW1HY01uLVB6ZEhLOHc5cUFWUnBMMGloejVrWVE5dUNOcFRHck1QT0RKbWJ3U3o3QkNkcGp2Wm8zVHA5X1JxbmF6b3pDWnlxZmlDX05uMnJjRi1SNGhB0gF0QVVfeXFMTVRWalR0cS10QjJyVjRJSUp6Zk1YV2VnQWdRYjc0M3liLXpXcU1ic0djQjFvcjlwSngyYmxnMjFZTWR1bFRxaE9kTmlEeVF6Vm9wcjJMWXFNb3VKWDZTdUFqUUF0ZDFmdEhuUHdodXpFQmZkeEk?oc=5",
-      "pubDate": "2026-08-13T09:57:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "避難所3か所を1か所に集約　段ボールベッド、エアコン、トイレカーも　宇城市　＜2026年熊本地震＞  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "【速報】芦北町で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UOTNpQlNzdWZ1cVNPNUI0TFNyemFZdzVYeU8yR2V3UUtUNVhpLUtxMFNKN0JsQ2hVXzFXQ0lTLVFxZ1dfTU5idUlFTzR3LWs?oc=5",
-      "pubDate": "2026-08-13T09:52:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】芦北町で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "いざ開門!“復興のシンボル” 熊本城の見学再開 石垣40か所崩落も『制振ダンパー』が威力を発揮し天守閣の被害最小限に＜2026年熊本地震＞（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBobTNSZllnS194QjZyaWhUVGR3Qy1sdmxlR2hXZDBlSVlKOERMWC1fRlVrTGlDdVpIbXl3VmJ1VjNfMC1fNUhiYXZ5QVNhTDFyV1c4Sk5IZDNRSTNkUnpnMjZ2c3ZJVDNyUkltMlYxdERwT2FRSElZY2U1cVNPdUE?oc=5",
-      "pubDate": "2026-08-13T09:52:16.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "いざ開門!“復興のシンボル” 熊本城の見学再開 石垣40か所崩落も『制振ダンパー』が威力を発揮し天守閣の被害最小限に＜2026年熊本地震＞（RKK熊本放送）  ...",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-13T19:19:54.511Z",
-  "lastAttempt": "2026-08-13T19:19:54.511Z",
+  "lastSuccess": "2026-08-13T20:04:06.894Z",
+  "lastAttempt": "2026-08-13T20:04:06.894Z",
   "fetchOk": true
 }
