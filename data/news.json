@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "熊本地震で炊き出しなどの支援 活動を報告〈宮城・東松島市〉",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hdjRqcXAxMTdnQVZhc0lmNHhqdTBHd3ZSRlZQV2R0M21NdTZLTk9TRW81RzdwMnd6OWFsSjNxLVpRMUNqcllra0NsWQ?oc=5",
+      "pubDate": "2026-08-14T23:38:03.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で炊き出しなどの支援 活動を報告〈宮城・東松島市〉  TVer",
+      "category": "life"
+    },
+    {
+      "title": "真夏・真冬の災害から「命」をどう守るか 千葉豪雨・熊本地震「酷暑」での「停電」「断水」が示す深刻なリスク",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xaDdLWEwybVdhamt2d0RCNW5zYm4xdDZlSDlROXlKZ1ZhTXRsaW5ETXBHRHRGRTBheXVEZDFENlRzdHZadE13NEp0SDlETDNv?oc=5",
+      "pubDate": "2026-08-14T23:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "真夏・真冬の災害から「命」をどう守るか 千葉豪雨・熊本地震「酷暑」での「停電」「断水」が示す深刻なリスク  AERA DIGITAL",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震 田んぼに断層 防犯カメラにずれ動く瞬間（FNNプライムオンライン（フジテレビ系））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zQVdTNkhtRUJiRzB6a1V1ZnJuNFFLYWt4ZDBrN2F6MzA3Yk9ZMDI5cXhKRkNIOHJNVC1lME1iOWZjdVNkelR2cFJhUG9LVmxhRXVmWkRyYm11aTNGaVNoeXdxY0VCQXc0bElseHB1aHBhSkQ5MTJFdVFGYzlzTXc?oc=5",
       "pubDate": "2026-08-14T23:00:14.000Z",
@@ -107,15 +125,6 @@
       "type": "local",
       "description": "令和８年熊本地震支援情報  47NEWS",
       "category": "life"
-    },
-    {
-      "title": "熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学術的価値高い映像」",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zVE1qVHFUR09FRUdkZDEzcUk1eGhLN0tMdjBuNVlQVWpaRjJPME15ZTRMSWdRb0VtZjY0dzBqbElnMUt4bUFGZ1Q2d2dRVGZvRU9fT21pXzVrNFc0YlFrT1AteXZkQQ?oc=5",
-      "pubDate": "2026-08-14T22:15:40.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学術的価値高い映像」  読売新聞",
-      "category": "disaster"
     },
     {
       "title": "村上宗隆 熊本地震復興へ寄付＆支援活動発表に米ファンが「私も買う」「アメリカで購入して支援する方法は？」「なんて男だ」日米で反響広がる（デイリースポーツ）",
@@ -240,8 +249,17 @@
       "pubDate": "2026-08-14T21:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "九州道、通行止め解除 熊本地震被害南北の「大動脈」再開  nishinippon.co.jp",
+      "description": "九州道、通行止め解除 熊本地震被害南北の「大動脈」再開  西日本新聞me",
       "category": "infra"
+    },
+    {
+      "title": "熊本地震で九州企業の53.9％に影響、TDB調査 - logi-today.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XdG9pbVdmZHRqRG1FUlh4WXo3aUhlZ3ZDcXRveENHY3N4MEtsSXJWZVpWZUVuU3NJbFJpWEN1Z1ZPLWQ2LVkyTg?oc=5",
+      "pubDate": "2026-08-14T20:59:16.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で九州企業の53.9％に影響、TDB調査  logi-today.com",
+      "category": "disaster"
     },
     {
       "title": "熊本地震で九州企業の53.9％に影響、TDB調査",
@@ -330,8 +348,17 @@
       "pubDate": "2026-08-14T20:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震「さらなる支援必要」 赤穂市民病院の災害派遣医療チーム 市役所で活動報告|西播  神戸新聞NEXT",
+      "description": "熊本地震「さらなる支援必要」 赤穂市民病院の災害派遣医療チーム 市役所で活動報告|西播  神戸新聞",
       "category": "life"
+    },
+    {
+      "title": "熊本地震「ライフライン断絶が住民の健康に直結」 西脇病院医療チーム、市役所で現地活動報告|北播",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b1I1WkRqeUdCUmp2RTRkY1VqXzFuOU80WkpidXltaXJHTUtlV1dLOUJ5cDFtdnhKODN1YmtNZm1BR2xtNDhpd2tfSk5NaFVkdkJrWnRudFFyWWNfb3cteHByUzhDdTdjQjI1bzE4SQ?oc=5",
+      "pubDate": "2026-08-14T20:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震「ライフライン断絶が住民の健康に直結」 西脇病院医療チーム、市役所で現地活動報告|北播  神戸新聞",
+      "category": "disaster"
     },
     {
       "title": "＜2026年熊本地震＞村上選手が復興支援 チャリティーなどで熊本県に寄付",
@@ -340,6 +367,24 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "＜2026年熊本地震＞村上選手が復興支援 チャリティーなどで熊本県に寄付  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 ブルボン、緊急支援物資にミネラルウォーターのほか「ミネラル塩飴」「ミネラル塩タブレット」「バタークッキー」",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZks2aEw1eS16MGNicFBmWmg4Nl9LdlB0VG01VTVENnhDY29FYzlPQkVwak1qYzlWZkxwLUd3NHQwLV85c2h3QWdnWFF4Y0ZaRDh0Qy1xb2pfZWNHMXNjLQ?oc=5",
+      "pubDate": "2026-08-14T20:03:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 ブルボン、緊急支援物資にミネラルウォーターのほか「ミネラル塩飴」「ミネラル塩タブレット」「バタークッキー」  食品新聞 WEB版",
+      "category": "life"
+    },
+    {
+      "title": "Wソックス・村上宗隆「大切な故郷」熊本支援を発表 限定キャップ売り上げを寄付、自身も1000万円寄付（スポニチアネックス）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYzVfOUptUGtWVzZySlRZTTk4MlRLYzVmSWExRlAzQ0Q1UlBISU5tNFl0c1BoeWk4WkVFMkFHQVlKTlFWOWk4VE1PVFNTOTI3ajM3WnQyN2FmbTVTVWJ2d3d4ZFVjb1RPQkZ6aUNWcWo4WlVYVHR0S3VrTTVtSjA?oc=5",
+      "pubDate": "2026-08-14T20:03:45.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "Wソックス・村上宗隆「大切な故郷」熊本支援を発表 限定キャップ売り上げを寄付、自身も1000万円寄付（スポニチアネックス）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -649,12 +694,21 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学術的価値高い映像」",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zVE1qVHFUR09FRUdkZDEzcUk1eGhLN0tMdjBuNVlQVWpaRjJPME15ZTRMSWdRb0VtZjY0dzBqbElnMUt4bUFGZ1Q2d2dRVGZvRU9fT21pXzVrNFc0YlFrT1AteXZkQQ?oc=5",
+      "pubDate": "2026-08-14T13:12:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学術的価値高い映像」  読売新聞",
+      "category": "disaster"
+    },
+    {
       "title": "「メダカ専門店を続けたい…」10年前の熊本地震でも被災、殆どの水槽が床に落ち、約1万5000匹のメダカはわずか300匹しか…",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVNJYVNpaHhBR21KYXNOZ0kxNk1LQzBXY1FFeWM1a3pDbFJOczhYZHYxUEdKWWtzSmNvN1YtOW5obEtXOWlsdXBYNHllcDctak1yRWpKSGRsZjN0ck50YlNmRjdsZjJJT003Sm1UbWVpNG5RVDMyZm14T2N4bXZxcjVjdkhuOUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXBwaUpGTEJXLWJlc2NKSTBXOG9wajZuMWxOakhWNml3ZjBHaXRDcUVRMmlTWUZBXy1aUE91RGNBN28xZmRudUxGMFhCRmpOczZHU2hXZDg1eEczdFZxd2owTzRUV2hfRFczX0RZZjhla3RXM2xWV0ZiNmpkdVNtS1g4OV96U1BXaTVSMUp3?oc=5",
       "pubDate": "2026-08-14T12:33:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「メダカ専門店を続けたい…」10年前の熊本地震でも被災、殆どの水槽が床に落ち、約1万5000匹のメダカはわずか300匹しか…  日テレNEWS NNN",
+      "description": "「メダカ専門店を続けたい…」10年前の熊本地震でも被災、殆どの水槽が床に落ち、約1万5000匹のメダカはわずか300匹しか…  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -766,15 +820,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール（産経新聞）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUdLM08xMlJHTzJvYTB3blRSRFhjY0tqWFpzeHJzallyMDlyNFBwR3gxdGJyTjBGaUE3eEFWOTJMUFkwNmhiZWNSYThOU1FydVBuSERuRnNiVXRFMHpHdjEtTklwMTZXamliN0dxdWZzWkpralFsaFlEOGtGc2ZIU3dFOFRBUEJMdnlDeFBR?oc=5",
-      "pubDate": "2026-08-14T11:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール（産経新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震の住宅被害調査を支援するため山形県職員を現地に派遣 （2026年8月14日掲載）｜YBC NEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFRaYnRmTEtWaDVIa1BzTkNHOFdaNTVSRG5KRi1WaFhYY19Lcms4Zk83cFlUZmNZZi1DWmZXQ2xmcUl6aFpFd1I2MDBQc2FHWTFpbXU0aXhsS2l1anZKRE1UdTZFbWhUNVdGMVhWbkRGOEJ5VTJkNkZ1WUFaTk0xaXpWUWRjVUk?oc=5",
       "pubDate": "2026-08-14T11:00:00.000Z",
@@ -782,6 +827,15 @@
       "type": "local",
       "description": "熊本地震の住宅被害調査を支援するため山形県職員を現地に派遣 （2026年8月14日掲載）｜YBC NEWS NNN  日テレNEWS NNN",
       "category": "life"
+    },
+    {
+      "title": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール（産経新聞）",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUdLM08xMlJHTzJvYTB3blRSRFhjY0tqWFpzeHJzallyMDlyNFBwR3gxdGJyTjBGaUE3eEFWOTJMUFkwNmhiZWNSYThOU1FydVBuSERuRnNiVXRFMHpHdjEtTklwMTZXamliN0dxdWZzWkpralFsaFlEOGtGc2ZIU3dFOFRBUEJMdnlDeFBR?oc=5",
+      "pubDate": "2026-08-14T11:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震と闘った警視庁派遣部隊「初の現場」進行形で損傷する住宅や爆発のイオンモール（産経新聞）  Yahoo!ニュース",
+      "category": "disaster"
     },
     {
       "title": "【動画】熊本地震による地割れ、隆起の瞬間を防犯カメラが記録…提供動画：地域ニュース",
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "キャンセル相次ぐも「こんな時だからこそ！」温泉を被災者へ無料開放【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "１０年前の地震から再建したプリンの店 復興に向け熊本県産牛乳を使ったプリンを販売【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODFKTHViZjk2R3M0ZlpvZm45TVlQNWlMT1Z5OUotT0Ywa3FWTG1XRXVZMlZxU1F0MHFiOTVWR1F0Z1cxSWU4U0QweURzYTltd0UwVW1JSVlGSEtlbDZpSlpWeHRyM0NFRERhWU90ZHphcjFOSE9Wa3Vwd2F5b2c4clZDOEVDWF9ZdFpVSEFB?oc=5",
-      "pubDate": "2026-08-14T10:50:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "１０年前の地震から再建したプリンの店 復興に向け熊本県産牛乳を使ったプリンを販売【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞12月までに震災復興計画策定へ 熊本市 震災復興本部を設置（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KMDg1MnVwTkJrNDdmOVJkLWZQVHZ2UjJyOFZ2NFVoNVZsUGxXR3AyajZMZ3lpQmlsRE5uQVJ4LWtuWXRsY0tjOHVMUlpXd1dHZXpPLVZ4QmxvR2M1QUlsOXZzUWlTR3BVMzVlNkd1clhzSEdFaWROSm9Nc2VxaVk?oc=5",
-      "pubDate": "2026-08-14T10:49:28.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞12月までに震災復興計画策定へ 熊本市 震災復興本部を設置（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "九州自動車道が地震被害から１７日ぶりに全線開通 ２４時間体制で復旧工事【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vUk9ZaVNNaVN0RU0xaVNHZ3M1RnR0NEtNdDFmSk50QU5UMGJXOUt2VkRFN1pyMnByb19oSjg3akd0OGp5Ui1sTjhMaklJUFBwWnh2Rzh2QmZTNGl6bHd4eFQxdw?oc=5",
-      "pubDate": "2026-08-14T10:47:07.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "九州自動車道が地震被害から１７日ぶりに全線開通 ２４時間体制で復旧工事【令和８年熊本地震】  TKU テレビ熊本",
-      "category": "infra"
-    },
-    {
-      "title": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnBqYVM0U0s4dE43RTZ0Y3NZMkpMMGNnVFl3QmRCX3RHMllXVzBLMlVmZUpaSjM3ZFlRT29CdTBiUEZBdjltSkhKSm1lQ0JJTDRQLVItMjlGRThvU2JYUHBPMzNUeUZFUTgwbEx4NmUtSmY2QnRacjQ3VlotelVfVTVTaEQwdWdma01qQndR?oc=5",
-      "pubDate": "2026-08-14T10:47:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「九州ふっこう割を再び」地震によるキャンセル20億円…熊本の宿泊事業者が県に要望【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85R2lCTXRLemdNX1VLVnBsRTBXRkR5eGtvSGFXczNwZmxwcGQ2NW1UdWtZMHczSC1OdkVQUmdQMnBLMVZ2cFM3SXhoLW9xWDRhaVNaY2NCTDl3bmx3UUVLSC0zcnJYNEFTekRvNWJYZDVzWldpZjhZYVRwWWtXdWs?oc=5",
-      "pubDate": "2026-08-14T10:47:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "「九州ふっこう割を再び」地震によるキャンセル20億円…熊本の宿泊事業者が県に要望【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "ＮＥＸＣＯ西日本が公開した九州自動車道の〈復旧動画〉が話題 専門家の評価は【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGa1B5NGdOZi1Ca3d4WXZCenpyd2NBWC1LVW1iaVFrcXpvdzhvcVBXMkozcXItYlpJbExRSC1oUm1wS0hXVElsMTI0WlZidGJBVTRLZmg4dEktWFNFMlRHR3hEVEsxSEJFOXcyZkl0b2hGUGVoLUtsWm1aUFFHSEE?oc=5",
-      "pubDate": "2026-08-14T10:45:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "ＮＥＸＣＯ西日本が公開した九州自動車道の〈復旧動画〉が話題 専門家の評価は【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-14T23:20:34.738Z",
-  "lastAttempt": "2026-08-14T23:20:34.738Z",
+  "lastSuccess": "2026-08-14T23:47:56.407Z",
+  "lastAttempt": "2026-08-14T23:47:56.407Z",
   "fetchOk": true
 }
