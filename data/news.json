@@ -1,12 +1,57 @@
 {
   "items": [
     {
+      "title": "熊本：熊本地震 くらしの掲示板 八代にランドリー車 宮崎・ＷＡＳＨハウス 無償で洗濯支援 ：地域ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3R2xrb015WlpPWmVKODREem1CcUVRLWdfYmhpSWJfQXZNeWFVX3RNcVM5QUZ3TnlyMHZpaWlmUXJrWTdaYWdINExCT2JiUjhOdTYwaTliUzR0QWxmbW9xdWhicDJldEJtTWlwdThJWUdwM01q?oc=5",
+      "pubDate": "2026-08-14T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本：熊本地震 くらしの掲示板 八代にランドリー車 宮崎・ＷＡＳＨハウス 無償で洗濯支援 ：地域ニュース  読売新聞",
+      "category": "life"
+    },
+    {
+      "title": "広島：限られた設備 工夫し治療 熊本地震 救護班現地活動報告：地域ニュース",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EQVliYXRvTzhvc21jVkw0YVpJaVltZWtGcmxqN0VuMTBFdFBOM3hpcXBtQ1lNekQwVy1XQ20xV0ZOYlh2bjhfVjdlWlg0TDZxT2JmQ0xERTFIbUxZNVd6MTVadXhhZXRFMDdZR0VfSXQ2ajhJN1E?oc=5",
+      "pubDate": "2026-08-14T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "広島：限られた設備 工夫し治療 熊本地震 救護班現地活動報告：地域ニュース  読売新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "宮城・東松島市のキボッチャが支援活動報告 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ydDl6ZTNseWt0cVdPem8xV3Q0ZU11NEVVbVVuUWlVNDlXdEw5eGhFY2JKeWJQZVZITFNTTmFtLTJ3cXFRWW8zV1RXVVhtT2dPc2NrLVdhcUZfdmtwVzdFLQ?oc=5",
+      "pubDate": "2026-08-14T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "宮城・東松島市のキボッチャが支援活動報告 熊本地震  河北新報オンライン",
+      "category": "life"
+    },
+    {
       "title": "【速報】宇城市で震度2（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiUEF5X0lzeDliY3Q1SnlWYUFGdzYxTWowNjM2d0paWmNYWTVvWWNZTE9kUlVGSkJFa3dXU3FvTmQ3ZFZrX2JRZjgyaE5kZWZjS2V5QTJ4RXJQZ3F5WEVEeTRxRW5KZG9RdkFYSFg2ZF9ZSHdNeTlQMXBuMzY5V00?oc=5",
       "pubDate": "2026-08-14T19:32:49.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】宇城市で震度2（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】宇城市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83S2c5TmhkR3dXT3cxVEJwTFJ2dFBacUdYdWthVldqV2dSS09keDFmR2doMm42ODEwMEtRdXRBTm9GLW1vM1ZNamZLT0ZyeTA?oc=5",
+      "pubDate": "2026-08-14T19:26:20.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇城市で震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度2の地震 熊本県・宇城市(放送局のニュース )",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHWHllbzY3Z3g3UnIyZGJJd2VDcDBLZ3VRckJHVk5WOXpEeDVlRFZfekw2NGNBVFg5TGNGaVJHclJsUkQ5OWJVRjA3dWtyNldxejBsTXhiT2pfX1BfUDJvR3F0Q0hial9YVFQweWFNZjIzTmJFNXc?oc=5",
+      "pubDate": "2026-08-14T19:25:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度2の地震 熊本県・宇城市(放送局のニュース )  tenki.jp",
       "category": "disaster"
     },
     {
@@ -17,6 +62,15 @@
       "type": "local",
       "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
       "category": "disaster"
+    },
+    {
+      "title": "令和８年熊本地震支援情報｜四国新聞WEB朝刊",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OT3ZlYjlDQmt6UnRLcmpaaDNTRzY1VV8yaS1lejNoWFplcTFKT3Azclo4a2Nsa3pQNWd1blBnSGxEdlZVSmY3cGhab0kwMXpLYmJCY0VHajU1UGRjNFUwNDhQSmRyRXBibDF1a2J3cEtLNl8tVzNj0gF8QVVfeXFMTUdabFlvVmNzcXc5bF9BSTREZ2ZxRUNLbHpWLXEtVVdsRkc2SlV1VGhYdWh4c0VHaW5kUEJ4SXpZYlhVaW1LQzVyejBmcjlfdE42eWhGNU14emhjVWxCSk95a2J0cmNIOHBXNmlnN1FlVlVoVk1nbkVOS0t6Uw?oc=5",
+      "pubDate": "2026-08-14T19:04:43.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和８年熊本地震支援情報｜四国新聞WEB朝刊  四国新聞",
+      "category": "life"
     },
     {
       "title": "熊本地震 九州道が全線再開",
@@ -415,21 +469,21 @@
       "category": "infra"
     },
     {
-      "title": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWnBoN3VGc1hsWlR1RnF4N0w4bjRydkNvNElGREZ6SjhPMEJGTzFnNUJHa3RlcUstTDZxLS1uUDZ4RURiaHBfQnE0aG04bzhLYmk4VXM0S2RlOS1vTjYxem45T1J0TVoybVJEWGlreEJuMmN2Vk1aOUtxay1mN00?oc=5",
-      "pubDate": "2026-08-14T10:47:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "「九州ふっこう割を再び」地震によるキャンセル20億円…熊本の宿泊事業者が県に要望【令和８年熊本地震】（TKUテレビ熊本）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85R2lCTXRLemdNX1VLVnBsRTBXRkR5eGtvSGFXczNwZmxwcGQ2NW1UdWtZMHczSC1OdkVQUmdQMnBLMVZ2cFM3SXhoLW9xWDRhaVNaY2NCTDl3bmx3UUVLSC0zcnJYNEFTekRvNWJYZDVzWldpZjhZYVRwWWtXdWs?oc=5",
       "pubDate": "2026-08-14T10:47:01.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
       "description": "「九州ふっこう割を再び」地震によるキャンセル20億円…熊本の宿泊事業者が県に要望【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuWnBoN3VGc1hsWlR1RnF4N0w4bjRydkNvNElGREZ6SjhPMEJGTzFnNUJHa3RlcUstTDZxLS1uUDZ4RURiaHBfQnE0aG04bzhLYmk4VXM0S2RlOS1vTjYxem45T1J0TVoybVJEWGlreEJuMmN2Vk1aOUtxay1mN00?oc=5",
+      "pubDate": "2026-08-14T10:47:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "【瞬間映像】「まさか家の庭に断層が…」熊本地震で敷地ごと・地表隆起の瞬間【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "お盆時期に〝大動脈〟戻る 九州自動車道が全線で通行可能に 宮原SA－八代IC間に対面通行区間も＜2026年熊本地震  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】住宅の倒壊・破損調査を支援する職員派遣 1週間ごと交代で継続支援 山形｜ニュース",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZjZ4X01ocXZmWDNEREtVdVQtejI2SEkxY25NTS1OaVVLTDk2bE1HZkJVSWh6ZTh0Nkp6aTRfaGlQU3NpSERrMmJlNEtnMlJqMXRiZjctelRuekFxRldvU3B4VHlFekloVE5kTEg2WnlBOVU?oc=5",
-      "pubDate": "2026-08-14T09:42:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】住宅の倒壊・破損調査を支援する職員派遣 1週間ごと交代で継続支援 山形｜ニュース  さくらんぼテレビ",
-      "category": "life"
-    },
-    {
-      "title": "「食料や住まいに課題」熊本地震の被災地を支援した団体が活動報告 宮城・東松島（khb東日本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WV2dnR3MyZm90RXdzbjBqeEU4LWZVU2FNY3QwblE3WFFuaHNzb0ZUUlR6ZS1pV2xtSFpkeXJNbFZ4OE5BOUF3azlPTV9LLW1tT2RkZXZuTWg5cE81MG5ZcWsyQzBBbnE3YW9NQUhMU2ZrbGdKSjVhUmdsVDZ0RjA?oc=5",
-      "pubDate": "2026-08-14T09:37:12.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「食料や住まいに課題」熊本地震の被災地を支援した団体が活動報告 宮城・東松島（khb東日本放送）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "地震の揺れの後…田んぼに“断層が出現” 瞬間捉えた映像「学術的価値ある」 （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YeGFia25teEoxV0dPdzR4VndpUzBwbDFMeUR4TnRZY0VwX2w4RHFsZlNDdW9zRjAxbTZabWxxY0UzU0oySXZxcm05ZGVHUll2cHBfcUZ2eWNxOGpWYlJXWVEwRlJVVkVrbWtBTnBVNHk?oc=5",
-      "pubDate": "2026-08-14T09:31:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震の揺れの後…田んぼに“断層が出現” 瞬間捉えた映像「学術的価値ある」 （熊本ニュース KAB ONLINE）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞地震でグリーンランド来園者4割減 アトラクション損傷なし 荒尾市",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00LTRIcDR3SDlkcHdKV09LN1kzdXpoQkUzSVRxNk5jZG1PNTdTLVRtamhiQ0I3QlhMM1dQZmtURmFndTR1UE5KcnVkNXo4b28?oc=5",
-      "pubDate": "2026-08-14T09:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞地震でグリーンランド来園者4割減 アトラクション損傷なし 荒尾市  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "大量の人員動員で現場混乱……。熊本地震 10年前の教訓",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TT0tTWFdmZXNxd1pFUDZIMEVGY21wT0FRakctSTctQlJJN0JabkxkMWhUa2ZBZW9YczVLOWdZWHBPQXhiWU1PYnVDTDZJWmgwTzlsUXozUHNCUjhfWHo4?oc=5",
-      "pubDate": "2026-08-14T09:29:27.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "大量の人員動員で現場混乱……。熊本地震 10年前の教訓  radiko news",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震、火災対策でリチウム電池分別要請",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SS1FuRVNwUGZ5a21rNlZtczdxMEZYR0loMVl2dG9SSF9JRG5wQll5dzdoNWQ0bi1jN2ZleVNqT3M3N1pqdWNFWURTMA?oc=5",
-      "pubDate": "2026-08-14T09:23:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震、火災対策でリチウム電池分別要請  47NEWS",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-14T19:37:16.518Z",
-  "lastAttempt": "2026-08-14T19:37:16.518Z",
+  "lastSuccess": "2026-08-14T20:15:07.712Z",
+  "lastAttempt": "2026-08-14T20:15:07.712Z",
   "fetchOk": true
 }
