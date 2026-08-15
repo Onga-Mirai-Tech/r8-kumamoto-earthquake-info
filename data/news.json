@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "【速報】熊本市南区など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1cVFXa2J4Qm1rR1JYdmktXzZoUXZ6cjd5T0E0OEljMUgydGpFc0ROS1Z6Z0x3UV91UGhPdnltQnMzWWdKX0hzQUxicy1sOEU?oc=5",
+      "pubDate": "2026-08-15T19:29:29.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCUW1LbHV2RnY3bURJNHZtUjZSTzR3TXlIOFlFMUYzUWdnMEhZMmVjQUxNLXpGcEdpbEgwRjhIcl9jd0d2Rk5fcFJIZWNuSUpqNkJPdHkyaEd4eWhQVFhuLWFFdXotdnhuXzNnaE5haVjSAXZBVV95cUxPM0NhcDVFZkNtNGNwd2VfX1Rxa0luYWZTQWNWX05iVUhrVnVCLWVuZ21KSVE5WWdjVDlPZTN0YmlwaGpXS2xocW5mQV9OYkRLRTFsVEtHelMtUFBxajN1MExDQ1JvcHlGcjJBMFRseDZBOHlVNWx3?oc=5",
+      "pubDate": "2026-08-15T19:25:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】宮崎県内で震度1 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbUpLSHFTSTVrb0Q4Q3JCeWkxVlphNkZoeVQwSHgzclFVYjlaZWxJZWczSXdXTW1ZQ2V0SDNPb25UX0xXVlRSS2ZCZWphQUp4TU44MUtJLXNJUi15QWhEamdXa01qN3hjVWJoStIBckFVX3lxTE1uMk04THp3eDl1WnEyVmlwOFo3N3JMOG1Ob2lRVnFEV3hJV1VJSldiaDNvZ1F4N1o2TFNKWU1pUXlKSG85dWdJck5oV3ZsUXU0Ylcwb2ZKR0pZT1JFMUQ1ODNnb1FGNlU5ZVU1VHpBUDFCdw?oc=5",
+      "pubDate": "2026-08-15T19:25:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】宮崎県内で震度1 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】八代市など震度1（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FdVIzNFRNRDVpYVJwc0E4d3prMTFpMjlYVC03WU5qUGRSR1ExbVpyUWt6THF5UW1YNzl4NU05dUdFb2RCZmNUdmZlc0l1Z1NaN250THpLM28zbjZ6d213eUxyR2hMWEFRaVhCZW5tTVV5Y19ZTUg5d3FWWkF5MzQ?oc=5",
       "pubDate": "2026-08-15T16:27:25.000Z",
@@ -73,15 +100,6 @@
       "category": "infra"
     },
     {
-      "title": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HOFZ6ZjlFM2Z5Tmt3RzF6ZTFuenE2S1ZMMDBSVjRmaUFTVFY1S201TmxkM21hNzBwdXVnWWw1bE1keXF1LXZwanRDUGZ6QUYwS0YtM0hnWDFxblBwc3RtRWtnb2pJX3hhVTRtMWJIbzdMa3lScmdZZlI2am5UQTQ?oc=5",
-      "pubDate": "2026-08-15T13:59:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "【令和8年熊本地震】地域の命を守る、仮設診療所の設置にご支援を - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOMTFMRFlnd3VFYk9BQ0RIVXZOTzdkcHdsSkxqN0cxSEQtRE5DWEYwTXh6UGFLTTR3WV9HWlhTeWdJcDFCckRxdS0zY2VhMUh5Tl8wVmpGNEc?oc=5",
       "pubDate": "2026-08-15T13:48:25.000Z",
@@ -118,12 +136,12 @@
       "category": "infra"
     },
     {
-      "title": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKX3pnNWJYYWdWQ2NMTEhzVWhNVGN0VU1YOVVxVTNVcWZZczlBS2lGQm1ZeWhYZjJ4NFdyUW8yR2o2Q0twNTBzZHZodw?oc=5",
+      "title": "2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTU1lRUU5EMVVXQ25NVnltVE9fODRhamU1U2hHTDVpU05hYWR3SUxZZXVnSG1lNzBOd3M0S0ZKYkhlczZIaGFjaVlpR0dsOGs?oc=5",
       "pubDate": "2026-08-15T13:30:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設  47NEWS",
+      "description": "2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -136,21 +154,30 @@
       "category": "disaster"
     },
     {
+      "title": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKX3pnNWJYYWdWQ2NMTEhzVWhNVGN0VU1YOVVxVTNVcWZZczlBS2lGQm1ZeWhYZjJ4NFdyUW8yR2o2Q0twNTBzZHZodw?oc=5",
+      "pubDate": "2026-08-15T13:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NWRBNjY3UWQwSEpRNjFCVThMTVZWMHMxM3JGVThoYUhIMGR4UGlNVjZfTUlRRmZWUG9HdHMwV3h0eU1iUjVhUE1ldw?oc=5",
+      "pubDate": "2026-08-15T13:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "＜2026年熊本地震＞〝火事場泥棒〟許すな　熊本県警が警戒強める　2016年熊本地震、2024年能登地震でも多発　全国から応援、防カメ増設",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVE9mby1hTW1ZSVh5X0FwVTdxakZac24ydEYxTFRxYVBMLXFaV245LXFCZm5NaDhra0hnUmd6MXpkT0Zjb05BbFhZZWFsVGlwWjZOLXMwWEFoeklFdVVFRHpvQkl6X2E5YVVuR0pCLTZaMHVEV012TThlOElpTFQ0QVdR0gGHAUFVX3lxTE40cmh3TGRNMVBUTzA5ZWlyd0loNkJYY3VZaWE0ZU52U2lyejFiMzN3Y1Bub0NfTi1OWk42X29ER1l3X3Fjd2J6S3dud3pRYVRuWmZ0VnRMdWU3YldmU1N3OEthYmVYQkhLSi1ENkxLcVdjQkpuTzJ6NzdDdllrV0FWM21qV3VLUQ?oc=5",
       "pubDate": "2026-08-15T13:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "＜2026年熊本地震＞〝火事場泥棒〟許すな　熊本県警が警戒強める　2016年熊本地震、2024年能登地震でも多発　全国から応援、防カメ増設  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTU1lRUU5EMVVXQ25NVnltVE9fODRhamU1U2hHTDVpU05hYWR3SUxZZXVnSG1lNzBOd3M0S0ZKYkhlczZIaGFjaVlpR0dsOGs?oc=5",
-      "pubDate": "2026-08-15T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -186,7 +213,7 @@
       "pubDate": "2026-08-15T12:56:38.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "お盆迎えるも爪痕色濃く 熊本地震  弘前経済新聞",
+      "description": "お盆迎えるも爪痕色濃く 熊本地震  hirosaki.keizai.biz",
       "category": "disaster"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "【地震被害】死者３９人 住宅の被害は３万棟超に 約３２００人が現在も避難生活【令和８年熊本地震】  TKU テレビ熊本",
       "category": "life"
-    },
-    {
-      "title": "熊本・八代市出身の美容師が帰省して地震被災地の高齢者施設で散髪奉仕（2026年8月15日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakh2Ym03TWlqWnlMY0FycjN5UjV0UHBfNFlxX0d6cHhrRnJRTzhEY01PX1Ffb3lyV2Nab1FNRGIxeG00YU1DY21JUXJ6Yk9GNGlnbENZeF9ydE5PTklvNnVfVU1LMzY1LVAtVG1wMnlDaW9PYjFncV9fYktCc1g2Yk5tTzJrbnM?oc=5",
-      "pubDate": "2026-08-15T09:16:01.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本・八代市出身の美容師が帰省して地震被災地の高齢者施設で散髪奉仕（2026年8月15日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本・八代市出身の美容師が地震被災地の高齢者施設で散髪奉仕（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02TzVtRUNVYU4wbTdfQ2NLZFA2Mk5HZEhlOWo1NFRLLVRyNDRWSjZOc1pZYlh3MnlBUHEtU24ySnliWkZmRERBc1Zxb01WR0FXbnZWLVFfVXZlVU5ZSEtCdEJ1alhTLVY3RjRPVGp4VXh0SFhLa0V4QkJySUIxczA?oc=5",
-      "pubDate": "2026-08-15T09:16:01.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本・八代市出身の美容師が地震被災地の高齢者施設で散髪奉仕（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震被害】死者３９人 住宅の被害は３万棟超に 約３２００人が現在も避難生活【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xcEdKeWxvNEM1STBaQ2FDZ1hnbXB0QVk1aXQtaldoZk1RVVRRdnNQc2ZIbnpSbWQybnRaUV9scUpRbTlSZ1B2dlFTV28xZ1lMV0w1QjJ5Wm1FZ2NheVNWMmZndXFadjVnZ19xVGtZbDczR2RvZWJnMVBFNUFaQ0k?oc=5",
-      "pubDate": "2026-08-15T09:15:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "【地震被害】死者３９人 住宅の被害は３万棟超に 約３２００人が現在も避難生活【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-15T19:26:53.819Z",
-  "lastAttempt": "2026-08-15T19:26:53.819Z",
+  "lastSuccess": "2026-08-15T19:46:34.381Z",
+  "lastAttempt": "2026-08-15T19:46:34.381Z",
   "fetchOk": true
 }
