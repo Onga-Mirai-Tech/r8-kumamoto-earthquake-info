@@ -19,12 +19,12 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】八代市など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQdHRaWmROVWY0WmQ3N2JXeS02RS1ieFNjbEpKZ19YWXZmSEVIWjhLRHdyX1ZGMDAzUVVTRExrZ3c4cGdFdHNDY1UxOU44NXc?oc=5",
-      "pubDate": "2026-08-15T16:16:07.000Z",
-      "sourceName": "熊本日日新聞",
+      "title": "熊本県で最大震度1の地震 熊本県・八代市、上天草市、芦北町(放送局のニュース )",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wRDVIdjFEUF95cUdoOXFLb0h0emZPMEJCeER0LThNLWloczNTVlFnNkhZMzNDSjhaLXVBNEYxVC02NzJSejRheWlvc20zbW1PZm1BLUtaUWxDWW5VejloeDNQalJSeGR0RUdCNFRSX2NTS1JaZWc?oc=5",
+      "pubDate": "2026-08-15T16:15:00.000Z",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市など震度1  熊本日日新聞社",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市、上天草市、芦北町(放送局のニュース )  tenki.jp",
       "category": "disaster"
     },
     {
@@ -43,6 +43,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nNzRlSVNqZ19TWUwyYlJRM1dTcDVsNzNEZUpPMmhJQ0MxNGhNQ0E0MkUxYXY3QzZwWWgzeGpmbWlCemlTMDVUVHlyWExvT0E?oc=5",
+      "pubDate": "2026-08-15T16:06:45.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -190,15 +199,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51RXhaMHFhUXFDejg2alRMNDFLTjI2UDlUdHRTY2N6OEtsNFZ1MEphNlhaRkVtQjZGdTFDVGtkT3JGazRQcElHWnNYY3J6ZllYRTBjZkFmc0k4Rk42eTFuUk1Ha3M1dUQwTjEtNl9uRDNJMG52SUhXa2prbXRJenM?oc=5",
-      "pubDate": "2026-08-15T12:44:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
       "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く (読売新聞オンライン)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU96bDR1RW4zd0p0U19BV2d2VGNvTElKWjdMWkZYOVE0VEx1bHFxRm9ZYlA1RHhxazlwV2JCbS1YaTZuZVBQM0V1TFIzVHQ5cllDNEkyblFQNXZXbDFycUJQZmszdUFpMlFzTDZfcUYtSkNOY0g4eXVEVGoxS0M1NFBvNEN4VHFPQ1VOZ1VR?oc=5",
       "pubDate": "2026-08-15T12:44:33.000Z",
@@ -208,12 +208,21 @@
       "category": "infra"
     },
     {
+      "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51RXhaMHFhUXFDejg2alRMNDFLTjI2UDlUdHRTY2N6OEtsNFZ1MEphNlhaRkVtQjZGdTFDVGtkT3JGazRQcElHWnNYY3J6ZllYRTBjZkFmc0k4Rk42eTFuUk1Ha3M1dUQwTjEtNl9uRDNJMG52SUhXa2prbXRJenM?oc=5",
+      "pubDate": "2026-08-15T12:44:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く（読売新聞オンライン）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qYWlWcnNsVFJGMFBFWFlfMTdaVTNBLXdnOHNaVWMwU1p6V1dTSDdmcEtLeUlyc05yUC14TlJSaVhudXlRalZxRURfeHlSbmdmakVBV0xmTmtKZjlJTkMxSnRKaFVDdw?oc=5",
       "pubDate": "2026-08-15T12:44:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く  yomiuri.co.jp",
+      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く  読売新聞",
       "category": "infra"
     },
     {
@@ -384,7 +393,7 @@
       "pubDate": "2026-08-15T11:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の住家被害、3万棟上回る 死者3人の居住自治体なども公表  asahi.com",
+      "description": "熊本地震の住家被害、3万棟上回る 死者3人の居住自治体なども公表  朝日新聞",
       "category": "disaster"
     },
     {
@@ -429,7 +438,7 @@
       "pubDate": "2026-08-15T11:08:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n震源断層の出現映像を撮影 熊本地震、貴重と専門家 (共同通信)  Yaho...",
+      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学...",
       "category": "disaster"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "熊本地震の被災地へ 山梨県警の警察官が出発（2026年8月15日掲載）｜YBS NEWS NNN  日テレNEWS NNN",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災地へ 山梨県警の警察官が出発（YBS山梨放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vdkhFSzdPZm1fM01Kb0x1V3hKSkpuNUNqMHFaclpyWVExSGRYY18wYmdqNXJ6djlKckxZcURXMGJWS3dXOWg4Zy05WXZEeE5EVzhmMUI2UDloZnRTSVBKNV8zY19aQXBZNkw2aDRJTlJBVndCSzVGc3NjVnVYbWs?oc=5",
-      "pubDate": "2026-08-15T09:05:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地へ 山梨県警の警察官が出発（YBS山梨放送）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-15T18:28:54.059Z",
-  "lastAttempt": "2026-08-15T18:28:54.059Z",
+  "lastSuccess": "2026-08-15T18:58:12.498Z",
+  "lastAttempt": "2026-08-15T18:58:12.498Z",
   "fetchOk": true
 }
