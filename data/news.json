@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ1lCalpSaEk0WU84MGZEQXotVXdQdXJfQnZmSU9RdS15M3NWejROMHlfbDg0Qk42UWM1MVRVVWxLaGwwSmN3MnNyb2hhdGxpMUs3UFJFWDFjeUlZeExz?oc=5",
+      "pubDate": "2026-08-15T20:38:09.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 商工関連の被害額は1100億円超 断水が事業再開の足かせに（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tVWJwaGs3TzNCUVlfWjVIdkktVzhFVWxLaUVFdi16V0RyY2dIWnFfVklFeFFqR3hUS0JoZ2wtODVPRnNSTmRTSFEtNVJ6OVNTWUNaVjlzUkFWc0U4VllNcUVHa2VrbzNwMXBUcDVQU1VwLThOeWprQjNYVEdRSU0?oc=5",
+      "pubDate": "2026-08-15T20:32:24.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 商工関連の被害額は1100億円超 断水が事業再開の足かせに（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震 商工関連の被害額は1100億円超 断水が事業再開の足かせに",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUYnpBd3JhZU5aVlpwSGIxNTVwYUtVbGhVSFJHUjFCVUl4YmtHRU9kTVFZclRFcGVENC1heHVDZ3ZqclJSVHZUZTNHNlNhajlHQUY1SjRYTQ?oc=5",
+      "pubDate": "2026-08-15T20:29:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 商工関連の被害額は1100億円超 断水が事業再開の足かせに  TBS NEWS DIG",
+      "category": "infra"
+    },
+    {
+      "title": "「キャンセルする前に1回地図を見て」熊本地震後、黒川温泉の窮状紹介YouTuberにネットで賛否「それは無理だね。震災後はしかたないんよ」（西スポWEB OTTO!）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wVkFJYnByTmpVR2lFVkE3ZXdMc2ZZeXM4ZGhSNmRJckZaeF9DeWFBZzhCUmVQeXlNVXlNMUwzYWVnRUc4b0dqUzZWTE9YbXN3Y0ROZ092cmkxR1lDZEhYYVRBODVFNDMwbFNNZXFaMUZ5NjNkVDU1X0s2WkdPRFk?oc=5",
+      "pubDate": "2026-08-15T20:20:38.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「キャンセルする前に1回地図を見て」熊本地震後、黒川温泉の窮状紹介YouTuberにネットで賛否「それは無理だね。震災後はしかたないんよ」（西スポWEB OTT...",
+      "category": "disaster"
+    },
+    {
+      "title": "給水手配遅れや旧式備蓄… 熊本地震、トイレ支援巡る課題浮き彫り",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dmFqQVdZYTl1Z1hMS0NfYjk5ZmVsa09KbHJQZWJGR001R1ZTQnZvSkY3LXVOY2dwZTZaVTZ5d1RDVVJodVc3cWhKS29oaHk5YW1FZk5DUlBrQk9QNV8yc2F5S1pySEItTi1xdQ?oc=5",
+      "pubDate": "2026-08-15T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "給水手配遅れや旧式備蓄… 熊本地震、トイレ支援巡る課題浮き彫り  日本経済新聞",
+      "category": "life"
+    },
+    {
       "title": "熊本地震 心に寄り添う 精神医療チーム ＤＰＡＴが被災者ケア",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qYlBMcUdMMWg4UTgyMGxMTmlCaEwzYVVfcTlneE0xVUpmai1EWW1XLWd3bHE2ZkFHVEhfQTNmVVhmM3dTdmZzdDRERXgzTjBjREUyUDZR?oc=5",
       "pubDate": "2026-08-15T20:00:00.000Z",
@@ -42,7 +87,7 @@
       "pubDate": "2026-08-15T18:57:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "［熊本地震義援金］  沖縄タイムス社",
+      "description": "［熊本地震義援金］  okinawatimes.co.jp",
       "category": "disaster"
     },
     {
@@ -172,15 +217,6 @@
       "category": "disaster"
     },
     {
-      "title": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NWRBNjY3UWQwSEpRNjFCVThMTVZWMHMxM3JGVThoYUhIMGR4UGlNVjZfTUlRRmZWUG9HdHMwV3h0eU1iUjVhUE1ldw?oc=5",
-      "pubDate": "2026-08-15T13:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  47NEWS",
-      "category": "disaster"
-    },
-    {
       "title": "＜2026年熊本地震＞〝火事場泥棒〟許すな　熊本県警が警戒強める　2016年熊本地震、2024年能登地震でも多発　全国から応援、防カメ増設",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVE9mby1hTW1ZSVh5X0FwVTdxakZac24ydEYxTFRxYVBMLXFaV245LXFCZm5NaDhra0hnUmd6MXpkT0Zjb05BbFhZZWFsVGlwWjZOLXMwWEFoeklFdVVFRHpvQkl6X2E5YVVuR0pCLTZaMHVEV012TThlOElpTFQ0QVdR0gGHAUFVX3lxTE40cmh3TGRNMVBUTzA5ZWlyd0loNkJYY3VZaWE0ZU52U2lyejFiMzN3Y1Bub0NfTi1OWk42X29ER1l3X3Fjd2J6S3dud3pRYVRuWmZ0VnRMdWU3YldmU1N3OEthYmVYQkhLSi1ENkxLcVdjQkpuTzJ6NzdDdllrV0FWM21qV3VLUQ?oc=5",
       "pubDate": "2026-08-15T13:30:00.000Z",
@@ -196,6 +232,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」　地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2NWRBNjY3UWQwSEpRNjFCVThMTVZWMHMxM3JGVThoYUhIMGR4UGlNVjZfTUlRRmZWUG9HdHMwV3h0eU1iUjVhUE1ldw?oc=5",
+      "pubDate": "2026-08-15T13:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」 地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  47NEWS",
       "category": "disaster"
     },
     {
@@ -492,7 +537,7 @@
       "pubDate": "2026-08-15T11:08:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n震源断層の出現映像を撮影 熊本地震、貴重と専門家 (共同通信)  Yaho...",
+      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n熊本地震発生時に断層出現、防犯カメラ捉える…高さ１ｍのずれが２０ｍ以上「学...",
       "category": "disaster"
     },
     {
@@ -537,7 +582,7 @@
       "pubDate": "2026-08-15T10:50:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "Ｊ１川崎、ホームで熊本地震の募金活動 熊本出身の車屋紳太郎さんも参加  カナロコ",
+      "description": "Ｊ１川崎、ホームで熊本地震の募金活動 熊本出身の車屋紳太郎さんも参加  kanaloco.jp",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "くまモン、16日から活動再開 熊本地震の被災者との交流中心に（毎日新聞）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "くまモン、16日から活動再開 熊本地震の被災者との交流中心に",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HLWwycTg4aHpicE9tVXpiWW9BZnMtWWM2RUV4QV8zaDlYZ1BldWoxR0ZCMXFfSkRRb0ExVXNmcGFtZ0U5OFJYanFtQVg3VnZEMzY0TDQ5X0lGUnNzbU1HbnNoTWR3VGhS?oc=5",
-      "pubDate": "2026-08-15T09:23:23.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "くまモン、16日から活動再開 熊本地震の被災者との交流中心に  毎日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "段ボールベッド約１００台設置 熊本県宇城市で３カ所を集約した新たな避難所が開設【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tSGRwZjlqZHNxUEVlN2E5UVFudWI3X3REbDhUV1JqN05JQzNnNkY5bzFSWF9Lb1Q5VkpwVEUtc0F0aTI5MjJndFczNlVYZmlDSzlPcEU1cy1pVXdad0NxclMxSQ?oc=5",
-      "pubDate": "2026-08-15T09:21:08.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "段ボールベッド約１００台設置 熊本県宇城市で３カ所を集約した新たな避難所が開設【令和８年熊本地震】  TKU テレビ熊本",
-      "category": "life"
-    },
-    {
-      "title": "段ボールベッド約１００台設置 熊本県宇城市で３カ所を集約した新たな避難所が開設【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hNXZPWlVkcnJ5QzI2bmNQUzdmT2FlWWJWTVRJWlZCUzhNZlZHOW9BeDBLVFRCVTVYRW1EYUNFSURLaWVBRXpUa2puTWY0Qk54VkRMOHdZX0tpU2J5MUlOZUFiM1hMb1NfRW01WGtjdXZCaER2WC1CWnVCcmVXT3c?oc=5",
-      "pubDate": "2026-08-15T09:19:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "段ボールベッド約１００台設置 熊本県宇城市で３カ所を集約した新たな避難所が開設【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本県の木村知事が被災した県内４市町を視察 ひびが入った校舎など早期復旧へ【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LR0Vtc3psRWRwNGx1MGp1SllJbzZIY2h6YU5jMVpfS2JnX2plSU0yUDhnbFktcEdVTFNCS3RsSVZESzdkUDNOS25MUHJxUV9DODBnQjdtXzg2N2tFM1FWN1BkYzFCWXFaLUg2YVVuLUI4QWpvdERJQVRFaDJRWkE?oc=5",
-      "pubDate": "2026-08-15T09:19:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "熊本県の木村知事が被災した県内４市町を視察 ひびが入った校舎など早期復旧へ【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "「涙が出ます」断水続く高齢者施設で岐阜県の美容室オーナーが散髪ボランティア 【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01NmlkTU9GNlRhRC1GU0htUXBWQXhUUG5ZemdIS1J0a1prcjN4MHRlQzFjam0xOFowTmpLbTNwOEpUMzc4QXZXQ21xd3piZkV6dy1xRkJ5Rm1vNVpNQ0ZFTDlqaHRHTk53UXlrbjRhSmd5TDBvQUk0Z2s1SlZsNWM?oc=5",
-      "pubDate": "2026-08-15T09:17:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "「涙が出ます」断水続く高齢者施設で岐阜県の美容室オーナーが散髪ボランティア 【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-15T20:21:43.689Z",
-  "lastAttempt": "2026-08-15T20:21:43.689Z",
+  "lastSuccess": "2026-08-15T20:47:59.610Z",
+  "lastAttempt": "2026-08-15T20:47:59.610Z",
   "fetchOk": true
 }
