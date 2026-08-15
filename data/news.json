@@ -2,8 +2,8 @@
   "items": [
     {
       "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGFXdWVYelFER2cyd0F0YTNyaFFkdGdFZkNvV2dhN0E5ZlVzVjY3QzZoOXZadEFHMmFkb2phVzU1RmsxYlhxT3pURDFfXzl6TmJ6aGtyQ0ZXejF5U1U1emk4VlZMMUxKbzZwcEhrejVubmJJUWs1OGt4YzVBaUIxTUpOWnJVSzBZeG0tZWMwRm94ZnhfUEZ3QVV1QzRzUWJYZXdlMGtCeGRybzZEOFRzTlduT0J1MzRQN3c2cHRIb0Q1QzZGdlHSAXZBVV95cUxNWlZHeXVtQmsxMm9QenZFOGU1eGFLZ2puczdFNUdZeExsSThDTDFvaUZkODlPbXNKbVQwUG5xVTFVUkNqY3dDUXFIZ0xESHFOVlpmOGpMYS1idmxybmd3ekR4bmx4dEIwTG9QeVBORDhpVWVUak53?oc=5",
-      "pubDate": "2026-08-15T16:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRC1TSmQ0d0MyazdyeWU1LVFQMVhqLUpGdnZjSVJ5ZXdWNFBKSlQ4MnlUX3d1cjNoNGVUOUNlajdBQUVKRk95cTVidXYzdG5MRXFEeTR3RU82MGltQ0JZcUxDWThhT01UdUgxUkpYcDTSAXZBVV95cUxPN0FoWUJ2NzJsRFBMQ2VDLUczSENteXdzUHhBSDFkbExndGNHVEtKM1RaaFVEc19uQXBCSWh0SWhzcE5CRmlObklEaHZ2VmNQLWVCVWdzdEdJWFlic0o2Z044N2p6YkpkN0hPZVl2bl9INDJabUxR?oc=5",
+      "pubDate": "2026-08-15T16:12:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
@@ -145,6 +145,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く (読売新聞オンライン)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMU96bDR1RW4zd0p0U19BV2d2VGNvTElKWjdMWkZYOVE0VEx1bHFxRm9ZYlA1RHhxazlwV2JCbS1YaTZuZVBQM0V1TFIzVHQ5cllDNEkyblFQNXZXbDFycUJQZmszdUFpMlFzTDZfcUYtSkNOY0g4eXVEVGoxS0M1NFBvNEN4VHFPQ1VOZ1VR?oc=5",
+      "pubDate": "2026-08-15T12:44:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く (読売新聞オンライン)  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く（読売新聞オンライン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51RXhaMHFhUXFDejg2alRMNDFLTjI2UDlUdHRTY2N6OEtsNFZ1MEphNlhaRkVtQjZGdTFDVGtkT3JGazRQcElHWnNYY3J6ZllYRTBjZkFmc0k4Rk42eTFuUk1Ha3M1dUQwTjEtNl9uRDNJMG52SUhXa2prbXRJenM?oc=5",
       "pubDate": "2026-08-15T12:44:33.000Z",
@@ -159,7 +168,7 @@
       "pubDate": "2026-08-15T12:44:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く  読売新聞",
+      "description": "熊本地震の住宅被害３万８９４棟、なお３２０５人が避難…２万６４５０戸で断水続く  yomiuri.co.jp",
       "category": "infra"
     },
     {
@@ -222,7 +231,7 @@
       "pubDate": "2026-08-15T12:09:22.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞「安らかに」…故人しのぶ「川尻精霊流し」 熊本市南区 打ち上げ花火や露店は中止（熊本日日新聞）  news.yahoo.co.jp",
+      "description": "2026年熊本地震＞「安らかに」…故人しのぶ「川尻精霊流し」 熊本市南区 打ち上げ花火や露店は中止（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -343,6 +352,15 @@
       "category": "disaster"
     },
     {
+      "title": "震源断層の出現映像を撮影 熊本地震、貴重と専門家 - hokkaido-np.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3VGlaXzAyXzR6NTRVN3ZYUG9vV0QwUGRTSFlHM08yTHRxX2hkQm1YLVBkRkhRTnJyUC0ta2ZtbUF0d3BxbUl4SXROMThiZjJzRWRScmVZY24tQQ?oc=5",
+      "pubDate": "2026-08-15T11:15:44.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家  hokkaido-np.co.jp",
+      "category": "disaster"
+    },
+    {
       "title": "震源断層の出現映像を撮影 熊本地震、貴重と専門家",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45Y2owNE1wWjJqbnNDZ2h0VndWZVNzOXRJVWVMbThRMlNiNkxTZEpZQ09XY3gxNWhhVDlPMlFhdWwwSTV3Q2NzVF9wVUpIQkMyVzhIWGVSLWY4cEVpdEw0aVo5TQ?oc=5",
       "pubDate": "2026-08-15T11:12:33.000Z",
@@ -366,7 +384,7 @@
       "pubDate": "2026-08-15T11:08:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n突然田んぼの地面が持ち上がり…カメラが捉えた瞬間 熊本地震引き起こした日奈...",
+      "description": "震源断層の出現映像を撮影 熊本地震、貴重と専門家（共同通信）  Yahoo!ニュース\n震源断層の出現映像を撮影 熊本地震、貴重と専門家 (共同通信)  Yaho...",
       "category": "disaster"
     },
     {
@@ -465,7 +483,7 @@
       "pubDate": "2026-08-15T10:42:47.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で断層出現とみられる映像、日本初  okinawatimes.co.jp",
+      "description": "熊本地震で断層出現とみられる映像、日本初  沖縄タイムス社",
       "category": "disaster"
     },
     {
@@ -528,7 +546,7 @@
       "pubDate": "2026-08-15T10:28:39.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "ベガルタ仙台 熊本地震の募金呼びかけ ホーム開幕戦＜ホイッスル＞  kahoku.news",
+      "description": "ベガルタ仙台 熊本地震の募金呼びかけ ホーム開幕戦＜ホイッスル＞  河北新報オンライン",
       "category": "disaster"
     },
     {
@@ -548,6 +566,15 @@
       "type": "local",
       "description": "住家被害は3万棟超　商工被害額が1千億　2026年熊本地震  ｄメニューニュース",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震の対応で警視庁が支援部隊派遣 24日まで防犯アドバイスなど実施（ANNニュース）",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XZUQxY19QU3lMc2RQVXFOZFFXTWVhWG51eFhOTXkyR2RscTBKR1l1ZzVjb0tKU2ZlZ2tNeXFnYU1QYzdLakNUa0ZpM002TldWVktiU3NxbDF5UGRvMDZCVHBZVnY?oc=5",
+      "pubDate": "2026-08-15T10:16:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の対応で警視庁が支援部隊派遣 24日まで防犯アドバイスなど実施（ANNニュース）  nagoyatv.com",
+      "category": "life"
     },
     {
       "title": "熊本地震の対応で警視庁が支援部隊派遣 24日まで防犯アドバイスなど実施（テレビ朝日系（ANN））",
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "“エコノミー症候群”防止へ 車中泊の被災者を医師らが診察 熊本地震から18日（日テレNEWS NNN）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "お盆休み返上で水道管の復旧工事 熊本地震発生から2週間あまり 今も2万6000戸あまりで断水続く 約8割が八代市に集中 今月中の断水解消目指す（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZkdVMUxITVFTdm1hTGFCckVqS2tfYlBOd0NRWlhHT3Y5LWE4VWRYLXIwb2xSVENmdFJ5S1hLREVMdks4cDlMNm9pVl92UzdtdkYxUHdqZXZRb0NBSzEzYTRwUXhXS3hJdC1jdC1zQ1RGUmt4b0xkV051WWJZVE0?oc=5",
-      "pubDate": "2026-08-15T09:00:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "お盆休み返上で水道管の復旧工事 熊本地震発生から2週間あまり 今も2万6000戸あまりで断水続く 約8割が八代市に集中 今月中の断水解消目指す（TBS NEWS...",
-      "category": "infra"
-    },
-    {
-      "title": "2026年熊本地震＞炊き出し食材集めて支援 芦北町住民有志 八代市の飲食店などに（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU2NGVF9lRHB1cHNsV2JPSHVQMWM5TDhyZXFqVkFlbkpSdk1ucjJJUThNMF9LaThVMHhxMFQ2OER4Y3dCamJsNElTRklfMGdjZkgxR0t6MUI5bnJIZUNCRVNTSEoxei1fMWtmZ01HOWowTUR3OEVEUngyQ1F3V0E?oc=5",
-      "pubDate": "2026-08-15T08:59:23.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞炊き出し食材集めて支援 芦北町住民有志 八代市の飲食店などに（熊本日日新聞）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞炊き出し食材集めて支援 芦北町住民有志 八代市の飲食店などに",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBielQ2YndVY0JvaGpDUHY3WmtCT2FSYmpwVFcyT0gxUm5VWGQ1Y0FhMHJrV0U1MTdrMFk0MHJkZ3o2SUhOaWo0cUszVlI5ejQ?oc=5",
-      "pubDate": "2026-08-15T08:52:57.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞炊き出し食材集めて支援 芦北町住民有志 八代市の飲食店などに  熊本日日新聞社",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-15T16:23:32.213Z",
-  "lastAttempt": "2026-08-15T16:23:32.213Z",
+  "lastSuccess": "2026-08-15T16:50:12.198Z",
+  "lastAttempt": "2026-08-15T16:50:12.198Z",
   "fetchOk": true
 }
