@@ -1,12 +1,39 @@
 {
   "items": [
     {
+      "title": "熊本地震 なお3205人が避難所に",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWnhmYlRLMVZrYkx2cGtlbTczbzBNOGNNazZCU0t3YVFOTlM5bXE0cEpBRDVUbGFQdVUySkFkRVU5RmxGcVo5bVJ6eXpDSVY1?oc=5",
+      "pubDate": "2026-08-15T22:42:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 なお3205人が避難所に  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」（テレビ朝日系（ANN））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xLU90OEUtNEM1XzVuSUtXN0tJQzFTWWFIX0h0eDlzWDNobHFpLXFOTmNqTnNzMUcxSlI5czBqVTVQMVlUX0EtLTJTeVBUM2lLMzQtRkRtTk15OWZsc3puNHIwcENBOExEVjNXLWpjWnFnN3NCOVFuVVZzUUM4T2M?oc=5",
       "pubDate": "2026-08-15T22:27:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」｜Quebee キュエビー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zbnViUVZ1VlM1ZmdXTGlERFNHOTZlaW42eGh0LVFzOFEycEhKMXdJU1FIdHZFbFRKMndqQUR4Z1dKZVBvSkhIVWJoTXpMakFYZGEtclhYZnA?oc=5",
+      "pubDate": "2026-08-15T21:31:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」｜Quebee キュエビー  QAB 琉球朝日放送",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ROHB6dXgxMFNGZ29FU2xvWmpieFdDc0tjN3d2Wk1Ydy1ad25HWlFIcmt4RTNZZFFQUjVHdVB4M19jelVDa0kyZlpvRGplQVdTVmdSVkQ5Tnh4b3JRMEszc1BwYy15MkVkZ2VMUUVvelFnZw?oc=5",
+      "pubDate": "2026-08-15T21:31:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」  テレ朝NEWS",
       "category": "disaster"
     },
     {
@@ -110,11 +137,11 @@
     },
     {
       "title": "【速報】熊本市南区など震度2",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1cVFXa2J4Qm1rR1JYdmktXzZoUXZ6cjd5T0E0OEljMUgydGpFc0ROS1Z6Z0x3UV91UGhPdnltQnMzWWdKX0hzQUxicy1sOEU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qbGtIMWNVc01zUTh5NUE4ejJJUUkwT19ycXRLbWptOTlySVZ0RGkxTHZqWG1Dd1RUaVczSTNWV3hBazF6TEwzMTl5cw?oc=5",
       "pubDate": "2026-08-15T19:29:29.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市南区など震度2  熊本日日新聞社",
+      "description": "【速報】熊本市南区など震度2  47NEWS",
       "category": "disaster"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "一歩踏み出す後押ししたいモン！ くまモン、１６日から被災地訪問（共同通信）  熊本日日新聞社",
       "category": "other"
-    },
-    {
-      "title": "熊本県で最大震度1の地震 熊本県・熊本南区(放送局のニュース )",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBITDhYek5NVWtZNEFRenhqb0liU3N4WGlPOXJrd1daZERpTm95b3dwcURrUHVSal8ydXpXejd3TXpCaGtFbV9XMFdQUGJyRldGRVkzNDlSUUhjak5fc0wydG5oUy1TMno1dEhjTTZUS1RBem53U0E?oc=5",
-      "pubDate": "2026-08-15T09:50:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本県で最大震度1の地震 熊本県・熊本南区(放送局のニュース )  tenki.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "インドネシアで地震、３８人死亡 津波９４センチ、Ｍ７・７（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlQUViYTNNQkc0aUI0RnJmdVhIMVNLY3FRSDJGLXl1US1XV3I3MkdxUkotVWF3cVlGWUlzLUJ4LTNpMmowTkF5TU1TRFhsMkk?oc=5",
-      "pubDate": "2026-08-15T09:45:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "インドネシアで地震、３８人死亡 津波９４センチ、Ｍ７・７（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震から18日】札幌の民間団体が“支援物資の受け入れ”開始―市民ら衣類や暑さ対策グッズなどを持ち寄る…8月16日まで受付〈北海道〉",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZmRPdjRwY00yUlBWNExwaTQtM3hsVVZreWV1VVR0YXFaQWlvWTFiVXlxXzhQX2ZKcjJjbTFiaEVnMVNYUzBnNUVNZUlVX1VPc3JDZXRFZWdYTUtramdidVEweUQtOTRqODlRb0tfdjZmRXY5Q3p6SEs5cUpCNk0?oc=5",
-      "pubDate": "2026-08-15T09:42:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震から18日】札幌の民間団体が“支援物資の受け入れ”開始―市民ら衣類や暑さ対策グッズなどを持ち寄る…8月16日まで受付〈北海道〉  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-15T22:31:13.304Z",
-  "lastAttempt": "2026-08-15T22:31:13.304Z",
+  "lastSuccess": "2026-08-15T22:58:25.808Z",
+  "lastAttempt": "2026-08-15T22:58:25.808Z",
   "fetchOk": true
 }
