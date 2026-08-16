@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震・ブルーシート張りや目地開き補修を実施/日建連",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HSlpiU05XQ3hROG94QUxMaXFvWXp3U3RQRk5NQzlMaUxEcGIzNkg1WFhTME5DVWRWb0ZNZ0FkSG5IUU9KVEtNUGxKYXFYWHdaUFg4OUVGZjU?oc=5",
+      "pubDate": "2026-08-16T20:30:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震・ブルーシート張りや目地開き補修を実施/日建連  建設通信新聞Digital",
+      "category": "disaster"
+    },
+    {
       "title": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZnAxcjdBUXZsNlNFcnpNTkh1eFh4bF8tVVBGQlhQemZ6TEtOZ2t1LWRZV3FDMVVmYlBRSlljaWRXeXdqZHJwcWdLVTU3RmE5THhmMnVNZlFTR28?oc=5",
       "pubDate": "2026-08-16T20:03:04.000Z",
@@ -22,9 +31,9 @@
       "title": "徳島県 熊本地震の被災者に公営住宅など９９戸無償提供へ",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uS0lEcHBCbE44emcxTmVLeGdxMGEwNE5rWjkwa2tiaUU3UHpUa0dxaF9kazdqelozWUR1ZEczbVpVSUZXbDRsWkFMUHFjNXFZRlpKb1JiNHg?oc=5",
       "pubDate": "2026-08-16T20:02:00.000Z",
-      "sourceName": "NHK",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "徳島県 熊本地震の被災者に公営住宅など９９戸無償提供へ  NHKニュース",
+      "description": "徳島県 熊本地震の被災者に公営住宅など９９戸無償提供へ  news.web.nhk",
       "category": "disaster"
     },
     {
@@ -44,6 +53,24 @@
       "type": "local",
       "description": "熊本地震が突きつけた「避難生活の課題」に応える…鹿島建設でも大林組でもない「防災・減災」6銘柄  現代ビジネス",
       "category": "life"
+    },
+    {
+      "title": "＜お知らせ＞熊本地震、救援金受け付け",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlb0lzS21Eb1F3V3hZZTVvN0twY2VXQ0dGUkJwaml0c2NUM2lmLXo1TnFub20wV2NSaUJZaVZTT003YnBXZ3h0WnhpMXJ0R3VjSlZiM3REZ19lOHFD?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUDh4QnI2djN4NmVUUXVGZm9KZkNWSDlzWm5yOWFDLW9sNld3b2ZFR3V2czNLcWY3RWxnR0lqenpjQTd6TEVaMEEtWjlFekMtR3pWMmFHZ1FMRWVVZExDLVFwR3ZqQQ?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊  読売新聞",
+      "category": "disaster"
     },
     {
       "title": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要",
@@ -73,12 +100,21 @@
       "category": "infra"
     },
     {
-      "title": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUDh4QnI2djN4NmVUUXVGZm9KZkNWSDlzWm5yOWFDLW9sNld3b2ZFR3V2czNLcWY3RWxnR0lqenpjQTd6TEVaMEEtWjlFekMtR3pWMmFHZ1FMRWVVZExDLVFwR3ZqQQ?oc=5",
+      "title": "熊本地震、断水世帯８４００戸に減 一時１０万戸、復旧加速",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mNkZuMUlVbGFtNTctSlVQUFZhLUx3Vi13VkZfb2JINlRvc2ZrcEpKNTVXSVN6U1pUcDVtSGluYkZsZUk1NW1yVVItNA?oc=5",
       "pubDate": "2026-08-16T20:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊  読売新聞",
+      "description": "熊本地震、断水世帯８４００戸に減 一時１０万戸、復旧加速  webun.jp",
+      "category": "infra"
+    },
+    {
+      "title": "母に駆け寄りポロポロと涙（上村章子、65、主婦、菊陽町）【令和熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84VF9fN2UwUVJ5YWRobzBRYm1yd3NwZFFpb1pTQWRVa05PTFFIOXZlQ1lVVzNMWmRCQ0NCZ05ES2NNTktLWkVWV2Z2X2pLdG8?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "母に駆け寄りポロポロと涙（上村章子、65、主婦、菊陽町）【令和熊本地震】  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "地震で実家崩れ「助けて」父の声  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震2026 公明が被災地の声を国政へ トイレカー派遣も【神戸市北区】兵庫県議会議員 大塚公彦",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ySzFIdVB2d3V1NFp1eExYRndIeEllam9ab3FzZ0RRQXdzNkFDa1B2a0pqUmdRZV85clZOUEhYNExUOTNvRkdPUGlsSkU0cUlCaTVZaDVSa2NJUk43R1dz?oc=5",
-      "pubDate": "2026-08-16T07:51:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震2026 公明が被災地の声を国政へ トイレカー派遣も【神戸市北区】兵庫県議会議員 大塚公彦  選挙ドットコム",
-      "category": "disaster"
-    },
-    {
-      "title": "【令和8年熊本地震】支えられる側から、支える側へ。熊本へ恩返しを",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11ODVBNGlFa2JadmNyQ0xhTDludWRKcExyUzJ3bm5YdFZyNWFDWklsZWZrY0FrYjh3Tk1KYXdpbElsQUl2bHZzSzgzaw?oc=5",
-      "pubDate": "2026-08-16T07:51:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】支えられる側から、支える側へ。熊本へ恩返しを  readyfor.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も（毎日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMbXNoUVgtcVBmNkNZdTFtMDhJM1c4cEk5bl9ZLTJ4ZTFVQkpYMExlWFMydDVWenhhNlNYZFdnQjVRZWhWZU14Y1lOdkdBQ3NBZkdrcTBjSGtmOXhJU2xOTTVtQlQzVDBGd1dqRHBnMEt2ODczUkMxTU0tMEJnODA?oc=5",
-      "pubDate": "2026-08-16T07:18:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も（毎日新聞）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01UEVtYVBlbG1yTnZLdGZmR2taN2x4TWJCSkJEaWVjYWsxSE12SC1JOTJjbHEtV3dkQTZWVEVJRmJGSE51SVlGZzNNNUlyS3lkVktUX0VCRDhncTUzVVhwNnpYUXpfckFr?oc=5",
-      "pubDate": "2026-08-16T07:17:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も  毎日新聞",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-16T20:22:21.184Z",
-  "lastAttempt": "2026-08-16T20:22:21.184Z",
+  "lastSuccess": "2026-08-16T20:47:58.855Z",
+  "lastAttempt": "2026-08-16T20:47:58.855Z",
   "fetchOk": true
 }
