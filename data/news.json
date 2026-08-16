@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "地震で実家崩れ「助けて」父の声",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKS2RXc2V1X0tFRV9OWVZqc2o5ZnRVVEpJMUpmTjItUlpta252U2hHLXZQOXJTZFlBVzZIY2dOWFVRQWhfbmZlZ2xnNDR2OG1D?oc=5",
+      "pubDate": "2026-08-16T22:59:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "地震で実家崩れ「助けて」父の声  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【日薬 岩月会長】震災後の医療機関閉院懸念‐熊本地震後「注視したい」 - daiunji-nobeoka.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mbDBJRmk4M2xfLWtITFlqODBxZlVCeE9TV2FCbVgwT0hZMzZWcFE0cmpuMkI2SlYtWlNCVFY2TnJfVDZ2NG9ZdXB1eVVNSVQ3NTdR?oc=5",
+      "pubDate": "2026-08-16T22:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【日薬 岩月会長】震災後の医療機関閉院懸念‐熊本地震後「注視したい」  daiunji-nobeoka.or.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 なお3205人が避難所に",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWnhmYlRLMVZrYkx2cGtlbTczbzBNOGNNazZCU0t3YVFOTlM5bXE0cEpBRDVUbGFQdVUySkFkRVU5RmxGcVo5bVJ6eXpDSVY1?oc=5",
+      "pubDate": "2026-08-16T22:29:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 なお3205人が避難所に  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "防災庁と熊本地震 「地方の備え」底上げ急務【とうきょうウオッチ 取材ノートから 記者余論】",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QNmxJWGh4ZGF2MUFldmlnZVVxRmlCNnpqcVZDOGVHWXlxVmRJWTRIQWJKRi1LcTVacXpMZEhRSGRuMDZDTkxwMFJRMWI2QQ?oc=5",
       "pubDate": "2026-08-16T22:26:00.000Z",
@@ -145,6 +172,15 @@
       "category": "life"
     },
     {
+      "title": "死者・不明者４００人超に コロンビア地震から１週間（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OXNvYXNQOE1RVjlxR0FVOFh1SXl6RjlVSk1SVzdPbHZQLUZ5LWtValNIVzJBQ0p0UXRvX3Z3eHVzcWtmc0w5ekZvdHNYQVk?oc=5",
+      "pubDate": "2026-08-16T21:24:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "死者・不明者４００人超に コロンビア地震から１週間（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "「山鹿灯籠まつり」開催 熊本地震の影響で規模縮小（テレビ朝日系（ANN））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUHp3MXR0QzAzblU2S3o3LUZVYVB1ZG8yMEdSREVVa3hIQlJtbVVZNExrckZnLWdIYll1OTVISWx5Y0dHQzZmYkRlMUdzUjFZS3lrZ1dkbzRYZWxJVVJwYjh1cnRGanZQcWprZHo2VmF3a3hxTGY2NmVDSWxmdUE?oc=5",
       "pubDate": "2026-08-16T21:20:56.000Z",
@@ -240,7 +276,7 @@
       "pubDate": "2026-08-16T20:30:46.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震・ブルーシート張りや目地開き補修を実施/日建連  kensetsunews.com",
+      "description": "熊本地震・ブルーシート張りや目地開き補修を実施/日建連  建設通信新聞Digital",
       "category": "disaster"
     },
     {
@@ -258,7 +294,7 @@
       "pubDate": "2026-08-16T20:11:37.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介  agrinews.co.jp",
+      "description": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介  日本農業新聞",
       "category": "disaster"
     },
     {
@@ -316,15 +352,6 @@
       "category": "disaster"
     },
     {
-      "title": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zcGhLcG96M0FDWmpkU0dQd3phSThjcm9JQ2NZWk9aUS1vOUpiZHJIM2s0YmRpbG0zcFhKTFB5LW5KMTlQQWdUaGFUNWZ5Mk0taW9XU2pscUluM3Z6?oc=5",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震  朝日新聞",
-      "category": "life"
-    },
-    {
       "title": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5RmhDQTZiRzVwTGhrbUlEblZSNmpBWUNQTGgteHh1TlV3MmlXbGVNeFpNNFNHOTBCQi1lR2o2em5SQUJxUmxkeGhIeVJ4TWNvNGJtVm9jb19XTzcxM1E?oc=5",
       "pubDate": "2026-08-16T20:00:00.000Z",
@@ -332,6 +359,15 @@
       "type": "local",
       "description": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要  福井新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zcGhLcG96M0FDWmpkU0dQd3phSThjcm9JQ2NZWk9aUS1vOUpiZHJIM2s0YmRpbG0zcFhKTFB5LW5KMTlQQWdUaGFUNWZ5Mk0taW9XU2pscUluM3Z6?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震  朝日新聞",
+      "category": "life"
     },
     {
       "title": "熊本地震 断水８４００戸に 一時１０万戸、大幅解消",
@@ -416,11 +452,11 @@
     },
     {
       "title": "熊本地震 赤十字が医療救護班を派遣、徐々に表れる体調の異変に注意呼びかけ…3000人以上が避難続ける",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVzBiLVVDQmpwOVJtWXR0UEd3OHNUWGtGT3AxOXVYZFFreE4zVlNCeEJFZ3g1SmxaU2NjdWdwMHoyRFhTQmxLRlZEWlM3UFRaYTZKazlFZlpxdm4xdFNmemVrV3dUZENpcmV5d2wtY1RwekVIMVMxU1paWlk?oc=5",
-      "pubDate": "2026-08-16T15:56:01.000Z",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ra2E4eG1oRHBNZFo3cnRXVjVzeVhkVWdDZzJpLVpCUlpYUEVMa0FZMWdvdllVLXd4Y0VzZGFPNDRCNlVSSGt1MTNnMS1Gb1EzNkgxejRvRk9tcGh2OEd4bE84OVlBdWNrOHZnV1B3?oc=5",
+      "pubDate": "2026-08-16T16:15:34.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 赤十字が医療救護班を派遣、徐々に表れる体調の異変に注意呼びかけ…3000人以上が避難続ける  news.ntv.co.jp",
+      "description": "熊本地震 赤十字が医療救護班を派遣、徐々に表れる体調の異変に注意呼びかけ…3000人以上が避難続ける  au Webポータル",
       "category": "life"
     },
     {
@@ -847,15 +883,6 @@
       "category": "life"
     },
     {
-      "title": "元気と笑顔を届けるモン！ くまモンが避難所訪問で待望の活動再開！　熊本・氷川町",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEIzb3kwS1k1NVhwb21CaGFIcjljbmx0blBGbFliY0RFcFRfYkRKMTVvbnRxOTlVcDkyeC1sQy1qalJua0lWZWdDQzRsOG5SazlsQV9BcUUtS3FLNzdSVlNiZkgtd1hVajNwVU9hZmV4R1JYN29MU25ocFV3MkFJNkhhclZTUHdVTFBidDhyWmFlSGF3dmtURXVwYVBKOXZ3cHRFWUhkdlFkN2M5NEpGMmYzaC1FTVloTVhSVWMta3BZQU5x0gF0QVVfeXFMTktoZDJFNkRzalNDMXFyRG10OXdsVi1aams1UTQzWFUwNFlvX0JCTV9mM2FNN2htVmV3Ynk0ZVUwbDNZa1oxOURLT2szYjdReVJKTEV5V1hjUmVjaEc1MVI2SG9oVGpMSXVPdExib21kWW5DaXo?oc=5",
-      "pubDate": "2026-08-16T09:42:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "元気と笑顔を届けるモン！ くまモンが避難所訪問で待望の活動再開！　熊本・氷川町  ｄメニューニュース",
-      "category": "life"
-    },
-    {
       "title": "元気と笑顔を届けるモン！ くまモンが避難所訪問で待望の活動再開！ 熊本・氷川町",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sazFtZm5xR2N1LWQtelFzbzZWTGEwdm5xYVlXUUwwcDcyQmYxUXJsU0IwaWxmU0FTOVJQRFlxWHp0OWlmU3dUWEtSNXJzZEFwZEdyLWg0RUdNQQ?oc=5",
       "pubDate": "2026-08-16T09:42:00.000Z",
@@ -865,43 +892,16 @@
       "category": "life"
     },
     {
-      "title": "熊本地震派遣の医師らが避難所での活動を報告 兵庫 姫路",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJaXF5MXFhRHpzbTVwejB2eW9McDFnUlp0dV8xYjctQzhkTV9Vdkw1NVBIR1RyVjVNZTJOR1BxSEpxdkM1dzRIeWw2RzRscEp5bzJFWWhERlc?oc=5",
-      "pubDate": "2026-08-16T09:41:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震派遣の医師らが避難所での活動を報告 兵庫 姫路  NHKニュース",
-      "category": "life"
-    },
-    {
-      "title": "くまモン活動再開 氷川町の避難所を訪問「元気をもらえて頑張れる気持ちに」【令和８年熊本地震】(放送局のニュース )",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxdmVwZVQ5VEMydWF0ZFppX2NjbTZwWXVoT2Z6Z3NEdmo0VENUandlLTRYdS1GSlFUNTR4UjJwOTN5X0RDZ3JLcUM0d2hJRllQOWZpQkJoMEVaWU5uSktCNl9xMzZwdWF3YWpEcDRfZFN4blNrNHc?oc=5",
-      "pubDate": "2026-08-16T09:41:00.000Z",
+      "title": "元気と笑顔を届けるモン！ くまモンが避難所訪問で待望の活動再開！　熊本・氷川町",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEIzb3kwS1k1NVhwb21CaGFIcjljbmx0blBGbFliY0RFcFRfYkRKMTVvbnRxOTlVcDkyeC1sQy1qalJua0lWZWdDQzRsOG5SazlsQV9BcUUtS3FLNzdSVlNiZkgtd1hVajNwVU9hZmV4R1JYN29MU25ocFV3MkFJNkhhclZTUHdVTFBidDhyWmFlSGF3dmtURXVwYVBKOXZ3cHRFWUhkdlFkN2M5NEpGMmYzaC1FTVloTVhSVWMta3BZQU5x0gF0QVVfeXFMTktoZDJFNkRzalNDMXFyRG10OXdsVi1aams1UTQzWFUwNFlvX0JCTV9mM2FNN2htVmV3Ynk0ZVUwbDNZa1oxOURLT2szYjdReVJKTEV5V1hjUmVjaEc1MVI2SG9oVGpMSXVPdExib21kWW5DaXo?oc=5",
+      "pubDate": "2026-08-16T09:42:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "くまモン活動再開 氷川町の避難所を訪問「元気をもらえて頑張れる気持ちに」【令和８年熊本地震】(放送局のニュース )  tenki.jp",
+      "description": "元気と笑顔を届けるモン！ くまモンが避難所訪問で待望の活動再開！　熊本・氷川町  ｄメニューニュース",
       "category": "life"
-    },
-    {
-      "title": "くまモン活動再開 氷川町の避難所を訪問「元気をもらえて頑張れる気持ちに」【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DdkRrWDBYNDRPaUZ5bC12T0dwNGotUGU1UzNrNUMtN1NXUDczbWJ2TG1Zc2R5LWNHMzA1SnAxYS1mNU9zXzZPenRQLTBIUk1hQk9pdElnZkxEaXpDUWRGb3IwZkYyQkFLN3p4RkItbnFKYUh4MHJhRTVUSmpaWE0?oc=5",
-      "pubDate": "2026-08-16T09:38:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "くまモン活動再開 氷川町の避難所を訪問「元気をもらえて頑張れる気持ちに」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "九州道の上下線で渋滞 八代ＩＣ付近 一部区間での対面通行規制やＵターンラッシュで【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WVTNkUGpHYkRJaUU0MGpPZ3ZYMlpzRlYyWFE3ZjZtM21iOTJTbVdkdGpLLUQ5MktxMkhyVEFrMjhpZE5FWHNNTnI5bDN0RlBmSC1FeUJOQVBXZVBHQ3BLX2JlVVFIQkNyQlBHTUR2Y2k2aGVhZjAwcEFoSkh1c0U?oc=5",
-      "pubDate": "2026-08-16T09:34:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "九州道の上下線で渋滞 八代ＩＣ付近 一部区間での対面通行規制やＵターンラッシュで【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-16T22:51:13.675Z",
-  "lastAttempt": "2026-08-16T22:51:13.675Z",
+  "lastSuccess": "2026-08-16T23:18:45.249Z",
+  "lastAttempt": "2026-08-16T23:18:45.249Z",
   "fetchOk": true
 }
