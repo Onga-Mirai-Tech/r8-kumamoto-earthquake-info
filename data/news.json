@@ -1,21 +1,21 @@
 {
   "items": [
     {
-      "title": "【速報】芦北町で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1saWJzTXJCRC1wUm9mMWl5c2tNLUY1R2tHSDV0NHpRanBtaWFxeTl3bzJSRV9aMXVqVk80MzZEeVlQTDhmMlNpYVZfLTdjZEk?oc=5",
-      "pubDate": "2026-08-16T05:25:22.000Z",
-      "sourceName": "熊本日日新聞",
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OeTlSUDVMQl9GWDJzTVhuWGNYQVAzZVN1YlJHbzRHcHJzbzIxZFVmeGcwM1RfNEZXUzEyVDYzVGRLbEkxOG0tSlYwM29UMUxGWVVybUpYQmIwWEU3bDhMZ2VkeG5qYlBwV2VzanpZSGlSQzZoQndWS2pRdDluZ3c?oc=5",
+      "pubDate": "2026-08-16T05:25:00.000Z",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZUN2Zmdiak5rTlhCRFU3M1JBQThZZWlwdmxmZmZQaEJZSk1VeHdWdmZ3UGFYNEwxYldSNTFtRm14MDZBV0ZLbGFDU0oxWXRVTFRxN01OTFhabTNqOUYwdE5GbVhzSGpXcnRWbEhza1LSAXZBVV95cUxPRjFsRDV5UDNHOGJIUjF5bFk2bldGTGIza25tREJZMWcxUDNCODhaU0s4NlRfRFliYm1OLWZxOUtndW9JdTJJRkd4cWtzbUNuRHVwaGZEam9sV0ltSlJZZE9PamNqakdyZXh4bFRsYVhTOGQwTTBn?oc=5",
-      "pubDate": "2026-08-16T05:06:00.000Z",
+      "title": "熊本県で最大震度1の地震 熊本県・芦北町（FNNプライムオンライン（フジテレビ系））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZEtKampudGVLblVxeUZQQmFrS0RSaG9YdFN6M2tSYmhwOU90enJuY1JGX04wYUVpT2Vsek9PRzlHSHNHUU9BcHJCd01oNU9ROERCaUhPTXhfSU5tUXU0R2M1a0ljLTBmcjF5QTg4eEFxcFpNbDFxNDNNUEgxS0E?oc=5",
+      "pubDate": "2026-08-16T05:24:24.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  topics.smt.docomo.ne.jp",
+      "description": "熊本県で最大震度1の地震 熊本県・芦北町（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EeGR6RmlxcnFCYkpsb3lPb1JFaHlDM0wwb3JfZ2FaUUNUdG5PUUtNS2RRY1pBZXMwMlU0eXd1MjNkSTFFOVFZOFlVbjcyd3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IWGZOalpSdFBRSWxYcXlZYlVKVHB3VnE4OVYwMmYtYnlobENIZVhrLW9MYW9GbWtzNDhBdmNuYnlOZ2YyMEtzc3lrSQ?oc=5",
       "pubDate": "2026-08-16T04:37:07.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "description": "【速報】八代市で震度1  47NEWS",
       "category": "disaster"
     },
     {
@@ -51,7 +51,7 @@
       "pubDate": "2026-08-16T04:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "くまモンが活動再開で避難所を訪問、熊本地震で一時活動休止（朝日新聞）  Yahoo!ニュース\n熊本地震 「くまモン」が活動再開 被害受けた小学校を訪問  new...",
+      "description": "くまモンが活動再開で避難所を訪問、熊本地震で一時活動休止（朝日新聞）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "title": "「頑張れ、熊本」内村光良さんも花火で支援 熊本地震の被災者にエールを 人吉花火大会に5万人",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UN0x2ZE5ZTU1xRm9VTk1uNzl3ajNLN09SZEJ3RERRR0FkZXZjdGUwVHZpRS1kTXZCTnl5VjFSeUxobGQxazBiRWx2V3BjdVJUTm94YXRtSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nVVZ6NUVmRUxUTXBzdjllcUlIMmdkdzFMejJTQzh2Q3pKRERjdHk2cDZKWHBta0NZMktvcDhIUmdyYTJwSXkzYUZrUjhzaUdSUFB0RGo5azF2U0FaQTJ2SnJ4V2RKbkU?oc=5",
       "pubDate": "2026-08-16T03:17:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -160,6 +160,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震 くまモンが活動再開 避難所で子どもと触れ合い（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震　くまモンが活動再開　避難所で子どもと触れ合い",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQndlOWMxZkh2NnMwYnJTWTVBQzBIYTBjak1YNVowUlB1N0FfV2dKUHJDOEJVRHJmN3NWT1lGOTczR2k4WHgyVVI1WTM0UEVBQWRiS0JWT1VJQ0dNUEpiUndZNll3YXBreURiTFcxMDE2WWJLdFlsVFMzYkNFMmxLV3h1R3FkN1XSAYwBQVVfeXFMTmd1ZGtRcldNeVl4cWUtaEI5ejVjMkt3cURodkpMUmtLaEloOGVJS19aUG90V3R6OHRIZU8zVlA1MU5keFY3RHdlc3pkTlVFVmZCeXJKeFVxSGdkV0dGNmM1dWFkWkZ1YkdmRUE1cEZpZGlIemRxYzRlZS16ZWxUdlFGM2JGd05fM0cxa0g?oc=5",
+      "pubDate": "2026-08-16T03:13:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震　くまモンが活動再開　避難所で子どもと触れ合い  topics.smt.docomo.ne.jp",
       "category": "life"
     },
     {
@@ -283,9 +292,18 @@
       "title": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3159人避難",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OaktPZ09POElTbmxQdmJWLWRBVFdNeDBROU1XQm9qMng5NGQtZTQzVFl2eHRKdWdPdjAzYXk0cWgyRVBmQkthbkJjLUpxVnE5YmYzdFlCM1I3cTJmNXJB?oc=5",
       "pubDate": "2026-08-16T02:40:01.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3159人避難  NHKニュース",
+      "category": "life"
+    },
+    {
+      "title": "福井県から熊本地震被災地へ…技術系ボランティア2団体が奮闘 能登半島地震の被災地から「恩送り」と託された支援物資も",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OU2JnVkwyTVlfREF3dnRzVHhMVFNxZmZJc1Y4czEyZkdqUl9PMzIyV0RtZjZ4ZF85RTdKeVlWZC04NTBnT2NZX3c1alJlV3ZBa1lmVGxQNWFCaC0xc2tyRG00U0YtZDI2S1p2ODlzMmdzQzZ2Q2IyS2RKYlNNT1E?oc=5",
+      "pubDate": "2026-08-16T02:31:37.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3159人避難  news.web.nhk",
+      "description": "福井県から熊本地震被災地へ…技術系ボランティア2団体が奮闘 能登半島地震の被災地から「恩送り」と託された支援物資も  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -299,7 +317,7 @@
     },
     {
       "title": "熊本地震 「くまモン」が活動再開 被災者にエール [写真特集1/6]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxWWRQRjhUVHNmR0hXM1Y4d0QtUFdBNkJXNmdkY1llQzVHQmNGRXpOU2owcTBDekhFN0hJNzBqQ3dvNGl1dzN5ZVI1MVFsWFZIWGFwd0swbFZISVV2bk41RWF3WkJRdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXFlVUFFczJ4Y1I1QTJXWkM0RFBGZUdJbF9ySDFMUGg0bGNYbTMzUkkwZmp3Zm5yVUc3V00yMUtmWjBpYWRUTXR1bVd1bl96Wmc5N0h2cUFma3Y2VVBCY2l3YVBnRHlJSXZUUnBJZ1NGdlE3VTVfTHFfNV9Ld0RFNzZiMVpTZHc?oc=5",
       "pubDate": "2026-08-16T02:29:08.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -460,6 +478,15 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】芦北町で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RTy16Zk5Za3pLQl9ET2FCNWF1OWdMUDRrcU1ZVUhwYTlndDlhQUtTY2hvT0ItN2wyd1BKTlR1ZFE5R1pkR1p1QTJxODZ2SDg?oc=5",
+      "pubDate": "2026-08-16T00:34:51.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
       "pubDate": "2026-08-16T00:23:03.000Z",
@@ -519,7 +546,7 @@
       "pubDate": "2026-08-15T22:38:06.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」  ABEMA",
+      "description": "熊本地震で被災した子どもたちを花火大会に招待 「みんなで集まれるありがたさ」  abema.tv",
       "category": "disaster"
     },
     {
@@ -571,9 +598,9 @@
       "title": "熊本地震 活発な活動続く きょうも熱中症対策を 雷雨にも注意",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvZ1lCalpSaEk0WU84MGZEQXotVXdQdXJfQnZmSU9RdS15M3NWejROMHlfbDg0Qk42UWM1MVRVVWxLaGwwSmN3MnNyb2hhdGxpMUs3UFJFWDFjeUlZeExz?oc=5",
       "pubDate": "2026-08-15T20:38:09.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "NHK",
       "type": "local",
-      "description": "熊本地震 活発な活動続く きょうも熱中症対策を 雷雨にも注意  news.web.nhk",
+      "description": "熊本地震 活発な活動続く きょうも熱中症対策を 雷雨にも注意  NHKニュース",
       "category": "disaster"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "＜2026年熊本地震＞〝火事場泥棒〟許すな　熊本県警が警戒強める　2016年熊本地震、2024年能登地震でも多発　全国から応援、防カメ増設  topics.sm...",
       "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKX3pnNWJYYWdWQ2NMTEhzVWhNVGN0VU1YOVVxVTNVcWZZczlBS2lGQm1ZeWhYZjJ4NFdyUW8yR2o2Q0twNTBzZHZodw?oc=5",
-      "pubDate": "2026-08-15T13:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞〝火事場泥棒〟許すな 熊本県警が警戒強める 2016年熊本地震、2024年能登地震でも多発 全国から応援、防カメ増設  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」　地震後の売り上げ、例年の2割…上天草市の飲食店も苦境",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSnNWVFd2VEdyX2FyaVFvTm04REtMRnFiNXpxSENSSXVQMzlyc2paTEJCRHAxUlg3RVpaLV9MYkhscnVmbkVmYzBSM2VDbnRDNFQyTDdTY05tWHdkSGtkTndRVE5VdU9mYXVUMHdXWnd1UFlhVEhyVWVLVU9MRENfMjVB0gGHAUFVX3lxTE44QUpUWmI2QkpndHNlZUJUaXREZENPV0N3c1EzWjBBXzNIYkZDNEpOYUNMSGtCYlB5WTBpdWo2cDd4cGNUT1hiRzZDTldJYkRpa2tGSHdxNGZUSUdJTTY2YkZIRWdmNC0zWVdCTFpqWlAySlFOV0FseHhTbGVyNGNLOG41bXVGdw?oc=5",
-      "pubDate": "2026-08-15T13:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞「天草大王や海鮮丼食べに来て」　地震後の売り上げ、例年の2割…上天草市の飲食店も苦境  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の住家被害、3万棟超え 死者は39人、3200人避難中",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tdExmbE1EQ3VpelAtSUswQUtmZGxhNXhZeGlOeEFEc0lOc01KNDJIVU1HenJveGZteXlRNUxtXzBYY1FuSmhHeVJPOEZkZG5t?oc=5",
-      "pubDate": "2026-08-15T13:28:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の住家被害、3万棟超え 死者は39人、3200人避難中  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-16T05:43:08.878Z",
-  "lastAttempt": "2026-08-16T05:43:08.878Z",
+  "lastSuccess": "2026-08-16T06:03:27.986Z",
+  "lastAttempt": "2026-08-16T06:03:27.986Z",
   "fetchOk": true
 }
