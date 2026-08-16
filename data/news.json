@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZnAxcjdBUXZsNlNFcnpNTkh1eFh4bF8tVVBGQlhQemZ6TEtOZ2t1LWRZV3FDMVVmYlBRSlljaWRXeXdqZHJwcWdLVTU3RmE5THhmMnVNZlFTR28?oc=5",
+      "pubDate": "2026-08-16T20:03:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の影響53％ 九州企業、供給網に痛手 帝国データ調査",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VXRCZmNOTU9sSWt0eFlhajAtSGozZ0NWLW85aFlWaGNPVzlXZWh5VHlHaEFWUnN1Tm9TU0RiWmxKV3dWSjlOc3FXdV8wdy1QQ0dreFN1Mnd3UFE?oc=5",
+      "pubDate": "2026-08-16T20:02:08.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の影響53％ 九州企業、供給網に痛手 帝国データ調査  日刊工業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "徳島県 熊本地震の被災者に公営住宅など９９戸無償提供へ",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uS0lEcHBCbE44emcxTmVLeGdxMGEwNE5rWjkwa2tiaUU3UHpUa0dxaF9kazdqelozWUR1ZEczbVpVSUZXbDRsWkFMUHFjNXFZRlpKb1JiNHg?oc=5",
+      "pubDate": "2026-08-16T20:02:00.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "徳島県 熊本地震の被災者に公営住宅など９９戸無償提供へ  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "(公明ニュースプラス)船舶で初の医療提供 熊本地震で熱中症や軽傷を治療 公明が法整備への道開く 2026.8.17付",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRFl1Z3YtZ3dFU0dwX285ZGJxeEVuLTkyVk9uUjNael83bnZOWk9DN3NCeGJEX2dRMXVoczVrbjZqcGswVEVFRUNkSGJXb0ZqZ3E2S1c2VTJqemtjUk5JZnZUWHNpdlBQcUhtV1NR?oc=5",
+      "pubDate": "2026-08-16T20:01:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "(公明ニュースプラス)船舶で初の医療提供 熊本地震で熱中症や軽傷を治療 公明が法整備への道開く 2026.8.17付  公明新聞電子版プラス",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震が突きつけた「避難生活の課題」に応える…鹿島建設でも大林組でもない「防災・減災」6銘柄",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kVW5kaXo5VndubG56T01KckdZb3VFeUpRUlFPdmkxek1xbE1SVUgtYXpIZ3E4aEx4TGhkMzc2bjMxQ3hsNE9yS1E1RU1aS3c?oc=5",
+      "pubDate": "2026-08-16T20:01:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震が突きつけた「避難生活の課題」に応える…鹿島建設でも大林組でもない「防災・減災」6銘柄  現代ビジネス",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5RmhDQTZiRzVwTGhrbUlEblZSNmpBWUNQTGgteHh1TlV3MmlXbGVNeFpNNFNHOTBCQi1lR2o2em5SQUJxUmxkeGhIeVJ4TWNvNGJtVm9jb19XTzcxM1E?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要  福井新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zcGhLcG96M0FDWmpkU0dQd3phSThjcm9JQ2NZWk9aUS1vOUpiZHJIM2s0YmRpbG0zcFhKTFB5LW5KMTlQQWdUaGFUNWZ5Mk0taW9XU2pscUluM3Z6?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ボランティア、安全・健康は自分で管理 センター通じて被災地へ 暑さ対策重要 熊本地震  朝日新聞",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 断水８４００戸に 一時１０万戸、大幅解消",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzUjgzaHlhYTFWd2Q5LUx4TVlzVlI0QjQxZHphVkIxRGpsaVA3aGdtdzZjM2Y2UDh0aGhXODhpamJabTBjSjRwdlVlYlc2S29jN1VWaVlGUUM2N1RsUlBNOQ?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 断水８４００戸に 一時１０万戸、大幅解消  琉球新報デジタル",
+      "category": "infra"
+    },
+    {
+      "title": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMUDh4QnI2djN4NmVUUXVGZm9KZkNWSDlzWm5yOWFDLW9sNld3b2ZFR3V2czNLcWY3RWxnR0lqenpjQTd6TEVaMEEtWjlFekMtR3pWMmFHZ1FMRWVVZExDLVFwR3ZqQQ?oc=5",
+      "pubDate": "2026-08-16T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［２０２６年 熊本地震］い草農家 打撃深刻 農業被害 自宅の畳工場損壊  読売新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震断水 8000戸に減少 一時最大10万戸 大幅解消",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wREhwYWZMRjl5NTNxTTNWZl9UTGpkT1FLYUdnVVV5R3B0QTN0b3JLSV9fU3hqWmtTOWhscXp2UXhLSUt5LVhySWVqUVJ0RFZWbHkyQW9GN2lmTUVjeVE?oc=5",
+      "pubDate": "2026-08-16T18:58:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震断水 8000戸に減少 一時最大10万戸 大幅解消  沖縄タイムス社",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震 震度７直面 「車何度も跳ねた」 伊豆急社員、宇城市に",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZVGpRamZQbHVXUWg2dDVNOW5TRmRMM3B1eXlyMS16TV9faVhnU3dvSXlCeU5IdmV2R2ZUQkQ2QXpsNFRmRF9YN0hacXFUSW1xV2V0dnZsQlBqdG92?oc=5",
       "pubDate": "2026-08-16T18:05:04.000Z",
@@ -107,15 +197,6 @@
       "type": "local",
       "description": "2026年熊本地震＞くまモン、被災地に元気届けるモン 活動再開、避難所を訪問（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3Y4Q1I0ZVcyRUxHelB0T09rUVVOQ3JfZjJFT1g2anRzNUtXM1Zra1FhcGlnbVpyUFh1Q3RwampPWWdqSF9wSlo3NmNWMzBTTEZ5OFAwVG0yRmZhN3c2T0dLSGE4aE5Gdm54Zkp4MUtQRmZFc0Z6ZHMtSHpUUmppY19ES1hNZU9p?oc=5",
-      "pubDate": "2026-08-16T13:18:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」  Yahoo!ニュース",
-      "category": "disaster"
     },
     {
       "title": "【令和8年熊本地震】支えられる側から、支える側へ。熊本へ恩返しを - クラウドファンディング",
@@ -404,6 +485,15 @@
       "type": "local",
       "description": "くまモン、元気届けるモン！ 避難所に登場、３週間ぶり活動再開―熊本地震  時事ドットコム",
       "category": "life"
+    },
+    {
+      "title": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3Y4Q1I0ZVcyRUxHelB0T09rUVVOQ3JfZjJFT1g2anRzNUtXM1Zra1FhcGlnbVpyUFh1Q3RwampPWWdqSF9wSlo3NmNWMzBTTEZ5OFAwVG0yRmZhN3c2T0dLSGE4aE5Gdm54Zkp4MUtQRmZFc0Z6ZHMtSHpUUmppY19ES1hNZU9p?oc=5",
+      "pubDate": "2026-08-16T10:00:12.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」  Yahoo!ニュース",
+      "category": "disaster"
     },
     {
       "title": "2026年熊本地震、偽情報が拡散 写真加工、遺族装う投稿も 専門家「金銭稼ぎ狙う悪質な事例」",
@@ -809,99 +899,9 @@
       "type": "local",
       "description": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も  毎日新聞",
       "category": "infra"
-    },
-    {
-      "title": "海上自衛隊舞鶴地方隊の38人、熊本地震の被災地派遣 入浴支援活動に従事へ",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LbnpLbEU2SmdpTmpFX0FKY0tweEtWU2t1T2EwU2dXWkhwUGl0MmZWS01TOGlidzdWR0lLS1FzRzZ3b0pzUGdDTll4Z2hra0ViMFljajl5SVI?oc=5",
-      "pubDate": "2026-08-16T07:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "海上自衛隊舞鶴地方隊の38人、熊本地震の被災地派遣 入浴支援活動に従事へ  京都新聞デジタル",
-      "category": "life"
-    },
-    {
-      "title": "海上自衛隊舞鶴地方隊の38人、熊本地震の被災地派遣 入浴支援活動に従事へ - kyoto-np.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LbnpLbEU2SmdpTmpFX0FKY0tweEtWU2t1T2EwU2dXWkhwUGl0MmZWS01TOGlidzdWR0lLS1FzRzZ3b0pzUGdDTll4Z2hra0ViMFljajl5SVI?oc=5",
-      "pubDate": "2026-08-16T07:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "海上自衛隊舞鶴地方隊の38人、熊本地震の被災地派遣 入浴支援活動に従事へ  kyoto-np.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbVI5UmVwb3pBTXhuMmgxa3JJMldkclZBNDVBN1ZUWFljT0ZjajNfUXVudnJDbVNkZGFkOXJ3cFJVTnI2VkhlRDhyRUR4U3pwcm9Lek9QWk1DaFhhTHFGb2J1R09wNWw3cC1STkRzSkxRMTFhOWc?oc=5",
-      "pubDate": "2026-08-16T06:45:49.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に  産経ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "佳子さま 熊本地震、千葉豪雨の被災者に手話でお見舞い",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMHNnTnpqUER6ZWd6blBIS01kZlRNT0xEU01ybjZCeThDMUtxOUlfYURsMkpVZ3NJWTdNNzZFUWlXQzMzNW5lcWNiVHhRcEVJWFdtZm1RcXZDcnc?oc=5",
-      "pubDate": "2026-08-16T06:41:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "佳子さま 熊本地震、千葉豪雨の被災者に手話でお見舞い  ABEMA",
-      "category": "disaster"
-    },
-    {
-      "title": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TXlyaFdYNWE4TTJiWDNLV2V3QXVveDlCSXlaZnVzVE5jbEstU1JEbVRoNVRQdWVQdm5FVE1GZDBzc2daTE1OcHQxMUhmNHc?oc=5",
-      "pubDate": "2026-08-16T06:33:17.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "「教室育ちサーモン」千匹が全滅 今春出荷開始、地震の停電で酸欠（共同通信）  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "ＤＰＡＴ（精神医療チーム）鳥取県初の派遣 熊本地震被災者の心のケアに従事",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzbExhRjJGZTZzVGF4Wl8wQVFGNzZ6cjgzbTF4MnJ4TkxYeWhQc25KWlZnM3l3Wl9QeEtaalN4NXJQZmZadHZiVjBtV3ZNcFBk?oc=5",
-      "pubDate": "2026-08-16T06:18:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ＤＰＡＴ（精神医療チーム）鳥取県初の派遣 熊本地震被災者の心のケアに従事  nnn.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "ＤＰＡＴ鳥取県初の派遣 熊本地震被災者の心のケアに従事",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzbExhRjJGZTZzVGF4Wl8wQVFGNzZ6cjgzbTF4MnJ4TkxYeWhQc25KWlZnM3l3Wl9QeEtaalN4NXJQZmZadHZiVjBtV3ZNcFBk?oc=5",
-      "pubDate": "2026-08-16T06:18:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ＤＰＡＴ鳥取県初の派遣 熊本地震被災者の心のケアに従事  nnn.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "佳子さまが手話で挨拶 熊本と千葉の被災地にお見舞の言葉も",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FbXRvVVpza1I1akpJQzV5WXRScFpNbGplWDF5VmwwTFVJcG90NktOc0dhR0hqZDFCMlNzLUFOMFVxWDVQWUQ0c3RBVThuUE9yWnN2eUJwcTFVRVgtRUIzaTFXVTBxWmg4?oc=5",
-      "pubDate": "2026-08-16T06:14:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "佳子さまが手話で挨拶 熊本と千葉の被災地にお見舞の言葉も  HOME広島ホームテレビ",
-      "category": "other"
-    },
-    {
-      "title": "へずまりゅう氏、熊本で炊き出しも…高齢者から痛烈な一言「お前はいつまでも嫌われ者だからな」（スポニチアネックス）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcmpNb01sR2VCbllscWMzZk0xT0hGek1ub0t6S3huZFAxVDl6NUZXTWVEc0x6N2VHSXlTOXlWTEE3eU44ZEk3YVVJem5nVjJPTkpvTGszWGFrTmR5THU5V0Zka0g2MGlwNmRRUEtZenpNMEh3TFg1TWR3UlBqTTQ?oc=5",
-      "pubDate": "2026-08-16T06:09:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "へずまりゅう氏、熊本で炊き出しも…高齢者から痛烈な一言「お前はいつまでも嫌われ者だからな」（スポニチアネックス）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "ＷＡＳＨハウスが熊本県八代市にランドリー車、被災者の洗濯を支援…「久しぶりに洗濯する」喜びの声",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85V09tQ2F3Mk9vRlJmOEUteWh4S3F1U1B0bUhRbjZadlZWclZWNFV1eUpnOHhwbWlLMHVFNGdKNW1nNzBMUjB3LXpmUmgxRUZ2d1dCTlRYeV96ZEt1QWtTUW1rOUJmX0FHXzE5eVN2ZUY1Zw?oc=5",
-      "pubDate": "2026-08-16T06:03:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ＷＡＳＨハウスが熊本県八代市にランドリー車、被災者の洗濯を支援…「久しぶりに洗濯する」喜びの声  読売新聞",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-16T19:55:30.593Z",
-  "lastAttempt": "2026-08-16T19:55:30.593Z",
+  "lastSuccess": "2026-08-16T20:22:21.184Z",
+  "lastAttempt": "2026-08-16T20:22:21.184Z",
   "fetchOk": true
 }
