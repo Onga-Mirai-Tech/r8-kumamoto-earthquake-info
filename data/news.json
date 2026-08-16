@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "＜お知らせ＞熊本地震、救援金受け付け",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FNWFjS0lMa3hZUlZrbmllRk11UU1RRnd2eW5NOVFiLTdvbHlaUVFJclFmbzdOSHdwZzRQelExTmJLZWxGdkJCd04tMTAzYXlOVWVBeExsUEM4bjdWMXNyeUpfM3hWUnFNaHc?oc=5",
+      "pubDate": "2026-08-16T21:45:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市北区など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55bVFtWHNkSjk3Skxxc1N5OWxXaUdreXJiVFlrYXk0T2xMaS1qVWJhSzFoOHVmc0NVM3U1Z3RnclZhUXZRQ3lhYjJXUXRrNTQ?oc=5",
+      "pubDate": "2026-08-16T21:42:44.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市北区など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 福岡県福岡地方を震源とする最大震度4の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1p0OU1zbnpzTV9ERVlhQnlsUG92WnNsbkZkUzl6eHZFUV9Da1RhaDFoU01taWlNa1otclVaNnUyZjFlR0daU0pmWVJPT1JYcWpJNGJLVjl6bWZaSkg3WmNRNnd3VElOTjVZcmxpOE1obU5EV0VuQlZKaXFweGt5UWUwYmZTSU9YUFlWWlhIbzBJdFRqWHNwOERPTnFJeEp5TDUyd0MtZWVEWkRBVjE1T0czMGh6bVl0RTNmMUozdG5pdjExQVHSAXZBVV95cUxPaThld2FIUmVVLU4ycE8takxhQnc5dDZVY3U0b3pHa1hmZEo5S284N3J0Nk5pYjRxNUZ5NGp6ODZXamVESXRYbXFBMHY1V0FVWk1mMFpiek83cVRTd0lMWjVEQzRXUDNEU1JjbkF4UktVU2gycGJR?oc=5",
+      "pubDate": "2026-08-16T21:37:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 福岡県福岡地方を震源とする最大震度4の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震、企業の15.7％に影響、九州では5割超に…帝国データバンク調査",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wUEwzeVBWZjB6SHJ3MkdCcml2NXlJV2ppeXlfZEtXbGxINzBaV0N2ZVNNSWtHRWJLYU1zSGtyQllNZ1JGYlJ4RUlHYnRmYWltV1lvMU9XMWNUejVkMHdV?oc=5",
       "pubDate": "2026-08-16T21:30:03.000Z",
@@ -44,6 +71,15 @@
       "type": "local",
       "description": "「山鹿灯籠まつり」開催 熊本地震の影響で規模縮小（テレビ朝日系（ANN））  Yahoo!ニュース",
       "category": "disaster"
+    },
+    {
+      "title": "スザンヌ、熊本地震で“1.5億円かけた旅館”を無料開放、10年にわたる支援活動…地元愛を貫く凄み",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mWG9wM3BQZ2pBU0g4cWotM29rU0hvVF9WZ1c5WmZNR2pacTBhS0RrMTZZNVVldkJ3WHJ3Vnk3RmRjS0V0WEw5amhYRGVjV1N2RG9FY2FKMTdlc1FLWjRQZ2lneENOUUZ0VlgzSWVn?oc=5",
+      "pubDate": "2026-08-16T21:19:27.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "スザンヌ、熊本地震で“1.5億円かけた旅館”を無料開放、10年にわたる支援活動…地元愛を貫く凄み  au Webポータル",
+      "category": "life"
     },
     {
       "title": "スザンヌ、熊本地震で“1.5億円かけた旅館”を無料開放、10年にわたる支援活動…地元愛を貫く凄み（ピンズバNEWS）",
@@ -91,6 +127,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 復旧が本格化 鉄鋼・非鉄企業、順次稼働を再開 物流・水不足に課題も",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MDBhNVE2ZzQ5SzBfM01NQmFCRW9fY1FhS0FpNE10M3BMSHZDX3NLY3dCV095MFUzVTR5QnFOZ2lnMm5hcnRSZ0tWVkFhYl9PdXp3cFFpekpSWVh5dVZjMWZB?oc=5",
+      "pubDate": "2026-08-16T20:51:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 復旧が本格化 鉄鋼・非鉄企業、順次稼働を再開 物流・水不足に課題も  japanmetal.com",
+      "category": "infra"
+    },
+    {
       "title": "令和8年熊本地震、企業の約15％に影響 見直したい災害対策は？（ITmedia ビジネスオンライン）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RVDRPRzJNSnF6S3ZwQzdrUXJzNzFGREJlTlgwQWxuZnN3Q21raENubDAxNG9Ya0Yzb19MVjRaWWhMRkpnWnJ2NGpLdWpHRDlQT2pTSmhoU2hxd2hJYkRlQl9KSVpOUzRLZ25UbXBHallaWnVWS3pvSVFSQTBnOHc?oc=5",
       "pubDate": "2026-08-16T20:48:46.000Z",
@@ -132,7 +177,7 @@
       "pubDate": "2026-08-16T20:03:04.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介  日本農業新聞",
+      "description": "［論点］熊本地震を巡る報道 現実とずれ、観光に打撃 日本総合研究所主席研究員 藻谷浩介  agrinews.co.jp",
       "category": "disaster"
     },
     {
@@ -190,15 +235,6 @@
       "category": "disaster"
     },
     {
-      "title": "＜お知らせ＞熊本地震、救援金受け付け",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlb0lzS21Eb1F3V3hZZTVvN0twY2VXQ0dGUkJwaml0c2NUM2lmLXo1TnFub20wV2NSaUJZaVZTT003YnBXZ3h0WnhpMXJ0R3VjSlZiM3REZ19lOHFD?oc=5",
-      "pubDate": "2026-08-16T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震・高速道に段差 断層の動き想定外 被害前提に設計必要",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5RmhDQTZiRzVwTGhrbUlEblZSNmpBWUNQTGgteHh1TlV3MmlXbGVNeFpNNFNHOTBCQi1lR2o2em5SQUJxUmxkeGhIeVJ4TWNvNGJtVm9jb19XTzcxM1E?oc=5",
       "pubDate": "2026-08-16T20:00:00.000Z",
@@ -253,6 +289,15 @@
       "category": "other"
     },
     {
+      "title": "令和8年熊本地震【無料】｜被災地支援のための天気サイト",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55UnhkaF9hWlBQYjkzY1IzcXhubkRNTkV5TFZPZGE0U0Nla0NGalpYcVNrYlRjc09haE9jZjhNQXZ1UEJRYVZSbW9YUWxmQS02RFZ3SUkySjJ1TXZMVmVPU0lR?oc=5",
+      "pubDate": "2026-08-16T19:42:44.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震【無料】｜被災地支援のための天気サイト  ウェザーニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震断水 8000戸に減少 一時最大10万戸 大幅解消",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wREhwYWZMRjl5NTNxTTNWZl9UTGpkT1FLYUdnVVV5R3B0QTN0b3JLSV9fU3hqWmtTOWhscXp2UXhLSUt5LVhySWVqUVJ0RFZWbHkyQW9GN2lmTUVjeVE?oc=5",
       "pubDate": "2026-08-16T18:58:00.000Z",
@@ -260,15 +305,6 @@
       "type": "local",
       "description": "熊本地震断水 8000戸に減少 一時最大10万戸 大幅解消  沖縄タイムス社",
       "category": "infra"
-    },
-    {
-      "title": "令和8年熊本地震【無料】｜被災地支援のための天気サイト",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55UnhkaF9hWlBQYjkzY1IzcXhubkRNTkV5TFZPZGE0U0Nla0NGalpYcVNrYlRjc09haE9jZjhNQXZ1UEJRYVZSbW9YUWxmQS02RFZ3SUkySjJ1TXZMVmVPU0lR?oc=5",
-      "pubDate": "2026-08-16T18:42:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震【無料】｜被災地支援のための天気サイト  ウェザーニュース",
-      "category": "life"
     },
     {
       "title": "熊本地震 震度７直面 「車何度も跳ねた」 伊豆急社員、宇城市に",
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  khb東日本放送",
       "category": "disaster"
-    },
-    {
-      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流（テレビ朝日系（ANN））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YT2lhY3FhMFFaMGpHYU8xQW9tWVpGRlZhWVRTczJyb3V6bmtwU0h1UHVrV1M3dm11TUpuWDlQNGVoblI5SmFZQ2g4OVRVcFEwdTVFRGEzZ2FDX1J1MEIzVlJicGo3UWpPSER4RnRqTlc1R3dHU2RTNV9zaFdjQTg?oc=5",
-      "pubDate": "2026-08-16T09:07:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流（テレビ朝日系（ANN））  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流 - news.tv-asahi.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMzZGN21nRTVadWw2enJvak9rWm1pOUlqVUpGNHpjQlZ2NzY5YVhnWGx6MzVOckpNRUxtX2RZTDFfNlM4UnNMOTA0VXRUMUFBdXUyeFAxYXBHa05YNms1Nm9lUTdqcmNHaWRfVzNxUjI4QQ?oc=5",
-      "pubDate": "2026-08-16T09:07:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  news.tv-asahi.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流 – Quebee キュエビー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xbTAxNnVwYWF1VXA5ZzJ3V0hNS1NHNnRtcWowQVM4dTRGWHV5MjlwSW9MZVNRODhBOHJoT04yV1h1UEJCQ1lBRjIxaExwY1JoWk5sSTI4eTI?oc=5",
-      "pubDate": "2026-08-16T09:07:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流 – Quebee キュエビー  QAB 琉球朝日放送",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞被災の猫を一時預かり 保護2団体、宇城市「ウイングまつばせ」駐車場で",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81S096bW8tUkptOXNpd0xiWHJJWmlybDQ5TUVDa2dwUzBMMU1yUDhxMHNXMUt4ZWxZTDY1OU9KUl82azg5VTJsRE1MaUJhRms?oc=5",
-      "pubDate": "2026-08-16T09:04:44.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞被災の猫を一時預かり 保護2団体、宇城市「ウイングまつばせ」駐車場で  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-16T21:44:29.476Z",
-  "lastAttempt": "2026-08-16T21:44:29.476Z",
+  "lastSuccess": "2026-08-16T21:58:45.995Z",
+  "lastAttempt": "2026-08-16T21:58:45.995Z",
   "fetchOk": true
 }
