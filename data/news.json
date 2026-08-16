@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震 震度７直面 「車何度も跳ねた」 伊豆急社員、宇城市に",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZVGpRamZQbHVXUWg2dDVNOW5TRmRMM3B1eXlyMS16TV9faVhnU3dvSXlCeU5IdmV2R2ZUQkQ2QXpsNFRmRF9YN0hacXFUSW1xV2V0dnZsQlBqdG92?oc=5",
+      "pubDate": "2026-08-16T18:05:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 震度７直面 「車何度も跳ねた」 伊豆急社員、宇城市に  伊豆新聞デジタル",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震：思いはせる夏…またね 熊本の土産物 手にUターン",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQWXFyTFVaLUVNTlU4cldfRGRPakFHWnB4UU5meWpoQUNxRVgtdDdPNmNhYVktaTdNeENoZ2NwRGtCUnRySkJHcUZOUTA1OC0xaHlVQjU4Z0FyTHpKdWR5cF9kY2JSUnRo?oc=5",
       "pubDate": "2026-08-16T17:05:54.000Z",
@@ -52,6 +61,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】熊本市西区で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度1の地震 熊本県・熊本西区（FNNプライムオンライン（フジテレビ系））",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lYmlUV21PcDMxZ1NNSUxkSTVmWFhYVXpoYmx2eUpOb0R6VHdIVmotM2FoTVUwNjlxdVZDdzdhUlg5UEQxcmRvcnloZDU4dVNJdDBMSzB3TTBQbjRuX0ZIVHdiQ0ZTSlE2ZEdnZzloaVR3bVlFWlVia2FXLUlkems?oc=5",
+      "pubDate": "2026-08-16T13:52:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・熊本西区（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "ＷＡＳＨハウスが熊本県八代市にランドリー車、被災者の洗濯を支援…「久しぶりに洗濯する」喜びの声  読売新聞",
       "category": "life"
-    },
-    {
-      "title": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
-      "pubDate": "2026-08-16T05:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を  クラウドファンディング - READYFOR",
-      "category": "life"
-    },
-    {
-      "title": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
-      "pubDate": "2026-08-16T05:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】熊本労災病院の医療体制維持に緊急支援を  readyfor.jp",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-16T18:40:08.013Z",
-  "lastAttempt": "2026-08-16T18:40:08.013Z",
+  "lastSuccess": "2026-08-16T19:03:08.334Z",
+  "lastAttempt": "2026-08-16T19:03:08.334Z",
   "fetchOk": true
 }
