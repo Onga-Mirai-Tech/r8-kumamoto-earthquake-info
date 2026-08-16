@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "【速報】水俣市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zRjQwZERvb1gyVG8tTjBzdGduMk1vTE1vYlVvN3R6LVdyRTBSZkxtOWVKdDlId2M1bmx2WmZ3ZUNQRFcwRVlaVU1qdGpnVEU?oc=5",
+      "pubDate": "2026-08-16T14:23:22.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zOTJ0WUpnVF9zbUlNak1hVFQyQWRnSE5OUjVUVVR6clB4NGYtQjEwY19VajFRNUtPWUhMR0dLUFMyWGFBRnFGMjQ0Zk1yWm5ZNUl4c3JYdEVWSHZfb0hFRUtwODFEek1Tak9waW42ZG9nSnM1bVdYUXRYZ0hLUW8?oc=5",
+      "pubDate": "2026-08-16T14:23:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】熊本市西区で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12SW9tSzVOQ2QtUUhQODFJWEMtMWFmNFgtdTRyckNHLTFsc3hIVldvRm9oSGhHVUF6NnZiNFhLSndLS0I3MmhaM1VsUkF4RG8?oc=5",
       "pubDate": "2026-08-16T13:53:22.000Z",
@@ -44,6 +62,15 @@
       "type": "local",
       "description": "2026年熊本地震＞くまモン、被災地に元気届けるモン 活動再開、避難所を訪問（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
+    },
+    {
+      "title": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3Y4Q1I0ZVcyRUxHelB0T09rUVVOQ3JfZjJFT1g2anRzNUtXM1Zra1FhcGlnbVpyUFh1Q3RwampPWWdqSF9wSlo3NmNWMzBTTEZ5OFAwVG0yRmZhN3c2T0dLSGE4aE5Gdm54Zkp4MUtQRmZFc0Z6ZHMtSHpUUmppY19ES1hNZU9p?oc=5",
+      "pubDate": "2026-08-16T13:18:14.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」  Yahoo!ニュース",
+      "category": "disaster"
     },
     {
       "title": "【令和8年熊本地震】支えられる側から、支える側へ。熊本へ恩返しを - クラウドファンディング",
@@ -181,21 +208,21 @@
       "category": "disaster"
     },
     {
-      "title": "切れ目なく人的支援 宝くじ活用も 林総務相",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Qkx6RFU3TksyazVsTjFpckxXUW9vNlJBZVMzdEJqNlBtMzFvanlvTlYxaVdSdkViX005eE94QlZYLTlHeV9TT2kyaHl1NEk?oc=5",
-      "pubDate": "2026-08-16T10:59:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "切れ目なく人的支援 宝くじ活用も 林総務相  熊本日日新聞社",
-      "category": "life"
-    },
-    {
       "title": "＜2026年熊本地震＞林総務相「切れ目なく人的支援」 被災地視察、宝くじ活用の考え示す",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04UTZOR2FkNGhJSFBRazk3UC11Z3NLRmZYSGY4Vm9DdEx0TV9laGpGWjgtc3Y5cGt5TEZ1Q0d3cWU5MFJyMHJtSGlhZw?oc=5",
       "pubDate": "2026-08-16T10:59:45.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "＜2026年熊本地震＞林総務相「切れ目なく人的支援」 被災地視察、宝くじ活用の考え示す  47NEWS",
+      "category": "life"
+    },
+    {
+      "title": "切れ目なく人的支援 宝くじ活用も 林総務相",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Qkx6RFU3TksyazVsTjFpckxXUW9vNlJBZVMzdEJqNlBtMzFvanlvTlYxaVdSdkViX005eE94QlZYLTlHeV9TT2kyaHl1NEk?oc=5",
+      "pubDate": "2026-08-16T10:59:45.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "切れ目なく人的支援 宝くじ活用も 林総務相  熊本日日新聞社",
       "category": "life"
     },
     {
@@ -325,15 +352,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5paDZvY05HZHRDcGItemNHMm9LYUZ6ZU1MUi1QOVU2ZmRHUHRjY3MwLXMtQ1J6eTZHY3dybGVpdFVtTEF3b1hnTUpUaHN4V1Zza2hTekNhc1QxbnhwZWtvdTFjbjg5b0lVUjlVOW9qTGdFWGNRWGoybEhYRkRfN3c?oc=5",
-      "pubDate": "2026-08-16T10:00:12.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で壊れた屋根 ブルーシートの応急処置に「95万円」→現場業者は「35万円程度が妥当」と疑問 「こういう時こそ、誠実でなければ」  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震巡り、偽情報拡散 写真加工、遺族装う投稿も 専門家「金銭稼ぎの事例増」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xLWU2aVFpT2NlZkNrdGpVV25TaXp6dkV4Y3pxSU9QLVUxUVJabnN4eVgxS29xdVpiaUtHVGtaS3lOYWhLbnc4LWktalF2X0U?oc=5",
       "pubDate": "2026-08-16T09:54:35.000Z",
@@ -429,7 +447,7 @@
       "pubDate": "2026-08-16T09:27:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】くまモン、約20日ぶりX更新…「涙出てきた」の声 「被災したみなさんに元気ば届けるために」メッセージ  山陽新聞",
+      "description": "【熊本地震】くまモン、約20日ぶりX更新…「涙出てきた」の声 「被災したみなさんに元気ば届けるために」メッセージ  sanyonews.jp",
       "category": "disaster"
     },
     {
@@ -496,21 +514,12 @@
       "category": "disaster"
     },
     {
-      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流 - news.tv-asahi.co.jp",
+      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMzZGN21nRTVadWw2enJvak9rWm1pOUlqVUpGNHpjQlZ2NzY5YVhnWGx6MzVOckpNRUxtX2RZTDFfNlM4UnNMOTA0VXRUMUFBdXUyeFAxYXBHa05YNms1Nm9lUTdqcmNHaWRfVzNxUjI4QQ?oc=5",
       "pubDate": "2026-08-16T09:07:09.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  news.tv-asahi.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LbnBjQXlMRU5WQXVKSnk3RUhDeUd5WDJ0a0hXc0JvN3ZOMFF3TWNYNUJQN1ZHa2ZnaFhja0pPbDJvZlQxUUtlVUlMLU9YM3M?oc=5",
-      "pubDate": "2026-08-16T09:07:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  khb東日本放送",
+      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  テレ朝NEWS",
       "category": "disaster"
     },
     {
@@ -520,6 +529,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流 - news.tv-asahi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SMzZGN21nRTVadWw2enJvak9rWm1pOUlqVUpGNHpjQlZ2NzY5YVhnWGx6MzVOckpNRUxtX2RZTDFfNlM4UnNMOTA0VXRUMUFBdXUyeFAxYXBHa05YNms1Nm9lUTdqcmNHaWRfVzNxUjI4QQ?oc=5",
+      "pubDate": "2026-08-16T09:07:09.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "森保監督「励ましのエール届けたい」 熊本地震 子どもらと交流  news.tv-asahi.co.jp",
       "category": "disaster"
     },
     {
@@ -699,7 +717,7 @@
       "pubDate": "2026-08-16T07:17:50.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も  mainichi.jp",
+      "description": "Uターンラッシュがピーク 新幹線ほぼ満席、熊本地震の影響も  毎日新聞",
       "category": "infra"
     },
     {
@@ -726,7 +744,7 @@
       "pubDate": "2026-08-16T06:45:49.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に  sankei.com",
+      "description": "「教室育ち」のトラウトサーモン千匹が全滅 熊本地震の停電で酸欠に  産経ニュース",
       "category": "infra"
     },
     {
@@ -856,15 +874,6 @@
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZUN2Zmdiak5rTlhCRFU3M1JBQThZZWlwdmxmZmZQaEJZSk1VeHdWdmZ3UGFYNEwxYldSNTFtRm14MDZBV0ZLbGFDU0oxWXRVTFRxN01OTFhabTNqOUYwdE5GbVhzSGpXcnRWbEhza1LSAXZBVV95cUxPRjFsRDV5UDNHOGJIUjF5bFk2bldGTGIza25tREJZMWcxUDNCODhaU0s4NlRfRFliYm1OLWZxOUtndW9JdTJJRkd4cWtzbUNuRHVwaGZEam9sV0ltSlJZZE9PamNqakdyZXh4bFRsYVhTOGQwTTBn?oc=5",
-      "pubDate": "2026-08-16T05:06:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
       "title": "【地震】宮崎県内で震度1 日向灘を震源とする最大震度1の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sZmlJR1M4R2d3OFhSQWc1aUVfNTd2b2RKQU9UV3RSWElzQ2F0NUlOdzhzV3BjY2xlNTctMEZDN09WSExTVmViUEVndGlyYjFTTDZ1ZEVhdkVxQ2djT3FXdkFGb0lBTjZNTVpQNNIBckFVX3lxTE1kQ1VZS2NqTnp2dDJTdGU3SEwwQ1pkeEhxTzhDcEdhQ21MSDR0djNUOW51ajVTN1AyTkl3eWZvY1B4Z3BQZ0gxZ3pMaXNnbF9qcERfVDBUMDVpdTEtci1pbjYwZlJLeUlnVWRXWmx6NmIyQQ?oc=5",
       "pubDate": "2026-08-16T04:40:00.000Z",
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "【甲子園】躍進続く有明の高見一茂監督「少しでも力に」試合中も地震起きた地元熊本へ思い（日刊スポーツ）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "「フワフワだった」 くまモンが活動再開、熊本地震の被災者と交流",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZTZIcW9FZ04ySGVRMlRvUTh3Tmwtd0pPb3hQenVZak5LUFZTZEJXdFJ3SmRRYl9DMFE3cDZNNHVLY1ZqamdMNE9ya3pwQzRRTC0xMGJzZ1M0dVhQa29uTk5ZeV9QbUU?oc=5",
-      "pubDate": "2026-08-16T04:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「フワフワだった」 くまモンが活動再開、熊本地震の被災者と交流  朝日新聞",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-16T14:22:08.967Z",
-  "lastAttempt": "2026-08-16T14:22:08.967Z",
+  "lastSuccess": "2026-08-16T14:49:00.957Z",
+  "lastAttempt": "2026-08-16T14:49:00.957Z",
   "fetchOk": true
 }
