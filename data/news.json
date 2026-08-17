@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "「本当にありがたい」熊本地震から3週間 保育園の1日預かり再開 町からの給食支援受け 熊本・氷川町",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LNEtzb0dVanNaMjVvMmd2YnU1TUxtbWptQ3pMRURvNVYwUmNtZmtLWHQxYVUtM19EQ1J3bXdDcEJ4SGFXajRielRFdW50NHJLTkRNdnRUdS1vaGZrVUlFRldOTEc?oc=5",
+      "pubDate": "2026-08-17T19:11:21.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「本当にありがたい」熊本地震から3週間 保育園の1日預かり再開 町からの給食支援受け 熊本・氷川町  TBS NEWS DIG",
+      "category": "life"
+    },
+    {
+      "title": "［熊本地震義援金］ゆにてっくす 20万円を託す 「ゆいまーる精神で」",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IS1dPdFY0aGN0a3B6NDFYeHlfREdDbnFnVkh6ZGNRcjFxemY2ejNzR0E5alR2aVNPdVhrb0Foem5LYU9kNGNTZGY0a2VNU2YyeVNsbmw4RFZxVEFZTnc?oc=5",
+      "pubDate": "2026-08-17T18:57:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［熊本地震義援金］ゆにてっくす 20万円を託す 「ゆいまーる精神で」  okinawatimes.co.jp",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震3週間 八代で公費解体始まる ありがたいけど、寂しか",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52ekJvVDVFRkljcVhkVV9KTlhZZ243X1kySGQ5ZFhRMXlmQ05YcXBVSUFOY0E4WlVXOWh6b1k1MkNKajQzWDlxYWx3UHNEVTRJbkx1dVRIeDA4X1Q0UU9fVndYTkhoa0Jv?oc=5",
       "pubDate": "2026-08-17T17:03:14.000Z",
@@ -10,13 +28,13 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WUnhQRTIyRXFQLWQ2aHNDS3ZZaXZBMXg5VUNaWExhSzNvZWZBb1BJNjU4c3hrYlpiTURxMGhqamJUZm1ZcEl4WmVuRTItaWN4b0RBckJOejJCSzByZFBHZW42WklFc05oRW1aakJDTzdGZWJVVjJSLXRELTdGR00?oc=5",
-      "pubDate": "2026-08-17T15:03:21.000Z",
+      "title": "令和８年熊本地震 関連情報 | 災害関連情報 | 観光庁",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83MGRPQU9id0ktUGdkZTRlT1ZVVVZVVzJpUmh5ZFI2cDlVQ1JqYk15WjhZSlpnR20zcndLbjR2SUdVVFFJQlAwc0xkelVWZkRLQTVod2UwMVNBUmNYYnc?oc=5",
+      "pubDate": "2026-08-17T16:22:17.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅  news.yahoo.co.jp",
-      "category": "infra"
+      "description": "令和８年熊本地震 関連情報 | 災害関連情報 | 観光庁  mlit.go.jp",
+      "category": "disaster"
     },
     {
       "title": "熊本地震支援サイト開設",
@@ -44,6 +62,15 @@
       "type": "local",
       "description": "大和市の各地で募金活動 熊本地震、千葉豪雨うけ  タウンニュース",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Od29wOThZRUQ3b0h0bWEzNXhCMGwySVBIbm1QWjloXzBFTk1GNHg5VmYwb1lTLUJLMGZIZTEtQ19KZ240SUZrLWVISUltdw?oc=5",
+      "pubDate": "2026-08-17T14:59:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅  FNNプライムオンライン",
+      "category": "infra"
     },
     {
       "title": "【第７報】令和８年熊本地震にかかる日本赤十字社の対応等について｜災害救護速報（国内）｜おしらせ・最新情報",
@@ -137,11 +164,11 @@
     },
     {
       "title": "熊本地震、月内に支援パッケージ",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9icERMNHFqbkRhbEZlQmx3ZjNVNWVINlliMHh1bjBIWmxtWXJYUVFURk1lQU1GWnhkNEJ3SW0xZDNMU3hkTWpPeVhmZ3c1aDJVanRLRGp3?oc=5",
-      "pubDate": "2026-08-17T12:51:30.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ybmYyQmlZWjFnREtBT2stN0wtcXBmUUlQcDBRWEE5LWNMU25fbEFra1Q2YVlNeEVaR1ZEcXNJZUhnaUwyLU5ZUzZjb0ZNZWxmTnlsbExR?oc=5",
+      "pubDate": "2026-08-17T12:55:48.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、月内に支援パッケージ  弘前経済新聞",
+      "description": "熊本地震、月内に支援パッケージ  ひなた宮崎経済新聞",
       "category": "life"
     },
     {
@@ -695,7 +722,7 @@
     },
     {
       "title": "「断水」に含まれない\"井戸水の使用世帯\" 解消の遅れに不安 熊本・八代市民の半数近くが井戸水を使用 2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEWGhPbDd5bGlJZDBjdWY3d3ZUUDdWdl9Jb2ZxSTZuS3BYcDZSX1YxZS1mazE3aXJPbkQ5eUVWQmxlVEctMmxmV1RiemZvbm1HY0dKQjZaZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZYlhOZWFBV1JWSTRrVDRRbkZVRDNhRE4xczMtTFNiNjRSd3ZsMHliUWNZLVlTajBiX0Y4QUdDR3c3N24xbmxUR2pobEhFbWVDbDhSRE9EdFkwZw?oc=5",
       "pubDate": "2026-08-17T10:21:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -794,7 +821,7 @@
     },
     {
       "title": "熊本地震3週間 避難者の10％に血栓「脱水で起きやすい状態」エコノミークラス症候群防げ （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xenpCWndrVUxVekI5cEEtc2NkZS1zVkVFSGRQSUdZdFU2d1gwX0xtRnNvNjM2M09QVVh0R3JGOVhXalExbDNCVENINmxSMGM3MkloV2ZOczJPeFNscTBHeDFKREVtZ19mU195TGxjQU8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVkRaVmxrSFd6dm5tVnUtcm1INEdMbjhaODVYRl9pZE9xR084bWlqdW5hZHZjMzZZYXdvX3NZSm8yaG5LSVZlYVlyWkEwQ05nZkNSeWNZb2hrakRXTC1RZzE5c2xqaHkwSG5IQmFpMnQ?oc=5",
       "pubDate": "2026-08-17T10:07:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "熊本地震で被災して一緒に暮らせない・・・ 宮崎県のNPOがペットの支援 「引き取り」や「支援物資」も  TBS NEWS DIG",
       "category": "life"
-    },
-    {
-      "title": "「だいぶストレスがたまっていた」被災地に派遣の医師らが報告 震度7・宇城市の避難所で診療 18日で熊本地震から3週間 急性期から慢性期に移っていく時期「日常生活に戻るところのサポートが必要」（NBS長野放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUTRXd2RjTlNJaklSQldlbWc3X0JyWFRKZkJTZU96SlJhY0JNaFJJVU1nU1B5anNoTmFUOW40eUZfVWRMQ1RLSE5rTV9mRzlsVUtUekp4MmR2Sm5BWXY2S0VKRUM2X3RlTE9wSXEtLThxVTlfY2JTN0R1MjUyTk0?oc=5",
-      "pubDate": "2026-08-17T09:56:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「だいぶストレスがたまっていた」被災地に派遣の医師らが報告 震度7・宇城市の避難所で診療 18日で熊本地震から3週間 急性期から慢性期に移っていく時期「日常生活...",
-      "category": "life"
-    },
-    {
-      "title": "九電「安心してもらえる取り組み地道に」熊本地震を受け薩摩川内市長から要望 川内原発",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDFUUE1XSkwzb0lldTVWQzJIWmVBYW13SU5udjJZdnpNblpPZVVTYTM2UlU1R0oxYUt6UTJTMFdOelJoTDJBSzl1NnBBVVp4RjRuZENpWU55N3kyV0lvUDJ5cXdpSmxiVTFIQjlMS1RzUjFJMktYVUthMmdGUUNvWjBWS3B3cEk?oc=5",
-      "pubDate": "2026-08-17T09:56:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九電「安心してもらえる取り組み地道に」熊本地震を受け薩摩川内市長から要望 川内原発  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "九電「安心してもらえる取り組み地道に」熊本地震を受け薩摩川内市長から要望 川内原発（ＫＹＴ鹿児島読売テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjbmRqdVRKaC0tRXI5aHQzZGNRYkx1QU1WSWw5SlpTdzk2V3dLLTVVcDhoZENqejlRVGgtbFRmakhjQy14dWllY3MxWU9Xb0N0cy1DV2pkaE41Y05lWG92emNRLVM1alh2VFJnSG82NF9NRGF5SlNoQlU5RXRDSkk?oc=5",
-      "pubDate": "2026-08-17T09:56:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九電「安心してもらえる取り組み地道に」熊本地震を受け薩摩川内市長から要望 川内原発（ＫＹＴ鹿児島読売テレビ）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-17T18:44:47.358Z",
-  "lastAttempt": "2026-08-17T18:44:47.358Z",
+  "lastSuccess": "2026-08-17T19:16:56.405Z",
+  "lastAttempt": "2026-08-17T19:16:56.405Z",
   "fetchOk": true
 }
