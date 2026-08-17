@@ -42,7 +42,7 @@
       "pubDate": "2026-08-17T14:59:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅  FNNプライムオンライン",
+      "description": "熊本地震 八代市で危険な建物の公費解体始まる 停電で酸素止まりトラウトサーモン約1200匹全滅  fnn.jp",
       "category": "infra"
     },
     {
@@ -136,6 +136,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震、月内に支援パッケージ",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9icERMNHFqbkRhbEZlQmx3ZjNVNWVINlliMHh1bjBIWmxtWXJYUVFURk1lQU1GWnhkNEJ3SW0xZDNMU3hkTWpPeVhmZ3c1aDJVanRLRGp3?oc=5",
+      "pubDate": "2026-08-17T12:51:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、月内に支援パッケージ  hirosaki.keizai.biz",
+      "category": "life"
+    },
+    {
       "title": "九州新幹線の博多－熊本間 熊本地震の影響でお盆の利用者4割減",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4clloVnA0bXAwUlh1cWRGeUdDbHZmZFF2RldPeEFKTzI1SUd1dXg1ZzVJUVNZanNKNmJfSUhYTmJTU01HbjY4TUc0UzBPdVBxRGNCalhn?oc=5",
       "pubDate": "2026-08-17T12:39:00.000Z",
@@ -186,7 +195,7 @@
       "pubDate": "2026-08-17T12:11:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "台湾NGO「MSM」が熊本地震の被災地を視察  AAR Japan［難民を助ける会］",
+      "description": "台湾NGO「MSM」が熊本地震の被災地を視察  aarjapan.gr.jp",
       "category": "disaster"
     },
     {
@@ -298,21 +307,21 @@
       "category": "disaster"
     },
     {
-      "title": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害（朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBORXdsa3ptY2NOT05neGNLeFVlWVJibEVOWEJBcDVOM0lfUFVPNDlzRGFCbzUzcWlKRTQzYTROcFNyNkdRNlhWb1Y3RXBVeFZQU09RaGt5VkQtcURyZmN3X2xlUDl4STB1Nmg5Wmd0Yzh4aUdiU0NiVUMxSVlwSG8?oc=5",
-      "pubDate": "2026-08-17T11:10:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害（朝日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ka0VZTzN3eFg4Q2JWYlJZcV9zUGxzbjZaUlVNTTRfRzNuZGR1THFMaEZPYVlKaHNSaWo4X0t3N2U5VjNlcjgyb3BEbE0yajJOUFNpYjlkY0pkek9WdllGajRaYjBwUzQ?oc=5",
       "pubDate": "2026-08-17T11:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害（朝日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBORXdsa3ptY2NOT05neGNLeFVlWVJibEVOWEJBcDVOM0lfUFVPNDlzRGFCbzUzcWlKRTQzYTROcFNyNkdRNlhWb1Y3RXBVeFZQU09RaGt5VkQtcURyZmN3X2xlUDl4STB1Nmg5Wmd0Yzh4aUdiU0NiVUMxSVlwSG8?oc=5",
+      "pubDate": "2026-08-17T11:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害（朝日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -379,15 +388,6 @@
       "category": "other"
     },
     {
-      "title": "熊本地震、月内に支援パッケージ",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9icERMNHFqbkRhbEZlQmx3ZjNVNWVINlliMHh1bjBIWmxtWXJYUVFURk1lQU1GWnhkNEJ3SW0xZDNMU3hkTWpPeVhmZ3c1aDJVanRLRGp3?oc=5",
-      "pubDate": "2026-08-17T10:56:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、月内に支援パッケージ  弘前経済新聞",
-      "category": "life"
-    },
-    {
       "title": "【山形】熊本地震 現地入りの専門家「ほぼ発災直後のまま」（YTS山形テレビ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ReWxPU00zalFpN094WUtxX05HanR0SUNWbXVJclZvSU9XMEo5YjZtUG8xWkdDYXRPUnhKdmhDOEtMeEJNTm9lbnI5R1dUT3dTTUw0T2lwc3Ayc2YyZDVBUEhxT2lxNVUzaFlTNmxFMnAzVFBYa0NxSUpCSDMzSTQ?oc=5",
       "pubDate": "2026-08-17T10:54:07.000Z",
@@ -438,7 +438,7 @@
       "pubDate": "2026-08-17T10:52:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震　38キロの断層が地表出現　7キロは10年前と重なる  ｄメニューニュース",
+      "description": "熊本地震　38キロの断層が地表出現　7キロは10年前と重なる  ｄメニューニュース\n熊本地震10年前と震央分布比較、断層帯続く南西側の海域で揺れに警戒必要  ｄ...",
       "category": "disaster"
     },
     {
@@ -767,7 +767,7 @@
     },
     {
       "title": "熊本地震3週間 避難者の10％に血栓「脱水で起きやすい状態」エコノミークラス症候群防げ （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xenpCWndrVUxVekI5cEEtc2NkZS1zVkVFSGRQSUdZdFU2d1gwX0xtRnNvNjM2M09QVVh0R3JGOVhXalExbDNCVENINmxSMGM3MkloV2ZOczJPeFNscTBHeDFKREVtZ19mU195TGxjQU8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVkRaVmxrSFd6dm5tVnUtcm1INEdMbjhaODVYRl9pZE9xR084bWlqdW5hZHZjMzZZYXdvX3NZSm8yaG5LSVZlYVlyWkEwQ05nZkNSeWNZb2hrakRXTC1RZzE5c2xqaHkwSG5IQmFpMnQ?oc=5",
       "pubDate": "2026-08-17T10:07:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -825,7 +825,7 @@
       "pubDate": "2026-08-17T10:00:58.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の発生から3週間 約7380世帯で断水続く「普通の生活に戻りたい」「水風呂で…」  KAB 熊本朝日放送",
+      "description": "熊本地震の発生から3週間 約7380世帯で断水続く「普通の生活に戻りたい」「水風呂で…」  kab.co.jp",
       "category": "infra"
     },
     {
@@ -901,7 +901,7 @@
       "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-17T16:56:22.971Z",
-  "lastAttempt": "2026-08-17T16:56:22.971Z",
+  "lastSuccess": "2026-08-17T17:28:45.583Z",
+  "lastAttempt": "2026-08-17T17:28:45.583Z",
   "fetchOk": true
 }
