@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBdnZucWV3S1ZYMUh3OUhaQXJEWWFsSHVtUTMzMlpONURlTGU2d2Rnc2Zmek9VR0tCcllIM2hZWkI4WGQ3QmVVT3ZFSQ?oc=5",
+      "pubDate": "2026-08-17T14:13:18.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市で震度2  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhLUR3NjBERG52Y0VBMGltLTZ5ME9JT243bXN0UXhibWh4YW4wYzdqWlZqd1kzSVI0THBtMFlOUnFfNHdWSk5GUVAwRFJZQ0hqa0JBVFJVb2lienZTNDZFZnhQUGdGSERXZ3R0cXZaWnDSAXZBVV95cUxNWDB1c0dKbFdKWTBaMzhJMGkzM0F0OTRXN3dSWU43THdHLXA2N3Rxb2FJRVpicGxqU3ZXbjctZ0lWVlloU25EY0dodWVCZ19pWTNBaXMzcXVJbEhMM2d1cnB6VDZQWUN1Q2dad1lBTmhQRjJTUUFn?oc=5",
+      "pubDate": "2026-08-17T14:12:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "ユネスコの無形文化遺産「八代妙見祭」、妙見さんで親しまれる八代神社の地震被害 再建に向けクラウドファンディングも…",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQmdKMXk1QW5nOXpqRUtHM3VzeTJkbVhuZE8zSUNvb3FGdjBQMFZOaDlwWm1ZYVpwMHZWRTBzWjJlbS03WFE5R0dOQzAybnBhRVE4dkdxNFJuQjdWZHEyTXlmRWJXc2hiYUpMeVNKOVZHTXVXMnh4ZDg4azZaeVk?oc=5",
       "pubDate": "2026-08-17T13:32:01.000Z",
@@ -16,6 +34,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "ホンダ、3工場を20日再開＝埼玉と三重、部品調達にめど―熊本地震で休止(時事通信)  Yahoo!ファイナンス",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、最大1･3メートルのずれ確認 東広島で広島大教授が報告",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkekR4c2ZZTWZUc0tzY0F1OG5EUmM2RjlzOXR2Z0o3b3l5cHVobHRadjFGb3MwWDctYmdkYk5JZGFCa0RqZmYzdS1uZmdwSi1vU1pHZHRjWnlCQQ?oc=5",
+      "pubDate": "2026-08-17T13:19:37.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、最大1･3メートルのずれ確認 東広島で広島大教授が報告  中国新聞デジタル",
       "category": "disaster"
     },
     {
@@ -37,12 +64,12 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、最大1･3メートルのずれ確認 東広島で広島大教授が報告",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkekR4c2ZZTWZUc0tzY0F1OG5EUmM2RjlzOXR2Z0o3b3l5cHVobHRadjFGb3MwWDctYmdkYk5JZGFCa0RqZmYzdS1uZmdwSi1vU1pHZHRjWnlCQQ?oc=5",
-      "pubDate": "2026-08-17T12:17:49.000Z",
-      "sourceName": "地元メディア",
+      "title": "インドネシア地震、死者６８人 ２００人超けが、確認続く（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SVdhVVIxR3RLdGpEa0lPNXdzanhITURWT1pTRjJtT2QycTFwZEo5S2EtVUpZcEowRUZtWjRmUFdFNmVNc29Qc21BMktPRzQ?oc=5",
+      "pubDate": "2026-08-17T12:21:00.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "熊本地震、最大1･3メートルのずれ確認 東広島で広島大教授が報告  中国新聞デジタル",
+      "description": "インドネシア地震、死者６８人 ２００人超けが、確認続く（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -151,6 +178,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で宿泊キャンセル増加 全国市長会が政府に要望 南さつま市・本坊市長ら  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ka0VZTzN3eFg4Q2JWYlJZcV9zUGxzbjZaUlVNTTRfRzNuZGR1THFMaEZPYVlKaHNSaWo4X0t3N2U5VjNlcjgyb3BEbE0yajJOUFNpYjlkY0pkek9WdllGajRaYjBwUzQ?oc=5",
+      "pubDate": "2026-08-17T11:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "八代市庁舎「崩壊の恐れなし」専門家調査 熊本地震で免震装置に被害  朝日新聞",
       "category": "disaster"
     },
     {
@@ -285,7 +321,7 @@
       "pubDate": "2026-08-17T10:48:09.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「令和8年 熊本地震」の被災地支援について  nissin.com",
+      "description": "「令和8年 熊本地震」の被災地支援について  日清食品グループ",
       "category": "life"
     },
     {
@@ -539,6 +575,15 @@
       "type": "local",
       "description": "「思った以上に支援が難しい」 熊本地震の避難所はいま… 県の応援職員 被災地の状況語る 山梨  ｄメニューニュース",
       "category": "life"
+    },
+    {
+      "title": "地震発生からまもなく３週間 ３０５３人が避難 南九州自動車道は一部通行止め解除へ【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNjM3MFJFUGJuR2pmTGF2d0huT2NUdTN6dEVNUkJPUl9kaHBjMDNDSTRUTzN2dkl6WWY0cm54NjdFMkhQMjBSdE5vRmN6QUpLalZ0dktjd0pnTjRKYkxDVV9rcHRMbjVhOF9DdTk4dUpQblNYOWgzU3p5TmZyWnM?oc=5",
+      "pubDate": "2026-08-17T10:12:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "地震発生からまもなく３週間 ３０５３人が避難 南九州自動車道は一部通行止め解除へ【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "infra"
     },
     {
       "title": "2026年熊本地震＞学校の再開、運営をサポート 熊本県外の教職員「支援チーム」 宇城市で始動 子どもたちの心のケアも",
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "愛子さま、熊本地震や千葉豪雨の被災者を気遣うお言葉 半導体物理国際会議であいさつ〈全文〉  東京新聞",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震、月内に支援パッケージ（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hX1ZRYVVXZWdrSC1weUZESkJuaWJFWXFQNEF3Q3lSeFpQUlhNQmNvM2V6VEdKMjA0dlZBeUZERjVMY25DTGFGRjVqdGIxbGhtd1gwUG54UVI3VW9SRjNrWFFmRkE1S2dmRm9sSnAwcTNCQkl6dk80TVZ1WFZBdHM?oc=5",
-      "pubDate": "2026-08-17T09:25:31.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、月内に支援パッケージ（時事通信）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "2026年熊本地震＞被災の児童生徒、県立高で自習可能に 熊本県教育委員会（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSUdiNkNnYjlrOExjampxWmVZWDlGNDYxRmJGUXBhNnZTZk9NTndDU1NySmVzWm5oamZNZFIzTng0NElsV0Y3aVRkbzV0a3dwM28yZm5lRl9ENkUwSXduMXBZTUJRZ0ZSZVI4NkptYVJldWJHMl9mQmN2WUI4a2c?oc=5",
-      "pubDate": "2026-08-17T09:25:21.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞被災の児童生徒、県立高で自習可能に 熊本県教育委員会（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "◎熊本地震、月内に支援パッケージ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITnkwMGJ3SnV4LU91enFPVGFjY3duRnNva1BvQkVQMGJVd3R1WWRXeWNkSkF0b1kyWl81eWFwQ0VnRkN2VWYtaDJCektjbHhjbERGYQ?oc=5",
-      "pubDate": "2026-08-17T09:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "◎熊本地震、月内に支援パッケージ  時事通信ニュース",
-      "category": "life"
-    },
-    {
-      "title": "「新鮮な野菜食べたい」 「歩いて行ける店ない」 買い物困る市民増加 宇城市のスーパーなど休業続く",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtTWs5RFUtY0JKOXRQdnhtNzFva1lqYm56OFhJV1ZqU2pYRVloMlFlYlZaQ2ItSnVSaXJwTV9rWTlmVC1PeTB1b25xc2tCVUk?oc=5",
-      "pubDate": "2026-08-17T09:24:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "「新鮮な野菜食べたい」 「歩いて行ける店ない」 買い物困る市民増加 宇城市のスーパーなど休業続く  熊本日日新聞社",
-      "category": "other"
-    },
-    {
-      "title": "Ｕターンラッシュ 熊本地震の影響も「帰省できてよかった」（KKB鹿児島放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUkdrbU0ySUJDdlFMTGlxQ1hsc3N4OG5Jb1l4b1BKNGQtUzk0emNBMEs5SHpDbXBSWHJMaGFXaTZjbW9vQTQ4ZGtYRkUxalZvQ0NSUmtjSG52ME5DaWdxNFQtSlVyMFotWFpaLXlQNEhRNnpzdmJKcG1LaVFUZGM?oc=5",
-      "pubDate": "2026-08-17T09:24:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Ｕターンラッシュ 熊本地震の影響も「帰省できてよかった」（KKB鹿児島放送）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-17T13:47:11.732Z",
-  "lastAttempt": "2026-08-17T13:47:11.732Z",
+  "lastSuccess": "2026-08-17T14:27:04.546Z",
+  "lastAttempt": "2026-08-17T14:27:04.546Z",
   "fetchOk": true
 }
