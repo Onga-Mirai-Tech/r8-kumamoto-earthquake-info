@@ -33,7 +33,7 @@
       "pubDate": "2026-08-18T16:33:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】いまも3000人以上が避難所生活 生活の再建に向けインフラ復旧や施設の再開進む  日テレNEWS NNN",
+      "description": "【熊本地震】いまも3000人以上が避難所生活 生活の再建に向けインフラ復旧や施設の再開進む  news.ntv.co.jp",
       "category": "infra"
     },
     {
@@ -70,6 +70,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "2026年熊本地震・この人に聞く＞兵庫県立大の木村玲欧教授 デマ拡散、悪質で巧妙化（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "インドネシア地震死者７０人 千人超けが、１万戸被害（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5reHRsYXZzZ0tDWnJ0VGcybnJEZDZwVDZZZWlJRXNZelkybHA5X2tEYk9yck82Zkd5Rm4yVHZqYTBGTV9TMjkxM0JLYlljNWM?oc=5",
+      "pubDate": "2026-08-18T13:39:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "インドネシア地震死者７０人 千人超けが、１万戸被害（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -141,7 +150,7 @@
       "pubDate": "2026-08-18T13:15:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「子どもたちは、果物とかサラダとか食べたいと…」熊本地震でいま必要なもの【被災地の声】  日テレNEWS NNN",
+      "description": "「子どもたちは、果物とかサラダとか食べたいと…」熊本地震でいま必要なもの【被災地の声】  news.ntv.co.jp",
       "category": "disaster"
     },
     {
@@ -883,15 +892,6 @@
       "category": "life"
     },
     {
-      "title": "井戸水の断水実態、把握できず 家ごとに異なる被害 国などが19日から本格調査 熊本・八代市 2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RejQ1OUlFSlJZYmRjbFVqaUFJZWMzR0FGYVNfZ0cxOUo5VjhYUVF3UzVBNmpFdTROSFQzSjBqUTQtUVREM0UxZU9VcUVLUUJRQWU2ZjdNYlZKRFBCZFZLYkNtUW9FTlk?oc=5",
-      "pubDate": "2026-08-18T10:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "井戸水の断水実態、把握できず 家ごとに異なる被害 国などが19日から本格調査 熊本・八代市 2026年熊本地震  TBS NEWS DIG",
-      "category": "infra"
-    },
-    {
       "title": "工場の煙突、国が全国調査 熊本地震・日本製紙八代工場での倒壊受け (朝日新聞)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlZJVW9zRG1KcWpCLTFLMVRwUl9DdVdPaGprVGI2WE5sM0ZQYmYxeTBScG5RSkZ2R3NSa3BqdEwxX09rZWRYTkJfcWl6VlV6YVc3bWh0NkYwWlAwVWxQMW5BVTZVYy1WZGg4bGk2U2RfQmdoTVAxQmpwN2J0UW10VVp1MENlalhRRmgtNjlR?oc=5",
       "pubDate": "2026-08-18T10:00:00.000Z",
@@ -901,7 +901,7 @@
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-18T19:29:37.379Z",
-  "lastAttempt": "2026-08-18T19:29:37.379Z",
+  "lastSuccess": "2026-08-18T19:51:29.749Z",
+  "lastAttempt": "2026-08-18T19:51:29.749Z",
   "fetchOk": true
 }
