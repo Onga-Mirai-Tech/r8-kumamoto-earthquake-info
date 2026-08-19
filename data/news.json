@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MRzgzWHk3ZDRjZkFYOGhscW5KZTJtQWdXSnRCWUtaT0JNT2RFRVNrTW03ejdTRS00M2Y1ajEyc1c4Q1VMSzhRcEZHbExPZ1U?oc=5",
+      "pubDate": "2026-08-19T19:33:22.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclRZb2pqM1pFLXhhSzlFdWhzaEQzdk0tUnpoUENHUENfV1MtME90clFndFU3MEoxcnBrakI3SE82dDVRckxWd1EzVTRBWHNxS0RUVkpuZkQzbzRvMXc5TTFfWlc0aGYyQ3k2cHFSSkszaGQ2N1FpcEJGYkE1SVVJa0NaWdIBdkFVX3lxTE53RkJINTZJOURKZFB3M2xTNVhFTE5pZUYteHpRWm1XY2Y5Tk5Qc3lpTzhwRk1DaGhNSnRIalhsa3JaSlVEd3dKMXhWZ0IwMWdXSzRHRmRSOEFvTmtwWld5bldjSkkxMzZCSldrZW5kN0VROTJmYVE?oc=5",
+      "pubDate": "2026-08-19T19:29:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 井戸断水で八代市の約4400世帯に影響 早期復旧に向け専門チームが調査開始",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwVmVtVHM0c0V1aVM4LXpVVENFSkloNS12bVVYdmFnSWpYTWluSXJHa0Q5RmVzaDk0cWFiaVRnU05VT0MtMmJYLVRLT25EZVlIa3B6MTFMaw?oc=5",
+      "pubDate": "2026-08-19T19:16:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 井戸断水で八代市の約4400世帯に影響 早期復旧に向け専門チームが調査開始  TBS NEWS DIG",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震被災地に支援 NY日系団体",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNGJfbkx5aUJaS3owRHAwVm5odmlnTlFKVlUzMXBka0RlYWN4WXVVd0ltd01mRkxPRHlJdmpNYzBPQ0t6eXJwdDRrSlJxYURtdXNjNm0wTklxRi1CejBvZjF1QV9nUXVlaXc?oc=5",
       "pubDate": "2026-08-19T18:35:26.000Z",
@@ -136,15 +163,6 @@
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wWmxxUVViQXpQZ1ZJX0tSemowLXpTSzV5dlRpS3RORHNrUEZ6ZE9OeWN6Y1pDU1BKU1h1b0o5Ymx5WmQyN3ZXRFJBc0JNdjBMZmJJeW5yTERZellaME1XNk1LSkxkdURrcXN3UVljY3jSAXZBVV95cUxNRnZXbFVXb3AxcUxmcjBLT05TQWtNZ1R5bDRTcnRlcFFOTmJHTmp1bUR6Q2dmVE9tX1lsVk9sd3pteC1qYzYweDlhdW9la25EaV9DVml3YTdjeklydzBaTUZCaWpDMjdkdHZjZTgwMzJ3V1dNclBn?oc=5",
-      "pubDate": "2026-08-19T15:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
       "title": "【速報】八代市など震度1",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1ozeWR6cGdVZ0ZYaE5GMFBBeGx3emNJakRnM3RCcUhtNFZTRmUtNk8yZXdrV1NwODBkOExqb2RsdFlVYXZ1UUVQc09SRTRoNXc5eDNQWlJ5MUFKZ0diTFFqMWxIbnY0cVdTbXE5cXpsdnphanF5MEJBMTU4LVdvdmRn0gGHAUFVX3lxTE1zOXZxdDQ4UDltdVR1SGE3NFhIdlNQNElBaHR2bG9ISmEyWjl0bUNMeFZ2YU9rNUNNcnRjVzk1SGlOM2VYSUxPZnlJWXRWdkx4X1RqaGd2QW8tazA1bFRrVzlxenQySjVsRXY1R3RjOUt4RHo2NzU1TTlBcW96c3NydjhKSE9Lbw?oc=5",
       "pubDate": "2026-08-19T13:59:00.000Z",
@@ -160,6 +178,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・八代市、上天草市、芦北町(放送局のニュース )  tenki.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90eFp5eUVqUUVvTlJqUzdTTjN3d09QRXloZ0pYbERuR2pTc2hqd3JxUzhPM3F5X2ZOUVFyNHlCRXFSbngyVzdiaHU0d2dxbmtHREMtZHpaWkFiNkxzZTBhaTdYR3BKWnRqRXRqdHdzYmjSAXZBVV95cUxOZ1RTUUNUNHlsTW55OVg5U1FtOE94X0VicnhsYWh1YWE1YXBabW1oZnlhUWhMQy1OTHotU1ZlUUNVZ2Zqb1Y1cFU2eDJrSUZXME1FeW4wTkZWMTJvRy1UbUhJZDZHSzJoakVBMENUdU1FODZUQlN3?oc=5",
+      "pubDate": "2026-08-19T13:58:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -200,7 +227,7 @@
     },
     {
       "title": "＜2026年熊本地震＞ため池枯れて水田カラカラ　甲佐町乙女台地　少雨、地震でわき水止まる",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2pqbXdjU0VROFJHYU5DZ2RZSkZiVTFCVS1lakJFbHQ2MUI1Qkt3NTlZTkhZZGdaZDRDeERtUFpIQ18xOV9EdXc3eGVBT0hwdWlfZzl5QUxUSHQ4Q0Nkc09OSEQ5bzF5NGlQX3lXTVR2clZsN2hMZEJlSHNUSm5uSWpnOG5wWjIteW1CUzlueldBajNocHRadnlOY0ViOUZOb0NTZG1CLTVsMzZ1UXJFUkV5am9HQzJuOHBlam13bTBkQmpRTG5aZHlzSkdrRHNwT0hTNVF4Y9IBhwFBVV95cUxPSlBCX0s4Z2hvN3ctZFZZUVFjcUF1VVlfejI4MGlxdXBsZFFTdWtSeVRMQmk3cVlxY3h1WXQtNFlYa2hvZ1k2WUcwVDlCNks5Wjl4dWtuVEZXRmZLdzE0QTNRdnhKck8waWpwNmwzX0xxaHZSTzJFb2lWWFdnWHQzbTRwek9Nckk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3JnVmhaUmpSdHJlSlZHVjhoWWJ0VGtNWWw0YWVLNGFBZHNnc2V1ZFBhVFpSSlRSSzMtRGFwYU1UZkNfa1lsVzdoOUdkTEVuXzhiY2R3SUZHT0dVM2RnRWd2R2FMaVcwTzVrV0M1eXlWWFpZOUEzTldYbTB5bkpMSGJlajJUZVM5X0dMQUtaNl9SOUdy0gGHAUFVX3lxTE9KUEJfSzhnaG83dy1kVllRUWNxQXVVWV96MjgwaXF1cGxkUVN1a1J5VExCaTdxWXFjeHVZdC00WVhraG9nWTZZRzBUOUI2SzlaOXh1a25URldGZkt3MTRBM1F2eEpyTzBpanA2bDNfTHFodlJPMkVvaVZYV2dYdDNtNHB6T01ySQ?oc=5",
       "pubDate": "2026-08-19T13:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -721,21 +748,21 @@
       "category": "disaster"
     },
     {
-      "title": "井戸パイプの洗浄作業は個人負担なし　20日に電話相談窓口を設置予定　熊本・八代市の金剛地区　2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWld5aVVkalZQU1B3TGcxLTRiYlB1aF9nWDlJd2xaUWtCQnB5eS1BdlU2cVk0Qm9kbVF6NmY3VTBTSjJUcklGTjV1TU1oMW55UEMzZG92OEgtd01nVTNyTU53QTltY2NJTldWcTd5SVZ4TkhyM2pwNk1FTXhLTTdkdG9R0gF0QVVfeXFMTlM4bmlJWHhfWXpzSkVUWmIyNi1OSXFsZk8wTENtV3hEQWItQUNkMkJ2TGJId1NlVUFTWFQwRXZkYnh0LVV2S1pjc2wxdWROb1NCMG53Vzgxd09YRDBjV2s5LVRkS2xzSUhvRmNCM3NKVjB0Mms?oc=5",
-      "pubDate": "2026-08-19T10:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "井戸パイプの洗浄作業は個人負担なし　20日に電話相談窓口を設置予定　熊本・八代市の金剛地区　2026年熊本地震  ｄメニューニュース",
-      "category": "life"
-    },
-    {
       "title": "井戸パイプの洗浄作業は個人負担なし 20日に電話相談窓口を設置予定 熊本・八代市の金剛地区 2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aTTBxSTllTXdkQnJTNDN2b1FlUi1zU1hnMUdJMC1scnpSLUpaVTNLdEx2LXhUTFByWmRQMGFZeGpYTlBGcEN1SGFJTlRwU2tiSGRDektSTzNqbl9ZWndvQmh3TkNaYTA?oc=5",
       "pubDate": "2026-08-19T10:38:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "井戸パイプの洗浄作業は個人負担なし 20日に電話相談窓口を設置予定 熊本・八代市の金剛地区 2026年熊本地震  TBS NEWS DIG",
+      "category": "life"
+    },
+    {
+      "title": "井戸パイプの洗浄作業は個人負担なし　20日に電話相談窓口を設置予定　熊本・八代市の金剛地区　2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWld5aVVkalZQU1B3TGcxLTRiYlB1aF9nWDlJd2xaUWtCQnB5eS1BdlU2cVk0Qm9kbVF6NmY3VTBTSjJUcklGTjV1TU1oMW55UEMzZG92OEgtd01nVTNyTU53QTltY2NJTldWcTd5SVZ4TkhyM2pwNk1FTXhLTTdkdG9R0gF0QVVfeXFMTlM4bmlJWHhfWXpzSkVUWmIyNi1OSXFsZk8wTENtV3hEQWItQUNkMkJ2TGJId1NlVUFTWFQwRXZkYnh0LVV2S1pjc2wxdWROb1NCMG53Vzgxd09YRDBjV2s5LVRkS2xzSUhvRmNCM3NKVjB0Mms?oc=5",
+      "pubDate": "2026-08-19T10:38:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "井戸パイプの洗浄作業は個人負担なし　20日に電話相談窓口を設置予定　熊本・八代市の金剛地区　2026年熊本地震  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -852,7 +879,7 @@
       "pubDate": "2026-08-19T10:18:15.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "肥薩おれんじ鉄道、熊本地震の被害額10億円 バス増便で対応  nikkei.com",
+      "description": "肥薩おれんじ鉄道、熊本地震の被害額10億円 バス増便で対応  日本経済新聞",
       "category": "infra"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "天皇皇后両陛下 熊本地震被災地に時期見極めた上でお見舞いの訪問したいお気持ち 側近が明らかに  日テレNEWS NNN",
       "category": "disaster"
-    },
-    {
-      "title": "長渕剛さんが熊本市に1千万円寄付 地震の復興支援、市長に電話も [熊本県] [2026年熊本地震]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95cEFvMXBKY01CcTA4cThORVVPaDUxNlRRc3pHZTNPbXgyenJKOU1TUUZLdllGZHV2aFdfbXBoZ3UtOG8xaVlrSk1NNzl1d0NaYmNoVFcxNHhGTUp3WnNJMGt1dUIwaXc?oc=5",
-      "pubDate": "2026-08-19T10:15:59.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "長渕剛さんが熊本市に1千万円寄付 地震の復興支援、市長に電話も [熊本県] [2026年熊本地震]  朝日新聞",
-      "category": "life"
-    },
-    {
-      "title": "天皇ご一家、千葉豪雨の被害に心痛める 熊本にお見舞い訪問を希望",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51U0NpR3h3UTYtOUJzRzhMdVE1VWx1R0FranBzWlVxRzNKUnVsbkZzemJqaHNudk5UZFUzWWcwRW1MUmhkSWZPVXY5TmJJQlRxY0x6X0x6ZjQxay1HeDczalJmQ1FGcTg?oc=5",
-      "pubDate": "2026-08-19T10:15:56.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "天皇ご一家、千葉豪雨の被害に心痛める 熊本にお見舞い訪問を希望  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞小川～宇土の代替バス始まる 通学時間帯に JR鹿児島線不通区間",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yWGRrZFdjU2ZsMmVGN00tM193Q0pfSWs1SF9UcGN6RWw2aUFvT1lMeHM1SWZhUEc4cHlzeHltUVplYXB1SGRhX2ZvZHAzUkk?oc=5",
-      "pubDate": "2026-08-19T10:14:57.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞小川～宇土の代替バス始まる 通学時間帯に JR鹿児島線不通区間  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-19T19:24:21.616Z",
-  "lastAttempt": "2026-08-19T19:24:21.616Z",
+  "lastSuccess": "2026-08-19T19:49:44.577Z",
+  "lastAttempt": "2026-08-19T19:49:44.577Z",
   "fetchOk": true
 }
