@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "「令和８年熊本地震」災害対策本部会議（第３回）",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91Q3JWNldnbzR4WjJ6ZjRqdFdueXFhNE15UGptNDkyQjF6d2VjWWYtU3pmVTR0YVB1R0xpUFpHSExMOVd6U0FpelRGcFJzcXlubFRFQ3BDTzRvcmRndFpGWm11RjM?oc=5",
+      "pubDate": "2026-08-19T04:50:41.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「令和８年熊本地震」災害対策本部会議（第３回）  日本医師会",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震「水道は行政が直してくれるけど、井戸は自分でどうにかしないと」…工事依頼も業者不足でめど立たず",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNFpQN1JBZUxHTmZpRTFUNDl4TklHWk5hd2hvX2FJVWNsUWthZkUyWEcwV1BKNXBlOC1ZVklZNmhfR1VEamduWWtPVzZncXl0MVlrV3E3NnN1TjMzSUpybzg3bVVUbzZSX2pUZmY1ZkdTUnZVMU56TGNjUEJyc1E?oc=5",
+      "pubDate": "2026-08-19T04:35:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震「水道は行政が直してくれるけど、井戸は自分でどうにかしないと」…工事依頼も業者不足でめど立たず  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 ライフラインへの影響",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xejdzTGxZeUNMcG5FX1Ruc05weFpRbmtkc081cEN1VWQ1M2ZSdHJoYWJOdmpTVVlzVEtaVDJhdUdVWkJpNmxGR3FLSWphYUNOdzc4eVJUQjQ?oc=5",
       "pubDate": "2026-08-19T03:56:00.000Z",
@@ -46,12 +64,21 @@
       "category": "infra"
     },
     {
-      "title": "熊本地震の被災した建物、損壊していないように見えてもよく確認すると…壁や基礎に亀裂が走ったケース多く",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrU0RKeFFUcmRnZHJCNXRwWjhtcmQ3a1NHMTQtbWt2cEtaSU9NX3hlWndGSmpOY3JMdkdHZ0tFZk5Tb2pPOS1ldnFVblBsdUhOWHBGS2ppSUJwNTFFRkdYdkFhQVctNkY2ZjVVTHJRUUF0dw?oc=5",
-      "pubDate": "2026-08-19T03:27:00.000Z",
+      "title": "JR九州が宇土駅～小川駅で代替バス運行開始 宇土～八代は26日から予定 地震で鹿児島線の一部運転見合わせ",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pVXBEVk5LZE01YUh4Y2FYYkZQWFlkZUpoWWVTelpwZ2ZDeFFCWlA1TE15ZDJUbkVyZURDRElKaUFKeEpsa19LWnJwVlZEcXhld2NiZ2hOWHptSlpEU1h6N0pIQVBCMTRjRUFSYy1TVnlvT2ptRDllajhaellaOFU?oc=5",
+      "pubDate": "2026-08-19T03:30:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災した建物、損壊していないように見えてもよく確認すると…壁や基礎に亀裂が走ったケース多く  読売新聞",
+      "description": "JR九州が宇土駅～小川駅で代替バス運行開始 宇土～八代は26日から予定 地震で鹿児島線の一部運転見合わせ  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災した建物、損壊していないように見えてもよく確認すると…壁や基礎に亀裂が走ったケース多く",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5USmJaMWVvRlotT2RLZno3MHdaSzU1aDhDNUV4dVRIZjdIamZaYXdvR3pDSjdJS2xxUlJxT3pHSnFGVFo2eHQwQkotMzBHY3BwcTlKbE5YV09CNUlPd05JU085ekJmVk1Cb184MVRKbXJfc2w3ZFNteWFNNlJBa3M?oc=5",
+      "pubDate": "2026-08-19T03:27:22.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災した建物、損壊していないように見えてもよく確認すると…壁や基礎に亀裂が走ったケース多く  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -98,6 +125,15 @@
       "type": "local",
       "description": "「家族の負担減って助かる」JR鹿児島線の代行バス開始 熊本地震  khb東日本放送",
       "category": "disaster"
+    },
+    {
+      "title": "高市総理「支援パッケージ速やかに」被災井戸の調査に国の支援検討へ 2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5ZnV4VW1FSmpwcTR3Vk9RVnRpbThNQ1YwYkloUnVBckEtVmIxNm93U09oSjVWaFcwa0FiYnVqMFFzckRwMjJ2U1RxRzloZ0ZEeDBMMTdlSDQ0SkxMdzI2Mmk5S0E3YlJvYUFvbTBEeTJKX05JaVZPRDVmaHV2ZjA?oc=5",
+      "pubDate": "2026-08-19T03:02:48.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "高市総理「支援パッケージ速やかに」被災井戸の調査に国の支援検討へ 2026年熊本地震  Yahoo!ニュース",
+      "category": "life"
     },
     {
       "title": "令和8年熊本地震の被災地支援として医療・福祉施設向け支援に協賛",
@@ -169,6 +205,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "JR鹿児島線の代替バス運行開始 熊本地震で一部見合わせ続く（2026年8月18日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "「ありがたいです」運転見合わせ続く宇土駅～小川駅間で代行バスの運行始まる 夏休みの課外授業に向かう高校生など利用【熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BRWxfX3RpVWRsdzRYM3JRRTEySnBnSGJrR2Nybmp6bGZwb1gyUFllR3BRX0IyUXpOMHZLeUc2M05xRVhqa2ZTM1lnLVh6cFR4QlR2TnhlUQ?oc=5",
+      "pubDate": "2026-08-19T02:45:38.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「ありがたいです」運転見合わせ続く宇土駅～小川駅間で代行バスの運行始まる 夏休みの課外授業に向かう高校生など利用【熊本地震】  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -298,6 +343,15 @@
       "category": "disaster"
     },
     {
+      "title": "産業医科大学 熊本地震の被災地で産業保健支援活動を実施 - univ-journal.jp",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94VGFnZ25Eb1haeGE3c2ItNm1obkc4ekhwc25oTGlNRXQtYjktTWh2OTFpZl9kano2QmlJeEd4emRCbVEtNmx3?oc=5",
+      "pubDate": "2026-08-19T02:06:29.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "産業医科大学 熊本地震の被災地で産業保健支援活動を実施  univ-journal.jp",
+      "category": "life"
+    },
+    {
       "title": "産業医科大学 熊本地震の被災地で産業保健支援活動を実施",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94VGFnZ25Eb1haeGE3c2ItNm1obkc4ekhwc25oTGlNRXQtYjktTWh2OTFpZl9kano2QmlJeEd4emRCbVEtNmx3?oc=5",
       "pubDate": "2026-08-19T02:06:29.000Z",
@@ -406,15 +460,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震「水道は行政が直してくれるけど、井戸は自分でどうにかしないと」…工事依頼も業者不足でめど立たず",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByQ0wwN3hSaW43elVGOHdHZkpIT0VkRFVMQUpYeUp6X1JJcnM4MmxFdUQySDlCcExDUUc4cXZ4U184Rmw5Skdrdkpyd0xtZWZDbnAwS3M2SnI2RnVQdnlueVNlOW1Tc0Z2VEk1WGF1LWZCdw?oc=5",
-      "pubDate": "2026-08-19T01:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震「水道は行政が直してくれるけど、井戸は自分でどうにかしないと」…工事依頼も業者不足でめど立たず  読売新聞",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震3週間 3千人以上が避難所生活 一方で生活再建の動きも 気象庁は｢1か月から2か月程度は震度5弱程度以上の地震可能性｣",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wYlFxblRQX1pGTVQyU3ZRS1NIU2pWcE5wTlR1RUo5dDdYa1J0WEc4aFlvbTkyZVAySC1tT0gwSk5xWDd5N3BhM1k3bw?oc=5",
       "pubDate": "2026-08-19T01:24:52.000Z",
@@ -485,6 +530,15 @@
       "type": "local",
       "description": "被災地派遣の武雄市職員が市長らに活動報告 ＜令和8年熊本地震 支援の輪＞ | まちの話題 | 佐賀県のニュース  佐賀新聞",
       "category": "life"
+    },
+    {
+      "title": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、８月18日集計分（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtalIxODYyMjNPX3Y4S0Y4V28tZU0xbnJIOG1xOUVjVjZianNBTUJHVmV0SEl0YXAyVTVuclN5cDRjb19wTm1jazVMRWhYbTBoaTdkU195TFhFTVIxSEdiejBPUEZBZG03LXVrRGdrb052bW5GN200ODhOVlJtdkE?oc=5",
+      "pubDate": "2026-08-19T00:39:24.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、８月18日集計分（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
     },
     {
       "title": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、８月18日集計分",
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "「令和8年熊本地震」救援情報 専門家が語る「こころのケア」  seikyoonline.com",
       "category": "disaster"
-    },
-    {
-      "title": "(熊本地震)被災地に真心届けたい 公明、街頭で募金活動に協力 東京・江戸川区 2026.8.19付",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMXAzcUI3RFZJM0U2OXRkVnJodU9KYmZfMkQ4RkhnRF9jb1VZRmFXdVRDWFVUanJmdGZyYlQ2VnR6NzhJOGl6aWowU0pqRWpBc1hPbnlGS0QwME56bXgwcEFPRkh4Zm1kYU5pUURB?oc=5",
-      "pubDate": "2026-08-18T20:25:19.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "(熊本地震)被災地に真心届けたい 公明、街頭で募金活動に協力 東京・江戸川区 2026.8.19付  公明新聞電子版プラス",
-      "category": "disaster"
-    },
-    {
-      "title": "京都府警、熊本地震被災地に警察官を追加派遣 防犯カメラ設置などで犯罪抑止 - kyoto-np.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hZmhOa3NpbTd0WkZaNmx1UnhmQnhBdHJPeE56V2ZieHdtQUl6bWprd0FrTnpUdy05UWsxMGZNVmt5R3BCeC10UHVBc2k0Sk0tdlY0UzZ0NTY?oc=5",
-      "pubDate": "2026-08-18T20:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "京都府警、熊本地震被災地に警察官を追加派遣 防犯カメラ設置などで犯罪抑止  kyoto-np.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "京都府警、熊本地震被災地に警察官を追加派遣 防犯カメラ設置などで犯罪抑止",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hZmhOa3NpbTd0WkZaNmx1UnhmQnhBdHJPeE56V2ZieHdtQUl6bWprd0FrTnpUdy05UWsxMGZNVmt5R3BCeC10UHVBc2k0Sk0tdlY0UzZ0NTY?oc=5",
-      "pubDate": "2026-08-18T20:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "京都府警、熊本地震被災地に警察官を追加派遣 防犯カメラ設置などで犯罪抑止  京都新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "(熊本地震2026)「人間の復興」へ総力挙げて 災害関連死を断じて防ぐ 発災3週間で城下広作党県本部代表に聞く 2026.8.19付",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rWGhrTUZxcnlodWxHUWlLWUo3elhSSjlyMmM0UFdTNWhVa1JWQnFTU0pPQV9xeUNTTGltdWEtODEtQVJLVzZuV0NnVlN2UGttcmFEeWZBd2ZQSVRieV9VY25yV2Z5SlN2MThBUDRB?oc=5",
-      "pubDate": "2026-08-18T20:18:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "(熊本地震2026)「人間の復興」へ総力挙げて 災害関連死を断じて防ぐ 発災3週間で城下広作党県本部代表に聞く 2026.8.19付  公明新聞電子版プラス",
-      "category": "disaster"
-    },
-    {
-      "title": "(熊本地震2026)「人間の復興」へ総力挙げて 災害関連死を断じて防ぐ 発災3週間で城下広作党県本部代表に聞く 2026.8.19付 - digital.komei-shimbun.jp",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rWGhrTUZxcnlodWxHUWlLWUo3elhSSjlyMmM0UFdTNWhVa1JWQnFTU0pPQV9xeUNTTGltdWEtODEtQVJLVzZuV0NnVlN2UGttcmFEeWZBd2ZQSVRieV9VY25yV2Z5SlN2MThBUDRB?oc=5",
-      "pubDate": "2026-08-18T20:18:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "(熊本地震2026)「人間の復興」へ総力挙げて 災害関連死を断じて防ぐ 発災3週間で城下広作党県本部代表に聞く 2026.8.19付  digital.kome...",
-      "category": "disaster"
-    },
-    {
-      "title": "［論説］熊本地震発生３週間 農業用水の確保が急務",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Mc1BXcFhFMEVETEVhZ2s0VU0wSEQ4dDFyUzNmV1BCeDVHaE41NWowRWhVdF93eVl4OGRDb0N5OXFEM2xWZzlfX2FsZTlXU2hfQ29ZbGNWYjNvUXM?oc=5",
-      "pubDate": "2026-08-18T20:05:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［論説］熊本地震発生３週間 農業用水の確保が急務  日本農業新聞",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-19T04:10:52.733Z",
-  "lastAttempt": "2026-08-19T04:10:52.733Z",
+  "lastSuccess": "2026-08-19T04:52:22.940Z",
+  "lastAttempt": "2026-08-19T04:52:22.940Z",
   "fetchOk": true
 }
