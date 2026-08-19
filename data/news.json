@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震被災地に支援 NY日系団体",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNGJfbkx5aUJaS3owRHAwVm5odmlnTlFKVlUzMXBka0RlYWN4WXVVd0ltd01mRkxPRHlJdmpNYzBPQ0t6eXJwdDRrSlJxYURtdXNjNm0wTklxRi1CejBvZjF1QV9nUXVlaXc?oc=5",
+      "pubDate": "2026-08-19T18:35:26.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被災地に支援 NY日系団体  nyseikatsu.com",
+      "category": "life"
+    },
+    {
       "title": "広がる支援 復興後押し 熊本地震受け都内自治体 物資輸送や職員派遣など ／東京",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fOGZ2cm5CWlhtOV83VDRYRlJGZjZtVHdIYlV0OExrRllqLWE1dWhtejB4bG05WEpGY2pFVEdXUDdiS091a213c0IzM1c5TlFSUVBtckNtT05IQzdDX2dfX2I4T003VmJp?oc=5",
       "pubDate": "2026-08-19T17:03:42.000Z",
@@ -15,17 +24,8 @@
       "pubDate": "2026-08-19T17:03:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震・土木被害マップ 道路や鉄道が寸断、石垣また崩れる  xtech.nikkei.com",
+      "description": "2026年熊本地震・土木被害マップ 道路や鉄道が寸断、石垣また崩れる  日経クロステック",
       "category": "infra"
-    },
-    {
-      "title": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUEtvaXNqZHNZYW9tdVlMQm5pdmNHUGVaOW5xVEd6aG5rU3BTUUhraWxQLThmU0NMUlB6eUd2QkdFdzVQWWxjaWhBS2Jrb1N6Ync?oc=5",
-      "pubDate": "2026-08-19T16:56:13.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ  電波新聞デジタル",
-      "category": "life"
     },
     {
       "title": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ - dempa-digital.com",
@@ -34,6 +34,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ  dempa-digital.com",
+      "category": "life"
+    },
+    {
+      "title": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUEtvaXNqZHNZYW9tdVlMQm5pdmNHUGVaOW5xVEd6aG5rU3BTUUhraWxQLThmU0NMUlB6eUd2QkdFdzVQWWxjaWhBS2Jrb1N6Ync?oc=5",
+      "pubDate": "2026-08-19T16:56:13.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】赤澤経産相、熊本県知事と面会 被災事業者支援の緊急要望に対応へ  電波新聞デジタル",
       "category": "life"
     },
     {
@@ -115,6 +124,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "天皇皇后両陛下 千葉豪雨で千葉県にお見舞い、熊本地震でも災害対応に支障ない時期に「お見舞いに行きたいお気持ち」  FNNプライムオンライン",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震へ義援金送付 八王子市議団が街頭募金",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJZ0xUSDJhOVVOYmhUeW96OEF0SmEwRFFqdkRCdGoxMmdFQUw1NEU0ZUg5ZWpKdXk1ZzVjN0hUUS1HTm5fa1AxUk9wZFoxY21lWlY1NHkwZWlSaWVxQmUzbkhSMkI?oc=5",
+      "pubDate": "2026-08-19T15:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震へ義援金送付 八王子市議団が街頭募金  タウンニュース",
       "category": "disaster"
     },
     {
@@ -251,6 +269,24 @@
       "type": "local",
       "description": "赤澤経産大臣が八代市・氷川町を視察 「被災中小企業へ補助率４分の３を支援可能」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
+    },
+    {
+      "title": "古宮JR九州社長：熊本地震「前回より影響ある」＝業績予想の扱いは精査中(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWng0Nlc5cEh5amI3R0xOYmk2RVk0VHBNakxjOEZSNHpuVmVOU2E0aWtvMG81dWtrRlZybTVMWFRORlVxNWhxYmE4amxJU2RhRmVnQ003bnYxQVZkNF9aLWZYVmtOVlFEalh1WUstUUpyYkZZY3lVNHdOZ0FGMFpYMjdSM3JwWFE?oc=5",
+      "pubDate": "2026-08-19T12:15:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "古宮JR九州社長：熊本地震「前回より影響ある」＝業績予想の扱いは精査中(時事通信)  finance.yahoo.co.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "ローイング寺田2連覇 地震で調整に影響、暑さ深刻 全国高校総体・総括",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ea0ZfZng4VmZ3cWVuZTJjc1JmMG1pdXZQbksyeXNNVUg5dkRjOTVpbjZzZWxneE52M3JWVTZyQTRSTkdmdV80OUhmcHFJTFE?oc=5",
+      "pubDate": "2026-08-19T12:09:41.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "ローイング寺田2連覇 地震で調整に影響、暑さ深刻 全国高校総体・総括  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "熊本地震の中小企業被害額１３３９億円、９６か所に被害あった「肥薩おれんじ鉄道」は１０億円",
@@ -834,7 +870,7 @@
       "pubDate": "2026-08-19T10:15:59.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "長渕剛さんが熊本市に1千万円寄付 地震の復興支援、市長に電話も [熊本県] [2026年熊本地震]  asahi.com",
+      "description": "長渕剛さんが熊本市に1千万円寄付 地震の復興支援、市長に電話も [熊本県] [2026年熊本地震]  朝日新聞",
       "category": "life"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "＜2026年熊本地震＞被災井戸の復旧支援 国や県のチームが作業開始 八代市  熊本日日新聞社",
       "category": "infra"
-    },
-    {
-      "title": "＜2026年熊本地震＞被災井戸の復旧支援　国や県のチームが作業開始　八代市",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkRJdm5jYWZ0ZDJvXzQtbW9ZYXFnRGpYSWhwM0t4enhETWtUWWdxS3ZEZFZHUVJCQ3h6N3otdkROX2lXT2NDakpxd013M2Z5OXVDYkVyODJGTkpvOHd1cjBqRzBram1BSENtX19vbU4xU2hFamVxbUdBZGdoeWZhQWFfTjQ0ZVh1b2N6Q2pseEd0dDNjdnBRaFZSd1ZZUS1zWEF3NXdLOE4wN2VrM3Y1QWQ5a0I1aHJyaVBPZmlaSHVMbHh5T2ZrSkRwOUM3RDlDY280NFhXZ9IBhwFBVV95cUxNTUs4VXBPenV1dWZXSU9FUWZFaEtIbTVrbUR1cmxCR2MtcjBlVjZOaXduUWRaY0hUTzZ0ODdEQktoa05aZjJLaUpSRHpXd1c0VEliZVlvQXRlUVFhT1VaT0NLVDJKRjhtNXhqWThGd0U1ZjFlNi1LRDJDLUFyTm5zLUpEb1F0VU0?oc=5",
-      "pubDate": "2026-08-19T10:08:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞被災井戸の復旧支援　国や県のチームが作業開始　八代市  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
-      "title": "濁った地下水…液状化で砂や泥が混入か 地震で被災した井戸の調査始まる （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzVjB3allvZ3M2VmgzdW1sQVluZjNjU3NZQ3dOaFVlbmYxY05hY19MNUVhai1HaDRqRmVqNDJETHZFNDUweWVNQjI0Z0JpLUtPS0xndFpqUV94WTk2Yi15amI0NkxUWlZ2Ynp0WHNoR2g?oc=5",
-      "pubDate": "2026-08-19T10:06:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "濁った地下水…液状化で砂や泥が混入か 地震で被災した井戸の調査始まる （熊本ニュース KAB ONLINE）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、避難者2966人に 家屋被害は3万3000棟超（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CdFZxS2NzcjZvRWw5NzNIaGJxdGRZTkpDVTI2MEtqdlF2MGRNMUZCUnB6V0I5WXlZeUFValRpekVFTER0X3Q2LThBaXEtRUwzb0YxUno0VHU3UXFMckZOYXhSRG1FOVVhc0NjYkxXY1ZqS2c3VmtHU0FKX1M0WGM?oc=5",
-      "pubDate": "2026-08-19T10:04:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、避難者2966人に 家屋被害は3万3000棟超（共同通信）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震、避難者2966人に 家屋被害は3万3000棟超",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTSG9PZ2dnU2V0TmtYREx4cktuOVZ5cUdGYkxkSVhyWndyZ3licGlSN1ZXQm9MY3ZjV0JLd0NVYkI1VldJU1BtUUNvZw?oc=5",
-      "pubDate": "2026-08-19T10:04:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、避難者2966人に 家屋被害は3万3000棟超  47NEWS",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-19T17:59:05.144Z",
-  "lastAttempt": "2026-08-19T17:59:05.144Z",
+  "lastSuccess": "2026-08-19T18:46:49.948Z",
+  "lastAttempt": "2026-08-19T18:46:49.948Z",
   "fetchOk": true
 }
