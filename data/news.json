@@ -685,15 +685,6 @@
       "category": "life"
     },
     {
-      "title": "【被災地報告】熊本地震発生から3週間「続く避難 広がる支援」NIB記者が見た現地の状況は《長崎》",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlA4TWxqM0REMDlnZk5KelgyR21tZE80cG0wcjFFdkt5WGpLODNwODVwVjdnRmNWemlVNzFsV0tqTlM0NzNJbW1ZMHZISDhITU9Pck1LOXB6TXVIYjNZcXhobEZ4Ym1TMkV1YkZ1ckNNX1dyNmFNSWpiazhBV3M5T3hfTVRhMFE?oc=5",
-      "pubDate": "2026-08-20T10:16:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【被災地報告】熊本地震発生から3週間「続く避難 広がる支援」NIB記者が見た現地の状況は《長崎》  日テレNEWS NNN",
-      "category": "life"
-    },
-    {
       "title": "｢10年前を上回る｣JR九州の被害額130億円超えか 新八代駅は倒壊寸前に（ＫＫＴ熊本県民テレビ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVUNwa0ExTG1qaWdib0VzbGZtNVNQLU9LaHVkMmVYam84R09yNWNYSjBoU1VLMU05Yy1yR2xyUkFnMkdJQ0NwOHRJUjBGQVBTQmJsV2tWRTlvN1AtZUtVaWRxXzBObmh5ZE0zV1ZNSy05bXhJRUlHRE5JT0RoTjg?oc=5",
       "pubDate": "2026-08-20T10:16:01.000Z",
@@ -701,6 +692,15 @@
       "type": "local",
       "description": "｢10年前を上回る｣JR九州の被害額130億円超えか 新八代駅は倒壊寸前に（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "disaster"
+    },
+    {
+      "title": "【被災地報告】熊本地震発生から3週間「続く避難 広がる支援」NIB記者が見た現地の状況は《長崎》",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlA4TWxqM0REMDlnZk5KelgyR21tZE80cG0wcjFFdkt5WGpLODNwODVwVjdnRmNWemlVNzFsV0tqTlM0NzNJbW1ZMHZISDhITU9Pck1LOXB6TXVIYjNZcXhobEZ4Ym1TMkV1YkZ1ckNNX1dyNmFNSWpiazhBV3M5T3hfTVRhMFE?oc=5",
+      "pubDate": "2026-08-20T10:16:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【被災地報告】熊本地震発生から3週間「続く避難 広がる支援」NIB記者が見た現地の状況は《長崎》  日テレNEWS NNN",
+      "category": "life"
     },
     {
       "title": "「10年前を上回る」JR九州、地震の被害額130億円超えか 新八代駅は倒壊寸前に（ＫＫＴ熊本県民テレビ）",
@@ -901,7 +901,7 @@
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-20T18:51:21.932Z",
-  "lastAttempt": "2026-08-20T18:51:21.932Z",
+  "lastSuccess": "2026-08-20T19:30:34.060Z",
+  "lastAttempt": "2026-08-20T19:30:34.060Z",
   "fetchOk": true
 }
