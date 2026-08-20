@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "title": "令和8年熊本地震、福祉避難所として開設された介護保険施設等の使用料等の取扱いを明確化—厚労省",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RcjdPc1N4WVlYeVFvZFIydkpra3ZPU2VId1BQU2M4RlJIcFJybldtaDhfTENVeGFEbl9FcFJmNWY4NnFmVTcwaw?oc=5",
+      "pubDate": "2026-08-20T04:45:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震、福祉避難所として開設された介護保険施設等の使用料等の取扱いを明確化—厚労省  GemMed",
+      "category": "life"
+    },
+    {
+      "title": "おてつたび、熊本地震の被災事業者を支援する復旧ボランティア募集、無料で相談・情報発信（トラベルボイス）",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3oyU2Q1S1R6d2JGa2hUX0VfNmczWUwtNzJoXzJ4dGxxbjF2ZzhyMEZOTkJCWU42VG1USG5aOTBlQ1VBV1JCV3RRY3Z1a1pDSHJrZ3Qwd0pxeFBqdWt6MlBudnFWaV9IZ0lKamJFNExJWDRwdjZKVE16UXNCMl90MU1DY2M3T3BJNFVuYVdR?oc=5",
+      "pubDate": "2026-08-20T04:30:09.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "おてつたび、熊本地震の被災事業者を支援する復旧ボランティア募集、無料で相談・情報発信（トラベルボイス）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "政府が「九州応援割」を検討 熊本地震で打撃受けた観光業を支援",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpOXpRc05GeE1NSmdkcTZ5VUp5akFWM2EyMmFUR3FQQkFWeW5YMjV1a2lSVnBvOXFFVlpoaTRqbkVnWFBob1VEV2ZDMU1jcjdtUXpzZnhjSk1FbEI4dk1HRklyTGxvLTJV?oc=5",
+      "pubDate": "2026-08-20T04:29:25.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "政府が「九州応援割」を検討 熊本地震で打撃受けた観光業を支援  毎日新聞",
+      "category": "life"
+    },
+    {
+      "title": "＜熊本地震2026＞国の手厚い支援が必要",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40V0tBM2ItWU5pOTlWN0x6ZElueDBILVBZT3ZQUnNnZ2pISlllSnJpdDVvd3ZaVTBuNGE0elo4UWRsMFhlRy1GQXNPQndMempDOWM5Tw?oc=5",
+      "pubDate": "2026-08-20T04:22:14.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜熊本地震2026＞国の手厚い支援が必要  公明党",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震 営農再開へ体制整備を 中立公農林水産部会",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVFVjbURGMGdxejJCcFFZcjNmUk03ekNWd2NZcWNDbGc1YlhPYWluNklNMk9NQWlXaEFLTm9oSW9McEZrMWZ1QTVpMXpYMTNHQXdFYWhvUQ?oc=5",
+      "pubDate": "2026-08-20T04:20:58.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 営農再開へ体制整備を 中立公農林水産部会  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 交通への影響（２０日１１時）",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QVWprc0tBa2dYSXh3ekJMZUVjbDk1WFhZSFg1VVMwMmNpR3M1dmVGUG9sZi1VLWJPMWZXUTJsTXBDd1RyVnZDODFaRFRPRFR5Q0pQQnJRWXg?oc=5",
+      "pubDate": "2026-08-20T04:20:00.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 交通への影響（２０日１１時）  NHKニュース",
+      "category": "infra"
+    },
+    {
+      "title": "小・中学校体育館の空調計画前倒し、熊本地震の避難所生活を教訓に【宇部】（宇部日報）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb2RCTm8wVmxrYmRnRld4Nm5ISi1CY3J1a3ZWNDE4MVFiWkkzVmRVYmVwUVZXNmVfN3pnSDYxaHhndGI2X0NHRVZhWDVDVWUyQk9hLXRtd0VvQzRYOTViV0FiT292YWNLblBDQXdSdDAyb09rRE1qMEVyRXc4cFE?oc=5",
+      "pubDate": "2026-08-20T04:17:34.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "小・中学校体育館の空調計画前倒し、熊本地震の避難所生活を教訓に【宇部】（宇部日報）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "県庁に熊本応援の「みきゃんガチャ」登場 売り上げは全額地震被災地へ",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRDVoR3VfYVgzRnZmRDFpWTZza1ZjazdGUnFrT3ZLZEJnRDZHOVM1YnVYcVAxakotdXIwckhXNDRGN2loTFRyTFVtbjhmYjVKUThiamtkMm9xaUJIU2tzbQ?oc=5",
+      "pubDate": "2026-08-20T04:12:38.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "県庁に熊本応援の「みきゃんガチャ」登場 売り上げは全額地震被災地へ  愛媛新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "災害に乗じた犯罪防止へ 「特別警備部隊」が活動 熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xU2FINm82N1I1c1ZtaURWZWQ0amh6dHpXXy1NVkJROTFQQXA1czRCMVpWeEtqbWZrSVlSWGcwR3I1WjNpcExnU3B3RWV5WG9LUzlxc3RMMFdDeW5KdnR0QTVvT2VrUGJnTXQ3RG80Y0U3dw?oc=5",
+      "pubDate": "2026-08-20T03:48:56.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "災害に乗じた犯罪防止へ 「特別警備部隊」が活動 熊本地震  テレ朝NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "災害に乗じた犯罪防止へ 「特別警備部隊」が活動 熊本地震（テレビ朝日系（ANN））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wazRHNFpmV0ZiRjJQUkV6czZnR3VDZWl6bXRhdXYwUVB6NTBCeHVFcjUxYnFVSEJuamZBSmFKcVkxdlFmRVBtSEtYNzJDQThLNkZvcFNYaVFyZFF0TjcyQkRWZXFBbUZYcGJZWWdHV21YcHgzNHRfLWxJS0hqSGM?oc=5",
       "pubDate": "2026-08-20T03:48:56.000Z",
@@ -8,6 +89,15 @@
       "type": "local",
       "description": "災害に乗じた犯罪防止へ 「特別警備部隊」が活動 熊本地震（テレビ朝日系（ANN））  Yahoo!ニュース",
       "category": "disaster"
+    },
+    {
+      "title": "被災家屋の公費解体 熊本市9月10日から申請受け付け 事前予約が必要（熊本ニュース KAB ONLINE）",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEViUnluRWtVR2twRzJFWGoxNWRpT0V3dFFRYnpFU0xkTHVPR2czSkMzYTcwbElFY3VjZ2drX2FxNTVueG02QTlwV3lYU0NWeG1POHlFNUtzUlh0bEJvTkRMQUF6ZFRlZUEzSHBrWnU2OXh4VlpoMVpxTWJfendmZks3NA?oc=5",
+      "pubDate": "2026-08-20T03:37:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "被災家屋の公費解体 熊本市9月10日から申請受け付け 事前予約が必要（熊本ニュース KAB ONLINE）  ｄメニューニュース",
+      "category": "other"
     },
     {
       "title": "ハイセンス、令和8年熊本地震の被災地へ 75型大画面テレビ10台とスポットエアコン40台を寄贈",
@@ -31,9 +121,9 @@
       "title": "熊本地震 ３９人死亡 ２９５３人避難（２０日午前８時）",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04MlMtX0trQVNSNTZkTzFzeDc0T01hMFpjdWttaWVzdXloeHJKMjRFVXFTWHhkelZlbFBlOWFOc05NZE43cW9ZMnNvbjh6N2R1TU5mdHNGTEY?oc=5",
       "pubDate": "2026-08-20T03:24:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "NHK",
       "type": "local",
-      "description": "熊本地震 ３９人死亡 ２９５３人避難（２０日午前８時）  news.web.nhk",
+      "description": "熊本地震 ３９人死亡 ２９５３人避難（２０日午前８時）  NHKニュース",
       "category": "life"
     },
     {
@@ -204,7 +294,7 @@
       "pubDate": "2026-08-20T02:25:43.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災地（8月18日） [写真特集1/6]  mainichi.jp",
+      "description": "熊本地震の被災地（8月18日） [写真特集1/6]  毎日新聞",
       "category": "disaster"
     },
     {
@@ -433,15 +523,6 @@
       "category": "disaster"
     },
     {
-      "title": "令和8年熊本地震で被災された方々へのご支援を。スペースエイジがチャリティーTシャツ販売で復興支援。",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdUV2Y1VxNHRPSTRSNWxsbUZMeGtWeS10VURweUJrQUhhTHV6RUpWUGJiZElGX2F1OTZZS3FLVmhDMm84dkpCdVNNUGxRcjhzWUdTcm1wdjU4eUdkdDlVSWJUYnF2eGFzNUE?oc=5",
-      "pubDate": "2026-08-20T01:00:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震で被災された方々へのご支援を。スペースエイジがチャリティーTシャツ販売で復興支援。  PR TIMES",
-      "category": "life"
-    },
-    {
       "title": "《茨城県境町》企業版ふるさと納税の物納により「熱中対策ウォッチ カナリアPlus」を熊本地震被災地へ寄贈",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yTTZhTENWV0tWa09GelhvQWpwWHRLWHVnXzhpb1N5VkotTnFWMXpGZlczQllGX3dvUWJBaU9pVVg4T1BqSUdOYThTYzhTaVdZMWtGVkhjaW1jQ011NEJKRXJmcjlXWll2WWc?oc=5",
       "pubDate": "2026-08-20T01:00:02.000Z",
@@ -449,6 +530,15 @@
       "type": "local",
       "description": "《茨城県境町》企業版ふるさと納税の物納により「熱中対策ウォッチ カナリアPlus」を熊本地震被災地へ寄贈  PR TIMES",
       "category": "disaster"
+    },
+    {
+      "title": "令和8年熊本地震で被災された方々へのご支援を。スペースエイジがチャリティーTシャツ販売で復興支援。",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdUV2Y1VxNHRPSTRSNWxsbUZMeGtWeS10VURweUJrQUhhTHV6RUpWUGJiZElGX2F1OTZZS3FLVmhDMm84dkpCdVNNUGxRcjhzWUdTcm1wdjU4eUdkdDlVSWJUYnF2eGFzNUE?oc=5",
+      "pubDate": "2026-08-20T01:00:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震で被災された方々へのご支援を。スペースエイジがチャリティーTシャツ販売で復興支援。  PR TIMES",
+      "category": "life"
     },
     {
       "title": "【アルティーリ千葉】木田貴明選手、「令和8年熊本地震」被災地へ支援物資を寄贈",
@@ -600,7 +690,7 @@
       "pubDate": "2026-08-19T23:16:42.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "観光復興へ「九州応援割」を実施，熊本地震でキャンセル相次ぐ旅館など支援［新聞ウォッチ］  response.jp",
+      "description": "観光復興へ「九州応援割」を実施，熊本地震でキャンセル相次ぐ旅館など支援［新聞ウォッチ］  レスポンス（Response.jp）",
       "category": "life"
     },
     {
@@ -674,6 +764,15 @@
       "type": "local",
       "description": "【食料品など】食品スーパーなどの開店・休業情報 | 熊本のニュース｜RKK NEWS｜RKK熊本放送 (1ページ)  TBS NEWS DIG",
       "category": "other"
+    },
+    {
+      "title": "熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TeEQ3R19UOGtWVkdwZnRaQUhuZzRvVk93SzVyb0xfalJLYlNmbDhwaXBRSUZxMzVFQ0J0M3hrb2tYZ2JDdFJWMVFPMG9Ua2YzWDZRT0tNM1Myc2dZREhF?oc=5",
+      "pubDate": "2026-08-19T22:23:31.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を  NHKニュース",
+      "category": "disaster"
     },
     {
       "title": "熊本地震 熱中症対策を 最大震度5弱程度以上の地震にも注意",
@@ -793,15 +892,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震で倒壊、日本製紙八代工場の煙突撤去作業が始まる",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tSzVqS0NhT2c5WFhDSzBwVzVYZVdObEZwQmlGTndOWXQzRk9IQ1c5NjEyWVRwaG9iYjEtaEhOR0E2TWtQQktpWHBfcw?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で倒壊、日本製紙八代工場の煙突撤去作業が始まる  47NEWS",
-      "category": "disaster"
-    },
-    {
       "title": "【熊本地震】「必要なとき必要な物を」「避難者の話を聞いて支援者と共有を」 被災地に派遣したDPATなどが活動報告 - 奈良県立医科大学付属病院",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NejA4VzN2ZkRxWS13cmZfWmFYUmZXZVY0Ujh2TFViTGZvS3AzZHdKdmc5anNjTzdDVU5mQ0VSdE5mR0dPOWVJVllnSQ?oc=5",
       "pubDate": "2026-08-19T21:00:00.000Z",
@@ -809,99 +899,9 @@
       "type": "local",
       "description": "【熊本地震】「必要なとき必要な物を」「避難者の話を聞いて支援者と共有を」 被災地に派遣したDPATなどが活動報告 - 奈良県立医科大学付属病院  47NEWS",
       "category": "life"
-    },
-    {
-      "title": "九州新幹線、古宮社長「来週中に復旧の見通し示す」 橋やレールの900ヵ所で熊本地震の被害確認",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45aG9leUNwNW11MnNadjRyOWZlNjU1amZNX05FMmhSTlhkdGNTck5TZElPajcwVlA4UmpHNTFNMnpfOTQ4UjB4YWtHcw?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州新幹線、古宮社長「来週中に復旧の見通し示す」 橋やレールの900ヵ所で熊本地震の被害確認  47NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "名門大洋フェリー、熊本 地震災害支援割引実施",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTaGZsQ1VWOUVvXzVhMUVpUDI2QzBKc3Q0U3ZiVnQ1N0Jsc0ZuNXA2M0RMdHQwclBXdjFmWmd2SjZtM2E0cVRSWUp5RmxSc19hYUllVWFfMUhJMl9zcHlB?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "名門大洋フェリー、熊本 地震災害支援割引実施  カーゴニュースオンライン",
-      "category": "life"
-    },
-    {
-      "title": "九州議長会、熊本地震復旧で国に緊急要望へ",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02OTRFUU9idmQ2ZDI5TmpadS1BU21xNHVYanNkLWtmQ0ZyZXg3aklzb2Y5cmh2QWtHRFZjT3JFQ0h1WHdYSTJDdVdGcw?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州議長会、熊本地震復旧で国に緊急要望へ  47NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "【熊本地震】「必要なとき必要な物を」「避難者の話を聞いて支援者と共有を」 被災地に派遣したDPATなどが活動報告 奈良県立医大",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zUzNhYURCcGg2Y3Uyc1pvNHNFelNua0dZZG8wWlZGSUFDSHRrTkxLeHZPSnl3aHJqOFBCekQwNnotMGlEQ3VWZDNmekFwM0pCaUt4WFJvbi1OSDlTWlA4?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】「必要なとき必要な物を」「避難者の話を聞いて支援者と共有を」 被災地に派遣したDPATなどが活動報告 奈良県立医大  奈良新聞",
-      "category": "life"
-    },
-    {
-      "title": "【現地ルポ】「備蓄だけでは命を守れない」熊本地震の現地調査で明らかになった地震に強い家の3条件 | Lifestyle Analysis",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pZUJ0X2VfekZvLWFtQUFTcmozWnBULW04WG92MjczYURGdk50cm9uWE1Kbm9iM1hJSnBGaTk2cElLYjVPVThGRU40ZHY?oc=5",
-      "pubDate": "2026-08-19T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【現地ルポ】「備蓄だけでは命を守れない」熊本地震の現地調査で明らかになった地震に強い家の3条件 | Lifestyle Analysis  ダイヤモンド・オンラ...",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震 観光復興へ支援策 「九州応援割」実施で調整",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96bS1lNGRyd3pVWGFXLXpjUkNGQTF6eUp0WHNnMjk5MGdBUmVITE05MmNqeEUtQXoyX0F3UTV0aHpfQW9nU3Z6SmVHc0tmQW1kRUdGeEo4WjhlNVdkRk1jMm01SldSRFlFSUtrUUg4Z29sanc?oc=5",
-      "pubDate": "2026-08-19T20:56:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 観光復興へ支援策 「九州応援割」実施で調整  テレ朝NEWS",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震　観光復興へ支援策　「九州応援割」実施で調整",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVcxUnM3dl9rOUVXc3NzdkNRMTJXLWhtZXR0NEdQNjltRmU2dzVfZ3o4emFNV0V6dDhxanRPRUlXNnB0cmtDY0c5cGltUG1zck90RGtMTkJtSFp4RUZKQUZLNW5ZUVhqRGl5a1d5bE1mUWY5MnFZX3lFMGU2c1VZdENxOWNKYjRBUWfSAY8BQVVfeXFMUF91MTNWaFJpb1hmVjBBb0VWUE5xNjZCVHBEbzFqQXdkZDl6Vml1RURtZ29mNDlhLVVEX0xmcmNNVk9faEpJSjEtNjBseWhSNTVycnM2QjRZb1h6MW82QWd1VVZ2emxLSFhBSmZiTnNZeVFBQjRtQU5fYTVXVUV6QmFuWkYzMnVkeWxuUG9aMGM?oc=5",
-      "pubDate": "2026-08-19T20:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震　観光復興へ支援策　「九州応援割」実施で調整  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OYUZFRHZCNXJjTlJUdTZMSTI0X3hhVnp6YW1fUXV3dUpHc3pPWEh6QWFKaWx5OERVY1lqM3F2bEdBZHAzbU9saWV5MTRKVWdpY0xZN0N5ZDg4dVdWRFRoUy1PVUVVb2hzekcxNDBYS0VUQQ?oc=5",
-      "pubDate": "2026-08-19T20:55:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる  テレ朝NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる - news.tv-asahi.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OYUZFRHZCNXJjTlJUdTZMSTI0X3hhVnp6YW1fUXV3dUpHc3pPWEh6QWFKaWx5OERVY1lqM3F2bEdBZHAzbU9saWV5MTRKVWdpY0xZN0N5ZDg4dVdWRFRoUy1PVUVVb2hzekcxNDBYS0VUQQ?oc=5",
-      "pubDate": "2026-08-19T20:55:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる  news.tv-asahi.co.jp",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる – Quebee キュエビー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDa09URFl2dGl5VzMyLTd3a1BDdjI0QklnczFJakdDVTFrWGJYR0pFSVFFTkdmcU5rYkVlWmJpQVJ2Y08tb0tYRTBfdzM1YktwdVJubFZYWTg?oc=5",
-      "pubDate": "2026-08-19T20:55:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 被災の井戸復旧へ 断水原因などの調査始まる – Quebee キュエビー  QAB 琉球朝日放送",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-20T04:10:47.443Z",
-  "lastAttempt": "2026-08-20T04:10:47.443Z",
+  "lastSuccess": "2026-08-20T04:53:31.289Z",
+  "lastAttempt": "2026-08-20T04:53:31.289Z",
   "fetchOk": true
 }
