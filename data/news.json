@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "今日の視角 熊本地震に思う（姜尚中）",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RQWRPbjA5WElKd2RhMXVRcHo4NGFLWHQyaF90QlhxSlQ1enN4ajBVakpNb1FjVTdNaGM3Y2lySFFsMnFKRl9Eb3VrTDdYenh6NFVpdU1Na0hoaml5eElObzR0bU5FUVotVC1TOF9sY2M?oc=5",
+      "pubDate": "2026-08-22T05:05:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "今日の視角 熊本地震に思う（姜尚中）  信濃毎日新聞デジタル",
+      "category": "disaster"
+    },
+    {
       "title": "2026年熊本地震＞八代市の県道通行止め解除 陥没箇所避けて迂回（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWEhoY2N1dWR5WDNDR2dGMmJwak9mbzJONFpkVnhGUkZUajBZQUJ5NkwzUC03eGY0NkJ4d25xbUU2TTkyMGV4SGhyVUZqSUJBQVp3bjBQdmQzMHF0TnlPODlLQ3VNYjdyMDdfc0QyTld6VXVPNWFJd3pRWUt5Q1k?oc=5",
       "pubDate": "2026-08-22T04:39:21.000Z",
@@ -56,7 +65,7 @@
     },
     {
       "title": "熊本地震で被災 私立学校施設も新たに激甚災害指定へ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZkc4UU0zYzhac051RFpQcVFsWlRtOFh5Tjhud3ZjZUNzbmREZ01DSG5OZ2lZNUdVbnVnUUxDdFg0QWxmQkZzRDdNRm9DX3l4QUxNcXVmMkNPWXZkQ01pdFRRbVh4RUU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jWks1OVRVYk1reWFqdUI3Sm1zR09RajJmZWpoM0ppRkJ6akhKemRPV3Q1YlFxWUc1V0tWc2pDdGdaMk05eE90bUlCMWF6VThoV3hDVTZDMG9JUQ?oc=5",
       "pubDate": "2026-08-22T03:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -73,15 +82,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震被災地で下水道管の点検「断層のずれが起きた場合、耐震化をしていても無事では済まないと感じた」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lNWE3Y2I4UlhhaU9PM21IYnVxSURabEhKMVRDYVp5N2RMQy1LUHhLTWs3Y2lldjZIdzc4ZG9xX0pjQ2pEODI4MzdIeFZ3blBTV1MzbkdLS2JnSk1qNWgyeHRVcXdmZE5tNlNUMm9TbTB3bGZaak8tUEJFUFYxS1U?oc=5",
-      "pubDate": "2026-08-22T03:39:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震被災地で下水道管の点検「断層のずれが起きた場合、耐震化をしていても無事では済まないと感じた」  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "深さ2メートル、直径1メートル 道路の陥没は地震の影響の可能性（ＫＫＴ熊本県民テレビ）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZjQ1OWZfN0gxTko1aDZNVHhCc01TUEUtT0lWbXRlOUs4LW05X2RKSjRQaW5lRlM1Q2NmQVhtYnZKU3pzRzFtNUJycFRydElrdjJ0U2hWNnlfVTJONWdtNGM3MFcza3k2WUVKdnBydWFzVm16ODBBUTVrbnpvUkU?oc=5",
       "pubDate": "2026-08-22T03:38:01.000Z",
@@ -89,6 +89,15 @@
       "type": "local",
       "description": "深さ2メートル、直径1メートル 道路の陥没は地震の影響の可能性（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "infra"
+    },
+    {
+      "title": "熊本地震被災地で下水道管の点検「断層のずれが起きた場合、耐震化をしていても無事では済まないと感じた」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6VGNpZjhsd0ZrQjhVUlBXZGlQSlBiQk14Z1QycXpGdlRWS2J5T1FIT0NnOEV2WmVNYThzMDVDa2ljRy0zc3FvZmkzRFl6b0xtNGtVUjhXaE9kRmp2Q0lHZXB2QmJDVnBKR2x1c1FpX3lEQQ?oc=5",
+      "pubDate": "2026-08-22T03:38:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被災地で下水道管の点検「断層のずれが起きた場合、耐震化をしていても無事では済まないと感じた」  読売新聞",
+      "category": "disaster"
     },
     {
       "title": "熊本地震被災地で警戒警備、窓枠ゆがみ閉められない家の住民や車中泊の被災者に頼まれパトロール（読売新聞オンライン）",
@@ -334,6 +343,15 @@
       "category": "infra"
     },
     {
+      "title": "熊本地震による住宅被害、１７３６棟増え３万６７８４棟に…４０５０戸で断水続く：地域ニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhbXZSSXNSU29TNlhXZGFpT3M0S0dTS3hfcndPLUdaM3V4SmktQXpVTXY5RG9RTm5wM3RmSGVKeW9LenZuYnJHQXg5VnhLMFh4NktDdFVtUW5iVXZFQzNmSUFYb0pMakF0QjdxNnZURGpjdw?oc=5",
+      "pubDate": "2026-08-22T01:48:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震による住宅被害、１７３６棟増え３万６７８４棟に…４０５０戸で断水続く：地域ニュース  読売新聞",
+      "category": "infra"
+    },
+    {
       "title": "塩田鹿児島県知事、県民に県内観光呼び掛け 熊本地震を受けて",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TNXlVcXVFWW1IM251M0M5YXFXbFZldlY1clZ3WWRHMkdlWmx5WlVkMldnMk1OTlU1ZDROZmF3MVYxMXk0cVQ1ejA3UUR6cFYyOG9rVA?oc=5",
       "pubDate": "2026-08-22T01:34:19.000Z",
@@ -362,7 +380,7 @@
     },
     {
       "title": "「ネパールは天国だった」「パーティーやってよかった」熊本地震の被災地隣県で“無神経すぎる”発言連発…政治家なぜ「失言」繰り返す？",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOampoSVN5VUlXcmxEckwxOVVBWENheXR5azBZcjVOLXNnVWZpN2tnSERfWWRGNHA5OVpFWGhrMUZHRjQ5NXVqVEQ1bXRoTUhrWjA5MC16T1JpRHp6MWhFVDdld0RZUmMtek1MZlVnbXBtOWdWS1JTT1VQUjBQS0RiTjQxVURlZVNs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53ak42REUxUmZBaDlMcVB3VkdlUlNoajh2R1plUWZMZmNtaG5XMkVEZ19QdGFZOU55Y2UwdkJ2V0VkUXdJTkJ2T1JSZzFYbXpUM1JJX3JmSHhhUE5JVWh6ei1uLWYtZjE4YU1zMm1tdEkyYlkzbjMtTWRaV0g0VFk?oc=5",
       "pubDate": "2026-08-22T01:00:58.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -515,7 +533,7 @@
     },
     {
       "title": "熊本地震、「買って食べて応援」広がる 名産品求め、県外から客も",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1NVMUpST3d0MzhmX1U4YjVKUk0zS0djdFZCWVd3dWRMcUV5Y1IwV3lTM0FyOGZNUVdJRjd6RTh2VlVaWFdCbEppSjlIQVFfdC1PTzk4MDZEdklBbElfb0FpS0R4dDJ3VWRSZmxjekwxVTFDeGdIbzloYUJORER4QnJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FVDBTelFGelMzeVJtLWRxN3JoSF9FVm5DbUlZdFJkQl9SU0tIeHpWMEwzdHFvVXJWQnprMUloVV92UExEVjl4ci1rY1NjRUdhTFBSNGpTeERiZWdENm9FekQxbw?oc=5",
       "pubDate": "2026-08-21T22:09:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -802,21 +820,21 @@
       "category": "other"
     },
     {
+      "title": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Yejd4My1DdmZzRUtCMnM4UzVlS3RBbld2RjVEVWJrWWdUMjgxcGNNTWx6ZnFmWGZJaE82bkVUMWpLR3I0WkFrWE1TN05kQkdmamFZai1lbnc2TDFOMklEZlBWTloxM0w0U2FPTDJn?oc=5",
+      "pubDate": "2026-08-21T16:30:40.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡  au Webポータル",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡（FNNプライムオンライン）",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVGRxWGdJXy1aUTlNa05vYjdTVUYwNUhEcWdZVWY5VERhQWpSN1ZKVzVCS29hS2pLNk1IcWNSU01MMDlBS3Y4b0RHWmUzMl9IUjIxU1ZfMmhjRlBobUp6MFRJOHZNanJsTGlHemlrdw?oc=5",
       "pubDate": "2026-08-21T15:39:29.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡（FNNプライムオンライン）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Yejd4My1DdmZzRUtCMnM4UzVlS3RBbld2RjVEVWJrWWdUMjgxcGNNTWx6ZnFmWGZJaE82bkVUMWpLR3I0WkFrWE1TN05kQkdmamFZai1lbnc2TDFOMklEZlBWTloxM0w0U2FPTDJn?oc=5",
-      "pubDate": "2026-08-21T15:30:40.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で倒壊した煙突の撤去作業始まる 日本製紙八代工場で9人死亡  au Webポータル",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
       "category": "disaster"
-    },
-    {
-      "title": "【速報】八代市など震度2（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUN6Q1F2ZDlldFFWdjlwc3lvT0UtOW9DNnZIOGFKc0x1S3Z5S0o0WmZZRnF5NzRyRVJvUUUtZERiS2VPdE90YW53R0JMSWYzbEVPMXBhZFV3bll0N3R3Tzh2NnFJbjJ6d1RYRkVXNTE5eUFuQ21NS0Vjek5GQ1JOY2NXTGlWZEJkYlJTeWV3?oc=5",
-      "pubDate": "2026-08-21T14:35:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市など震度2（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】宮崎の記者と防災士が見た熊本地震の現実…浮き彫りになる「届かない支援」と求められる南海トラフへの「300％の備え」（FNNプライムオンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cHNybGVHOHRmLTVpcUppYlJ6VjVubTFNTXRaamZQbUNTaF9VSmZpczAwSGY1bmhqRk94ZHl6NnAxTkV2RFc4QmJqYlJYSEtQZGdWMThPSGE4NVcwNnFQa3FrTXBPOE5zc1FVaTAyRFAwTUxqZkdSSGw5a2tSS00?oc=5",
-      "pubDate": "2026-08-21T14:34:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】宮崎の記者と防災士が見た熊本地震の現実…浮き彫りになる「届かない支援」と求められる南海トラフへの「300％の備え」（FNNプライムオンライン）  Y...",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-22T04:49:20.958Z",
-  "lastAttempt": "2026-08-22T04:49:20.958Z",
+  "lastSuccess": "2026-08-22T05:26:32.101Z",
+  "lastAttempt": "2026-08-22T05:26:32.101Z",
   "fetchOk": true
 }
