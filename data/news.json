@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "title": "59周年目前、熊本地震で倒壊 名物喫茶、老マスター無念",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByb2xRckxxaHduamVGUTdzd3VCQVVWbDJnRlh4M3NVV0JyT0JNVEoyNG9BZWRlVWRhZEkydTJ4eHd2X3NOTlZ6NUl6SmZpVDlndk1US3ZRLUhMSlU5VVZpX2VUbFltcXlR?oc=5",
-      "pubDate": "2026-08-22T18:20:40.000Z",
+      "title": "熊本地震２次避難３１％ 希望１３０７件、３７％決まらず 調整に時間、辞退も",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0waHJiNHNNNzNXY3FmYUtwYWtRWkdnWV9tRERnMTJiT05vZHVFR1ExMUFmemYtd3RCVTFIOHNxalhnTFFLUTIxclR0bnFrZ0VCSHJxX3ozUDFlbHc?oc=5",
+      "pubDate": "2026-08-22T19:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "59周年目前、熊本地震で倒壊 名物喫茶、老マスター無念  毎日新聞",
-      "category": "disaster"
+      "description": "熊本地震２次避難３１％ 希望１３０７件、３７％決まらず 調整に時間、辞退も  山陰中央新報デジタル",
+      "category": "life"
     },
     {
       "title": "【速報】熊本市西区など震度1（熊本日日新聞）",
@@ -34,6 +34,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "関東で震度５弱 （共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "59周年目前、熊本地震で倒壊 名物喫茶、老マスター無念",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByb2xRckxxaHduamVGUTdzd3VCQVVWbDJnRlh4M3NVV0JyT0JNVEoyNG9BZWRlVWRhZEkydTJ4eHd2X3NOTlZ6NUl6SmZpVDlndk1US3ZRLUhMSlU5VVZpX2VUbFltcXlR?oc=5",
+      "pubDate": "2026-08-22T17:04:22.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "59周年目前、熊本地震で倒壊 名物喫茶、老マスター無念  毎日新聞",
       "category": "disaster"
     },
     {
@@ -361,6 +370,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震、重症者31人に 家屋被害は3万7千棟超",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kaExFaFdkbDJ2cVNPbWFaQUpnOVVEc3hqWVlZem9FYWE2MXhZUUQzM3Vib1R6YVB3b0xqT2tFendiZ0o1RjlicWp1OA?oc=5",
+      "pubDate": "2026-08-22T10:06:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、重症者31人に 家屋被害は3万7千棟超  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "広島県警が「特別機動捜査部隊」派遣 熊本地震被災地で窃盗被害など防ぐ（テレビ新広島）",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0pLbVczLVY2NEFSa1J0Y09POVlDUkdVZ0NDMUNuemdUYTEyelFpcEJJcmtUUUMxNXVrWE1lS3UxNDZ4dE9KdWlUZWtoVXFVZzAxYzc3eEFUd3hiaDlvMHB0dTBjMVR2Q0U2dUk2WFlNZUtGTTBvWWdKd1NLdVZ3MHhPT2Yyc0ZBcXRHYlRn?oc=5",
       "pubDate": "2026-08-22T10:01:01.000Z",
@@ -559,15 +577,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、重症者31人に 家屋被害は3万7千棟超",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zNGNCUF9GQW8wV0RuRmRQdlJ6UmxGRnc3b00wUERiLWJlUzV3NHVHeV9sbkxxQU5HcTMzMHFXZGVNUGNLRUdVN3EzMkNINHo5UWVaRE5ka0p2UQ?oc=5",
-      "pubDate": "2026-08-22T08:45:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者31人に 家屋被害は3万7千棟超  北海道新聞デジタル",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNF9EOUduYll3aTJ4LW5EeVZWWEFKMHZaYUI5Y09Vd2tYc0J0RlVfSjlWTURDNjMweGFDR05EWGVtaV8zZlY5NHZnaHRIVFU?oc=5",
       "pubDate": "2026-08-22T08:44:40.000Z",
@@ -668,11 +677,11 @@
     },
     {
       "title": "九州の観光復興へ需要喚起策 官房長官、熊本地震で",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpbmExQ2hSQzJwQjRMRDkxZlZNMW9Jcml6R1N0Rk40eVlFMWZ4V2w2SHBRNTRKekI0QzNfU2ptODlMMklBYTEtbFQwVzNfREhTNXMxZkVtenRZZw?oc=5",
-      "pubDate": "2026-08-22T08:09:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qR0w5NDVOdEVzdExnRmFPUUFwX1RmZVRzeUlOQ1Nmdml0Z014N3Q0VXBqVGNDbVlzUVdId1FQcER2VER0cjhsS2c1Yw?oc=5",
+      "pubDate": "2026-08-22T08:07:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "九州の観光復興へ需要喚起策 官房長官、熊本地震で  北海道新聞デジタル",
+      "description": "九州の観光復興へ需要喚起策 官房長官、熊本地震で  47NEWS",
       "category": "disaster"
     },
     {
@@ -838,21 +847,21 @@
       "category": "life"
     },
     {
-      "title": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSWV6NVhkZDJNQU55MkNlU2RCcUVCaW93bmFJZ1lYVW1rSDVRU1Z0eHQ0S016cGhjZUU2b3FrNUtOekhfMlBDTHVIX2Qwa0NiaTZ1M1JnSkVaYWVGX2pTTw?oc=5",
-      "pubDate": "2026-08-22T06:07:52.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  愛媛新聞",
-      "category": "life"
-    },
-    {
       "title": "松前町職員が熊本地震の被災地支援へ出発 3人が5日間、氷川町で避難所拠点化など（愛媛） (愛媛新聞ONLINE)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORV80Q01NcmUtYk1ZVjdlMnhrekxSeE4wT0R1eHRjdnV3TXpoNzUyWGxOaEdGRnd1Q2d6a1lwbDAxQmlUR2VyVGtNRGQ3a1VnOWtJVV9zN3FhTWZkQ0dMTXFEekR4YXRpMnhxLUJaVWhCQm1MRDlWM1FVdWtXbGxDb3JhQ3hjaThoT2U1T2NR?oc=5",
       "pubDate": "2026-08-22T06:03:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "松前町職員が熊本地震の被災地支援へ出発 3人が5日間、氷川町で避難所拠点化など（愛媛） (愛媛新聞ONLINE)  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zUUZWUEZnUUF5OTZHM2RqZUVURUdPYUJZd3YwVWNCdHFBYVBzTHFaTktBa0R4MnJycGlJMHV2RC1hNEhCaHNiSENnTQ?oc=5",
+      "pubDate": "2026-08-22T06:03:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  47NEWS",
       "category": "life"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官  NHKニュース\n熊本地震復興へ「九州応援割」 観光需要喚起狙う―木原官房長官  時事ドットコム\n熊...",
       "category": "life"
-    },
-    {
-      "title": "熊本地震による住宅被害、３万６７８９棟に…全壊１６１３棟・大規模半壊１６７棟・半壊１９５１棟（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdUhMMGlfUF9mc3l3NDU5enJRUER1eXZRTnJkM2FfSjV1NWdfSVdndnVZcFdRSmZKY2NhUHpBZDB5SmJKLWVQNkRoLW5WWnBHU1VTN0RTWU9DZlVaNE1kNHVud0xNWW5SdE1aX1BZSFNBNENzU3JJX0ZwaS1la00?oc=5",
-      "pubDate": "2026-08-22T05:35:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震による住宅被害、３万６７８９棟に…全壊１６１３棟・大規模半壊１６７棟・半壊１９５１棟（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-22T19:00:19.085Z",
-  "lastAttempt": "2026-08-22T19:00:19.085Z",
+  "lastSuccess": "2026-08-22T19:34:48.009Z",
+  "lastAttempt": "2026-08-22T19:34:48.009Z",
   "fetchOk": true
 }
