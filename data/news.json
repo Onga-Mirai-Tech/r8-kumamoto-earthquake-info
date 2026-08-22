@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5heW9adnBVWFhsbmh0NDNTZ1BNQ1puNFQtUHhCek1PczFXTDVXZHQxdkdXcWZZaWpoZ2dsMUtnVWU5OW1od216UWpTZ2t0bVR0RWQtLUEyam1qeHdQb3VWcWNsRUNzdFNHUFhiOHVqYnplSTdUWFlISXZCd2xSZmc?oc=5",
+      "pubDate": "2026-08-22T23:19:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」（共同通信）  Yahoo!ニュース",
+      "category": "other"
+    },
+    {
       "title": "「10年前と何が変わった？」令和8年熊本地震で自衛隊はどう動いたか 要請前の初動と八代港で生きた教訓",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDdsclJueUxFZjNOVDJ3anRlNGo3QW9rM3J3aUZWdEUxQWg5VmFXek5WTGlVT1RhckFkVm5GYjRrR0o0bzd5bmlva0tnclZNT0lMRXBraG1XVkNHUmtJWURiWWhCdmtkOW9hckNDOFllYTFUMnZhS0E5SVVRNnl6bVUwRkliRlFXXzNDT09B?oc=5",
       "pubDate": "2026-08-22T23:12:18.000Z",
@@ -37,12 +46,30 @@
       "category": "other"
     },
     {
+      "title": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44b09EdC1hWmhrMm5Cbzhla2xXUDdsOS1ta3BEXzRtcGhQSFE1c1BiTVJtY2NTRUdCNUluODVibC1oTnBHcnVHRDdkUVpGYVk?oc=5",
+      "pubDate": "2026-08-22T22:28:51.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tzhmb0hfaE1RSnBobWl1b3FDYnpSclhCRXpNOG50bUlOZ0RiX0xPWXl4czcwMHJWVjRCd3FtakZONmoyMlhsSWtFZl83ekRTYkdzcTNqaFlyeDctYVNvWnRDSnppMVcyMUxETUdJYmhtYUlIRVVJa3lRLVpvclk?oc=5",
       "pubDate": "2026-08-22T22:17:44.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkc1dJXzBZd0lRb3NPQmdqVVRxTWVKTVVGRTB1UUhha0NjenBOd25KRXVFZjJfR29SX01XS3k1ZURLODhjQ0hSMmpQQV9OdnM?oc=5",
+      "pubDate": "2026-08-22T22:13:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -62,6 +89,15 @@
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
       "category": "disaster"
+    },
+    {
+      "title": "「キン肉マン」で復興の力に 被災の画家、コラボ作品で支援―震度６強の美里町・熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50dkdoaFJUYWRyamxyV2xXNXd3YlVNN2lMdDZTYy16LWZKcW40M2dENWFpYnhuNEU4dDA4X3RRVWdQNVJQMDdDMzVrSmZKSGZxaTNPYXZTYWdCaDBvWDdkajZ3SQ?oc=5",
+      "pubDate": "2026-08-22T22:01:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「キン肉マン」で復興の力に 被災の画家、コラボ作品で支援―震度６強の美里町・熊本地震  時事ドットコム",
+      "category": "life"
     },
     {
       "title": "胎児性水俣病患者が被災者支援 石川さゆりコンサートの取り組みで",
@@ -91,15 +127,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTktZUnAyWEVnd25TRzIzUDRrZzlZcnVOX2lwYVVHenkzdDZ1Ty1nYldvTG9melFlV3RVQzhxdTQ3OV9hVzU3ckVCQUVxVnZNQlltcVBZcTlDSmdBd3FNRV9zXzhIQmN0ZUc0dVN2cUY4Mmxab2I5eUJVSUY2LUk?oc=5",
-      "pubDate": "2026-08-22T21:09:29.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
       "title": "熊本地震でEV急速充電器「FLASH」無料開放を継続、熊本県内5拠点で…テンフィールズファクトリー",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZLXdvbFlyUTBnSENyMzJESWU5WG5VX0lpRV95YzNzSExTVjZtNElhaG9HODQ0MW9nLUpDeVdPQW03Q1lqeXVObi1VWkkzWmlDamdQSXZVLXBOdEdGVmk4ckt3?oc=5",
       "pubDate": "2026-08-22T21:00:16.000Z",
@@ -115,6 +142,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "佐賀県歯科医師会と歯科衛生士会、支援チーム派遣 口腔ケアをサポート＜令和8年熊本地震 支援の輪＞  佐賀新聞",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UXNIeWNDRTRDOHpjSmloWjV4aTNtbWx5QURlOU9ibDhyb2NPR2pVVEpPRFpwa2pVUmo3NVlzcFRqOFJ6emFXajQtMDQ3NTF1S0ZkNGM0S1FlNGhJbzBDbEtOY3M?oc=5",
+      "pubDate": "2026-08-22T20:47:19.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超  新潟日報",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CWno1MDBfZjhnRkIyVjhfckFtRk1WQlQxSTMwQm4tdFl6SVpxTFdYMjdFelJOYVlKa0VfZmgwcjVrT3dkSThWRkFsUF90eVlLbzQ5c25R?oc=5",
-      "pubDate": "2026-08-22T08:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース  佐賀新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震後初めて地元入りした木原官房長官、支援に奔走…復旧・復興にも全力を注ぐ意向（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NHNzTDFoUnlZeDlWYlFwOUFycmR0VDNCRU5zWElBYi0zZERtb2ZWT2JUbzc3djZ2Y0t2aU1hWWEtdzVIQ0JtajdJMWNpMlB3TDhHeEU1OFE2YVZqMTNKZlRLMjhCZlU4amdNcXpLZnZUY21Kc1UtRzJGVmRWS2c?oc=5",
-      "pubDate": "2026-08-22T08:26:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震後初めて地元入りした木原官房長官、支援に奔走…復旧・復興にも全力を注ぐ意向（読売新聞オンライン）  Yahoo!ニュース\n熊本地震支援 「応援割」念頭に...",
-      "category": "infra"
-    },
-    {
-      "title": "2次避難、希望件数の31％ 37％が決まらず、調整に時間",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DbU5kSFJwQVVNUjJJREpGRVQ5XzV4SHVLNmg1SWotSHJDdzR4emF2Wi1oUHpQZVdoaGZXWFFRS3BvVmwwVkhpTEdnQQ?oc=5",
-      "pubDate": "2026-08-22T08:26:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "2次避難、希望件数の31％ 37％が決まらず、調整に時間  47NEWS",
-      "category": "life"
-    },
-    {
-      "title": "九州の観光復興へ需要喚起策 官房長官、熊本地震で",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qR0w5NDVOdEVzdExnRmFPUUFwX1RmZVRzeUlOQ1Nmdml0Z014N3Q0VXBqVGNDbVlzUVdId1FQcER2VER0cjhsS2c1Yw?oc=5",
-      "pubDate": "2026-08-22T08:07:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州の観光復興へ需要喚起策 官房長官、熊本地震で  47NEWS",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-22T23:20:06.175Z",
-  "lastAttempt": "2026-08-22T23:20:06.175Z",
+  "lastSuccess": "2026-08-22T23:45:50.781Z",
+  "lastAttempt": "2026-08-22T23:45:50.781Z",
   "fetchOk": true
 }
