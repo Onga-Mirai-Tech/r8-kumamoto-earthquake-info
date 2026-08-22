@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "熊本地震 県選出国会議員に緊急要請 ＪＡグループ熊本など",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRVY4NjZ6bGFub3BtdTkyd0lETURxOWtLU1A4MDNaYm95RVdqc2NWRV9NeVN4X1lYNm1aREpVX0VTZWhuTmpYMTRhMXJGeVpyYXRxTV9yTQ?oc=5",
+      "pubDate": "2026-08-22T20:05:15.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 県選出国会議員に緊急要請 ＪＡグループ熊本など  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 買って食べて応援 復興支える動き広がる",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdXhNdXhLQ25iY1VleUQ0cDFVaU1TdGNCNWt5cXliYUc0MW52Q3RuMERFTnFuLVhHTk5lbEJIakpFWWZoZHhKWEljREkxcDQtaTFLZGh3SQ?oc=5",
+      "pubDate": "2026-08-22T20:00:31.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 買って食べて応援 復興支える動き広がる  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 観光業支援 宿泊費補助へ…官房長官表明 「九州全体に誘客」",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObTQtOHRfUHN0U1dfMkdIMXFNZG5ad2pDZjJ1Q2hFWGd3WFVVWHdoMHkwN3pXbDlvVkEwaUJEMVhsTGRSVmpKS2FNR2VJU1Y4MUt6UFBJREw0T1ZYQ3VkUlJWVE9DZw?oc=5",
+      "pubDate": "2026-08-22T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 観光業支援 宿泊費補助へ…官房長官表明 「九州全体に誘客」  読売新聞",
+      "category": "life"
+    },
+    {
+      "title": "＜デスク日記＞「休刊日号外」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYl9OVTZHQ2paSnVCRGhEYTQ2aWd6NEJiYmJDM0JGVXFlY0lmbHlwMmlCN1BVeTBKeUx2S2hGcmpOWWttV21WU2NiRnotVTg?oc=5",
+      "pubDate": "2026-08-22T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜デスク日記＞「休刊日号外」  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "熊本地震２次避難３１％ 希望１３０７件、３７％決まらず 調整に時間、辞退も",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0waHJiNHNNNzNXY3FmYUtwYWtRWkdnWV9tRERnMTJiT05vZHVFR1ExMUFmemYtd3RCVTFIOHNxalhnTFFLUTIxclR0bnFrZ0VCSHJxX3ozUDFlbHc?oc=5",
       "pubDate": "2026-08-22T19:00:00.000Z",
@@ -20,11 +56,11 @@
     },
     {
       "title": "【速報】熊本市西区など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PZDJnZG92cUJ1OVVSaFE0bUJVcVF2ZTQ2dk5YelpnbVMya0VLekJlbDVvYmpvUzN6WlZvVm55RHpveC1UeDk0eDdHMmhhQWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lYWxVOVlEQzkyWFRLMzdxZjQwS3FIOUtWdl92T05YT0huaDQ0eUVaS0lDcWN2X0xpTGV1UVlGOWFOeWR6d3Q2YzFUYw?oc=5",
       "pubDate": "2026-08-22T17:51:05.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市西区など震度1  熊本日日新聞社",
+      "description": "【速報】熊本市西区など震度1  47NEWS",
       "category": "disaster"
     },
     {
@@ -98,15 +134,6 @@
       "type": "local",
       "description": "＜2026年熊本地震＞海沿いの水田で塩害か 八代市昭和同仁町 稲が赤茶色に変色  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞「僕は『歩く正露丸』」 宇城市の避難所で診療する医師・桑原さん クリニック被災「やれることをやる」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uams1SGlVeWpoOE5zbHpEWDRGdzZ0R1dDZUxtTWI4ZHhRMDZIVzc1RENvdHlkZmw1OGdWQXlSMkpIMTgzajdXZEhKanZuR3c?oc=5",
-      "pubDate": "2026-08-22T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞「僕は『歩く正露丸』」 宇城市の避難所で診療する医師・桑原さん クリニック被災「やれることをやる」  熊本日日新聞社",
-      "category": "life"
     },
     {
       "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞",
@@ -307,21 +334,21 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】上天草市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2dkFNeHcwVjc5RUtYNk9LcVVLaUZaT0ZQM2VHcElqb2plM0liMDl3bUdDZExPMzdZRWhZd0o2UzYwZWN0MU9fSUs1ZEFQSzA?oc=5",
+      "pubDate": "2026-08-22T10:34:47.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "熊本県で最大震度1の地震 熊本県・上天草市（FNNプライムオンライン（フジテレビ系））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91c19HQVpKRTlOTHNpdDRUZWRVSzZ3SktlRzRZQ2lvdGpTeDRkVDFZUTlDRFFMZlRQUlViWHdZVm9Zejh3Z0Z2eFBna2FMNlJGY0FfRXZ6VEhRRlZfOXpPQ1N3RkZyd3UzLXN0UXlKRUNpNmR0a0tzT0UtVV9jMjA?oc=5",
       "pubDate": "2026-08-22T10:34:19.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・上天草市（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】上天草市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2oxRV9EM1diazRwSVU5c3F0aGxqUjRuRk52bW1fcDN4ZnpraU1MeTIxSFVFMlF3ZEFxZHhvLXR3am5rLTVMbllMWTAtQVpyYnN4RnBXQU5aTXJMWjhDUkw2OFU0RXNSRWxBNUVXNktvejJWWmZmeTNHeGdPbHVzbEdn0gGHAUFVX3lxTFBBcTlobU11cmdjSGlqYWIwOERZQW9wNXhOZzh2QlFDSDFSUG5Jd081VlBMWm9MbWpNeFByRHJGdWlHREpvZExybzBaZU0xNnlHLU1tclBQRWpxWkhIWjlUbDBvdnZraHZWNElOVzhER0lmbnpJanNnZkVxQ2NOQTNkVDZnRWtaSQ?oc=5",
-      "pubDate": "2026-08-22T10:34:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】上天草市で震度1  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -847,21 +874,21 @@
       "category": "life"
     },
     {
+      "title": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSWV6NVhkZDJNQU55MkNlU2RCcUVCaW93bmFJZ1lYVW1rSDVRU1Z0eHQ0S016cGhjZUU2b3FrNUtOekhfMlBDTHVIX2Qwa0NiaTZ1M1JnSkVaYWVGX2pTTw?oc=5",
+      "pubDate": "2026-08-22T06:07:52.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  愛媛新聞",
+      "category": "life"
+    },
+    {
       "title": "松前町職員が熊本地震の被災地支援へ出発 3人が5日間、氷川町で避難所拠点化など（愛媛） (愛媛新聞ONLINE)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORV80Q01NcmUtYk1ZVjdlMnhrekxSeE4wT0R1eHRjdnV3TXpoNzUyWGxOaEdGRnd1Q2d6a1lwbDAxQmlUR2VyVGtNRGQ3a1VnOWtJVV9zN3FhTWZkQ0dMTXFEekR4YXRpMnhxLUJaVWhCQm1MRDlWM1FVdWtXbGxDb3JhQ3hjaThoT2U1T2NR?oc=5",
       "pubDate": "2026-08-22T06:03:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "松前町職員が熊本地震の被災地支援へ出発 3人が5日間、氷川町で避難所拠点化など（愛媛） (愛媛新聞ONLINE)  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zUUZWUEZnUUF5OTZHM2RqZUVURUdPYUJZd3YwVWNCdHFBYVBzTHFaTktBa0R4MnJycGlJMHV2RC1hNEhCaHNiSENnTQ?oc=5",
-      "pubDate": "2026-08-22T06:03:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  47NEWS",
       "category": "life"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "松前町職員が熊本地震の被災地支援へ出発　３人が５日間、氷川町で避難所拠点化など  ｄメニューニュース",
       "category": "life"
-    },
-    {
-      "title": "熊本地震復興へ「九州応援割」 観光需要喚起狙う 木原官房長官（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQUV1bTVSUnVwd1BfcS04NlItNDJBVWN5aXl0VWJjSEZJRWE0YzY3eC0zemZaVGIxMHFZenNXbjJ6MzlTM3o2Qi12R2g1NURId01XNlFRM09tWjMxMXJRcWNKRGYxZ2VacERvYmQtQ0pIMDZrVFpwbTJiVFFoXzg?oc=5",
-      "pubDate": "2026-08-22T06:02:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震復興へ「九州応援割」 観光需要喚起狙う 木原官房長官（時事通信）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震復興へ「九州応援割」 観光需要喚起狙う―木原官房長官",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIb2JwWkhDckM1VmV4ak5XdHJZZW5GSzNlaGpXUGJKWjQxV3lzc2ZlODQ1VmttQ05hWjlaLTVrdUZnM2s5Q1NTaF9sX3E3Ml9TVS1oUW1VV1hkcXVYQmV1TWxYZw?oc=5",
-      "pubDate": "2026-08-22T06:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震復興へ「九州応援割」 観光需要喚起狙う―木原官房長官  時事ドットコム",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0M3FqaEpaWk03TjVyS1M4TktLYWdBT21LQnczR0FnRlFRSGRrLWg2RThPR3BmdFBoVUx6Q0cySDg4bThVUFlBZTZVSXh4VWVZdmJFZDU4aTJ0ZS1HbGRR?oc=5",
-      "pubDate": "2026-08-22T05:36:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官  NHKニュース\n熊本地震復興へ「九州応援割」 観光需要喚起狙う―木原官房長官  時事ドットコム\n熊...",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-22T19:56:22.969Z",
-  "lastAttempt": "2026-08-22T19:56:22.969Z",
+  "lastSuccess": "2026-08-22T20:26:01.063Z",
+  "lastAttempt": "2026-08-22T20:26:01.063Z",
   "fetchOk": true
 }
