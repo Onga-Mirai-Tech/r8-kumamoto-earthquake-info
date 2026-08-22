@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "熊本地震で山門崩れるなど被害 八代市の勝明寺で復旧作業続く（日テレNEWS NNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tV3VQNFNzVDBwd1R2Z3ZqTldmMlZkSWFadXNRWTVZYldCZ3QwVzJjeWlWOV9jN29wc21YU0NqRC1sNEJMRlFCaVc2V2c5UlJsUnZDOUc2VVl6N3dkMXlncTR5SU9fQnpBMi1ZV0RVNGxkQ2FhT0FoTzRQdnNLSzA?oc=5",
+      "pubDate": "2026-08-22T16:09:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で山門崩れるなど被害 八代市の勝明寺で復旧作業続く（日テレNEWS NNN）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "2026年熊本地震＞運転免許有効期間、特例で延長 災害救助法適用21市町村 八代署など講習休止「免許センターで手続きを」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iM29lNTFSZWtuaEx2Sml4elZzLVdXWUJNa3V2TmwtZjRSMWtlemNHMXBZRFZheTkybU43aWM0X3dYeVpKWUZGQVkyaFRjVlE?oc=5",
+      "pubDate": "2026-08-22T15:50:44.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞運転免許有効期間、特例で延長 災害救助法適用21市町村 八代署など講習休止「免許センターで手続きを」  熊本日日新聞社",
+      "category": "life"
+    },
+    {
       "title": "令和８年熊本地震義援金／民報教育福祉事業団（２１日） ▼会津美里町の新鶴地区赤十字奉仕団が３万円",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KSFNQWFppdWI3ZUM2SExGaFFpVXdRNlh2S3ZkUmpRaGhDdW81azhfQjZnN3FVTmN4V0RXTFJablBKLVlTR2hZbkdqNA?oc=5",
       "pubDate": "2026-08-22T14:02:01.000Z",
@@ -282,10 +300,19 @@
     {
       "title": "＜最新＞熊本地震 県選出国会議員に緊急要請 ＪＡグループ熊本など",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54NU1fRmc3SFFQN1BRZjMtWndBR2laekVlamR1NTVwMFVhVTd5MkdJd05odnBSMkJrMm1NQlR2Y2RpZEV1X014cUhWLVpXR3RPbld6ZXZrVQ?oc=5",
-      "pubDate": "2026-08-22T10:07:48.000Z",
+      "pubDate": "2026-08-22T10:12:24.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "＜最新＞熊本地震 県選出国会議員に緊急要請 ＪＡグループ熊本など  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、重症者31人に 家屋被害は3万7千棟超",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kaExFaFdkbDJ2cVNPbWFaQUpnOVVEc3hqWVlZem9FYWE2MXhZUUQzM3Vib1R6YVB3b0xqT2tFendiZ0o1RjlicWp1OA?oc=5",
+      "pubDate": "2026-08-22T10:06:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、重症者31人に 家屋被害は3万7千棟超  47NEWS",
       "category": "disaster"
     },
     {
@@ -538,15 +565,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震、重症者31人に 家屋被害は3万7千棟超（共同通信）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、重症者31人に 家屋被害は3万7千棟超",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUbEhxVE5pV3ptYWtpYzVyVWlwT2JycDZteS1pRzk5ZTJhUHhSb0h4QkY5aDcxV2plUzMzcEVseS1mUzRFMHc5Y1VMOW4tQjNISzRZNmVGREc0dXd2VUZIb3RwN09vT2hhLUpz?oc=5",
-      "pubDate": "2026-08-22T08:38:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者31人に 家屋被害は3万7千棟超  信濃毎日新聞デジタル",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "2026年熊本地震＞八代市の県道通行止め解除 陥没箇所避けて迂回（熊本日日新聞）  Yahoo!ニュース",
       "category": "infra"
-    },
-    {
-      "title": "熊本地震、宮崎県内の宿泊施設のキャンセル影響額は５億円以上…３万３０００人分程度と推計（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdU8wTVZkZmNIdE9NS0lxRTg2YjdMWGRDZ1E2WVpkeGlYcVZ6OW05TV9seE5lRjJoZDVCSThHQ3BFYWFsV3VaSWVNSWI0RmtJM3B4dV95djBmSVNqVXNQVjFoUFRVWDVaZTFMTEFSY05jcGVYdDBYVUJhSUJzRE0?oc=5",
-      "pubDate": "2026-08-22T04:22:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、宮崎県内の宿泊施設のキャンセル影響額は５億円以上…３万３０００人分程度と推計（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、ホテルや旅館に２次避難している被災者の健康維持へコールセンター開設…必要に応じて見回りも",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81R0pHNnpWaFNZQ1B6Umd0Q1FwZXVmVnVYTnJ2TkJjYXRVT3JUVWpENHptSnBKYkt6Ykk3ci1FTzZMWWlmX3hEZ0hodFRIUDNMeVNzQjJLM1J5S3JvN0s3cF9ORWZzSmlPNHR4TmYyZFFVdw?oc=5",
-      "pubDate": "2026-08-22T04:18:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、ホテルや旅館に２次避難している被災者の健康維持へコールセンター開設…必要に応じて見回りも  読売新聞",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-22T15:46:18.761Z",
-  "lastAttempt": "2026-08-22T15:46:18.761Z",
+  "lastSuccess": "2026-08-22T16:22:32.895Z",
+  "lastAttempt": "2026-08-22T16:22:32.895Z",
   "fetchOk": true
 }
