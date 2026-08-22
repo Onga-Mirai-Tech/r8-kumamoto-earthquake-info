@@ -1,12 +1,30 @@
 {
   "items": [
     {
+      "title": "熊本地震 八代 ボランティア活動に向け建物の安全性を調査",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RVC1FRE5lbGExVWRnaFFZaHNBdjB2eHJHSWlaV3dHcTJtZFRrTDdRUmQtNDlvQmxZRjQ5QUx1YVFRVEZoYUo2Rm41N1dNZXBfSkh5R0ZScDlyc2FpcWtn?oc=5",
+      "pubDate": "2026-08-22T11:30:09.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 八代 ボランティア活動に向け建物の安全性を調査  NHKニュース",
+      "category": "life"
+    },
+    {
       "title": "2026年熊本地震＞「八代の発展を支えてきた」 日本製紙工場の復旧支援 市がクラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15RlJTMGxhWHZDTWw3ZjFFWFNWdWl1LUNLUmJSazM2eENpZzJYVFR1VnhqX2p5Tm9YRVpSajBRSFNHTnZxTjZLS2szR2tHajg?oc=5",
       "pubDate": "2026-08-22T11:06:05.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "2026年熊本地震＞「八代の発展を支えてきた」 日本製紙工場の復旧支援 市がクラウドファンディング  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "＜2026年熊本地震＞「八代の発展を支えてきた」　日本製紙工場の復旧支援　市がクラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXB3NWVTUWZ2QlJEV1NiODBDNlRnUThPdXlsMXFSODgxSlFKNVM1MnAtLVdRVm9TS1JqSjNYWl9IVzJzajFwc3A2dG9XQkQzb0JfNlo5NHlDT21EYmVQWk4xVjRCTGNLVXEwUl91eEV0b0NBU1JIVEFhak1JMDNMa3ZRWlhxdkRIbEVlbjdNdEtWcG1P0gGHAUFVX3lxTFBHR0RIbldrSk1EcmlYWF9FdHVpUXQyd3FaTVBscFVweDA5MWFNbUlHQ2l0RTN5UjR1VG93SVN0SU1vZVhRaURjRTJ2RXFZbE55YnlHb3BsWnR5aEM0Nl9aYmEtM3pJQUlpbURmWDdDTTJxcXZSZnVDeVJuWVpWZXc1d2Fna21CUQ?oc=5",
+      "pubDate": "2026-08-22T11:06:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜2026年熊本地震＞「八代の発展を支えてきた」　日本製紙工場の復旧支援　市がクラウドファンディング  ｄメニューニュース",
       "category": "infra"
     },
     {
@@ -64,21 +82,21 @@
       "category": "infra"
     },
     {
+      "title": "【速報】上天草市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2dkFNeHcwVjc5RUtYNk9LcVVLaUZaT0ZQM2VHcElqb2plM0liMDl3bUdDZExPMzdZRWhZd0o2UzYwZWN0MU9fSUs1ZEFQSzA?oc=5",
+      "pubDate": "2026-08-22T10:34:47.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】上天草市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HWTYzdGt0T2J0dmlpbjZnOURvdlFYSGE2RmZORzNhNkxGckRNeVRoTFVjQ0NrQ19pM0RrejFEUnVRS2RNMVNzeHViQk5PM0RUNkhBX3Q1UEZjVTVKYmhtTFVGZjlfQWN5TEI2WTlDTl9aLTUzUFltTERJZDdHN0k?oc=5",
       "pubDate": "2026-08-22T10:34:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】上天草市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX2oxRV9EM1diazRwSVU5c3F0aGxqUjRuRk52bW1fcDN4ZnpraU1MeTIxSFVFMlF3ZEFxZHhvLXR3am5rLTVMbllMWTAtQVpyYnN4RnBXQU5aTXJMWjhDUkw2OFU0RXNSRWxBNUVXNktvejJWWmZmeTNHeGdPbHVzbEdn0gGHAUFVX3lxTFBBcTlobU11cmdjSGlqYWIwOERZQW9wNXhOZzh2QlFDSDFSUG5Jd081VlBMWm9MbWpNeFByRHJGdWlHREpvZExybzBaZU0xNnlHLU1tclBQRWpxWkhIWjlUbDBvdnZraHZWNElOVzhER0lmbnpJanNnZkVxQ2NOQTNkVDZnRWtaSQ?oc=5",
-      "pubDate": "2026-08-22T10:34:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】上天草市で震度1  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -136,21 +154,30 @@
       "category": "life"
     },
     {
-      "title": "【速報】八代市など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0eG1kSWVkR1B2MkREMHR1dlItWmtZTG5Oc2hVQWN4eC13bnIybFZjbjc4LS1OWW00TUVCRnNhV1RHRUhwR1hpVkpwSXhObjQ?oc=5",
-      "pubDate": "2026-08-22T09:42:03.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市など震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1dVVQMU9lYnZWRDcteUNzSmdlNE5SZzNKSExwR3F1VVVqWmotc0w3WmVaRTZDVWNxLUs0TWRLdGFwSzUzcmowVjVhOTJad3UwZ1FGeG9xdGN6ZmZxMk5vdEFWTGIzdFlpYzBxM0tMNjFwdS1Xblc0ZjFGeEtRM00?oc=5",
       "pubDate": "2026-08-22T09:42:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVS1JeFVIYWFDQmpvRzNIZ18xVFByRUFwaDFmd3dfVGtBaUNRdS1HWnI3dGlBS2pwYkFpUmlTMmNlVmdnQ3FWbmdiUTZHT0UxRXJfZWxEbWVpUWUwLU1rQmozZWJMRy1sZ21SVXRBU0F0SlVibHc3V2diZmowdVhqOE5R0gGHAUFVX3lxTE9rV2wyWTU0U3RRam50bUdzUGtVZ1lPcVVpYW8tbVZSNlZXN3loeVNmekE0UVM4eHVVdGZ3Y3BXcXl0M3A5Zl9MbVN4dkJOTHR2WHoxSi04WnlLOWo5d1A3OTR0YWs1Znltakl3NWF4MFVHNHpaLUJXdndqWWtVRHZ6Q3JXcndwYw?oc=5",
+      "pubDate": "2026-08-22T09:42:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市など震度1  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0TFRpWV9hUkNzUWRPQS0zNzJHNUJsZHpLQzhfa3RUVUtwNEQ4cVJ0SGFsUHlwSHc0ZzdBZFh0Y3BpdmJreTZOR2lmQWs2Mk03ZThGQg?oc=5",
+      "pubDate": "2026-08-22T09:36:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超  中日新聞Web",
       "category": "disaster"
     },
     {
@@ -298,15 +325,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0TFRpWV9hUkNzUWRPQS0zNzJHNUJsZHpLQzhfa3RUVUtwNEQ4cVJ0SGFsUHlwSHc0ZzdBZFh0Y3BpdmJreTZOR2lmQWs2Mk03ZThGQg?oc=5",
-      "pubDate": "2026-08-22T08:38:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超  中日新聞Web",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震、重症者31人に 家屋被害は3万7千棟超（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pQ0hJbFdFaXBHcVNzYmcyN0hCY01Qbm5LdFB3TDhGTzdQWmJZZEVFMXJobUltZy1Pd0w5cnFUbFY3Z3NwNF9iZjVRLVF5ODQweFdwVkRQZ3l6aEdPaTY3aEg1QVRpZjJBc0ZMY3J3c3VhVVVzb0Q2NHRGM0sxejQ?oc=5",
       "pubDate": "2026-08-22T08:38:22.000Z",
@@ -316,21 +334,21 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CWno1MDBfZjhnRkIyVjhfckFtRk1WQlQxSTMwQm4tdFl6SVpxTFdYMjdFelJOYVlKa0VfZmgwcjVrT3dkSThWRkFsUF90eVlLbzQ5c25R?oc=5",
-      "pubDate": "2026-08-22T08:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース  佐賀新聞",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qNF9EOUduYll3aTJ4LW5EeVZWWEFKMHZaYUI5Y09Vd2tYc0J0RlVfSjlWTURDNjMweGFDR05EWGVtaV8zZlY5NHZnaHRIVFU?oc=5",
       "pubDate": "2026-08-22T08:38:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CWno1MDBfZjhnRkIyVjhfckFtRk1WQlQxSTMwQm4tdFl6SVpxTFdYMjdFelJOYVlKa0VfZmgwcjVrT3dkSThWRkFsUF90eVlLbzQ5c25R?oc=5",
+      "pubDate": "2026-08-22T08:38:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、重症者３１人に 家屋被害は３万７千棟超 | | 全国のニュース  佐賀新聞",
       "category": "disaster"
     },
     {
@@ -366,7 +384,7 @@
       "pubDate": "2026-08-22T08:03:15.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "九州の観光復興へ需要喚起策 官房長官、熊本地震で（共同通信）  Yahoo!ニュース",
+      "description": "九州の観光復興へ需要喚起策 官房長官、熊本地震で（共同通信）  Yahoo!ニュース\n熊本地震で観光打撃 木原官房長官 \"九州応援割\" 念頭に 「九州観光の需要...",
       "category": "disaster"
     },
     {
@@ -668,7 +686,7 @@
     },
     {
       "title": "熊本地震で被災 私立学校施設も新たに激甚災害指定へ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZkc4UU0zYzhac051RFpQcVFsWlRtOFh5Tjhud3ZjZUNzbmREZ01DSG5OZ2lZNUdVbnVnUUxDdFg0QWxmQkZzRDdNRm9DX3l4QUxNcXVmMkNPWXZkQ01pdFRRbVh4RUU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jWks1OVRVYk1reWFqdUI3Sm1zR09RajJmZWpoM0ppRkJ6akhKemRPV3Q1YlFxWUc1V0tWc2pDdGdaMk05eE90bUlCMWF6VThoV3hDVTZDMG9JUQ?oc=5",
       "pubDate": "2026-08-22T03:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "鹿児島県 知事会見 県独自「国支援みて検討」 熊本地震 宿泊キャンセルなど観光影響受け（奄美新聞）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "【熊本地震】九州新幹線熊本～新八代間の早期復旧は、なぜ困難なのか？ 損傷個所は約900箇所 #エキスパートトピ",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDdIenpjUDl5Mml1QWVPdHpIVUhnU0MwSkE1VW5IODdwVUJrcy1wQ2owaXo5b21Hd2pSY19JR1BOcks4N3FVbzRlNzJFMVJyRUpfaWJSbm5uOHNzWF91UVZrNFFzU1hHaUVweFFXMjdraEc1RmEwaFVWX1NKSkFaQXhndnA1WnhK?oc=5",
-      "pubDate": "2026-08-22T02:31:12.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】九州新幹線熊本～新八代間の早期復旧は、なぜ困難なのか？ 損傷個所は約900箇所 #エキスパートトピ  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の災害廃棄物、27年12月までに処理 熊本県が方針（朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ja183a09sY19PblFXOWt1VTVRN3JuX0JPeVZPcTYwaUFRNnYtdEExMjRlV3gybzFsUTVBNzVKbVlaZktpVEdvWlpDd1FBVkFwUVF1NmNZdmpNWmttOVNHbUJWOExsM1FjdVRmR3ZhWmZWZ00zbHVRazFQMS04eE0?oc=5",
-      "pubDate": "2026-08-22T02:30:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の災害廃棄物、27年12月までに処理 熊本県が方針（朝日新聞）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-22T11:28:09.557Z",
-  "lastAttempt": "2026-08-22T11:28:09.557Z",
+  "lastSuccess": "2026-08-22T11:48:43.268Z",
+  "lastAttempt": "2026-08-22T11:48:43.268Z",
   "fetchOk": true
 }
