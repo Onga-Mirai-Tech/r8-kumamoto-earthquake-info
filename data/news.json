@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "熊本地震 八代市がごみ出し控える呼びかけ 処理が追いつかず",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtTXRuRDQ1a0txOVV2eWh3NmhaaC1EZ1p6SVRWY0ctMVh3VURfQjBCRkdPT3BOTW5ubHdyUHJSWnhQY0UyRnFrM2RZX2FVYnhkZklwMlBNR05xMDR6WW1j?oc=5",
+      "pubDate": "2026-08-22T07:34:21.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 八代市がごみ出し控える呼びかけ 処理が追いつかず  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45T1lTaDlCNFdvbDBibExLNmo2NXVXakEzdk9xQk9ONXlUWmRTbUxTOVhoVTVBNGVhSXNKN01sU3FLQ21sY29yRko3NA?oc=5",
+      "pubDate": "2026-08-22T07:31:31.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」  47NEWS",
+      "category": "other"
+    },
+    {
+      "title": "《2026熊本地震》群馬・長野原、草津の2町、職員を復旧支援へ派遣",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55RGdVY0RiNVB2cWhXYi1XLTd5bzJyZnpmSm00eXNxcFV6QlFjZDR4VWdNU0VKM2Ytd3lEbmpFZTdLaVA2cVphMmdad2M1ejBERHZGMWg5VUFHUQ?oc=5",
+      "pubDate": "2026-08-22T07:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "《2026熊本地震》群馬・長野原、草津の2町、職員を復旧支援へ派遣  上毛新聞電子版",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震復興へ「九州応援割」 観光需要喚起狙う 木原官房長官（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQUV1bTVSUnVwd1BfcS04NlItNDJBVWN5aXl0VWJjSEZJRWE0YzY3eC0zemZaVGIxMHFZenNXbjJ6MzlTM3o2Qi12R2g1NURId01XNlFRM09tWjMxMXJRcWNKRGYxZ2VacERvYmQtQ0pIMDZrVFpwbTJiVFFoXzg?oc=5",
+      "pubDate": "2026-08-22T07:05:09.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震復興へ「九州応援割」 観光需要喚起狙う 木原官房長官（時事通信）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "《2026熊本地震》被災地派遣の市職員を激励 群馬・桐生市",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc2FHbjZEZ3RweXVTcUxqa2RtLWZjc2NGbGFJbUVxQmVyamstS0ZQeENCRnBBUGlqR3otdVVuYzZfaXZKeDczamk0OTFqY05Zay13YjFsT2VkUQ?oc=5",
       "pubDate": "2026-08-22T07:00:00.000Z",
@@ -8,15 +44,6 @@
       "type": "local",
       "description": "《2026熊本地震》被災地派遣の市職員を激励 群馬・桐生市  上毛新聞電子版",
       "category": "disaster"
-    },
-    {
-      "title": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45T1lTaDlCNFdvbDBibExLNmo2NXVXakEzdk9xQk9ONXlUWmRTbUxTOVhoVTVBNGVhSXNKN01sU3FLQ21sY29yRko3NA?oc=5",
-      "pubDate": "2026-08-22T06:21:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」  47NEWS",
-      "category": "other"
     },
     {
       "title": "「おかえり～！」くまモンが県外でも活動を再開 銀座で支援への感謝伝える 熊本地震発生から間もなく1か月",
@@ -29,11 +56,11 @@
     },
     {
       "title": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zUUZWUEZnUUF5OTZHM2RqZUVURUdPYUJZd3YwVWNCdHFBYVBzTHFaTktBa0R4MnJycGlJMHV2RC1hNEhCaHNiSENnTQ?oc=5",
-      "pubDate": "2026-08-22T06:03:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkSWV6NVhkZDJNQU55MkNlU2RCcUVCaW93bmFJZ1lYVW1rSDVRU1Z0eHQ0S016cGhjZUU2b3FrNUtOekhfMlBDTHVIX2Qwa0NiaTZ1M1JnSkVaYWVGX2pTTw?oc=5",
+      "pubDate": "2026-08-22T06:07:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  47NEWS",
+      "description": "松前町職員が熊本地震の被災地支援へ出発 ３人が５日間、氷川町で避難所拠点化など  愛媛新聞",
       "category": "life"
     },
     {
@@ -469,6 +496,15 @@
       "category": "infra"
     },
     {
+      "title": "九州経済産業局長に就任した師田晃彦氏、熊本地震「復旧・復興に全力で取り組む」：地域ニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyWk92OXB3X095ZEhSZUxtS05zLUp6UDBob3pyQzdsZTl1eTVtZy1TbnhEQm9JTWZQbXJqSWdNWF9MMzdsYWtVVVRCb3pCN1JqckIzaVo4T1JmNy1pRHNVdEpma3o1YzdoLWkxOE5LNTlnUQ?oc=5",
+      "pubDate": "2026-08-22T01:49:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州経済産業局長に就任した師田晃彦氏、熊本地震「復旧・復興に全力で取り組む」：地域ニュース  読売新聞",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震による住宅被害、１７３６棟増え３万６７８４棟に…４０５０戸で断水続く：地域ニュース",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhbXZSSXNSU29TNlhXZGFpT3M0S0dTS3hfcndPLUdaM3V4SmktQXpVTXY5RG9RTm5wM3RmSGVKeW9LenZuYnJHQXg5VnhLMFh4NktDdFVtUW5iVXZFQzNmSUFYb0pMakF0QjdxNnZURGpjdw?oc=5",
       "pubDate": "2026-08-22T01:48:00.000Z",
@@ -515,7 +551,7 @@
     },
     {
       "title": "「ネパールは天国だった」「パーティーやってよかった」熊本地震の被災地隣県で“無神経すぎる”発言連発…政治家なぜ「失言」繰り返す？",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOampoSVN5VUlXcmxEckwxOVVBWENheXR5azBZcjVOLXNnVWZpN2tnSERfWWRGNHA5OVpFWGhrMUZHRjQ5NXVqVEQ1bXRoTUhrWjA5MC16T1JpRHp6MWhFVDdld0RZUmMtek1MZlVnbXBtOWdWS1JTT1VQUjBQS0RiTjQxVURlZVNs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53ak42REUxUmZBaDlMcVB3VkdlUlNoajh2R1plUWZMZmNtaG5XMkVEZ19QdGFZOU55Y2UwdkJ2V0VkUXdJTkJ2T1JSZzFYbXpUM1JJX3JmSHhhUE5JVWh6ei1uLWYtZjE4YU1zMm1tdEkyYlkzbjMtTWRaV0g0VFk?oc=5",
       "pubDate": "2026-08-22T01:00:58.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "熊本地震 被災地に希望の灯を 元特撮俳優夫婦が物資支援 1年前に移住 協力者募り活動 ／熊本  毎日新聞",
       "category": "life"
-    },
-    {
-      "title": "【熊本地震】爪痕残る被災地に追い打ちをかける「猛暑」と「断水」 片付けや物資支援で浮き彫りとなる深刻な人手不足の現状",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lb3lETUFkUWEtd0Z3c0g0UDJwSkpLb18xbm5TXzZDWjREcTRfUEVTMzFuRmxHbHFPaS1qMWZyOGEwUWRjcDQtSV8wLUdlS0FDMVQwSTcxX29VN2dFWG9wcXpaS0h6QzRVcmhiWUc1cGVmcm52Y3czdEppelhZX1k?oc=5",
-      "pubDate": "2026-08-21T20:00:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】爪痕残る被災地に追い打ちをかける「猛暑」と「断水」 片付けや物資支援で浮き彫りとなる深刻な人手不足の現状  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "＜お知らせ＞熊本地震、救援金受け付け",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WZEZ0N3VGTW9sT0U5U0UwMjBvdmdFenlid3dnaW0zbVYwSHRuUmpjaGJEdVZZYnR0RUk0YjZOd3FqS2JCWFlVTjBnQ2dtNldqM0E1Yk1kejd1d3BR?oc=5",
-      "pubDate": "2026-08-21T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "（２０２６年熊本地震）「人」の軽視、過酷さに追い打ち 作家・瀬尾夏美さんに聞く",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Wc19ObFFFQ3hzWnBKQ3pzeUF3enJBOXBZaldMdlFZRGNQRDFOWkhKM1FEZTljWFNRWFZTQl82WXdONXVLcmRmaUFMRlNWdExOT2k0eTZMdS1JYU84?oc=5",
-      "pubDate": "2026-08-21T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "（２０２６年熊本地震）「人」の軽視、過酷さに追い打ち 作家・瀬尾夏美さんに聞く  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "高齢者の避難 運動と水分大切…熊本地震、見回りで健康状態確認",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yY3JrdVRxMURObnR0M2JEalNKZDZ3eWdzZXhmQm5xbEJLRE40c08zTWw4MWFMUTlrNVdtUURDYm9nRDRmZmJ6WFI3eDBSd0xSM2ktRDlqX01peThZa2J6Tmp4U1ZCenJIa0ZaUzh3?oc=5",
-      "pubDate": "2026-08-21T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "高齢者の避難 運動と水分大切…熊本地震、見回りで健康状態確認  読売新聞",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-22T07:18:45.078Z",
-  "lastAttempt": "2026-08-22T07:18:45.078Z",
+  "lastSuccess": "2026-08-22T07:54:54.578Z",
+  "lastAttempt": "2026-08-22T07:54:54.578Z",
   "fetchOk": true
 }
