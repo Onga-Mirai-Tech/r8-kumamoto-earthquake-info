@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "関東で震度５弱 （共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkc1dJXzBZd0lRb3NPQmdqVVRxTWVKTVVGRTB1UUhha0NjenBOd25KRXVFZjJfR29SX01XS3k1ZURLODhjQ0hSMmpQQV9OdnM?oc=5",
+      "pubDate": "2026-08-22T17:26:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "関東で震度５弱 （共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "官房長官「九州に誘客を」 熊本地震 代替路確保の支援検討",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SNklNYjZ1UzI3YTZoX1JWUFdJNVNLN0RUT3NXakRqbFFmMHNWZFVSdW9oeGNERzhRVHdmNXAtYnhucUZCbFRmbG56Z2poTnRMeFhTNm9PRmd0Rmo4YXBRTmEzX2RQNU1xbDgzdg?oc=5",
+      "pubDate": "2026-08-22T17:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "官房長官「九州に誘客を」 熊本地震 代替路確保の支援検討  日本経済新聞",
+      "category": "life"
+    },
+    {
       "title": "熊本地震で山門崩れるなど被害 八代市の勝明寺で復旧作業続く（日テレNEWS NNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tV3VQNFNzVDBwd1R2Z3ZqTldmMlZkSWFadXNRWTVZYldCZ3QwVzJjeWlWOV9jN29wc21YU0NqRC1sNEJMRlFCaVc2V2c5UlJsUnZDOUc2VVl6N3dkMXlncTR5SU9fQnpBMi1ZV0RVNGxkQ2FhT0FoTzRQdnNLSzA?oc=5",
       "pubDate": "2026-08-22T16:09:33.000Z",
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "在宅や車中避難、把握苦心／熊本地震の被災自治体／暑さ厳しく健康被害懸念  AGARA紀伊民報",
       "category": "life"
-    },
-    {
-      "title": "【令和8年熊本地震】ボンボンドロップシール、“くまモン仕様”限定発売→上限10万枚即完 「最大金額5000万円」寄付（オリコン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01ODFwd2taY1lHaXBzZEc2QjdQSEJQR19JT1dfSnE1ZU1yS0sySzFNanJfSG02MGFxN3pFcjNQTGxDcG9ndkV0d3Fza25EY0lZdUZnVktadWp4TEEwY1YzaEM1LW1Yamp2S3BGS0p4cUowaTNXeC0xQzN5TGM4NmM?oc=5",
-      "pubDate": "2026-08-22T05:29:26.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】ボンボンドロップシール、“くまモン仕様”限定発売→上限10万枚即完 「最大金額5000万円」寄付（オリコン）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【令和8年熊本地震】ボンボンドロップシール、“くまモン仕様”限定発売→上限10万枚即完 「最大金額5000万円」寄付",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zT3ZmeklWbXN6ODhoQ3ktbEZrX1o3bHRReTUzcGpzLTU3S1g0c3pFSmR5N0xvdTJLZlplMk1WOF9sMlFieFd5eVl5cmtOZG8?oc=5",
-      "pubDate": "2026-08-22T05:29:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和8年熊本地震】ボンボンドロップシール、“くまモン仕様”限定発売→上限10万枚即完 「最大金額5000万円」寄付  オリコンニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-22T17:19:32.011Z",
-  "lastAttempt": "2026-08-22T17:19:32.011Z",
+  "lastSuccess": "2026-08-22T17:46:02.846Z",
+  "lastAttempt": "2026-08-22T17:46:02.846Z",
   "fetchOk": true
 }
