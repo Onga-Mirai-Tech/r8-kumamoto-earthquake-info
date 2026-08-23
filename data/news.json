@@ -92,7 +92,7 @@
     },
     {
       "title": "熊本地震の被災地を閣僚らが相次ぎ訪問 小泉防衛大臣は陸上自衛隊の部隊が入浴支援を行う施設へ 金子国交大臣は断水解消に向けた初めての試みを発表",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Q2t6ZWFBYjVYRU1ZYmdFdzN2MGx3VVhEaDB3WGRpbWtzTnNiOGJoM3BRUUhwVWxtdVVCVktSWHRaeDBSam04WXB4NnVYUHo2RGc2ak1IbGI0blZjMVE1NnlKSEI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rOUJhb0wxS3RqREhYRk9TanFmYUxsOXkzekEyS0hnREFzUWNDQUdreTBRZzVmUk1Lb0Z4QVhuNUlrQUZEcy1JYzNkTUFKU1VBRm1tcjIzMA?oc=5",
       "pubDate": "2026-08-23T12:16:21.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -124,6 +124,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【熊本地震】氷川町で地域の医療と生活を守り抜く地域医療センター  クラウドファンディング - READYFOR",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞「迅速に対応」自衛隊員を激励 小泉防衛相が被災地視察 入浴支援、1万9千人が利用",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIcHRzb1NwTnRhTFQyajRvNkNHdDVmcGlpS3E1cjdlc3hUNklHVl9mRlFBTmZJLXVvZEd3RkhGU2sydGMyVktiZkNGRkdnZlU?oc=5",
+      "pubDate": "2026-08-23T11:33:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞「迅速に対応」自衛隊員を激励 小泉防衛相が被災地視察 入浴支援、1万9千人が利用  熊本日日新聞社",
       "category": "life"
     },
     {
@@ -199,21 +208,21 @@
       "category": "disaster"
     },
     {
-      "title": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRGJzeDN4dUt2MUMxX0hGNFhDY3Z4WXhCWkNqTU51ckJ5eE53NHpNbjVsOFZ1NGoxZnFrUi1WenZJd2U2aENTeG9XMTJTcTllSjMwbkJfRnhYUQ?oc=5",
-      "pubDate": "2026-08-23T10:54:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
       "title": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSG56MTJtbkNWU3BfWXVJS0xhZUpJS2tqQlBsT2RmUWhsNHlwcjYyVkVTeDJwWkxSOHZKOVFKcEZsbXNSd09hMkVERHhIVExHeERnaHdIazN4QjdEY0dfWmhZb3FteENsT1JXeFBZZ9IBdEFVX3lxTFB5SlZPQWpJR2d4YlNoRFRXZ012ZjhpYVozTzB6NUpEX0s2MS04VGM3TkxYdHJuSk00NVNFVXRIWjkycGxaY1lzbkcxaFBjR3dLQ3FNLTNQbk92YXJXSXVDSWZxVjVrdElLVzA3QzQ1M2pOb0cy?oc=5",
       "pubDate": "2026-08-23T10:54:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRGJzeDN4dUt2MUMxX0hGNFhDY3Z4WXhCWkNqTU51ckJ5eE53NHpNbjVsOFZ1NGoxZnFrUi1WenZJd2U2aENTeG9XMTJTcTllSjMwbkJfRnhYUQ?oc=5",
+      "pubDate": "2026-08-23T10:54:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -731,11 +740,11 @@
     },
     {
       "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpkX1NlLXRsOXFRWk53bFVSWkVhWDM0WnlyMFVMZHVpU3JNUm1jU0ZBVkN0N3VHeUtXRVlKdmRQdUxNTHFjbnk2RDljNDQycWtMVHRqb19VakpOWWtGdDFOd2ZPU21pczREbURXeWZPdTBYZXlocU1PMWFhZXpPaG1RcnTSAYoBQVVfeXFMTWxVT0VzTW9rRjNvVFdHYlRiYjdVUU1qdC1RN2t3d1BlSUtkeGZLZ2wyU2tYOFJoWEx6SmRWTE9QcDBwVWxuS3FlQ2xGM2t6ZE1RYUdISE5FOHFHZUJHdzBoSFRmUnBqVm1XQWJRQlVFMXd3TVdyVUx5XzU1MDZkdndreTdrb3dJem9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0S3Bfa1BBWkdETDFRcG5malFsY3BpSzJFSTgwMS1ScGV0UUR1X3E0T2tCVlM5bHExYjl4a3JPU1VKWm5ydVR1YnFwTFhuamplRWlIX0JPVlhqVC1NbmpDajRldUM1UQ?oc=5",
       "pubDate": "2026-08-23T06:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  ｄメニューニュース",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  読売新聞",
       "category": "life"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwVzNVT1pCNjdSM3JkbV95cTBQT09IRDdBMnpGbnNvclE5M3l4U1pYT3c4WEpGbXQtSjZ6QV9od1pQZGk2N0pNbFltVk5Idw?oc=5",
-      "pubDate": "2026-08-23T03:20:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震  FNNプライムオンライン",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T17:46:07.055Z",
-  "lastAttempt": "2026-08-23T17:46:07.055Z",
+  "lastSuccess": "2026-08-23T18:28:20.453Z",
+  "lastAttempt": "2026-08-23T18:28:20.453Z",
   "fetchOk": true
 }
