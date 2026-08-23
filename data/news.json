@@ -1,12 +1,66 @@
 {
   "items": [
     {
+      "title": "【速報】水俣市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMEFjNWFPX01UdW4yZWR0Y1V4eWtFc3Z2LUdNRTBuTkdMM3JsQnpEODF3MHFOV0hqejBGTEs5U1l0Y3lWQWJxNUZGTlBWSHM?oc=5",
+      "pubDate": "2026-08-23T10:31:56.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdTZfMEphc1RUZ0pLaFhvSVotZlplM2hta3VHUjVUYjFGNUVjN090Nm9iV0w4bEJLZXJxUlhuR3FwQjY3a2Q3UVNJWEFSQVppQ2tBR0FVTnlTQ0xNcllXTHdvRHFEOW1TN2NEcVRTTHpDQnlWTHdELTFra0lLelk?oc=5",
+      "pubDate": "2026-08-23T10:31:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所に空洞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00RTE5ZlNkMmRCRGJGb0I0dnZmSW5kYzlSWEYyUDhmLVVwdld5YXZ6YkZKQVJEV0NDVGhJTzRNdnhzUmRKNjhWQ2NkTEpwOWM?oc=5",
+      "pubDate": "2026-08-23T10:18:30.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所に空洞  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【令和8年熊本地震】安心して避難できる上天草へ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fbEVuMGVLV0FWUFotM2tYaGVWUE56T2wxdkw3RWF3ZFFLN2J6aTkwRGxBR3NoTmMtdjNOYnFQZWRzRkxONm1pckdVbWNQVzJ2RW45T2UwdVZxdzFSN2c?oc=5",
+      "pubDate": "2026-08-23T10:01:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】安心して避難できる上天草へ  選挙ドットコム",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞氷川町、避難所2カ所に集約 新学期に合わせて 洗濯機やエアコン設置、環境も整備",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFT1IyblNMaXdTM2lKaTVyTHIxM3lQUWJHdzRqbmw1eEhwRnBoNnZ4SmlfdXlDWVd6TnMzTWEya05JOFVxeFFUbmtWQlBKX1E?oc=5",
+      "pubDate": "2026-08-23T09:58:51.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞氷川町、避難所2カ所に集約 新学期に合わせて 洗濯機やエアコン設置、環境も整備  熊本日日新聞社",
+      "category": "life"
+    },
+    {
       "title": "[TKUニュース 26.08.23 18:00 ] 熊本地震で被害の川田橋架け替えへ 九州自動車道 完全復旧へ工事進む【令和８年熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMzhZc0hnenp6NGZyNERyWWlyVl9DenVTTkxtZHRicUl4OV9PXzF1SnBrc0lfWHBjUF9BWkVDSzQ1UTFqMEc3U3F1SEJXa19NNFV2eXNVVi13Zld0eVNWZm1fbw?oc=5",
       "pubDate": "2026-08-23T09:48:59.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
       "description": "[TKUニュース 26.08.23 18:00 ] 熊本地震で被害の川田橋架け替えへ 九州自動車道 完全復旧へ工事進む【令和８年熊本地震】  TKU テレビ熊本",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震で被害の川田橋架け替えへ 九州自動車道 完全復旧へ工事進む【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GOEhKenRrakVINnJ6R3E1Q2piYTh0YXhTNVBZeThrX3Rkam5VclFGcG11bmVObzA2Ymw5SmU2Zi01TDUyNGxyWk0td3p4Y1ViLW9GSlcwN2hMcmlIUkJ1aXN1anFxRWdzM2Nyc1c5bjZrMUhLdzMxZlZQN0w3S3c?oc=5",
+      "pubDate": "2026-08-23T09:48:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "熊本地震で被害の川田橋架け替えへ 九州自動車道 完全復旧へ工事進む【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -37,6 +91,15 @@
       "category": "infra"
     },
     {
+      "title": "「水が出なくて洗濯できない」被災者の声に応えたランドリー車が八代市の避難所に登場【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83dDN1OWRSNW9TcTRWbVJBMm5rbWpqTkVCNUhtbHgwSXhEMUh2NEhYaHhQMlR5WXhmUGxlczg2Qk9HQS00LUVKdV9ESm9SSHlSOUhSeWJ5RzRSQjZjYlJpNHZGb0JVRVpfVkJKbFpkUWMxbEJGejRSYlp4RTFQa1E?oc=5",
+      "pubDate": "2026-08-23T09:38:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "「水が出なくて洗濯できない」被災者の声に応えたランドリー車が八代市の避難所に登場【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震、重症者31人に 家屋被害は3万8千棟超",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWXV0a3o0dEM0aWRVdTNxWEVMdm9Wd3BTRGdrQjdhOXd2LXkxTVBKSFFMZkY4YnhZc3JkS1BrV2JvendzU0g2eXFfbE0zUGdDeHZSX3YweEJvN2lkREdoR3o4NFpIbUhWeHBJNQ?oc=5",
       "pubDate": "2026-08-23T09:37:32.000Z",
@@ -53,6 +116,15 @@
       "type": "local",
       "description": "日本維新の会が熊本県に義援金 被災地の復旧復興に向け近く高市総理へ提言提出【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "infra"
+    },
+    {
+      "title": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dF83bHc5Vm95QlN2Z3kzZEdWMjJwZklwaVBBVGlEM04tNWdnM3YyQ1NzQXpEcHVKek41cnM3WUdBTXNfYXROMEcwUzFKUzNfdExHX0drVkhSekFQSUFYYWdIdS00LXFLMGV1S3YxWk1mV291MDVKdkh3M2RrajA?oc=5",
+      "pubDate": "2026-08-23T09:35:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "life"
     },
     {
       "title": "氷川町の道の駅竜北に太陽光発電など備えた防災倉庫設置【令和８年熊本地震】（TKUテレビ熊本）",
@@ -109,6 +181,15 @@
       "category": "infra"
     },
     {
+      "title": "家屋被害が3万8000棟超える 避難者は2794人、熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aTktpeDNfRTJCcjVIV09fTGlhTmVwSHg2MWJoc1NySjRNcDJKb1NjM0I2eDhtWFE2eW45VTA1dEhxWVVQLTk2RE90Zw?oc=5",
+      "pubDate": "2026-08-23T08:58:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "家屋被害が3万8000棟超える 避難者は2794人、熊本地震  47NEWS",
+      "category": "life"
+    },
+    {
       "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53cVhpVFI5ZHE3ZmI3ODNPWXdlNGJJMjZ0VHNKLXJST0MtdHhxNGNNS3FORy1hRGpTYmplMFNqOUo2UHZoUldIY3Bpbw?oc=5",
       "pubDate": "2026-08-23T08:53:00.000Z",
@@ -137,7 +218,7 @@
     },
     {
       "title": "熊本地震で被災した九州自動車道の復旧状況を公開「完全復旧の時期はまだ…」（2026年8月23日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1FFQ3Y4cGo1UjNRZ1ZqMmgtWDZoNjNhaVVvQnJnU2lYMzFpbTZuYWl4aHE5M2gtMjc1RWhFcEFUOUx4X1pGdFJXdVhsMEVjMkpSZG5BdjlyaXI5OVNvZ1F4ZHlqdmNfQnlFUEZRNmJPbVVDRGREMkh6cVh4V25tQkdzM3NSZ2M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQTlBQk9OTzNZdWdpX2l6MnJvSWJJT1RqT0k5NnJOX3VFeTBYZTlVWi1YQ24yWTV1ZnFVdEZMWHREd2FuSmtDc25SSmk4cmxRaGQ3Z3FlYWZLejRqTVI4Qjk3blBwdGFxYlNHYWdpRm1fTjJEU1h2X2J2enZnTWs?oc=5",
       "pubDate": "2026-08-23T08:40:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -163,15 +244,6 @@
       "category": "life"
     },
     {
-      "title": "家屋被害が3万8000棟超える 避難者は2794人、熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aTktpeDNfRTJCcjVIV09fTGlhTmVwSHg2MWJoc1NySjRNcDJKb1NjM0I2eDhtWFE2eW45VTA1dEhxWVVQLTk2RE90Zw?oc=5",
-      "pubDate": "2026-08-23T08:35:30.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "家屋被害が3万8000棟超える 避難者は2794人、熊本地震  47NEWS",
-      "category": "life"
-    },
-    {
       "title": "熊本地震、家屋被害3万8000棟超える　避難者は2794人",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42M1ZBMGI0c0tRNUJUZFhIVTN4LXcxWEp1M05oanhXeGU5RXVwMktVbUUxZHhuX2FMOF9tUDc4SElSdWpHX2J0NnZJa09LeDZhSGJ0T2l4NVRsbURxT1JVQ2gyMlFRM19VNmI0dTBaeFl6MHZNSnfSAYoBQVVfeXFMUHZJTmw2MHBpVEFJZ25PMlEtaDkzQlFTVEVtcXg4SWZua1lYTzhPLS1mTDM2UzZsZHFCdFBDTkw1N2VXVGpSTzJnZ2EyMXpUTVJmRmxSZXZxWWdPN1pMVjUySVhwUmk5LXZ2WE1naUEwendsZUw1LXRKT25lRGtBZVdpMVJTR0puM19n?oc=5",
       "pubDate": "2026-08-23T08:30:03.000Z",
@@ -182,11 +254,11 @@
     },
     {
       "title": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sUHFibU1CODdvSHppT21LNE9GcEpjUXdNREZkRlVQemVwWDlPalRMczNyRjVvZjhCTHRZTTkxYTFyVlM3blNSd0puZm02WkxBR05nUw?oc=5",
-      "pubDate": "2026-08-23T08:22:06.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5neWpJTDB3Uzd4UUxrQ3FPemVSRmc0UFNiQi1EeFVpM3A2MGJVYkRLMDVXNV92Qkk2THlxal9TTDkweVMtbVE4em1wcUlBTUZ3?oc=5",
+      "pubDate": "2026-08-23T08:22:11.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず  中日新聞Web",
+      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず  nnn.co.jp",
       "category": "disaster"
     },
     {
@@ -277,15 +349,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・球磨村（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFdnTGdFalZReTBEZXFrcDlsTmszM3dVSFNDR095Z1ZfVXlPTlpnNlY4ajhPOHlITzM3QndhMjBTekdLLUEweTJsMjR2cGxlaHRVS2NTVjZyNlphUnhVVzNYVXFVQmR2X25QVlVPOFc2RmxDeXhncXBkVTRTSkhETUg5emhNV2tydmo4ZzRKVUZ6dXdIVF90emhuMnJiWjZpVS12d1l1bzZoTFlVdEtsRjlIRHh3bFczUWtSUEJkaXJxM0Y1WkHSAXZBVV95cUxNSFlIVGhCRDdSNU1hUm1BT2xDeUFPWm82N3pGcjhNZ2phUUZxOGlwTFBra0JsSk9uM29zZk9DWWpONkNmZUFiX1cwSi1YT2huNnlwMEgxZThpeVlGWFVDcGdlajlsaGxwWjlycjNZSDJuSGFfbXd3?oc=5",
-      "pubDate": "2026-08-23T06:34:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -425,11 +488,11 @@
     },
     {
       "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YZkNrMENhcTJrSHE5eEVMajFrSExUQjcyUWZQWFRSN3FfeTI0YkRzV19fT0U0Sm5Xb0xVdlJJd0ppQ2lLbXF5SGt5YzVkNW9vdHUyeVFnek9YNERFS2cwUS1BRWg3aEtFSXhiRzlfUk5NZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KSEZ4Ni1kbVFCQVNESnB2cW9UM1ItLTVuY3k1NjFGSWFaalVwOTN4b1pJMDdoWXhzOTZISXQ2NEx5Y3pmSWl1QktycUlnekE?oc=5",
       "pubDate": "2026-08-23T03:29:33.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  テレ朝NEWS",
+      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  khb東日本放送",
       "category": "infra"
     },
     {
@@ -541,15 +604,6 @@
       "category": "disaster"
     },
     {
-      "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFX0hoSE5hbWpYUzVZQlQ1bUxvbkc3NnZhWUJ3Z3NKX1k0YzZKcE0zUF9uckZ5TmVaSDkyNlFqekxFdVJkaGxoTGRBZw?oc=5",
-      "pubDate": "2026-08-23T03:00:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞  47NEWS",
-      "category": "life"
-    },
-    {
       "title": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wclpBcEpseTk5V05ubng4Qno3SHpEeExwWGNoYkZXNm5jZUlkUUoyUkMxUDR0dENwNHlZVW85eUNDTmdOOGdCX3pB?oc=5",
       "pubDate": "2026-08-23T03:00:00.000Z",
@@ -557,6 +611,15 @@
       "type": "local",
       "description": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”  女性自身",
       "category": "disaster"
+    },
+    {
+      "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFX0hoSE5hbWpYUzVZQlQ1bUxvbkc3NnZhWUJ3Z3NKX1k0YzZKcE0zUF9uckZ5TmVaSDkyNlFqekxFdVJkaGxoTGRBZw?oc=5",
+      "pubDate": "2026-08-23T02:59:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞  47NEWS",
+      "category": "life"
     },
     {
       "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞（熊本日日新聞）",
@@ -836,72 +899,9 @@
       "type": "local",
       "description": "熊本地震義援金をお寄せくださった皆様【静岡新聞社・静岡放送、静岡新聞・静岡放送文化福祉事業団】（8月23日）  静岡新聞DIGITAL",
       "category": "disaster"
-    },
-    {
-      "title": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45T1lTaDlCNFdvbDBibExLNmo2NXVXakEzdk9xQk9ONXlUWmRTbUxTOVhoVTVBNGVhSXNKN01sU3FLQ21sY29yRko3NA?oc=5",
-      "pubDate": "2026-08-22T22:42:29.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "爆発で休業、地元熊本から不安 イオンモール従業員「給料は…」  47NEWS",
-      "category": "other"
-    },
-    {
-      "title": "「10年前と何が変わった？」令和8年熊本地震で自衛隊はどう動いたか 要請前の初動と八代港で生きた教訓（1/2 ページ）",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rU1k1VkVWbG5tTmNqQUdNTXNnVkZZYXNRSGo4TkJBLXhiMllKV0ExNmJzTkpKbnlMcjJoc3paTjRCWFpSYUJJczRn?oc=5",
-      "pubDate": "2026-08-22T22:42:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「10年前と何が変わった？」令和8年熊本地震で自衛隊はどう動いたか 要請前の初動と八代港で生きた教訓（1/2 ページ）  乗りものニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44b09EdC1hWmhrMm5Cbzhla2xXUDdsOS1ta3BEXzRtcGhQSFE1c1BiTVJtY2NTRUdCNUluODVibC1oTnBHcnVHRDdkUVpGYVk?oc=5",
-      "pubDate": "2026-08-22T22:28:51.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tzhmb0hfaE1RSnBobWl1b3FDYnpSclhCRXpNOG50bUlOZ0RiX0xPWXl4czcwMHJWVjRCd3FtakZONmoyMlhsSWtFZl83ekRTYkdzcTNqaFlyeDctYVNvWnRDSnppMVcyMUxETUdJYmhtYUlIRVVJa3lRLVpvclk?oc=5",
-      "pubDate": "2026-08-22T22:17:44.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本県で最大震度1の地震 熊本県・八代市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "佐賀県歯科医師会と歯科衛生士会、支援チーム派遣 口腔ケアをサポート＜令和8年熊本地震 支援の輪＞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVFhNcXFRaWVJRWxTMkhBcTFNcnJiVk9NWi12UWpOc0hMQUF0SmZYeG5nZzZTN0d1TWhiSEZKQnlrWnUyZHNtcS1HQQ?oc=5",
-      "pubDate": "2026-08-22T22:16:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "佐賀県歯科医師会と歯科衛生士会、支援チーム派遣 口腔ケアをサポート＜令和8年熊本地震 支援の輪＞  47NEWS",
-      "category": "life"
-    },
-    {
-      "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPUWdOMzlJbmVZVnRFazRIZUMxWlpvOFZEbE5mdzh5ZWk5RmFPMUg2bHF3UWJwTmN5eEd0MTQ5ZXpvSXAySTl1cTBsWm1ueTQ?oc=5",
-      "pubDate": "2026-08-22T22:13:32.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkc1dJXzBZd0lRb3NPQmdqVVRxTWVKTVVGRTB1UUhha0NjenBOd25KRXVFZjJfR29SX01XS3k1ZURLODhjQ0hSMmpQQV9OdnM?oc=5",
-      "pubDate": "2026-08-22T22:13:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T10:00:20.191Z",
-  "lastAttempt": "2026-08-23T10:00:20.191Z",
+  "lastSuccess": "2026-08-23T10:40:31.070Z",
+  "lastAttempt": "2026-08-23T10:40:31.070Z",
   "fetchOk": true
 }
