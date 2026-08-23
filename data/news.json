@@ -1,12 +1,75 @@
 {
   "items": [
     {
-      "title": "【速報】宇城市で震度3",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dndLS2xCcGJQMnVxaWp5TTBqX3lyT3MySFFaRHFoM25aRzRGanFZMGVFQ0VWODU5RzBUN1otUW1HUTNxRWFJZWJpaUFoY1E?oc=5",
-      "pubDate": "2026-08-23T19:11:04.000Z",
+      "title": "［取材ノート］熊本地震後も生乳完全処理 系統流通に高い信頼感",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mdjBlbWhVZVBzYkM2YnlCbWpydThqUFNQOHlwdklDLVM3QmE2Qmd4M0E2d3pPWWI5SDZ6MEZzLXI0X0Z6OW02T0RJTlVIYzA1b3JaYkpOdzFUelE?oc=5",
+      "pubDate": "2026-08-23T20:04:58.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［取材ノート］熊本地震後も生乳完全処理 系統流通に高い信頼感  日本農業新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "(熊本地震2026)生活支援をきめ細かく 学校再開、道路復旧を早急に 中立公3党合同対策本部が現場へ 2026.8.24付",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FNEhwUmRoblVUdUJCaUozdFc4RWFydGc1NlJpLVR4WEcwRWVkTDVtME1HT3gwSW1fdmJaMWljOXVZSHJuZ3NFWF9zd1JQMFVUQ0FjRG02ZkN0U24yaWZxeHlXNDB1ZUxrSTRrT01B?oc=5",
+      "pubDate": "2026-08-23T20:04:55.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "(熊本地震2026)生活支援をきめ細かく 学校再開、道路復旧を早急に 中立公3党合同対策本部が現場へ 2026.8.24付  公明新聞電子版プラス",
+      "category": "infra"
+    },
+    {
+      "title": "（２０２６年熊本地震）ここが我が家、ぬくもりガレージ 自宅倒壊の夫婦「離れたくない」",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GSW1WcDBtNVpvdUlINXZHMHJST2dkZ0FITTBfdy1yY2hQeTRJTTFXZU9sMHgxOHVLQWVDWWZ2bGhxTjdYbXJPNUplZEFoRVZ1UHNkQlZBNlFIdFhp?oc=5",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "（２０２６年熊本地震）ここが我が家、ぬくもりガレージ 自宅倒壊の夫婦「離れたくない」  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "【熊本地震で爆発】検証を安全対策の向上へ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LYW84LWVLZHNZS3JJZmw4R1FoVEJHRmg1alMzZk9yYlBPUUZIcGRoWGJ1QjhJZm1CUFRCVzNLY2tVSEtLZUFsRjJrZG14bHlmQ3ZQZkdDTElLdnQ5Si1r?oc=5",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震で爆発】検証を安全対策の向上へ  kochinews.co.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "人それぞれにできることを（中村美津子、54、団体職員、八代市）【令和熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iLVB2NUtWSjZaUWFQZWhub1VTT3RDbUM1YjFGTlhNTDVTSkJDZzFVdjg0N3FZOE9KeE5CbWY0Sjdxd1FQa1RVZkc5ekx4RTA?oc=5",
+      "pubDate": "2026-08-23T20:00:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】宇城市で震度3  熊本日日新聞社",
+      "description": "人それぞれにできることを（中村美津子、54、団体職員、八代市）【令和熊本地震】  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "水道が復旧！ご尽力に感謝（岡田美紀子、61、主婦、八代市）【令和熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EYVZHcUJiWnFIMURBc0hkbDlHSzk4b0djZEZSZV8wcVlfemVVdTU3Z2hmaXJQRFZNaXUxVWNXZ0YzRUdTd2FzWTNrM1Etdlk?oc=5",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "水道が復旧！ご尽力に感謝（岡田美紀子、61、主婦、八代市）【令和熊本地震】  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "【速報】宇城市で震度3（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xX0RNOE9tTE5zOHdwN1lxdEV5Nm9zdFBESW1TdXhBQ1NRMzctUnRNSVk3ajA3cjE0RzFrOHI1eFVORm84ejlFNy13RFI3TGlycW1hbHZBZktMMmd2Rkx3Sll2UVM1Q3VxTXl5LWdnTUh0Y0QzX0NKbjFYaGItenc?oc=5",
+      "pubDate": "2026-08-23T19:16:55.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇城市で震度3（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】宇城市で震度3",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pX0JQMG1sMFl6eTBaLVZwRWxnNDcwVERTcEpyOWtnMm93VjNDbnNyb2ktZWJWUS1ESG9wcXBXS2E4OWdSOFN2WlVYZw?oc=5",
+      "pubDate": "2026-08-23T19:11:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】宇城市で震度3  47NEWS",
       "category": "disaster"
     },
     {
@@ -73,6 +136,15 @@
       "category": "disaster"
     },
     {
+      "title": "九州道の復旧状況公開…熊本地震で大きな被害 全線開通も一部で交通規制続く（日テレNEWS NNN）",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2VzcG1saFQxNHdNWlF6Mnl5aHZ2M1drcVlXdDc2T0pndEk4dXd4akNYNy01V1dHWl9sTjRhZWZuRWo4Q1F5N2x3T3FmekVNZGhEQ3JWbDBpNmJpX1o5SGNhdU1nME1COFlxeG9BNXQzaW51RkQ2UV9OVEZZUkxvSmxVMUN4dS1uVXJxTHR3?oc=5",
+      "pubDate": "2026-08-23T15:56:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州道の復旧状況公開…熊本地震で大きな被害 全線開通も一部で交通規制続く（日テレNEWS NNN）  ｄメニューニュース",
+      "category": "infra"
+    },
+    {
       "title": "小泉防衛大臣、自衛隊員を激励 熊本地震の被災地を視察",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IT3FQc1BxbVRkdHJ3UWFvTFNTRXJpR2k3RWZIZ2hZbkZoc2hEWWJ6OFIySm4ybG45X0xManUtbk5FVFB4TXRTdmFYbUhQUQ?oc=5",
       "pubDate": "2026-08-23T15:52:00.000Z",
@@ -109,15 +181,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnViQzlqc0JrZGJlSndhZnVZX09lb0VQREZKckplYWlZcEtQUG1NUjhtT2JlRWdTN2JnSHVPVVQzaXprVld3aGJmQ2NYellVLVhacjVjWGYxZWJOM0tlam04cTNvMnc1Wld2a1V4dHJ2QzVnV2V1R3ZuTXlFZDhFX01pckE2d09s?oc=5",
-      "pubDate": "2026-08-23T13:30:54.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
       "title": "2026年熊本地震＞液状化の水俣湾埋め立て地、水銀流出なしも「恒久対策に懸念」 専門家や水俣病被害者団体",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmd01qRzAwbkliVG81Rjd3ejNVSDJMSWx2b0lOcEJfTDB4MVktem9fWjRFcFkyT3FrbDBvUExUa29pdlk1Qi1UMmdYMHUtdDQ?oc=5",
       "pubDate": "2026-08-23T13:30:00.000Z",
@@ -146,11 +209,11 @@
     },
     {
       "title": "【動画】断層隆起の瞬間克明に 防カメ映像、世界２例目か 専門家「貴重な資料」・熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NGpIX2ZuX3BxakJDTjJjYl9ZUlRra1FpVjQ1SUJBY3plZVdqUXBoUENOazBPZEJNU0w4NUNha041dGxQb3BNVUcyQnJmVW8?oc=5",
-      "pubDate": "2026-08-23T12:38:46.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2TFdsWmRnUGxoTVl5WjBwRzg3OXphRVZhMjRvUGtOZVRubUhoQTNNTERZNFpQc0xsRzNMMXlxTVQ5Y0pRRmFsdUpZZ1kydHhGRW5EVmxTS2ROV2h6S3Fj?oc=5",
+      "pubDate": "2026-08-23T12:27:41.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【動画】断層隆起の瞬間克明に 防カメ映像、世界２例目か 専門家「貴重な資料」・熊本地震  時事通信ニュース",
+      "description": "【動画】断層隆起の瞬間克明に 防カメ映像、世界２例目か 専門家「貴重な資料」・熊本地震  nippon.com",
       "category": "disaster"
     },
     {
@@ -271,21 +334,21 @@
       "category": "disaster"
     },
     {
-      "title": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSG56MTJtbkNWU3BfWXVJS0xhZUpJS2tqQlBsT2RmUWhsNHlwcjYyVkVTeDJwWkxSOHZKOVFKcEZsbXNSd09hMkVERHhIVExHeERnaHdIazN4QjdEY0dfWmhZb3FteENsT1JXeFBZZ9IBdEFVX3lxTFB5SlZPQWpJR2d4YlNoRFRXZ012ZjhpYVozTzB6NUpEX0s2MS04VGM3TkxYdHJuSk00NVNFVXRIWjkycGxaY1lzbkcxaFBjR3dLQ3FNLTNQbk92YXJXSXVDSWZxVjVrdElLVzA3QzQ1M2pOb0cy?oc=5",
-      "pubDate": "2026-08-23T10:54:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
       "title": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRGJzeDN4dUt2MUMxX0hGNFhDY3Z4WXhCWkNqTU51ckJ5eE53NHpNbjVsOFZ1NGoxZnFrUi1WenZJd2U2aENTeG9XMTJTcTllSjMwbkJfRnhYUQ?oc=5",
       "pubDate": "2026-08-23T10:54:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JSG56MTJtbkNWU3BfWXVJS0xhZUpJS2tqQlBsT2RmUWhsNHlwcjYyVkVTeDJwWkxSOHZKOVFKcEZsbXNSd09hMkVERHhIVExHeERnaHdIazN4QjdEY0dfWmhZb3FteENsT1JXeFBZZ9IBdEFVX3lxTFB5SlZPQWpJR2d4YlNoRFRXZ012ZjhpYVozTzB6NUpEX0s2MS04VGM3TkxYdHJuSk00NVNFVXRIWjkycGxaY1lzbkcxaFBjR3dLQ3FNLTNQbk92YXJXSXVDSWZxVjVrdElLVzA3QzQ1M2pOb0cy?oc=5",
+      "pubDate": "2026-08-23T10:54:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "地震の研究者たちによる公開講座　熊本地震の断層「割れ残り」に警鐘  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -595,6 +658,15 @@
       "category": "life"
     },
     {
+      "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53cVhpVFI5ZHE3ZmI3ODNPWXdlNGJJMjZ0VHNKLXJST0MtdHhxNGNNS3FORy1hRGpTYmplMFNqOUo2UHZoUldIY3Bpbw?oc=5",
+      "pubDate": "2026-08-23T08:53:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "水の確保が深刻な問題　今も断水が…　熊本地震からまもなく4週間　九州自動車道・川田橋では橋のつなぎ目の損傷や桁の「ずれ」確認",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zZ0V2VmdyNmhTcmN1b0JjUldfRlVRQ1hNNlZkQjV5SWxtVC1vVGV2cGZNcndOOHctRExJajNFWDhKT1Bsd19JVVI3ODdsRGhyYlJURGJrX243QjVUaTJVWkN4X28tZXh1ZVhaVVhzSdIBdEFVX3lxTFA5NkFYcy1UX19yZlZzR2RTVnBMZDE3cWJfYndLMWhrdEFZSWlyZ1BEb2tFOVdJUGtEVVEwUlc3U0tNbE5yS2hIb1p4YUdVSkRBTzQ5LWZmMHVVTXprT2UydHZLVGVkbHBKb0dnQUhaOEIyT3Ex?oc=5",
       "pubDate": "2026-08-23T08:51:00.000Z",
@@ -691,15 +763,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【写真】外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず  南日本新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83VnlGWHc1b0VKZnRMaV95WWVvdDQ0ZEFhcFJJazlXLWRBa3U0UDJNUVIwYi1BMHM3VnRRblRaREF5VUFqNk5VUW11Y2s3MjhocVIxN0VnTlp0SzBMeTNOcVdTa3hNdzVSZy1HRmdn?oc=5",
-      "pubDate": "2026-08-23T08:22:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず  Infoseek",
       "category": "disaster"
     },
     {
@@ -811,12 +874,21 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnViQzlqc0JrZGJlSndhZnVZX09lb0VQREZKckplYWlZcEtQUG1NUjhtT2JlRWdTN2JnSHVPVVQzaXprVld3aGJmQ2NYellVLVhacjVjWGYxZWJOM0tlam04cTNvMnc1Wld2a1V4dHJ2QzVnV2V1R3ZuTXlFZDhFX01pckE2d09s?oc=5",
+      "pubDate": "2026-08-23T06:00:27.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0S3Bfa1BBWkdETDFRcG5malFsY3BpSzJFSTgwMS1ScGV0UUR1X3E0T2tCVlM5bHExYjl4a3JPU1VKWm5ydVR1YnFwTFhuamplRWlIX0JPVlhqVC1NbmpDajRldUM1UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpkX1NlLXRsOXFRWk53bFVSWkVhWDM0WnlyMFVMZHVpU3JNUm1jU0ZBVkN0N3VHeUtXRVlKdmRQdUxNTHFjbnk2RDljNDQycWtMVHRqb19VakpOWWtGdDFOd2ZPU21pczREbURXeWZPdTBYZXlocU1PMWFhZXpPaG1RcnTSAYoBQVVfeXFMTWxVT0VzTW9rRjNvVFdHYlRiYjdVUU1qdC1RN2t3d1BlSUtkeGZLZ2wyU2tYOFJoWEx6SmRWTE9QcDBwVWxuS3FlQ2xGM2t6ZE1RYUdISE5FOHFHZUJHdzBoSFRmUnBqVm1XQWJRQlVFMXd3TVdyVUx5XzU1MDZkdndreTdrb3dJem9B?oc=5",
       "pubDate": "2026-08-23T06:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  読売新聞",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -827,81 +899,9 @@
       "type": "local",
       "description": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束  PR TIMES",
       "category": "life"
-    },
-    {
-      "title": "被災した美術工芸品を救え 熊本地震被災地で文化財レスキュー始まる",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZUR6amlLbXlUSVlMRHhmTEFjRzI2S3ZxNDZGZjZIVEYwX1hmZm8zbnFrcEM0VzlsUGNMdTFESjZLLUxvUDBMV01QX2o1Z1U4cllfelhjYjdBR0ZFNTZtZW1fQmdoOXc?oc=5",
-      "pubDate": "2026-08-23T05:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災した美術工芸品を救え 熊本地震被災地で文化財レスキュー始まる  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "風評被害で予約キャンセル相次ぐ熊本 金子国交大臣「早急に支援策をとりまとめる」【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FVElWR2lfQTZvU3ZyOGt6SWpJOUxDZUpoQThybWFDRDVyeHItYjJDNXdlMlVqMWU3QlJ6YUJOUDMydTR3NDVWTW9PUHk5NU1GQlFRNFZxU1MzOWticlJiVTFpbw?oc=5",
-      "pubDate": "2026-08-23T04:47:47.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "風評被害で予約キャンセル相次ぐ熊本 金子国交大臣「早急に支援策をとりまとめる」【令和８年熊本地震】  TKU テレビ熊本",
-      "category": "life"
-    },
-    {
-      "title": "風評被害で予約キャンセル相次ぐ熊本 金子国交大臣「早急に支援策をとりまとめる」【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMWhkVElIR2o3Y3hrdHpGMTAwNXA1ck1YdmUtNG1oSFI5QkhWQlpWbGUtY2NJbkUyb2hIUlhrSUktLWN2SzdUclBubXlDcnBYR2UxeXQ2UzRMS1FsbDlpeFNRc2hLZlgwQ194V1diVUVDVGZqVXY1RmxTTXZJUG8?oc=5",
-      "pubDate": "2026-08-23T04:43:02.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "風評被害で予約キャンセル相次ぐ熊本 金子国交大臣「早急に支援策をとりまとめる」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震に対する支援パッケージ。熊本県議会議長 内野幸喜",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KdTlxZ3p2Sk55cEdqc0d5Z1h3ZjZPa04yU2xjaXE3NUFkdDdqSDliTHU1Tl9YZGtWd29feG5rcjUwSTFEWTZxdnZTS2ZaNm4wNHFpdTFMLWVpQnJJeGc?oc=5",
-      "pubDate": "2026-08-23T04:31:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震に対する支援パッケージ。熊本県議会議長 内野幸喜  選挙ドットコム",
-      "category": "life"
-    },
-    {
-      "title": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援 坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92Yl9pVjlMRk13Wm9DWWE2RjNSdTlaMmQ2Z0twczNpQkpYOUp2bGJXZnFQcEI4NlVMUm1OWnptUTF6S19fRmxiWGpER1ZXdEt1OTRoYWUyclVZVFBXUkVWeWJB?oc=5",
-      "pubDate": "2026-08-23T04:27:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援 坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける  スポーツ報知",
-      "category": "life"
-    },
-    {
-      "title": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援　坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tT0tiLXVxNFhGdUpPZG5UY1pQUXVtZFlTdFVXUG5pWFlNLW53VDdNcVozM2dnS2licGVGdlFiOTdTQ25WUkRkNWwwYXktQWlndXkwSV9NWWJwVmc5NkFZRDBoUC1YaG01UzgtVV8wRdIBdEFVX3lxTFBuZ1RDQnhxTnpOVkpZY0F3QXFIbHBvZFFSS3hZLWVVYWRGelVsZVlTVWdWUXJhUVhhOVBvUU45TmltRlZEb0VSYjBLNHg3TkJRbXBMM2VYUTNZM3IweGxjSEJMeXV0bTJ4SVdleTgwbTVQRU1a?oc=5",
-      "pubDate": "2026-08-23T04:27:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援　坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける  Infoseek",
-      "category": "life"
-    },
-    {
-      "title": "スーパーGTがエントラント、オートポリスとともに令和8年熊本地震の被災地へ復興支援物資を届ける（オートスポーツweb）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vc0tXeld4WkFvc1JVRXlwajJOMGt1WS1haGhza2NuWGlyeVhxcnRhdjZESHhacGg5RUphcEZNdFU0LV9IMzRkM0ZXay10WGlUblowbUUxSlJLX3pFeEJNdXNnLTBtazlpa0xjV3hLMkZOMzEwUDB3c1lva0VJd3c?oc=5",
-      "pubDate": "2026-08-23T04:18:55.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "スーパーGTがエントラント、オートポリスとともに令和8年熊本地震の被災地へ復興支援物資を届ける（オートスポーツweb）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "スーパーGTがエントラント、オートポリスとともに令和8年熊本地震の被災地へ復興支援物資を届ける",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HdHZfVXlPWjhka0FnZTlxejdzM2ctZmlqQWhsRHY2c3NGM3E4MDU1LXdPUHZ3VzUwYkhHazRldUlfbl9TczZ3Y0hOOVNvQQ?oc=5",
-      "pubDate": "2026-08-23T04:18:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "スーパーGTがエントラント、オートポリスとともに令和8年熊本地震の被災地へ復興支援物資を届ける  autosport web",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-23T19:48:11.735Z",
-  "lastAttempt": "2026-08-23T19:48:11.735Z",
+  "lastSuccess": "2026-08-23T20:22:15.186Z",
+  "lastAttempt": "2026-08-23T20:22:15.186Z",
   "fetchOk": true
 }
