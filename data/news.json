@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRGJzeDN4dUt2MUMxX0hGNFhDY3Z4WXhCWkNqTU51ckJ5eE53NHpNbjVsOFZ1NGoxZnFrUi1WenZJd2U2aENTeG9XMTJTcTllSjMwbkJfRnhYUQ?oc=5",
+      "pubDate": "2026-08-23T10:54:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "地震の研究者たちによる公開講座 熊本地震の断層「割れ残り」に警鐘  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "金子国土交通大臣 3度目となる熊本地震の被災地視察",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uY0c0bVpBNkJ1NVh0M0RKOTVwYVFPQUJHTVVhQ1NPaV80YmwtaXdKT3ZTb0xsRjlicTVBM3ZnWEFoMVNlb05oamxoUGVSRjZjay1Rb05XQ3RlT3BXaF9TNVo4Sk4?oc=5",
+      "pubDate": "2026-08-23T10:48:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "金子国土交通大臣 3度目となる熊本地震の被災地視察  TBS NEWS DIG",
+      "category": "infra"
+    },
+    {
+      "title": "小泉防衛大臣 熊本地震の被災地で自衛隊員を激励",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iVUZwRVRkbjVfdW5LcWFGdmJCbzNYMTVfQVhsYkZBd2xZdHljTGw3R3VDOGxaTTZJZWotSnl6M1FKWloxTHFUSDFjY1pnOFhrYktGTVZ5c0pDUQ?oc=5",
+      "pubDate": "2026-08-23T10:45:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "小泉防衛大臣 熊本地震の被災地で自衛隊員を激励  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83SEEzcUdNY2tZTGxRTXlTRHRRalQ1V1EzMEZ5YXpFMzlfRkpMdk56THI1SXpkMWYyRGp6dEtab1dvakVFQTRVRzJlUjkxajQ?oc=5",
+      "pubDate": "2026-08-23T10:43:50.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "上水道復旧でコールセンター 金子国交相、設置を表明 26日にも 2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vbkJ4cDFrMkZ1LWFUNmJBZF91dFpPelhPRHhHblIyWjJYdjJnWFNWNFc1QmFfNmNqUEVEMWlPVC1KZWVLSEhGWWxKQQ?oc=5",
+      "pubDate": "2026-08-23T10:43:50.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "上水道復旧でコールセンター 金子国交相、設置を表明 26日にも 2026年熊本地震  47NEWS",
+      "category": "infra"
+    },
+    {
+      "title": "＜2026年熊本地震＞復興願う壁画描く 八代市・「ナザレ園」の子どもたち 俳優斎藤工さんらが企画",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrU3l4R0pLSWtFb1d6QWljeHNENDB2d0ZvYWF3aHRCdzV5cXdnbVhkTUVJbHEzRDJTbXdfUWd2azVrYXV0YVJpaGN2VHl5REE?oc=5",
+      "pubDate": "2026-08-23T10:40:19.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞復興願う壁画描く 八代市・「ナザレ園」の子どもたち 俳優斎藤工さんらが企画  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】水俣市など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yMEFjNWFPX01UdW4yZWR0Y1V4eWtFc3Z2LUdNRTBuTkdMM3JsQnpEODF3MHFOV0hqejBGTEs5U1l0Y3lWQWJxNUZGTlBWSHM?oc=5",
       "pubDate": "2026-08-23T10:31:56.000Z",
@@ -19,6 +73,15 @@
       "category": "disaster"
     },
     {
+      "title": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所にも空洞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00RTE5ZlNkMmRCRGJGb0I0dnZmSW5kYzlSWEYyUDhmLVVwdld5YXZ6YkZKQVJEV0NDVGhJTzRNdnhzUmRKNjhWQ2NkTEpwOWM?oc=5",
+      "pubDate": "2026-08-23T10:18:30.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所にも空洞  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所に空洞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00RTE5ZlNkMmRCRGJGb0I0dnZmSW5kYzlSWEYyUDhmLVVwdld5YXZ6YkZKQVJEV0NDVGhJTzRNdnhzUmRKNjhWQ2NkTEpwOWM?oc=5",
       "pubDate": "2026-08-23T10:18:30.000Z",
@@ -26,6 +89,15 @@
       "type": "local",
       "description": "＜2026年熊本地震＞八代市の県道陥没 周辺4カ所に空洞  熊本日日新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "熊本・芦北町の海水浴場で男性が重体（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrMFJmVWtONThXVlY0TXl5ejFibEx2X2xOemdKMkVhaUh5bXJ4Tl9Gc1FZTVhLRGU2b1B1T2VpVzNqUHFkVmtaQzhIZFJ5M2ZTaGxOYk1ValdCcFppSm5NRG9TbDdJNWN0ckVwQmVqNTI2RU9jM0NPNUt1THFlZVE?oc=5",
+      "pubDate": "2026-08-23T10:11:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "熊本・芦北町の海水浴場で男性が重体（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "other"
     },
     {
       "title": "【令和8年熊本地震】安心して避難できる上天草へ",
@@ -218,7 +290,7 @@
     },
     {
       "title": "熊本地震で被災した九州自動車道の復旧状況を公開「完全復旧の時期はまだ…」（2026年8月23日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQTlBQk9OTzNZdWdpX2l6MnJvSWJJT1RqT0k5NnJOX3VFeTBYZTlVWi1YQ24yWTV1ZnFVdEZMWHREd2FuSmtDc25SSmk4cmxRaGQ3Z3FlYWZLejRqTVI4Qjk3blBwdGFxYlNHYWdpRm1fTjJEU1h2X2J2enZnTWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1FFQ3Y4cGo1UjNRZ1ZqMmgtWDZoNjNhaVVvQnJnU2lYMzFpbTZuYWl4aHE5M2gtMjc1RWhFcEFUOUx4X1pGdFJXdVhsMEVjMkpSZG5BdjlyaXI5OVNvZ1F4ZHlqdmNfQnlFUEZRNmJPbVVDRGREMkh6cVh4V25tQkdzM3NSZ2M?oc=5",
       "pubDate": "2026-08-23T08:40:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -316,6 +388,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSjcxcF9TdG11Zl9mYU5yTzNDS1JRSzcxV0NWYThJNzFfLTMwaGxFQTlwV2llZGExTGFOOGxfSG53aDA1QXRsV05wX2xBWGFhcm9neThPSHVYaTR0UkptbFl6V1FTdElD?oc=5",
+      "pubDate": "2026-08-23T08:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発  毎日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災者された方々を支援する募金活動を立憲民主党の仲間と共に実施しました。",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQUFqVmtiZ2MzNUk3d2tTR1pBeW5wZ04tS1hhOVFoME1FTHZra20wblQ3ZWZfZG5rZkYtV1lrQVR2b0RfeHJzdy0wUTl6amExV011SHdJRXpBNjhrUVE?oc=5",
       "pubDate": "2026-08-23T06:56:44.000Z",
@@ -398,11 +479,11 @@
     },
     {
       "title": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITHB1cVFKODlrTjcyeHFvMTV5dENzWEx2NzBOUjk3Vmd6X2NtOENha1R5ZndjdWFmbTdwTW41ZS1pYm1uU0lBdk8wVGNhRDNoQlBKNThndWlKYXhTam92Y0JyakEyd3lqY2UwSXA0c2FLTnQySXlvX0lSbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hRTNsdmN3b01FamFzWnlMLVNiV2xHY3RQVnNhSDVmUWdzUE9od0tyTUNCZXI5QU1ZQWZiOS1PV0RvZWk4UDY2YlpJaEsybmFXLS1Sa3FadGNRb3lOVmVxM0xWMjdNUnYzSUE?oc=5",
       "pubDate": "2026-08-23T05:08:47.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束  産経ニュース",
+      "description": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束  PR TIMES",
       "category": "life"
     },
     {
@@ -488,11 +569,11 @@
     },
     {
       "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KSEZ4Ni1kbVFCQVNESnB2cW9UM1ItLTVuY3k1NjFGSWFaalVwOTN4b1pJMDdoWXhzOTZISXQ2NEx5Y3pmSWl1QktycUlnekE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YZkNrMENhcTJrSHE5eEVMajFrSExUQjcyUWZQWFRSN3FfeTI0YkRzV19fT0U0Sm5Xb0xVdlJJd0ppQ2lLbXF5SGt5YzVkNW9vdHUyeVFnek9YNERFS2cwUS1BRWg3aEtFSXhiRzlfUk5NZw?oc=5",
       "pubDate": "2026-08-23T03:29:33.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  khb東日本放送",
+      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  テレ朝NEWS",
       "category": "infra"
     },
     {
@@ -505,21 +586,21 @@
       "category": "infra"
     },
     {
-      "title": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWNjLXZnYThSaWRXZHpQUGdUY3NnM1Vpd2VnSGJyRWlwQl9sbDZsUklIVlAwSnA4eW5lTU11LXZzUTVPeElCU0Q3ald4enV0SEZKR2d2RDctYnRnQ0FYaDdOaHBmQ0RVMDZqZTE4Qm1fR1oxbWNmVFNHWmMzVzFsaXdET3dtM2_SAYwBQVVfeXFMT2tNZVR0eGMzTDRGdDNnQ0xxUThVaXFMZ3JXdXFONlc3WmxFdnYxN18wellNb05hQ3NTR25JdHgzaFY2ZmVYNmd1cWdjNmtpZzdHNFI3c0NPUEdnUjdUZW94Q1FZRXB6WldHOVVtY1lSczAtcDFzZEJuTFlaamFLTkEybzZTaEYwVkJ4S00?oc=5",
-      "pubDate": "2026-08-23T03:29:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
       "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開 | ふくしまNEWS - KFBデジタル -",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKeTMwZmNaYUtZUjF3UnJucTNnY2FVdktWczZLVDdZMDlXSW9vZWxzUFNlbWNZcHJpVHA5SmJhUHMxOEpsbHlhRS1ENEotVlNybDVYOHdn?oc=5",
       "pubDate": "2026-08-23T03:29:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開 | ふくしまNEWS - KFBデジタル -  kfb.co.jp",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWNjLXZnYThSaWRXZHpQUGdUY3NnM1Vpd2VnSGJyRWlwQl9sbDZsUklIVlAwSnA4eW5lTU11LXZzUTVPeElCU0Q3ald4enV0SEZKR2d2RDctYnRnQ0FYaDdOaHBmQ0RVMDZqZTE4Qm1fR1oxbWNmVFNHWmMzVzFsaXdET3dtM2_SAYwBQVVfeXFMT2tNZVR0eGMzTDRGdDNnQ0xxUThVaXFMZ3JXdXFONlc3WmxFdnYxN18wellNb05hQ3NTR25JdHgzaFY2ZmVYNmd1cWdjNmtpZzdHNFI3c0NPUEdnUjdUZW94Q1FZRXB6WldHOVVtY1lSczAtcDFzZEJuTFlaamFLTkEybzZTaEYwVkJ4S00?oc=5",
+      "pubDate": "2026-08-23T03:29:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開  ｄメニューニュース",
       "category": "infra"
     },
     {
@@ -611,15 +692,6 @@
       "type": "local",
       "description": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”  女性自身",
       "category": "disaster"
-    },
-    {
-      "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFX0hoSE5hbWpYUzVZQlQ1bUxvbkc3NnZhWUJ3Z3NKX1k0YzZKcE0zUF9uckZ5TmVaSDkyNlFqekxFdVJkaGxoTGRBZw?oc=5",
-      "pubDate": "2026-08-23T02:59:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞  47NEWS",
-      "category": "life"
     },
     {
       "title": "【独自】建設型仮設住宅6割、浸水想定区域 専門家「リスク周知、避難促して」＜2026年熊本地震＞（熊本日日新聞）",
@@ -827,81 +899,9 @@
       "type": "local",
       "description": "茨城県南部を震源とする地震で美浦トレーニングセンターは被害なし（馬トク報知）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "【緊急】公明が第4次要望 熊本地震 生活用水の復旧急げ【神戸市北区】兵庫県議会議員 大塚公彦",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iU2o1NHRzTGdhUEVDYXRfUHRPUUtIWVNzUnl1S1ZJSV9TclNQRWV6Wmt5aFJBVGxWMzIyMVZ2bEY1X2xwVDQ0dlp6eEV4QUZHVVBsZ0Z4dWxxeXNwS05V?oc=5",
-      "pubDate": "2026-08-23T00:01:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【緊急】公明が第4次要望 熊本地震 生活用水の復旧急げ【神戸市北区】兵庫県議会議員 大塚公彦  選挙ドットコム",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震から3週間 断水と災害関連死の今【神戸市北区】兵庫県議会議員 大塚公彦",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BbVdYblFCak5ndWJHUWMtSkl1aTh1TXdoa3JaVk1mb1FsLWZrSVc2Y1BNbG9tcUxSWDJPdVE4RnQxYUpQUW84S3NGT21KekpfWGt6SjZQeW5OeFRsNFd3?oc=5",
-      "pubDate": "2026-08-22T23:56:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震から3週間 断水と災害関連死の今【神戸市北区】兵庫県議会議員 大塚公彦  選挙ドットコム",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震 り災証明書の交付率 ２割にとどまる（１８日時点）",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MeWp3TTZQeWw0YTc5NkRsV1dmdzU5QTB5NkxtdDBWdXJRTWtVNTJPb0Y2c2gwazhuQUI0czdsRHJuRUxsTTVUODBYOXNUa1hTallSU3BBX3M?oc=5",
-      "pubDate": "2026-08-22T23:50:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 り災証明書の交付率 ２割にとどまる（１８日時点）  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震 救援情報",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUVrWWFEOWVzM3JGNjlBMEZndWR1TjFQVmFFTzZkalhwdnhsRXhZNjJ2Nm05V0dSWHFTWndfVGdMOWMzeE1jdDJMRzNFSURVT1BCMXVDcllBQUY0UFlPZmlpcGRBS0QzYnJleU01em5zLWJNcVl3cXljdmIxd1d0RUR0eXlabERPcFlBSlE4UWw3bWl1WUU3eEhkUFBvQ28tTFpYa3VHOG04bm9kN19ieTdoUVVSdw?oc=5",
-      "pubDate": "2026-08-22T23:33:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震 救援情報  seikyoonline.com",
-      "category": "disaster"
-    },
-    {
-      "title": "「10年前と何が変わった？」令和8年熊本地震で自衛隊はどう動いたか 要請前の初動と八代港で生きた教訓",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDdsclJueUxFZjNOVDJ3anRlNGo3QW9rM3J3aUZWdEUxQWg5VmFXek5WTGlVT1RhckFkVm5GYjRrR0o0bzd5bmlva0tnclZNT0lMRXBraG1XVkNHUmtJWURiWWhCdmtkOW9hckNDOFllYTFUMnZhS0E5SVVRNnl6bVUwRkliRlFXXzNDT09B?oc=5",
-      "pubDate": "2026-08-22T23:12:18.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「10年前と何が変わった？」令和8年熊本地震で自衛隊はどう動いたか 要請前の初動と八代港で生きた教訓  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の裏で政治資金パーティを開いた政治家は他にもいた…福岡県議会「腐臭に満ちた伏魔殿」を暴く（FRIDAY）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeEVhLTFzMklQS2Q0bjhDdTJrX0RlWVkwUEZORmx2WGpOelBvVGt3ZEkyaC1yXzhxc0k0dHRfSVBfNGhfcWpwbjZFTE8wOGhBNnJHZjgtOTJBdXk4eXJQaXpOR1NMWFRnUmh2RmJNS0Q4cXNmeXRIUVR6OHh0Rms?oc=5",
-      "pubDate": "2026-08-22T23:00:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の裏で政治資金パーティを開いた政治家は他にもいた…福岡県議会「腐臭に満ちた伏魔殿」を暴く（FRIDAY）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "ニーズに寄り添う支援を 下伊那赤十字病院が熊本地震被災地に救護班【長野県松川町】（南信州新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uT0NtRXdRVVBsNzlfSXdkTEg2eHQ1LVJpakFFLU0zQk9DTndqTWZMS0d2NlBWc2xzbDgzaVR0UFo4WXprRXoxNHo5VkRsQmVnbTN6c2Q5Q0l3N0owNXE1c3VremJfbkVTQ1lwSDF4TlBJeVU2dVBFTTFFcnkyQWs?oc=5",
-      "pubDate": "2026-08-22T22:58:11.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ニーズに寄り添う支援を 下伊那赤十字病院が熊本地震被災地に救護班【長野県松川町】（南信州新聞）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震義援金をお寄せくださった皆様【静岡新聞社・静岡放送、静岡新聞・静岡放送文化福祉事業団】（8月23日）",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KRFhNdi1makdyOFdKRTlLeHV3TlI2UG9ZbGloNF9KLU5ZeXN0dTAycm9pRkx4WWxHTUN6NVQ3VUZ6UVpLeFNGdVlFdnU4QQ?oc=5",
-      "pubDate": "2026-08-22T22:55:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震義援金をお寄せくださった皆様【静岡新聞社・静岡放送、静岡新聞・静岡放送文化福祉事業団】（8月23日）  静岡新聞DIGITAL",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T10:40:31.070Z",
-  "lastAttempt": "2026-08-23T11:00:09.686Z",
-  "fetchOk": false
+  "lastSuccess": "2026-08-23T11:28:57.279Z",
+  "lastAttempt": "2026-08-23T11:28:57.279Z",
+  "fetchOk": true
 }
