@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5MHlhYmpwT05TTk5pemNGMkJJYUVQRTZROVJzZnRITEZvZ1NuUmFHU3dzRVdjRDc3dUFqSXNHajdCUkdDbXJTSXFxcWphaHE1bEw5aXRpdEhYaXczQmZRNFR5TVNDS0pOaWhF?oc=5",
+      "pubDate": "2026-08-23T08:22:06.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず  信濃毎日新聞デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "小泉防衛大臣、熊本地震で災害派遣の自衛隊部隊を激励 イオンモール熊本で献花も",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xeElET05KbmlNLVdQTWtWRlY4MnRhTjY0UlpKR3pQVUNPZ3RGcGNzeDY0MlZJZ0dudXd0UmdESGJIcDRWbGhfcmdMMGpFUQ?oc=5",
+      "pubDate": "2026-08-23T08:03:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "小泉防衛大臣、熊本地震で災害派遣の自衛隊部隊を激励 イオンモール熊本で献花も  FNNプライムオンライン",
+      "category": "disaster"
+    },
+    {
+      "title": "被災した高田焼の窯元が再出発 熊本地震 [写真特集1/5]",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96WlJSTnFRb2FidkZidnRtWnhyVk1qN3psMVhiakVrWDZmRkpvMnozX3hreUVFQ1RlTVpMNFBwalQxalU2MWx1dnVsSEZIekhkUGRYLUwtWnBMdldlWGpHdFNuNkdhQQ?oc=5",
+      "pubDate": "2026-08-23T08:00:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "被災した高田焼の窯元が再出発 熊本地震 [写真特集1/5]  毎日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発（毎日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12SHNoVENmQmtTSFI4dEo4VDQ2QlV0eXMwR0tLWElDYm84eE00eWtkNXZPb0lyajBURlBoRFpGSXdUWnk4SkUxTnhXd3ZDeVFCeFZxcmpGdmVJNkItajE1LWVEYXhHVHktTmNPUnFQYVRqWnhpSi1BN21pSXVKZDg?oc=5",
+      "pubDate": "2026-08-23T08:00:19.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発（毎日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災者された方々を支援する募金活動を立憲民主党の仲間と共に実施しました。",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQUFqVmtiZ2MzNUk3d2tTR1pBeW5wZ04tS1hhOVFoME1FTHZra20wblQ3ZWZfZG5rZkYtV1lrQVR2b0RfeHJzdy0wUTl6amExV011SHdJRXpBNjhrUVE?oc=5",
       "pubDate": "2026-08-23T06:56:44.000Z",
@@ -37,6 +73,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に2801人避難",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oQjYzb2xJbkcxMmtTVE9laXdyVjdZRk51UTVKZmoyazF0dkluaFBCXy1oQ3daRWFtSDdkUldBLUFTbmJRREx3RnNqRFpIWWpUNGc5bV9qRXdLaDNUZ3Nz?oc=5",
+      "pubDate": "2026-08-23T06:33:09.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震 災害関連死の疑い含め38人死亡 避難所に2801人避難  NHKニュース",
+      "category": "life"
+    },
+    {
       "title": "スーパーホテル、熊本地震の被災シニアに最大7泊無料提供 九州16店舗で8月24日から開始、2027年1月3日まで",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0UnFJOVNlMm8yS002aTlTV0VGRF8waVdCdUxlZkEycng0aTdrRzdZM2NfNkF3S1ZGVFZSbTdGSXZRejYtNVJqbG91SUxGelROcGdTaw?oc=5",
       "pubDate": "2026-08-23T06:24:28.000Z",
@@ -47,11 +92,11 @@
     },
     {
       "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0S3Bfa1BBWkdETDFRcG5malFsY3BpSzJFSTgwMS1ScGV0UUR1X3E0T2tCVlM5bHExYjl4a3JPU1VKWm5ydVR1YnFwTFhuamplRWlIX0JPVlhqVC1NbmpDajRldUM1UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpkX1NlLXRsOXFRWk53bFVSWkVhWDM0WnlyMFVMZHVpU3JNUm1jU0ZBVkN0N3VHeUtXRVlKdmRQdUxNTHFjbnk2RDljNDQycWtMVHRqb19VakpOWWtGdDFOd2ZPU21pczREbURXeWZPdTBYZXlocU1PMWFhZXpPaG1RcnTSAYoBQVVfeXFMTWxVT0VzTW9rRjNvVFdHYlRiYjdVUU1qdC1RN2t3d1BlSUtkeGZLZ2wyU2tYOFJoWEx6SmRWTE9QcDBwVWxuS3FlQ2xGM2t6ZE1RYUdISE5FOHFHZUJHdzBoSFRmUnBqVm1XQWJRQlVFMXd3TVdyVUx5XzU1MDZkdndreTdrb3dJem9B?oc=5",
       "pubDate": "2026-08-23T06:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  読売新聞",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -101,11 +146,11 @@
     },
     {
       "title": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援　坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tT0tiLXVxNFhGdUpPZG5UY1pQUXVtZFlTdFVXUG5pWFlNLW53VDdNcVozM2dnS2licGVGdlFiOTdTQ25WUkRkNWwwYXktQWlndXkwSV9NWWJwVmc5NkFZRDBoUC1YaG01UzgtVV8wRdIBdEFVX3lxTFBuZ1RDQnhxTnpOVkpZY0F3QXFIbHBvZFFSS3hZLWVVYWRGelVsZVlTVWdWUXJhUVhhOVBvUU45TmltRlZEb0VSYjBLNHg3TkJRbXBMM2VYUTNZM3IweGxjSEJMeXV0bTJ4SVdleTgwbTVQRU1a?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFc0Sklucnc1alJVTEthMUFvMlAzazFSN0NUY0hRTGQyNVB4cmluMW5nNTJ0VHQwY1ZJWWRBLUh6WGVPS0Vfb2h6dXh0Yi1RTHhLTlY0eHhxVklaX29VT3dDWkc5a0J2d0V5VW5ybGk1X1JhdzliQ3RXQUZlMzdCU08wcDPSAYoBQVVfeXFMTjl5MkN5NWhBdnk4MGpfOUlSU2c1eVhKNlhpN1RfX1pjTEZlRlZWY05USDdicHJWeWwtY2VPeTdjTUpGZEdOaUNwTGlJVnVSMDlna0JvMmJ4OVVwQURMVWcydVhtSkRRdVpCMlhsZzhLbHVwV3F0S3ozM3p3ZE1RclFnUXFMaFdZTExB?oc=5",
       "pubDate": "2026-08-23T04:27:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援　坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける  Infoseek",
+      "description": "【スーパーＧＴ】ＧＴＡが令和８年熊本地震の被災地を緊急支援　坂東正明代表が熊本出身ドライバーの吉田広樹や田中篤らと物資を届ける  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -146,11 +191,11 @@
     },
     {
       "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YZkNrMENhcTJrSHE5eEVMajFrSExUQjcyUWZQWFRSN3FfeTI0YkRzV19fT0U0Sm5Xb0xVdlJJd0ppQ2lLbXF5SGt5YzVkNW9vdHUyeVFnek9YNERFS2cwUS1BRWg3aEtFSXhiRzlfUk5NZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KSEZ4Ni1kbVFCQVNESnB2cW9UM1ItLTVuY3k1NjFGSWFaalVwOTN4b1pJMDdoWXhzOTZISXQ2NEx5Y3pmSWl1QktycUlnekE?oc=5",
       "pubDate": "2026-08-23T03:29:33.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  テレ朝NEWS",
+      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  khb東日本放送",
       "category": "infra"
     },
     {
@@ -227,7 +272,7 @@
     },
     {
       "title": "熊本地震を受けて県議会議員一同が見舞金 柳居議長が熊本県東京事務所に届ける",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BcHk4V29yTjQ3U3FVa3AxLU0tWUl5RkRUYlRKT3VueUhPbFE5MXdsRGZFeFE3aGJGYVJYTktyTmtDVHBKSDkzTzVleDVJcnpRclFWTmpQU2hqcnlrRWZOUUlJZzVKTm40NTdIb0o0blBDbE1XTGtaMmRIemdIVXM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmYweVJCMUxyZThSQ0JoZ2FkbTZCUnVOZDY3aVVqb0VUY0FUR1RNc290M1hPeF91eGFmSDV2a3hORTV6UE9CVzlaOXRKQUZuX2VBekExLTI4WGw5V2FBMXhXLUJoSF95WkFOU3NzVllmaDFtZmdMX1FrdndkVE5rWWltbzVmMXM?oc=5",
       "pubDate": "2026-08-23T03:06:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -730,6 +775,15 @@
       "category": "disaster"
     },
     {
+      "title": "＜デスク日記＞「休刊日号外」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYl9OVTZHQ2paSnVCRGhEYTQ2aWd6NEJiYmJDM0JGVXFlY0lmbHlwMmlCN1BVeTBKeUx2S2hGcmpOWWttV21WU2NiRnotVTg?oc=5",
+      "pubDate": "2026-08-22T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜デスク日記＞「休刊日号外」  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "熊本地震 在宅や車中避難、実態把握が課題 行政、人員不足に悩む",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TbEw4blhnanJuTDNTZVRpWXZEdmJLMnI2ZTVMTEs1TG5fZUxfUk5JSjFLNi1qNTcyVTQwSTQ3cUs1cTUzR2RYSVQ4TEY2aTRxRDkxeWJB?oc=5",
       "pubDate": "2026-08-22T20:00:00.000Z",
@@ -746,15 +800,6 @@
       "type": "local",
       "description": "「２次避難」希望件数の３１％ 熊本地震、３７％決まらず調整に時間  北日本新聞webunプラス",
       "category": "life"
-    },
-    {
-      "title": "＜デスク日記＞「休刊日号外」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rYl9OVTZHQ2paSnVCRGhEYTQ2aWd6NEJiYmJDM0JGVXFlY0lmbHlwMmlCN1BVeTBKeUx2S2hGcmpOWWttV21WU2NiRnotVTg?oc=5",
-      "pubDate": "2026-08-22T20:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜デスク日記＞「休刊日号外」  熊本日日新聞社",
-      "category": "other"
     },
     {
       "title": "熊本地震 観光業支援 宿泊費補助へ 官房長官表明 「九州全体に誘客」",
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "熊本地震で山門崩れるなど被害 八代市の勝明寺で復旧作業続く（2026年8月22日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
       "category": "infra"
-    },
-    {
-      "title": "2026年熊本地震＞運転免許有効期間、特例で延長 災害救助法適用21市町村 八代署など講習休止「免許センターで手続きを」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iM29lNTFSZWtuaEx2Sml4elZzLVdXWUJNa3V2TmwtZjRSMWtlemNHMXBZRFZheTkybU43aWM0X3dYeVpKWUZGQVkyaFRjVlE?oc=5",
-      "pubDate": "2026-08-22T15:50:44.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞運転免許有効期間、特例で延長 災害救助法適用21市町村 八代署など講習休止「免許センターで手続きを」  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "秦野あづまライオンズクラブ2駅で募金活動を行い、熊本地震に約30万円を寄付",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VFhIS0FlZWh4VmhCRk81ckdpZlNqZWkyZ2Rld0pSVU1PNnN2X3dKckJreFBRc2E4dmVIZm9oV2U5OC1XOGxGSHQwaUYyOGM1ZDRIMnlDZTdJRklXYXE2N3ltU2I?oc=5",
-      "pubDate": "2026-08-22T15:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "秦野あづまライオンズクラブ2駅で募金活動を行い、熊本地震に約30万円を寄付  タウンニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和８年熊本地震義援金／民報教育福祉事業団（２１日） ▼会津美里町の新鶴地区赤十字奉仕団が３万円",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KSFNQWFppdWI3ZUM2SExGaFFpVXdRNlh2S3ZkUmpRaGhDdW81azhfQjZnN3FVTmN4V0RXTFJablBKLVlTR2hZbkdqNA?oc=5",
-      "pubDate": "2026-08-22T14:02:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（２１日） ▼会津美里町の新鶴地区赤十字奉仕団が３万円  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】氷川町で地域の医療と生活を守り抜く地域医療センター - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OWXJfT2RYaEJicEg2UVowWWk0Ulo2UW1DcWNyUFBRdDQ2Q3R1SDMzV2g4emZfOXdPbTg2QUJBTWZBMzdxTGFvSEFqZw?oc=5",
-      "pubDate": "2026-08-22T13:30:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】氷川町で地域の医療と生活を守り抜く地域医療センター  クラウドファンディング - READYFOR",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞海沿いの水田で塩害か 八代市昭和同仁町 稲が赤茶色に変色",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUWJodXVNR2JlU0REUUZfdnJxd1pxTzlPNWpIQ3lpY0JUS09zd3V0TG50SFFaNWRRZDJsOGY4NElIaVU4Tmpfa3pVUmVHYXc?oc=5",
-      "pubDate": "2026-08-22T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞海沿いの水田で塩害か 八代市昭和同仁町 稲が赤茶色に変色  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T07:47:18.784Z",
-  "lastAttempt": "2026-08-23T07:47:18.784Z",
+  "lastSuccess": "2026-08-23T08:29:18.931Z",
+  "lastAttempt": "2026-08-23T08:29:18.931Z",
   "fetchOk": true
 }
