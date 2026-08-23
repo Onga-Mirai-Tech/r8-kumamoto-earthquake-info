@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【動画】断層隆起の瞬間克明に 防カメ映像、世界２例目か 専門家「貴重な資料」・熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NGpIX2ZuX3BxakJDTjJjYl9ZUlRra1FpVjQ1SUJBY3plZVdqUXBoUENOazBPZEJNU0w4NUNha041dGxQb3BNVUcyQnJmVW8?oc=5",
+      "pubDate": "2026-08-23T12:38:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【動画】断層隆起の瞬間克明に 防カメ映像、世界２例目か 専門家「貴重な資料」・熊本地震  時事通信ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震の被災地を閣僚らが相次ぎ訪問 小泉防衛大臣は陸上自衛隊の部隊が入浴支援を行う施設へ 金子国交大臣は断水解消に向けた初めての試みを発表",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Q2t6ZWFBYjVYRU1ZYmdFdzN2MGx3VVhEaDB3WGRpbWtzTnNiOGJoM3BRUUhwVWxtdVVCVktSWHRaeDBSam04WXB4NnVYUHo2RGc2ak1IbGI0blZjMVE1NnlKSEI?oc=5",
       "pubDate": "2026-08-23T12:16:21.000Z",
@@ -26,15 +35,6 @@
       "type": "local",
       "description": "地震で被害の2団体が出場 「さや」は優秀賞 おかあさんコーラス [熊本県]  朝日新聞",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWFJWT1JaZ2RCYW92NGRRWkVlRTM1NFZycnlJb3hVSzNuVFFNeTBQMW5fRTRMX3p1Szk0UWFMaWxVTWNXSy1jejU1VHcyTWpfU1JvVS15UGVvTWR4M2Jja0FFdEhkbVUxZG84S1V1eEpvSWphT0ZreG5aQVVicWs?oc=5",
-      "pubDate": "2026-08-23T12:09:30.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "life"
     },
     {
       "title": "2026年熊本地震＞「迅速に対応」自衛隊員を激励 小泉防衛相が被災地視察 入浴支援1万9千人利用",
@@ -127,21 +127,21 @@
       "category": "disaster"
     },
     {
-      "title": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83SEEzcUdNY2tZTGxRTXlTRHRRalQ1V1EzMEZ5YXpFMzlfRkpMdk56THI1SXpkMWYyRGp6dEtab1dvakVFQTRVRzJlUjkxajQ?oc=5",
-      "pubDate": "2026-08-23T10:43:50.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
       "title": "上水道復旧でコールセンター 金子国交相、設置を表明 26日にも 2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vbkJ4cDFrMkZ1LWFUNmJBZF91dFpPelhPRHhHblIyWjJYdjJnWFNWNFc1QmFfNmNqUEVEMWlPVC1KZWVLSEhGWWxKQQ?oc=5",
       "pubDate": "2026-08-23T10:43:50.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "上水道復旧でコールセンター 金子国交相、設置を表明 26日にも 2026年熊本地震  47NEWS",
+      "category": "infra"
+    },
+    {
+      "title": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83SEEzcUdNY2tZTGxRTXlTRHRRalQ1V1EzMEZ5YXpFMzlfRkpMdk56THI1SXpkMWYyRGp6dEtab1dvakVFQTRVRzJlUjkxajQ?oc=5",
+      "pubDate": "2026-08-23T10:43:50.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "国交省、上水道復旧でコールセンター 26日にも 金子国交相来熊 2026年熊本地震  熊本日日新聞社",
       "category": "infra"
     },
     {
@@ -380,7 +380,7 @@
     },
     {
       "title": "水の確保が深刻な問題　今も断水が…　熊本地震からまもなく4週間　九州自動車道・川田橋では橋のつなぎ目の損傷や桁の「ずれ」確認",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN28zSm9PZ1NFQnFGaXlmTzBZUlNYSUE3clJUQmk4YmljOEJpYmZCdlpWTzc4Y2lDeVh5Sm9nTHd1N1dZd1YzNGlKaXQ2WGFqUGtaV19xa2dPVWNXQnVJRGRfUzNPVWtPTXV3SFYxX3dva2V0NW0wWVFCXzJGeUJSbmNKSlI4MTkzS1NuUkFDb3dMbmF4WE92bGdjczFqV0pmdG0zLWZxT3JTd21Dc1BUV3JaWkhLeXBHTVRSOXo2c3hlX0160gF0QVVfeXFMUDk2QVhzLVRfX3JmVnNHZFNWcExkMTdxYl9id0sxaGt0QVlJaXJnUERva0U5V0lQa0RVUTBSVzdTS01sTnJLaEhvWnhhR1VKREFPNDktZmYwdVVNemtPZTJ0dktUZWRscEpvR2dBSFo4QjJPcTE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zZ0V2VmdyNmhTcmN1b0JjUldfRlVRQ1hNNlZkQjV5SWxtVC1vVGV2cGZNcndOOHctRExJajNFWDhKT1Bsd19JVVI3ODdsRGhyYlJURGJrX243QjVUaTJVWkN4X28tZXh1ZVhaVVhzSdIBdEFVX3lxTFA5NkFYcy1UX19yZlZzR2RTVnBMZDE3cWJfYndLMWhrdEFZSWlyZ1BEb2tFOVdJUGtEVVEwUlc3U0tNbE5yS2hIb1p4YUdVSkRBTzQ5LWZmMHVVTXprT2UydHZLVGVkbHBKb0dnQUhaOEIyT3Ex?oc=5",
       "pubDate": "2026-08-23T08:51:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -577,12 +577,21 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnViQzlqc0JrZGJlSndhZnVZX09lb0VQREZKckplYWlZcEtQUG1NUjhtT2JlRWdTN2JnSHVPVVQzaXprVld3aGJmQ2NYellVLVhacjVjWGYxZWJOM0tlam04cTNvMnc1Wld2a1V4dHJ2QzVnV2V1R3ZuTXlFZDhFX01pckE2d09s?oc=5",
+      "pubDate": "2026-08-23T06:00:27.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる（読売新聞オンライン）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0S3Bfa1BBWkdETDFRcG5malFsY3BpSzJFSTgwMS1ScGV0UUR1X3E0T2tCVlM5bHExYjl4a3JPU1VKWm5ydVR1YnFwTFhuamplRWlIX0JPVlhqVC1NbmpDajRldUM1UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpkX1NlLXRsOXFRWk53bFVSWkVhWDM0WnlyMFVMZHVpU3JNUm1jU0ZBVkN0N3VHeUtXRVlKdmRQdUxNTHFjbnk2RDljNDQycWtMVHRqb19VakpOWWtGdDFOd2ZPU21pczREbURXeWZPdTBYZXlocU1PMWFhZXpPaG1RcnTSAYoBQVVfeXFMTWxVT0VzTW9rRjNvVFdHYlRiYjdVUU1qdC1RN2t3d1BlSUtkeGZLZ2wyU2tYOFJoWEx6SmRWTE9QcDBwVWxuS3FlQ2xGM2t6ZE1RYUdISE5FOHFHZUJHdzBoSFRmUnBqVm1XQWJRQlVFMXd3TVdyVUx5XzU1MDZkdndreTdrb3dJem9B?oc=5",
       "pubDate": "2026-08-23T06:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  読売新聞",
+      "description": "熊本地震、ボランティアの熱中症を防げ…支援する人を下支えする「支援者支援」動き広がる  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "熊本地震後 長崎県来訪者、前年同期比１５．４％減 宿泊者は１９．９％減 九州７県で減少幅が最大  長崎新聞ホームページ",
       "category": "disaster"
-    },
-    {
-      "title": "〈熊本地震〉緊急対応から”出口支援”へシフト 17県のDWAT25チームが対応",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FUjIyUkVKWk12QWhTcnItTElweUhnLUlQQXV5TXd4T21KNUcyaHlfNnJZSVdjQWlFTjhDTnZqS2doODZaanVjNGhSckRtaGM?oc=5",
-      "pubDate": "2026-08-23T01:50:18.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "〈熊本地震〉緊急対応から”出口支援”へシフト 17県のDWAT25チームが対応  福祉新聞Web",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-23T12:38:09.010Z",
-  "lastAttempt": "2026-08-23T12:38:09.010Z",
+  "lastSuccess": "2026-08-23T13:20:13.955Z",
+  "lastAttempt": "2026-08-23T13:20:13.955Z",
   "fetchOk": true
 }
