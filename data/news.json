@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "【速報】宇城市で震度3",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dndLS2xCcGJQMnVxaWp5TTBqX3lyT3MySFFaRHFoM25aRzRGanFZMGVFQ0VWODU5RzBUN1otUW1HUTNxRWFJZWJpaUFoY1E?oc=5",
+      "pubDate": "2026-08-23T19:11:04.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇城市で震度3  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度3の地震",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR19ZZ1dpWnhsRjJDU0VySVhvSWdCdXRFSzQtcnh2RVMzZjhyc0dDbkFDT0RzZ1lfZGxaZjVlOTM3S2NydktGYS1sLVVuTko0a0pnUVVJQ1dlZ1RZSW9KRmFBR1duMkpVTTZ0WUc3eGx3azFFSUJZYzNVSHhPNThGanBR0gF0QVVfeXFMT1lUR2Z6UDY3eVRkdkt2OEtndjlEN2ZnU1NDMmtaTmdRX180U2p6cXdJcTlMSHlJenNUMWZrOVY2dng0NEpySjBNbGFpUHdubkc4V3FYbmpDeUE4eUdiMWNpeHE3UUNJbmhmSXFCUF9xQW5pcEg?oc=5",
+      "pubDate": "2026-08-23T19:09:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度3の地震  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度3 熊本県天草・芦北地方を震源とする最大震度3の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83VkZNUXZLR2NuUnVTRk1lOFFWdEJTRXJaSFY2U3RjMWNhLWI1Wkl6RzY3bzNuSFVhQnBaVEZFYVJXLXRRZTBDVnZ0dFp3TS1hQ2dhSkVfNDZfcHNpQTE5R0JrSEh4RHFTcGZFUXVDb1HSAXZBVV95cUxPQ1lBUFA5Zi1kN0dpMHFNZ0plRnZRWGd2dmVxQzd0NGFGSnZuRjVRZDEzRng3X1VEakRkVGxNbENQRU4yX01BWGZqVHhxSEtQRU9Db2RlV3R5Qlh2ZmJ0c3hlcnhoMTVSVmp0UWpmSllPWE5hNFpB?oc=5",
+      "pubDate": "2026-08-23T19:05:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度3 熊本県天草・芦北地方を震源とする最大震度3の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "外国人被災者、情報届かず 熊本地震 専用発信は３市町のみ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FVThmNVBfRzRoQUhCeUpOdkVwRlBNRE9iQTdvUGR2QnBWZGlpdWFTSzc0V2tKY040Nk03aGVzRFVabHcxano0UzF5SWZIRGlhRTVuSEl3XzczOUE?oc=5",
+      "pubDate": "2026-08-23T19:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人被災者、情報届かず 熊本地震 専用発信は３市町のみ  山陰中央新報デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "外国人被災者に情報届かず 熊本地震 専用発信 3市町のみ",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWEhKTWkyYVNfaEtfc2FMOHpoUWxVdEI3dTNzYXU4enc1akdHMl9fY01DeFlSRXRKeEdPeDVTUzg1QTFiQlVtRnNHVGVvM3lsTXZRWmxlaHU4Z0M0WkE?oc=5",
+      "pubDate": "2026-08-23T18:57:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人被災者に情報届かず 熊本地震 専用発信 3市町のみ  沖縄タイムス社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震被災地に防犯カメラ950台 県警、家屋侵入や窃盗防ぐ",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12WFVKcmhvQnplcVQzQWhMYXI3UDFKZ0t1Wk55VWVBYnEyWDJ3R1NoUlN2VHV3Q0JxMVNIdVBwTlVJV1VHa1lzbl9NbTZ0Tkl2VHVyV3NqZmhfeC1MS3JsbWlvSWtuSUtwOTdPZQ?oc=5",
+      "pubDate": "2026-08-23T17:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被災地に防犯カメラ950台 県警、家屋侵入や窃盗防ぐ  日本経済新聞",
+      "category": "disaster"
+    },
+    {
       "title": "小泉防衛大臣、自衛隊員を激励 熊本地震の被災地を視察（FNNプライムオンライン（フジテレビ系））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSW5JYXI3ZGE0NjRMU1hHRW5vTXM0VlRhZmRZZE03R1NtamdCRFNGalRPWmFNdXhoWTJtRldfOF9aSlpNMEhVY08zT21ZQ3JBVmY1X1VQRVEweU93ZWMwdzJqU1Z6OHRSY1d6U29yYXBwWWZBQWtlRDh0QVV1ZW8?oc=5",
       "pubDate": "2026-08-23T16:05:24.000Z",
@@ -541,6 +595,15 @@
       "category": "infra"
     },
     {
+      "title": "家屋被害が３万８０００棟超える 避難者は２７９４人、熊本地震（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBta053bmFaNm9oSVRmNEFJb3psTUUxd0lsZWFIWkdjRWVLOWpJNXNhQ2F2UTdJdlh5UmFNdnA1T0JBdjdCZnZodTdtOXBJbFk?oc=5",
+      "pubDate": "2026-08-23T08:41:22.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "家屋被害が３万８０００棟超える 避難者は２７９４人、熊本地震（共同通信）  熊本日日新聞社",
+      "category": "life"
+    },
+    {
       "title": "2026年熊本地震＞橋桁大きく変形「本復旧時期は未定」 九州自動車道の川田橋（八代市） 西日本高速道路が被災現場公開",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82YS0zRWtPeDhMaU1reGNBNVM1N2JmeVhEQ3FXTE1iZUxWaXhoN0FQaTUzYkRpb0twNEVsUnBJTl9FbXFLOU5iMjRtcmphRkk?oc=5",
       "pubDate": "2026-08-23T08:40:53.000Z",
@@ -596,11 +659,11 @@
     },
     {
       "title": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5neWpJTDB3Uzd4UUxrQ3FPemVSRmc0UFNiQi1EeFVpM3A2MGJVYkRLMDVXNV92Qkk2THlxal9TTDkweVMtbVE4em1wcUlBTUZ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONTZZaEpmV1RvMVYzVU5sYkF3Z0hnUXVfeG93Sk9YM1ROc240T2tvYXBTZFpkTDhUZ2s2T1FjNzM4aWQxcnhaSDZiMVpIbE9nVm9MNTc5WTRCRVFLZXV2MENYMA?oc=5",
       "pubDate": "2026-08-23T08:22:11.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず  nnn.co.jp",
+      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず  河北新報オンライン",
       "category": "disaster"
     },
     {
@@ -622,21 +685,21 @@
       "category": "disaster"
     },
     {
-      "title": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず | | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbm1HeUlTZG1Gd2lWaERGTGxod3RYWWV4QkRqSDBxTlVoTzhnMzZsMjY3SVJVNUxlUlhoalFVRUp0OVh6V3BZdUZ6dDZKYXhqcDBGVzBn?oc=5",
-      "pubDate": "2026-08-23T08:22:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず | | 全国のニュース  佐賀新聞",
-      "category": "disaster"
-    },
-    {
       "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83VnlGWHc1b0VKZnRMaV95WWVvdDQ0ZEFhcFJJazlXLWRBa3U0UDJNUVIwYi1BMHM3VnRRblRaREF5VUFqNk5VUW11Y2s3MjhocVIxN0VnTlp0SzBMeTNOcVdTa3hNdzVSZy1HRmdn?oc=5",
       "pubDate": "2026-08-23T08:22:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず  Infoseek",
+      "category": "disaster"
+    },
+    {
+      "title": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず | | 全国のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpbm1HeUlTZG1Gd2lWaERGTGxod3RYWWV4QkRqSDBxTlVoTzhnMzZsMjY3SVJVNUxlUlhoalFVRUp0OVh6V3BZdUZ6dDZKYXhqcDBGVzBn?oc=5",
+      "pubDate": "2026-08-23T08:22:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人被災者向け発信３市町のみ 熊本地震、言葉の壁で情報届かず | | 全国のニュース  佐賀新聞",
       "category": "disaster"
     },
     {
@@ -836,72 +899,9 @@
       "type": "local",
       "description": "未明に関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YZkNrMENhcTJrSHE5eEVMajFrSExUQjcyUWZQWFRSN3FfeTI0YkRzV19fT0U0Sm5Xb0xVdlJJd0ppQ2lLbXF5SGt5YzVkNW9vdHUyeVFnek9YNERFS2cwUS1BRWg3aEtFSXhiRzlfUk5NZw?oc=5",
-      "pubDate": "2026-08-23T03:29:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  テレ朝NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開（テレビ朝日系（ANN））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZEVsTUhoVk1YSExnaUJ5Ql8zUGN2bzVVU0VmTThxWmIxSWVXTG5mX0cyNWZXdlVTXzdmRU1jajhoZzVQaUJ0SFlxWmpHdEpSSFN2TWZNenRXQ0dSRzF2NGp1S3RjdWNqTXpJRjZKejNpbHY4YlRjY3poXzFmMGs?oc=5",
-      "pubDate": "2026-08-23T03:29:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開（テレビ朝日系（ANN））  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開 | ふくしまNEWS - KFBデジタル -",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKeTMwZmNaYUtZUjF3UnJucTNnY2FVdktWczZLVDdZMDlXSW9vZWxzUFNlbWNZcHJpVHA5SmJhUHMxOEpsbHlhRS1ENEotVlNybDVYOHdn?oc=5",
-      "pubDate": "2026-08-23T03:29:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開 | ふくしまNEWS - KFBデジタル -  kfb.co.jp",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWNjLXZnYThSaWRXZHpQUGdUY3NnM1Vpd2VnSGJyRWlwQl9sbDZsUklIVlAwSnA4eW5lTU11LXZzUTVPeElCU0Q3ald4enV0SEZKR2d2RDctYnRnQ0FYaDdOaHBmQ0RVMDZqZTE4Qm1fR1oxbWNmVFNHWmMzVzFsaXdET3dtM2_SAYwBQVVfeXFMT2tNZVR0eGMzTDRGdDNnQ0xxUThVaXFMZ3JXdXFONlc3WmxFdnYxN18wellNb05hQ3NTR25JdHgzaFY2ZmVYNmd1cWdjNmtpZzdHNFI3c0NPUEdnUjdUZW94Q1FZRXB6WldHOVVtY1lSczAtcDFzZEJuTFlaamFLTkEybzZTaEYwVkJ4S00?oc=5",
-      "pubDate": "2026-08-23T03:29:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRDdHYUdIMDFuSFVOV2x1V2ZvQkMxWnhFUXF0QXo1QXRvSjNtYkRsTWFOYUFOZU54RXJPRTBvbjhlZUxEX1dxSTNKZEtkYUpwbEZKQ19DcGVWTHlUNC1veFRIMS1CYzFUaVFpendlOURoeWdKR3VMbkNmYy1OLXc?oc=5",
-      "pubDate": "2026-08-23T03:26:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "災害発生時、詐欺的手法で利益を得る悪質商法が発生しやすい…熊本県「勧誘されてもその場では絶対に契約しないこと」",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XLW11Y1JTNGhnc1RMU25iN1FxYWdxcmFjSUV6bFdMQjZnRjFXM1J2MDNMTGJaNF93Yk9tbG9tSXY3R1pYbEdFZ3FrY2Q3SnhtRDVYLTFFS01aVDJSTzNSNVZGeThiQ3JJdTdJMWdseXlfQQ?oc=5",
-      "pubDate": "2026-08-23T03:26:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "災害発生時、詐欺的手法で利益を得る悪質商法が発生しやすい…熊本県「勧誘されてもその場では絶対に契約しないこと」  読売新聞",
-      "category": "other"
-    },
-    {
-      "title": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震（FNNプライムオンライン（フジテレビ系））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZ3ZRanRVVVZpN2lRdmhfcEFONDNPblVZaF9NbUlBRDFLdFY2bGVQZjBuUHpXZHMxbHIwcURESFoyMlh2RUl0Z3d2Z0RrWWZKamJIOHlwd214MDVnOEEzaklOcGFkaHpoSkxTbFBndC00c0l3N1VYdnY2X0g5c3M?oc=5",
-      "pubDate": "2026-08-23T03:24:23.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震（FNNプライムオンライン（フジテレビ系））  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T18:59:04.953Z",
-  "lastAttempt": "2026-08-23T18:59:04.953Z",
+  "lastSuccess": "2026-08-23T19:28:31.241Z",
+  "lastAttempt": "2026-08-23T19:28:31.241Z",
   "fetchOk": true
 }
