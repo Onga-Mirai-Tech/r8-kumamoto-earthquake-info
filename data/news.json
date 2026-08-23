@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSjcxcF9TdG11Zl9mYU5yTzNDS1JRSzcxV0NWYThJNzFfLTMwaGxFQTlwV2llZGExTGFOOGxfSG53aDA1QXRsV05wX2xBWGFhcm9neThPSHVYaTR0UkptbFl6V1FTdElD?oc=5",
+      "pubDate": "2026-08-23T14:58:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発  毎日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 窯元が葛藤の中で再出発",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92cVZIb0F2ZmxvWDdoZURkWDV6QXpsOFl0T0FmNGV2UmZ5TUZfVmZuMU95R0VDNlRwOE5nUFdqRXItZXpORjNqRnNqalRaTXVs?oc=5",
       "pubDate": "2026-08-23T14:39:04.000Z",
@@ -622,15 +631,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSjcxcF9TdG11Zl9mYU5yTzNDS1JRSzcxV0NWYThJNzFfLTMwaGxFQTlwV2llZGExTGFOOGxfSG53aDA1QXRsV05wX2xBWGFhcm9neThPSHVYaTR0UkptbFl6V1FTdElD?oc=5",
-      "pubDate": "2026-08-23T08:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災した高田焼の窯元 葛藤の中で再出発  毎日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震で被災者された方々を支援する募金活動を立憲民主党の仲間と共に実施しました。",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQUFqVmtiZ2MzNUk3d2tTR1pBeW5wZ04tS1hhOVFoME1FTHZra20wblQ3ZWZfZG5rZkYtV1lrQVR2b0RfeHJzdy0wUTl6amExV011SHdJRXpBNjhrUVE?oc=5",
       "pubDate": "2026-08-23T06:56:44.000Z",
@@ -879,7 +879,7 @@
       "pubDate": "2026-08-23T03:07:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」  日テレNEWS NNN\n熊本地震で観光に打撃、宿泊費など補助する旅行割...",
+      "description": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -901,7 +901,7 @@
       "category": "infra"
     }
   ],
-  "lastSuccess": "2026-08-23T15:21:39.876Z",
-  "lastAttempt": "2026-08-23T15:21:39.876Z",
+  "lastSuccess": "2026-08-23T15:47:41.053Z",
+  "lastAttempt": "2026-08-23T15:47:41.053Z",
   "fetchOk": true
 }
