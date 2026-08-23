@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITHB1cVFKODlrTjcyeHFvMTV5dENzWEx2NzBOUjk3Vmd6X2NtOENha1R5ZndjdWFmbTdwTW41ZS1pYm1uU0lBdk8wVGNhRDNoQlBKNThndWlKYXhTam92Y0JyakEyd3lqY2UwSXA0c2FLTnQySXlvX0lSbw?oc=5",
+      "pubDate": "2026-08-23T05:08:47.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "松本日本医師会会長が熊本地震被災地を訪問し、息の長い支援を約束  産経ニュース",
+      "category": "life"
+    },
+    {
+      "title": "被災した美術工芸品を救え 熊本地震被災地で文化財レスキュー始まる",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZUR6amlLbXlUSVlMRHhmTEFjRzI2S3ZxNDZGZjZIVEYwX1hmZm8zbnFrcEM0VzlsUGNMdTFESjZLLUxvUDBMV01QX2o1Z1U4cllfelhjYjdBR0ZFNTZtZW1fQmdoOXc?oc=5",
+      "pubDate": "2026-08-23T05:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "被災した美術工芸品を救え 熊本地震被災地で文化財レスキュー始まる  朝日新聞",
+      "category": "disaster"
+    },
+    {
       "title": "風評被害で予約キャンセル相次ぐ熊本 金子国交大臣「早急に支援策をとりまとめる」【令和８年熊本地震】（TKUテレビ熊本）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMWhkVElIR2o3Y3hrdHpGMTAwNXA1ck1YdmUtNG1oSFI5QkhWQlpWbGUtY2NJbkUyb2hIUlhrSUktLWN2SzdUclBubXlDcnBYR2UxeXQ2UzRMS1FsbDlpeFNRc2hLZlgwQ194V1diVUVDVGZqVXY1RmxTTXZJUG8?oc=5",
       "pubDate": "2026-08-23T04:43:02.000Z",
@@ -46,21 +64,21 @@
       "category": "life"
     },
     {
-      "title": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PNUdJcThzV3N0Y3c0Z1ppc2pacHRqRkpOTHg0cHloeGdzblRXQ09LZWZXR1AxZXlvWE9tX3pzcXBadXV1S1RlOVRSUQ?oc=5",
-      "pubDate": "2026-08-23T04:07:40.000Z",
-      "sourceName": "地元メディア",
+      "title": "未明に関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkc1dJXzBZd0lRb3NPQmdqVVRxTWVKTVVGRTB1UUhha0NjenBOd25KRXVFZjJfR29SX01XS3k1ZURLODhjQ0hSMmpQQV9OdnM?oc=5",
+      "pubDate": "2026-08-23T03:59:00.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」  TVer",
+      "description": "未明に関東で震度５弱 Ｍ５・９、けが人相次ぐ（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
       "title": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YZkNrMENhcTJrSHE5eEVMajFrSExUQjcyUWZQWFRSN3FfeTI0YkRzV19fT0U0Sm5Xb0xVdlJJd0ppQ2lLbXF5SGt5YzVkNW9vdHUyeVFnek9YNERFS2cwUS1BRWg3aEtFSXhiRzlfUk5NZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KSEZ4Ni1kbVFCQVNESnB2cW9UM1ItLTVuY3k1NjFGSWFaalVwOTN4b1pJMDdoWXhzOTZISXQ2NEx5Y3pmSWl1QktycUlnekE?oc=5",
       "pubDate": "2026-08-23T03:29:33.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  テレ朝NEWS",
+      "description": "熊本地震で被害の九州道 路面に1mの段差…復旧状況を公開  khb東日本放送",
       "category": "infra"
     },
     {
@@ -73,12 +91,21 @@
       "category": "infra"
     },
     {
-      "title": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRDdHYUdIMDFuSFVOV2x1V2ZvQkMxWnhFUXF0QXo1QXRvSjNtYkRsTWFOYUFOZU54RXJPRTBvbjhlZUxEX1dxSTNKZEtkYUpwbEZKQ19DcGVWTHlUNC1veFRIMS1CYzFUaVFpendlOURoeWdKR3VMbkNmYy1OLXc?oc=5",
-      "pubDate": "2026-08-23T03:26:42.000Z",
+      "title": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWNjLXZnYThSaWRXZHpQUGdUY3NnM1Vpd2VnSGJyRWlwQl9sbDZsUklIVlAwSnA4eW5lTU11LXZzUTVPeElCU0Q3ald4enV0SEZKR2d2RDctYnRnQ0FYaDdOaHBmQ0RVMDZqZTE4Qm1fR1oxbWNmVFNHWmMzVzFsaXdET3dtM2_SAYwBQVVfeXFMT2tNZVR0eGMzTDRGdDNnQ0xxUThVaXFMZ3JXdXFONlc3WmxFdnYxN18wellNb05hQ3NTR25JdHgzaFY2ZmVYNmd1cWdjNmtpZzdHNFI3c0NPUEdnUjdUZW94Q1FZRXB6WldHOVVtY1lSczAtcDFzZEJuTFlaamFLTkEybzZTaEYwVkJ4S00?oc=5",
+      "pubDate": "2026-08-23T03:29:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」  Yahoo!ニュース",
+      "description": "熊本地震で被害の九州道　路面に1mの段差…復旧状況を公開  ｄメニューニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpdU5GNVN6bzNGdVRwQlpOZmpGQ3BndWY3a0ZNd2NxUzhFeEQ1aWFKdF9oTHpTYnhkZ0RxeU1yYmNXMEVLQVVLclN0dThGRUpTeXQwZ25vOVZXM0lFeVJHS2pvUk5UejdtZVVkcDRfT1V3Zw?oc=5",
+      "pubDate": "2026-08-23T03:26:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で派遣された応援職員の疲労、災害支援鍼灸マッサージ師がほぐします…施術１５分「サポートしたい」  読売新聞",
       "category": "life"
     },
     {
@@ -106,6 +133,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "規制続く九州自動車道 八代市の川田橋は架け替え工事へ 令和8年熊本地震  FNNプライムオンライン",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qemI2ZWduaEVXdGg1cHhYSlBoN2lVN3Fnd1FwWlRnYzJuZTE3aWpZaEZ0YVlJZmVhVWI4Qkp5YTJmdVB2WDI5dDBXNmlpN3VNRVVyQmhRdTZhTHFCdnlvZHh5cWhFTklqVDl3UnRkV3lOd09aVEppd3V0YVk?oc=5",
+      "pubDate": "2026-08-23T03:07:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一人でも来てくれればありがたい」  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -253,21 +289,21 @@
       "category": "life"
     },
     {
-      "title": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wY1NYRWZZT21CYjg1Y1kyTjRkLWRoVDRfeWVRdFJuYlpPRXpsZUpUSS1vdS1QZF9MUFd5bkF5d1NoY0RsMkkxdTNXVWIyMXk0VTdBZzd2MHVCeXdjMU1ZWmNmcHl1bkxXT2o4aXlKaVFXdw?oc=5",
-      "pubDate": "2026-08-23T01:05:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付  テレ朝NEWS",
-      "category": "disaster"
-    },
-    {
       "title": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付（テレビ朝日系（ANN））",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yeENpR3RYSXlmNnNHV2NwNWtqaWdzeVFNekZjdGJMbHV5bjZVTGk0WlVLRURRcm13VHE2OUE4WlpfOUpLUHlHWmx1SEVoM3JUMXdnRlRNSGMxNGgtYm9Yc0dUMkxUV0xodDN4MlFlak8zTkFtWE1ObzhvVUo2Zmc?oc=5",
       "pubDate": "2026-08-23T01:05:14.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付（テレビ朝日系（ANN））  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wY1NYRWZZT21CYjg1Y1kyTjRkLWRoVDRfeWVRdFJuYlpPRXpsZUpUSS1vdS1QZF9MUFd5bkF5d1NoY0RsMkkxdTNXVWIyMXk0VTdBZzd2MHVCeXdjMU1ZWmNmcHl1bkxXT2o4aXlKaVFXdw?oc=5",
+      "pubDate": "2026-08-23T01:05:14.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "くまモンのボンボンドロップシール10万枚完売 売上金を熊本地震の義援金として寄付  テレ朝NEWS",
       "category": "disaster"
     },
     {
@@ -532,15 +568,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTktZUnAyWEVnd25TRzIzUDRrZzlZcnVOX2lwYVVHenkzdDZ1Ty1nYldvTG9melFlV3RVQzhxdTQ3OV9hVzU3ckVCQUVxVnZNQlltcVBZcTlDSmdBd3FNRV9zXzhIQmN0ZUc0dVN2cUY4Mmxab2I5eUJVSUY2LUk?oc=5",
-      "pubDate": "2026-08-22T21:09:29.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
       "title": "熊本地震でEV急速充電器「FLASH」無料開放を継続、熊本県内5拠点で…テンフィールズファクトリー",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZLXdvbFlyUTBnSENyMzJESWU5WG5VX0lpRV95YzNzSExTVjZtNElhaG9HODQ0MW9nLUpDeVdPQW03Q1lqeXVObi1VWkkzWmlDamdQSXZVLXBOdEdGVmk4ckt3?oc=5",
       "pubDate": "2026-08-22T21:00:16.000Z",
@@ -559,6 +586,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rTktZUnAyWEVnd25TRzIzUDRrZzlZcnVOX2lwYVVHenkzdDZ1Ty1nYldvTG9melFlV3RVQzhxdTQ3OV9hVzU3ckVCQUVxVnZNQlltcVBZcTlDSmdBd3FNRV9zXzhIQmN0ZUc0dVN2cUY4Mmxab2I5eUJVSUY2LUk?oc=5",
+      "pubDate": "2026-08-22T20:43:42.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地 休日返上で仮設住宅の整備、八代市では宮崎県からのキッチンカーがかき氷とソフトクリーム振る舞う  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "熊本地震 県選出国会議員に緊急要請 ＪＡグループ熊本など",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zRVY4NjZ6bGFub3BtdTkyd0lETURxOWtLU1A4MDNaYm95RVdqc2NWRV9NeVN4X1lYNm1aREpVX0VTZWhuTmpYMTRhMXJGeVpyYXRxTV9yTQ?oc=5",
       "pubDate": "2026-08-22T20:05:15.000Z",
@@ -573,7 +609,7 @@
       "pubDate": "2026-08-22T20:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で観光に打撃、宿泊費など補助する旅行割で支援へ…木原官房長官表明「九州全体に誘客」  読売新聞\n熊本地震 被害が少なかった阿蘇地域の観光にも大打撃…「一...",
+      "description": "熊本地震で観光に打撃、宿泊費など補助する旅行割で支援へ…木原官房長官表明「九州全体に誘客」  読売新聞",
       "category": "life"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "製造業 観光業 公的支援【熊本の経済1週間】（8/15～21）  熊本日日新聞社",
       "category": "life"
-    },
-    {
-      "title": "義援金２９万円余、赤十字社に託す 熊本地震被災者を救援する道民の会",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hdVFuSmRZblVnWU1KakY3WDN3NENmM3VFVTVQSnBLQ2J3WEVOU0hNVHc2MzRXX3hNNkh6OXdfcHBVVVZfczFjckY1UQ?oc=5",
-      "pubDate": "2026-08-22T11:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "義援金２９万円余、赤十字社に託す 熊本地震被災者を救援する道民の会  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で観光打撃 木原官房長官 \"九州応援割\" 念頭に 「九州観光の需要喚起策を」（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQm9pUVc1ZmdFV09hNVdaenNyV05sblhUbUV5Wk1yUmtUX2JMdURoS21PajlyQU4td3hxZjVMbGhqeURQdmRXZUFwSHZJb19hSDUxYmN1LTJYWXlIM0phVnpvd0hQYW1UdktES2ZmQ3hXWTRFd05wWHVJTjJKVE44QW1NeGJtajE0QUNXVXBn?oc=5",
-      "pubDate": "2026-08-22T10:54:18.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "熊本地震で観光打撃 木原官房長官 \"九州応援割\" 念頭に 「九州観光の需要喚起策を」（RKK熊本放送）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震、重症者31人に 家屋被害は3万7000棟超",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OZml2MmxPa1lIT3BPYmo4akt3QUJleDZUZ3lycWF4QkdISEx1Qnl4ODJaNFZDd3l2ek5Lanl0YVpScmVjem45ZWlQZEUybjNZcFlYaFBzUi0yNy1FYzhVVkJ6d2dpa3pDa2lNaG11MEV2V1l1WEE?oc=5",
-      "pubDate": "2026-08-22T10:50:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、重症者31人に 家屋被害は3万7000棟超  産経ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で観光打撃 木原官房長官 \"九州応援割\" 念頭に 「九州観光の需要喚起策を」",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OYUhHSlBtaGQxTVNnUXA3NWtUVU9zUTF6VFJSOUxyRmpSd3hOTk15aUUzd01WeWxWWmo3RVJJZU1IMDZqd3BadjYxNzNRcEQzMktJcElJVGIxUHBwZ2tvNElvdDcyYzg?oc=5",
-      "pubDate": "2026-08-22T10:49:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で観光打撃 木原官房長官 \"九州応援割\" 念頭に 「九州観光の需要喚起策を」  TBS NEWS DIG",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T05:01:34.535Z",
-  "lastAttempt": "2026-08-23T05:01:34.535Z",
+  "lastSuccess": "2026-08-23T05:44:39.286Z",
+  "lastAttempt": "2026-08-23T05:44:39.286Z",
   "fetchOk": true
 }
