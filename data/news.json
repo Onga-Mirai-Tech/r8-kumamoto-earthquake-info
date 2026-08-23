@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震 窯元が葛藤の中で再出発",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92cVZIb0F2ZmxvWDdoZURkWDV6QXpsOFl0T0FmNGV2UmZ5TUZfVmZuMU95R0VDNlRwOE5nUFdqRXItZXpORjNqRnNqalRaTXVs?oc=5",
+      "pubDate": "2026-08-23T14:39:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 窯元が葛藤の中で再出発  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震 外国人へ発信3市町のみ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DVmRGNlVhYTdtUFhyNUtnc0wyYU5IbmtpRWY0dWZqNUNlS09jRGZad2xaVzlFZFZFZVJ6MFVaRE9PMTUwNmNMd3c2anBoeGNX?oc=5",
       "pubDate": "2026-08-23T14:35:34.000Z",
@@ -80,6 +89,15 @@
       "type": "local",
       "description": "地震で被害の2団体が出場 「さや」は優秀賞 おかあさんコーラス [熊本県]  朝日新聞",
       "category": "disaster"
+    },
+    {
+      "title": "【熊本地震】氷川町で地域の医療と生活を守り抜く地域医療センター - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OWXJfT2RYaEJicEg2UVowWWk0Ulo2UW1DcWNyUFBRdDQ2Q3R1SDMzV2g4emZfOXdPbTg2QUJBTWZBMzdxTGFvSEFqZw?oc=5",
+      "pubDate": "2026-08-23T12:06:04.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】氷川町で地域の医療と生活を守り抜く地域医療センター  クラウドファンディング - READYFOR",
+      "category": "life"
     },
     {
       "title": "2026年熊本地震＞「迅速に対応」自衛隊員を激励 小泉防衛相が被災地視察 入浴支援1万9千人利用",
@@ -370,15 +388,6 @@
       "category": "life"
     },
     {
-      "title": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dF83bHc5Vm95QlN2Z3kzZEdWMjJwZklwaVBBVGlEM04tNWdnM3YyQ1NzQXpEcHVKek41cnM3WUdBTXNfYXROMEcwUzFKUzNfdExHX0drVkhSekFQSUFYYWdIdS00LXFLMGV1S3YxWk1mV291MDVKdkh3M2RrajA?oc=5",
-      "pubDate": "2026-08-23T09:35:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
       "title": "日本維新の会が熊本県に義援金 被災地の復旧復興に向け近く高市総理へ提言提出【令和８年熊本地震】（TKUテレビ熊本）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXSkFLWl9jLXB3NFU0TW9WT2V6bUl5eDctYTdfbDAxWlVJaVYxSlhKc3NCdEZMZWlYRXB6N2dEOEJodGN1c1dBbzkzQm15RXdYX1l6TndRbndNbDNxakVhbFRrd1JvRWRBbTZDOWpaWWVPcGxucVZXa3FHVHJuNzQ?oc=5",
       "pubDate": "2026-08-23T09:35:01.000Z",
@@ -386,6 +395,15 @@
       "type": "local",
       "description": "日本維新の会が熊本県に義援金 被災地の復旧復興に向け近く高市総理へ提言提出【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "infra"
+    },
+    {
+      "title": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dF83bHc5Vm95QlN2Z3kzZEdWMjJwZklwaVBBVGlEM04tNWdnM3YyQ1NzQXpEcHVKek41cnM3WUdBTXNfYXROMEcwUzFKUzNfdExHX0drVkhSekFQSUFYYWdIdS00LXFLMGV1S3YxWk1mV291MDVKdkh3M2RrajA?oc=5",
+      "pubDate": "2026-08-23T09:35:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "八代市・被災したペットの健康相談会「少しの物音で隠れたりストレスがたまっている」【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "life"
     },
     {
       "title": "[TKUニュース 26.08.23 18:00 ] 氷川町の道の駅竜北に太陽光発電など備えた防災倉庫設置【令和８年熊本地震】",
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "熊本地震 九州自動車道の復旧状況を公開 川田橋周辺の上り線通れず下り線使っての対面通行続く  TBS NEWS DIG",
       "category": "infra"
-    },
-    {
-      "title": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”（女性自身）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaHh1cUVZNG9sRHd1aGZMdXpMeVBnWi1oVVQzMWVzbnhGRVp1b21OX2RMVlJ6VDMxRm1obmJndXoyMjhLRUVYM3Q5SmNlclMtMEJLeVNPZVNhcl9abXNRMkE3SVU5LXI3TzlKa0k4ZkhBVF9kWDVHSnlmNnZRaDA?oc=5",
-      "pubDate": "2026-08-23T03:00:39.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”（女性自身）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wclpBcEpseTk5V05ubng4Qno3SHpEeExwWGNoYkZXNm5jZUlkUUoyUkMxUDR0dENwNHlZVW85eUNDTmdOOGdCX3pB?oc=5",
-      "pubDate": "2026-08-23T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「想定の外側で起きた事故だった」熊本地震・イオンモール爆発事故 専門家が訴える“検証の重要性”  女性自身",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-23T14:49:34.796Z",
-  "lastAttempt": "2026-08-23T14:49:34.796Z",
+  "lastSuccess": "2026-08-23T15:21:39.876Z",
+  "lastAttempt": "2026-08-23T15:21:39.876Z",
   "fetchOk": true
 }
