@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "無償でトリミングも 被災したペットを支援する動き広がる 熊本地震の発生から4週間",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcW9WdnhseVNpeTgwdWxGV3Z4RERJUi02U2hLQU54cTRNYWhhM25sbXBET05OX3ZHT0JCdW9UNThpbFZBejgtamdneUNIUi0xQl9KcXBqdmgwaUR0bjZIbFJuMWo?oc=5",
+      "pubDate": "2026-08-24T19:21:25.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "無償でトリミングも 被災したペットを支援する動き広がる 熊本地震の発生から4週間  TBS NEWS DIG",
+      "category": "life"
+    },
+    {
       "title": "熊本県で最大震度1の地震 熊本県・八代市、宇城市、氷川町、上天草市（TBS NEWS DIG Powered by JNN）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1SjVobU5HWlRGVU1NRkRoODBkWlRJTGFNMVAyVDNUSG80NzBxdDg4TGNMMWRacHpjRnpXVlZIblhldkFTTnRaTUZBbzNMc2pvTWQ2R3h0dG83UGRmTWFRbnJSQVhYOWgtd0oyOWNnV2xtOU5SRDVNREM0U0NPS28?oc=5",
       "pubDate": "2026-08-24T17:26:06.000Z",
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "【速報】宇土市など震度1  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震 2次避難所で看護師が聞き取り【被災地の動き】",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jZjN0WUFXdlU3bjV1RlhkRkRIcUpBVmxxa3k2VmpYRGhJMldtc25ISnY3dnhVd0ZGcFVDWW1yUnRRZTNpaWlVUmluLXg4RXhCeWthWkhPeG56M1hROHY4?oc=5",
-      "pubDate": "2026-08-24T09:07:14.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 2次避難所で看護師が聞き取り【被災地の動き】  NHKニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-24T18:59:08.828Z",
-  "lastAttempt": "2026-08-24T18:59:08.828Z",
+  "lastSuccess": "2026-08-24T19:36:35.804Z",
+  "lastAttempt": "2026-08-24T19:36:35.804Z",
   "fetchOk": true
 }
