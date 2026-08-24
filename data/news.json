@@ -1,12 +1,30 @@
 {
   "items": [
     {
-      "title": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pV084Tm5JcTJQWmlBOWVoRU9rS2hoRWtEWEQtSzNoTDNmY1JXSGVNZzZBTTZ4VGUyazZVYkYyWXJ4UTB6Sy1jNVJIRE1GdGZ5ZFZNY0pNNS1FcmFqMXlyQmRGNXh0Q2FPM0FJeGd0Tnl0REFOYTcwZUExS2c?oc=5",
-      "pubDate": "2026-08-24T15:37:01.000Z",
+      "title": "熊本県で最大震度1の地震 熊本県・八代市、宇城市、氷川町、上天草市（TBS NEWS DIG Powered by JNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1SjVobU5HWlRGVU1NRkRoODBkWlRJTGFNMVAyVDNUSG80NzBxdDg4TGNMMWRacHpjRnpXVlZIblhldkFTTnRaTUZBbzNMc2pvTWQ2R3h0dG83UGRmTWFRbnJSQVhYOWgtd0oyOWNnV2xtOU5SRDVNREM0U0NPS28?oc=5",
+      "pubDate": "2026-08-24T17:26:06.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害  日テレNEWS NNN",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市、宇城市、氷川町、上天草市（TBS NEWS DIG Powered by JNN）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSM2M5dVJsekRTWWVSbVN3VDAzSkdHamtjeG9pdUU4SVVYd2V2Y3lZN3ZydGpfX2pjb3oxVzdvVEJoY2VsQ040S0hiTGRqZWM?oc=5",
+      "pubDate": "2026-08-24T17:17:49.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害（日テレNEWS NNN）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ga3FpbC04RFg2aGg0Ym12ei1MRHU5dUdMVTlVTkhxbjBSR05Kakd4ZzVvazdqV0JtX3BrSHFlYXZKQVdORi1RZkljekkyRlB3cmticDhaQUZyRWdHUlhCS0pqYlNmbl9wSTE2LVFhX3VRSmJmd1dPTk1SOXZueHc?oc=5",
+      "pubDate": "2026-08-24T15:41:48.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害（日テレNEWS NNN）  Yahoo!ニュース",
       "category": "infra"
     },
     {
@@ -35,6 +53,15 @@
       "type": "local",
       "description": "被災地で相次ぐ閉店 大正6年創業の老舗も【令和8年熊本地震】  FNNプライムオンライン",
       "category": "disaster"
+    },
+    {
+      "title": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Nlh4U0Vkd3RtVVFSOW9EQ2h2WGFNV0RIZ0EySUJhWXdhVlowUmI0QjhsRXdpVGFYRkY4cjZNMlJUNFl6RnlrUUJSaw?oc=5",
+      "pubDate": "2026-08-24T14:52:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の影響で 九州新幹線の高架橋から壁の一部が落下 10年前の地震でも同様の被害  TVer",
+      "category": "infra"
     },
     {
       "title": "＜2026年熊本地震＞車中避難者の実態は? 一般社団法人の調査に同行 「困窮者の把握が困難」",
@@ -115,6 +142,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "猛暑下の避難生活改善要請 観光支援も、自民復興提言  47NEWS",
+      "category": "life"
+    },
+    {
+      "title": "「力尽くしたい」　熊本地震で被災の八代市へ職員派遣、学校再開など支援　大阪府教育庁",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObGgzM1FYcFZDUm5FblhQd0pITy1VNXRsQWpoZkQxbnVXSkVKV2NrQzM4Qzh6MTdlMWxVTDl5bUpoZERGNUFKNDlJbEwzcWZfVlZZME5TZGxQTkZlUGlwQU45QlJTbkF6V2NlQVJXNFptOV9FZUtFMndVRTFHdHJjM0ZXTndVak5XeklNV0p1RnFLTmZsem5IVXMtUFBuQVZzQVJMNWI4ZVDSAa4BQVVfeXFMT1ZsRE5ORHNIVXNEVmgwWGZNcERHYTBuXzRfMktCUUZTMDlUZTJOWmhzMFlLZGJXZmRyTmV0MHQ5S2JwNEpWT2FVS2t0ZWhVdEFLLVBfZ3lXcDZVYVRCdzBUc0s3cEZkZlhLQ1VrZTY5X0YxVVJybDU0bXNKOW40d0ZjTnlPRVBLS3hGVHlqV1dIdGJuTkpUWGVOeGRITWJRbnUyUnE2aG1KcUxtZ2dR?oc=5",
+      "pubDate": "2026-08-24T12:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「力尽くしたい」　熊本地震で被災の八代市へ職員派遣、学校再開など支援　大阪府教育庁  ｄメニューニュース",
       "category": "life"
     },
     {
@@ -217,6 +253,15 @@
       "category": "disaster"
     },
     {
+      "title": "＜2026年熊本地震＞肥後銀、八代市の田中町支店を再オープン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FSXNDNlR4ZWtJWUI1UTAyRXVSRklNWDhKQmw4TGJYak94eG9keDlkOWFkMlhyTFgzYlowZnlnaExRWjFoaVJjcmhsNzBMcG8?oc=5",
+      "pubDate": "2026-08-24T11:24:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞肥後銀、八代市の田中町支店を再オープン  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "肥後銀、八代市の田中町支店を再オープン 熊本地震2026",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FSXNDNlR4ZWtJWUI1UTAyRXVSRklNWDhKQmw4TGJYak94eG9keDlkOWFkMlhyTFgzYlowZnlnaExRWjFoaVJjcmhsNzBMcG8?oc=5",
       "pubDate": "2026-08-24T11:24:38.000Z",
@@ -262,6 +307,15 @@
       "category": "disaster"
     },
     {
+      "title": "[TKUニュース 26.08.24 18:00 ] 被災した宇土中・高は９月１日から別棟で新学期へ オンライン授業も【令和８年熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEM3prZ0FqQ3VfWmtOSUJrcnNEZXRzMThRWWw2RlR3YmVWQUJKYkpaYUM5QkxxSVhfbE8wVU1lcXotVWlKa1FQRnd0ak1RdFh2OVBpZXd6Z0tSVkVxNDdKSzJXOA?oc=5",
+      "pubDate": "2026-08-24T11:03:34.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "[TKUニュース 26.08.24 18:00 ] 被災した宇土中・高は９月１日から別棟で新学期へ オンライン授業も【令和８年熊本地震】  TKU テレビ熊本",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震から3週間…深刻化する観光への二次被害 「一人で耐えるしかない」89歳在宅避難者の思い",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtOGVlYkdBWXc1YkFpQWJyNWNYdjBmajFFMVBaLVZ6UkZ3N0swNkNBaVRDREpTR0JGZzc2R3F6UzNWOGtUQjlVWmNLbFNjWjB6R09kY3FIYVVOemxmU2NyM1hFbzdRUDQ?oc=5",
       "pubDate": "2026-08-24T11:03:00.000Z",
@@ -277,6 +331,15 @@
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
       "description": "地震で中止になった夏祭り ポスターを制作した女性の思い（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "地震で中止になった夏祭り ポスターを制作した女性の思い (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmEtMENsaEtCUVZGQUpqblUzZnF5Z1lMSjdqeGxrUFYxaDV0RFpDVTQ2YjI1M252c3BlWkRZclpJNGJMS3htaGZRbGQ3ZGlZMGl0a3BrN045QkgxNGxENHZQd0lnQ1dIYU9sMEVJc1FjeUlhdW1uYmcyeVZRWWh5N3l5czl4LXp1QTg5YVVR?oc=5",
+      "pubDate": "2026-08-24T11:02:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "地震で中止になった夏祭り ポスターを制作した女性の思い (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -305,6 +368,15 @@
       "type": "local",
       "description": "2026年熊本地震＞住宅再建の相談窓口、熊本県と国が開設（熊本日日新聞）  Yahoo!ニュース",
       "category": "life"
+    },
+    {
+      "title": "＜2026年熊本地震＞産交バス、9月に路線バス再開 八代・宇城・宇土エリア",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YeE15b3R4LWlMdjVXM2MxUFdiZ19lc3AxRVFuOTB1LWFQYVR5TDlQZkl5V1pia3FMWUYtblgwaGRINGFMMWhxUmlZTGdvLWs?oc=5",
+      "pubDate": "2026-08-24T10:54:49.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞産交バス、9月に路線バス再開 八代・宇城・宇土エリア  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "産交バス、9月に路線バス再開 八代・宇城・宇土エリア 2026年熊本地震",
@@ -344,11 +416,11 @@
     },
     {
       "title": "＜2026年熊本地震＞熊本の経済6団体「地域限定しない本激指定を」 熊本県に要望",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yb3NGZXd6NGRQdzMyTHBfVUhsejVXblJxZDhpMzJLOTZ1Zm1nWVBmbGExRVc2RllTS1JTY3dPSUhHMWxTaXJiS0xVYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05TTFISkxvZGxRdm1GR3dtR1FNTm1CVGhDTDZDeTlhcWVpcWZmTkhZME80TVNUZjRyQUphVlBvd3FWRGNSQWMtSVh6VGFEaXM?oc=5",
       "pubDate": "2026-08-24T10:42:54.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "＜2026年熊本地震＞熊本の経済6団体「地域限定しない本激指定を」 熊本県に要望  47NEWS",
+      "description": "＜2026年熊本地震＞熊本の経済6団体「地域限定しない本激指定を」 熊本県に要望  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -827,81 +899,9 @@
       "type": "local",
       "description": "大西一史熊本市長、市内の現状を報告 「今、熊本に行っても大丈夫ですか？」質問に答える【令和8年熊本地震】（オリコン）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞「心も体もほぐして」…県内外の理容師ら、被災地でボランティア 散髪やこりほぐしサービス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91SGV0YmRuR2ZhLXlxWGJjY3pnbmg4NXY1SUhUTmFod3ZJcnFGTDZEYU9aNmtQN1Zwb2FXa3NWQ2QtckxpNDZJVUEzREE4dFE?oc=5",
-      "pubDate": "2026-08-24T08:48:05.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞「心も体もほぐして」…県内外の理容師ら、被災地でボランティア 散髪やこりほぐしサービス  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の被災地支援 周南市連合遺族会が日本赤十字社に義援金贈る「大切なものに使ってほしい」",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tYld2MElhbThZZkhMSXhaTnZLVXJ2N3dTSk5oQjRsM0tnWWpmenhfSU03YVMxRG1HMEl6MXZqVXRmRENxcUd5OVh2NF82SVlTeEtwYUtIT2RtdHRoNlBxMkgySE92eEE?oc=5",
-      "pubDate": "2026-08-24T08:48:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地支援 周南市連合遺族会が日本赤十字社に義援金贈る「大切なものに使ってほしい」  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震 兵庫県が災害ボランティア団体に最大９０万円助成",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yckNBelR4dGxFNzZMZUJUYjNYZWk2bU9BVkgzTF9oS1pwNjVSNnl0Q2prNkkydGFZaDh2dTNQY3JtX0tDazEybXRTYlhxQU1IVzhGS3c0Nlk?oc=5",
-      "pubDate": "2026-08-24T08:46:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 兵庫県が災害ボランティア団体に最大９０万円助成  NHKニュース",
-      "category": "life"
-    },
-    {
-      "title": "被災地の便乗犯罪を許すな! 防犯カメラ950台設置へ 空き巣や住居侵入を阻止! 熊本地震（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdFRINVJ2cjlJMVFkdk5Ucl8tWU1DaXZsNkdzTzlEWDNBQ2JTbDBLczNpSXlSZUI4NkU3SXdQUVF6OGJLUTFhU3RkRTBXRXVxaEg1SHdrNGRGTFF0S294b1NsSXJ4alp4dGp0YXZjMDB5ZjZOcjFvS0thSzRRNkU?oc=5",
-      "pubDate": "2026-08-24T08:45:31.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "被災地の便乗犯罪を許すな! 防犯カメラ950台設置へ 空き巣や住居侵入を阻止! 熊本地震（RKK熊本放送）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "被災地の便乗犯罪を許すな！ 防犯カメラ950台設置へ 空き巣や住居侵入を阻止！ 熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ycU9pbmk3ZlJldXZZUTlOQXB1RGc3b2FSczYwM2Jzakk0WkljendvaTBsYWZlNXNzVEp0ekNXSDNUUndaa0FoN1dOOVZaSUctZFRpVEpuVDRhQQ?oc=5",
-      "pubDate": "2026-08-24T08:45:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地の便乗犯罪を許すな！ 防犯カメラ950台設置へ 空き巣や住居侵入を阻止！ 熊本地震  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
-      "title": "被災地の便乗犯罪を許すな！ 防犯カメラ950台設置へ　空き巣や住居侵入を阻止！　熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGNTZ6QWlha3RIbnFkTjd2STVuRm1EaWdMZ3l4c1VNMFJDVmZnTkpBNWUxeXo0aF9qR3ZyRTd5SmtyU2ZMbFR5WVNPYUdmVUJSbDdpQTU2VDNoRTJRU0lCVTZvZmQ5c24tbFJUV050a9IBdEFVX3lxTFB5dWphcHZxa3dGMUJrUGlWUy1qUmdLQllsblJUck91UjBYZ3lrZU1iM1ZrQjFSc0FNNEpWV1ByRnBDQ3FKRm9EQkdSbGNYUlJwY2FhYVRleHhlRmlLazNwS0xSRnUxcXNpNkp0bEhvWHNPQjNS?oc=5",
-      "pubDate": "2026-08-24T08:45:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地の便乗犯罪を許すな！ 防犯カメラ950台設置へ　空き巣や住居侵入を阻止！　熊本地震  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「わくわくサマースクール」熊日で開幕 野鳥の生態解説、記者と交流も 26、28日も開催",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTDdjMnFQYVhRb0JlM0hYTTlib0pjMFdFZ2laNkpZSEtMNU9oYTN3THRMbGpIUmxxTEhFRzhVUTN3d0FRRUw0UGZCd0xMWDg?oc=5",
-      "pubDate": "2026-08-24T08:44:08.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "「わくわくサマースクール」熊日で開幕 野鳥の生態解説、記者と交流も 26、28日も開催  熊本日日新聞社",
-      "category": "other"
-    },
-    {
-      "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に2684人避難",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IYTF2QVlpTnRNN2gxa2ZyZGVLZ1V4YTE2akdlRVFPUHlURDd5WjNmcFpUaUt3bHFWUTA5ZTBSQlJJYXV4Y3JKZFplc1F4Sk9mY0V4VncybWtJQWo1S19v?oc=5",
-      "pubDate": "2026-08-24T08:39:02.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震 災害関連死の疑い含め38人死亡 避難所に2684人避難  NHKニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-24T16:55:18.843Z",
-  "lastAttempt": "2026-08-24T16:55:18.843Z",
+  "lastSuccess": "2026-08-24T17:30:36.691Z",
+  "lastAttempt": "2026-08-24T17:30:36.691Z",
   "fetchOk": true
 }
