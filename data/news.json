@@ -1,21 +1,30 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度1（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUWFwZThKeWg2aHdjRkdxLVozREpZMHN0b3c3UmVaOV9fQzV4WlRWY1pPTEczV0RMRWM5dzZMeXBZVGstajRYZ1pkd1B6ZEx5WUdNdWhLMnExNGo4QkhDbmI3WkV3cmI4V0dIa01TMURsRXltaVZ3XzhKNllLdzA?oc=5",
+      "pubDate": "2026-08-25T14:55:26.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、災害関連死疑い2人に 80代男性",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iNTZmNU42bnVqQ0NhT1hNUXhDMFh6THpZT29CRjR0R193ZUQtYVZvbzg1MUhmT2hxdDVIWmhadjNpY1dKVmNqQ1VibkZfSlIxWHBUS0Z4U24wOVZrUDdFRXJDalZTeGNuaDJoSA?oc=5",
+      "pubDate": "2026-08-25T14:48:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、災害関連死疑い2人に 80代男性  日本経済新聞",
+      "category": "disaster"
+    },
+    {
       "title": "＜2026年熊本地震＞学校再開、JR九州や肥薩おれんじ鉄道の対応は?",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FSU1UY0dGRFVRLThzaGJQX1Z6dkV1NDdSY1R2SGxhZ3lmejNyRGM0V3hnZV8zSlJCR05xT045eHhlckN2SmtLejJJdFo3VVE?oc=5",
       "pubDate": "2026-08-25T13:31:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "＜2026年熊本地震＞学校再開、JR九州や肥薩おれんじ鉄道の対応は?  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "2026年熊本地震＞鉄道通学の生徒「困った」 代替バス「授業間に合わない」 保護者送迎「大変」 JRや肥薩おれんじ鉄道被災",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZkIxbzVKallwLV9DUnI0WnpDVDlhcldteFhITjZ5MjJrU1Vsdk5wYTBibjBrMTJIeVYtWU1XT3hFckRpbHNnUkxBZFhsNDA?oc=5",
-      "pubDate": "2026-08-25T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞鉄道通学の生徒「困った」 代替バス「授業間に合わない」 保護者送迎「大変」 JRや肥薩おれんじ鉄道被災  熊本日日新聞社",
       "category": "infra"
     },
     {
@@ -37,6 +46,15 @@
       "category": "disaster"
     },
     {
+      "title": "2026年熊本地震＞鉄道通学の生徒「困った」 代替バス「授業間に合わない」 保護者送迎「大変」 JRや肥薩おれんじ鉄道被災",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yZkIxbzVKallwLV9DUnI0WnpDVDlhcldteFhITjZ5MjJrU1Vsdk5wYTBibjBrMTJIeVYtWU1XT3hFckRpbHNnUkxBZFhsNDA?oc=5",
+      "pubDate": "2026-08-25T13:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞鉄道通学の生徒「困った」 代替バス「授業間に合わない」 保護者送迎「大変」 JRや肥薩おれんじ鉄道被災  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "【熊本地震】亡くなった人のうち80代男性は災害関連死の可能性 農林水産業関連の被害額は約1102億円",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUDV4LVZPRVZtZHg4UXVDbXhWdlNjbEY0S1k3SGVLclhCUDhEblhwUHRDVzZoYlNDQVE3UUVyVUdRMm5FMl9TcHFRZ2NOWkFPTC1NV1Rxek5XTDdrWlpwYlV0Y21YVEpLZmJuV0Qwd3VWc0l3Y3h0eENkSVg0X2hsMGRPX1ZFZGM?oc=5",
       "pubDate": "2026-08-25T13:15:02.000Z",
@@ -56,7 +74,7 @@
     },
     {
       "title": "中田英寿さん、五郎丸歩さんが熊本地震の被災地へ「継続的に支援できる形を…」（2026年8月25日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEk0UFEwRjRLQXlOZGV3QmJ1bmVjZHZWYUh5dFk1YS02bDdmWkd1SXZHNTJrZUxSSVZSZVZNWDlDOF81Q0ZWbWJtWVlWVlV4aFFGTTUxZElSOGJRaDl2dFgtRnpPNWh4NVRDam9rNDROU0RVTFgyOUZvVGp0V1VRTDJXdnd1TDA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oU2RudDN0a3hON1JSd3FseFhBTEhHd0h4c1NUYVBMSHp6OFo5MHZHOHkybUJ5WUswOTZFdjBrY1hZZDdzdDZJbmVFaEUzSmRqQzR0NlZRYXNuRE5zcXZ2NlFjS0o3VU9UQ0FmLXc1RnNhYVE1NU96bWNkRTBxNlU?oc=5",
       "pubDate": "2026-08-25T11:51:01.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -125,6 +143,15 @@
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・芦北町(放送局のニュース )  tenki.jp",
       "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞「被災地の子どもに思い出を」…巻誠一郎さんのNPO、宇城市の避難所で「フェス」 中田英寿さん、ラグビー五郎丸さんも参加（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGSWF3SnAySnN5OUZRX29NQTBYZ2lSNWNxMjlEZ2ItcEhnNE1hREttWnJzcEwzU1RFeFo4UG1xaTNmQzl5RXZlNVFXZE1HWjc3d2lGUWxzWldxd3BkN3BXTi10LWJxN2RXZ0xhM3U1RmJlc0REeG9MVUY3UTRfaEE?oc=5",
+      "pubDate": "2026-08-25T11:09:23.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞「被災地の子どもに思い出を」…巻誠一郎さんのNPO、宇城市の避難所で「フェス」 中田英寿さん、ラグビー五郎丸さんも参加（熊本日日新聞）  Y...",
+      "category": "life"
     },
     {
       "title": "農林水産被害1102億円 過去2番目の多さ 2026熊本地震",
@@ -442,6 +469,15 @@
       "category": "disaster"
     },
     {
+      "title": "【令和8年熊本地震チャリティ上映会】うつくしいひと",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lUE1BdmgwMHgtc2JPUHpfTVFOMlZINlFWOWlYVFNNck9HdUtldjg3N1JSSHMyVTU4d28zOGd2WVJhNldRX1NZMjBuMUdXZW0xZHJJd3JEUEJ4R0dlaEhYNw?oc=5",
+      "pubDate": "2026-08-25T10:14:11.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震チャリティ上映会】うつくしいひと  テアトルシネマグループ",
+      "category": "disaster"
+    },
+    {
       "title": "日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れ-令和8年8月25日",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1dJZkthWGJ2d0h2Z01CenB4eF9KMkdZNXFHS0V4eXNnT0U1OXdrc1NoMTdFaF9Ubnl6endQLUUyWG9tZS1LY091cmJPdm5mNVFKSURFRzB1RVRFZUtjbl90b3BOM3k5OFVaclpuek5ZbldST04xY1Z4QUlKMUcycmltWG85WHJFZlhCVVBNcw?oc=5",
       "pubDate": "2026-08-25T10:12:38.000Z",
@@ -497,7 +533,7 @@
     },
     {
       "title": "8月下旬なのに39.1℃!? 熊本地震の被災地・八代市が全国トップの\"暑さ\"…観測史上最高気温…10日連続猛暑日のエリアも 明日も熱中症厳重警戒",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWWJjMklnUWxycnZVQjNhWHRlWEN3YmhfMVJ3eV9MdF9oOXhoZ1VKUGZsZmgxR2ZkSXNKbmY3VWRLblh5aEZSZnN1SWw1UmdFYmx4WWY1aHlPUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BaTU1MXBGdFp4RFN6YWVaLTZzUi16UFhwb1RFWktQWkgtYzZjZXRCV0xLdjRjck03eGJPd0ZneGtCVjNmUGZlRHN0QlE3UExOaDdZakJJZzlia0dBMm5YVFdIRWktOFE?oc=5",
       "pubDate": "2026-08-25T09:56:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -524,11 +560,11 @@
     },
     {
       "title": "五郎丸歩さん、中田英寿さんら元日本代表アスリートが熊本地震の被災地に「恩返ししたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50S0lHamN0ZnlNd3R3YVJfaUpXSFkyMWFFSm1YU2I3ejd6dnlSTDJOZVlmeTNLTlJ6Uk9HRHY4NHkyc0RmM3Voc1F0YzdlaUwzd3pRd3Q0bFc1QmNieVVkWkZxNzR0R3k3MXA4WVZzWFFFaVdWMG5OMGlOZkV1YzA?oc=5",
-      "pubDate": "2026-08-25T09:44:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51dkNiTy1GSzBwT002bVF6TzUzaXk1OXZ4SUJOS1g4QkZ3WHhfc2hIckhQZHRYaVozQTFjRTNpelBWdkVtaWZEZ09zODk0MU55QjcyRE9n?oc=5",
+      "pubDate": "2026-08-25T09:44:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "五郎丸歩さん、中田英寿さんら元日本代表アスリートが熊本地震の被災地に「恩返ししたい」  Yahoo!ニュース",
+      "description": "五郎丸歩さん、中田英寿さんら元日本代表アスリートが熊本地震の被災地に「恩返ししたい」  KAB 熊本朝日放送",
       "category": "disaster"
     },
     {
@@ -757,6 +793,15 @@
       "category": "disaster"
     },
     {
+      "title": "2026年熊本地震＞日本公庫熊本支店、被災事業者向け融資相談会始める 「各機関と連携して後押しする」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxVjhsd095WWdQSXZXcS04dTYwa1dhUzUwZUtScjdpWEkyUEF3YktOWXY5LUxvZ2R5X3RKYnNhNHpQd1BqRXNQemRiUXo3Qjg?oc=5",
+      "pubDate": "2026-08-25T09:03:56.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞日本公庫熊本支店、被災事業者向け融資相談会始める 「各機関と連携して後押しする」  熊本日日新聞社",
+      "category": "life"
+    },
+    {
       "title": "被災事業者の資金繰り支援 日本公庫熊本支店 嘉島町皮切りに相談会",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxVjhsd095WWdQSXZXcS04dTYwa1dhUzUwZUtScjdpWEkyUEF3YktOWXY5LUxvZ2R5X3RKYnNhNHpQd1BqRXNQemRiUXo3Qjg?oc=5",
       "pubDate": "2026-08-25T09:03:56.000Z",
@@ -811,21 +856,21 @@
       "category": "disaster"
     },
     {
+      "title": "＜2026年熊本地震＞イオンモール爆発、経産相「事故調査委立ち上げる」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
+      "pubDate": "2026-08-25T08:42:31.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞イオンモール爆発、経産相「事故調査委立ち上げる」  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "＜2026年熊本地震＞経産省が事故調査委立ち上げ イオンモール爆発",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYaXJWc3ZyRXd1U2xTV2lTeVM3LTJlOGRRejdSYWw4ZXlrdHhkYVFGSGpWczBKdFdYX25icUdWLU9KUkhheWJ1cFdmWFlHeWc?oc=5",
       "pubDate": "2026-08-25T08:42:31.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "＜2026年熊本地震＞経産省が事故調査委立ち上げ イオンモール爆発  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞イオンモール爆発、経産相「事故調査委立ち上げる」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rd1hnbEQyRjk2Tk5rbjZCd21WeVNwOHpRS1lVSU1zZkNad085YnZTX3pld0l2dFRlLW5lYkQ4b3NBNUVzNl9CLVRFSQ?oc=5",
-      "pubDate": "2026-08-25T08:42:31.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜2026年熊本地震＞イオンモール爆発、経産相「事故調査委立ち上げる」  47NEWS",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "日本公庫、熊本地震の被災企業の金利引き下げ 事業再建後押し  日本経済新聞",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震1カ月を前に「活動は依然活発」 気象庁（テレビ朝日系（ANN））",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MWlNWci1RalhWQzlvRm8tME5jNlUxZDNiU1h4azhQSlY5bTJEMzNabE1UbDNqNHZRU3c4SjJaZ2c3QWlxcUljWElIZDNrbkYxUGRzRTVVRFB2aFpEamNSUDVrUDE4R2JsNUlvWWlDV08yUkxDYUMxM2t0MXBqeDA?oc=5",
-      "pubDate": "2026-08-25T08:27:48.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震1カ月を前に「活動は依然活発」 気象庁（テレビ朝日系（ANN））  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震1カ月を前に「活動は依然活発」 気象庁",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tMlN1LWI2eEs0LUltaTZhMkVvdkd6LWI4bWlMNnJJZ0Nmb192YWhsN0R1Q0VGbWg2VzJnYnc1YTExX05kSnJoUGk0eE5Sd2RwR0IyLWJrNW1XaTM4eFc5bm03RUJ1d21vVzVBa2NuSjh2QQ?oc=5",
-      "pubDate": "2026-08-25T08:27:48.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震1カ月を前に「活動は依然活発」 気象庁  テレ朝NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震＞「一日一日を楽しんで生きて」…あさぎり町の上杉さん、恒例のチャリティーショー 収益は被災地に寄付",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwaUdsR3VPbU5CQ0dzUmtKVi04WlNpbkJYQkNwYlFvVWZiVVFLWk1nRk50MlpmRnB4TV8tUzdmSE44V085bnE1TUVHNHdpN00?oc=5",
-      "pubDate": "2026-08-25T08:25:38.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震＞「一日一日を楽しんで生きて」…あさぎり町の上杉さん、恒例のチャリティーショー 収益は被災地に寄付  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "令和８年熊本地震への対応",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdU1YQ2ZCZS1JMEV3dktkdnFtM19CMk9VeHZNbXFLQVJBeHdJLUtrSnl4LWd3QUotX0I3dWhWYUtrSlpLMEtJWE5PU2kzQUZEM2wyTHpZS1RlbW9NeEFQcEp4NGRoN3h5Y0VPdHF4Qmt6Z0FrYVdRMUpXR0RqZXc?oc=5",
-      "pubDate": "2026-08-25T08:25:09.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和８年熊本地震への対応  日本赤十字社",
-      "category": "disaster"
-    },
-    {
-      "title": "サンリオ、熊本地震の被災地支援のため義援金1100万円 イベント収益の一部も寄付へ（日テレNEWS NNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ra3BEVktGQTZfdzk5RG5kTmJYVkJhZFlvSlNxUHRadk9pUXc1MmRqMlo1WXliV1kyMURvNExoOVZVR3BaM3hBaXJ0Ymt2TThleWNBM1JPX203Y0JHNXkwV0tZX3h6SXhZUDM3emkzY3o2ZU5sTS1WTHdzZ3BKMk0?oc=5",
-      "pubDate": "2026-08-25T08:23:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "サンリオ、熊本地震の被災地支援のため義援金1100万円 イベント収益の一部も寄付へ（日テレNEWS NNN）  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-25T14:21:48.457Z",
-  "lastAttempt": "2026-08-25T14:21:48.457Z",
+  "lastSuccess": "2026-08-25T15:21:26.836Z",
+  "lastAttempt": "2026-08-25T15:21:26.836Z",
   "fetchOk": true
 }
