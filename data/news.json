@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "令和8年熊本地震｜地図で見る被害・生活情報",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16OWtLMFJuX0l6YzhmZlJpYUdpTnJMRS05c1FqMTNNeE1GdU9OWW1MNlFpTWJ0cWJ4QUFkUTZPNFA2ZWc5QnlRWjR5QXBXTEtEelR2RmhRTklWRGpSZjJic1hMRF9lOEhU?oc=5",
+      "pubDate": "2026-08-25T18:32:27.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震｜地図で見る被害・生活情報  テレ朝NEWS",
+      "category": "life"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFkyQ09VT2VldkZqa1pDeDF0eVR1Sm9tY2ZJQXNhRlIxZWJCaDk3MlJlQ01jS2UwS0duUWhfTTZrdHRQMHRYMVU4ZFRXQTRWMjZhTzJ2YVF4UGRubW56bkxRZVNyYXNqZzFidXo5MlYyRmtTUTAtNWtvVTVPV1NmVVEyU2Y4OW1XWTQxNUxsY2piV0VKTU9OUG9CeF9WNXJKMzJveFczeG1UMTlVY0hGQnBJdzVtcS03TnZpX1ZtWjFFZXFselHSAXZBVV95cUxQbU1vZFhhaV9vSjBiaHN5SmVLcjR6Z2JhUjdxdVBSaDN2OTZqVENxS3ZCVG1IR1d4Sk14MGQyN1hJU01kWENVNWZ1MTlYaUlMcVJPdmJQTkN3X2dEVzliVmxhQUpqNS12VjN3dUc0ZDlteVFQX21n?oc=5",
+      "pubDate": "2026-08-25T18:29:09.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】芦北町で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjV0duakVoc3Y0YXk3SHVDWUNHWm0wVjRIQ1lWOHMyTzNxX2hlTEdSdlRMQk1uUkkwN0RWR2ZvaEpsbUZoX1JiUVpzbkw2Qms?oc=5",
+      "pubDate": "2026-08-25T18:24:42.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【令和8年熊本地震】学びを止めない。八代実業専門学校の復興支援",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDX0tRVjhzSmxNUjVHbGZQQnR3X2lyVUE3cENsY0R4SUd6ZEdOVXZORzBDMFQ4aWJMOHNFZmdYbDVZTHlZakUtTV9oOHJOZDJxOERF?oc=5",
       "pubDate": "2026-08-25T16:09:24.000Z",
@@ -16,6 +43,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震の災害廃棄物「最大100万トン」の見込み…発生から1か月、仮置き場には車の列が途切れず（日テレNEWS NNN）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "「街にたった1つしかなかったスーパー」「温泉の復活で経済を活性化」 熊本地震でいま必要なもの【被災地の声】",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Xa3hTTlNCdlQyZ25IRjVLRDZsakpQRUw0cElicWlDM3FibmJwZlBpTVRndW9ocEcxNkE1XzhwMFBtTzBtVUZsMUpKR0VxbUpKaW9fYUw3YzFsbGRJeGJZMS1qY05OYllQVENuS01wMGZJQXNUakRTYjFORUVNYzQ?oc=5",
+      "pubDate": "2026-08-25T15:15:55.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「街にたった1つしかなかったスーパー」「温泉の復活で経済を活性化」 熊本地震でいま必要なもの【被災地の声】  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "熊本地震で2人目の災害関連死疑い（共同通信）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本地震で2人目の災害関連死疑い",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mWlR4SFZ3NTdhZklJOExQYVE0X0xOT05fWTFtTVRkUThCd0hkWXRxamxPYVUxcHQ3bm16WWt6NHdhZWZ5WjlGa2poVQ?oc=5",
-      "pubDate": "2026-08-25T09:12:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】熊本地震で2人目の災害関連死疑い  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で２人目の災害関連死疑い",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRFNib3dKdUpKTV94RTBJVElISWdaZWxTQWM3VF9MLTk4VVUwMkwtdnRENTJEaVd2YXNtSzY3RmFnR2dtbktlNFo3S1pTS0doMlJnUWIwNXc?oc=5",
-      "pubDate": "2026-08-25T09:12:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で２人目の災害関連死疑い  京都新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震による被災住宅の被害調査 派遣された宮城県職員が報告",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rVExkLXAtV0RHVXozS2dmSTQ0Y056N1JHZVA4QjR4M0NWRWg2cTNsUzZrQlByUXZsbV9TaHdGYzVvRWdyamo1aThlaVJSYTA?oc=5",
-      "pubDate": "2026-08-25T09:10:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震による被災住宅の被害調査 派遣された宮城県職員が報告  khb東日本放送",
-      "category": "disaster"
-    },
-    {
-      "title": "釧路開建、熊本地震被災地に職員派遣へ 給水支援班として活動",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYVZiRE05VFVwbThKMkZxdEZUTHdZR1lIcmJYUWhvWlNJRzhUZUVHTDRPZWp2NVhpNDNnVTIwa3ZYOEFycjIwaU12cw?oc=5",
-      "pubDate": "2026-08-25T09:06:39.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "釧路開建、熊本地震被災地に職員派遣へ 給水支援班として活動  47NEWS",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-25T18:03:49.335Z",
-  "lastAttempt": "2026-08-25T18:03:49.335Z",
+  "lastSuccess": "2026-08-25T18:56:39.532Z",
+  "lastAttempt": "2026-08-25T18:56:39.532Z",
   "fetchOk": true
 }
