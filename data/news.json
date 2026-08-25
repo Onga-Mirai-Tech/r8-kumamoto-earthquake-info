@@ -19,15 +19,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震の災害廃棄物「最大100万トン」の見込み…発生から1か月、仮置き場には車の列が途切れず",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fem1JanVKRnhOUFpmMmtDd3h1eGZSbjV6WnFWMEliNzMwc1FHajlJVFFxNjJpbWxpelF6czM4aTZ0b2tsWS1IUWkxdHFJdnpqcUJ1VDhIa0VyTTVwYzE0bUI1d3d2YjFJZWtiWlVxVXd1VkhBNmVuMzY2TzE?oc=5",
-      "pubDate": "2026-08-25T15:44:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の災害廃棄物「最大100万トン」の見込み…発生から1か月、仮置き場には車の列が途切れず  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
       "title": "令和８年熊本地震義援金へ寄付",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdUpucFZfU3JwQmtYazZTNzRJNDI0VlJVU0RHYm80YTIyY19LZy1MRHR2YTZEa1VTNUREWlI1Mk1pOXJyNXJzWVlQTlc4M2RHdUlpU1FES2x6TVRa?oc=5",
       "pubDate": "2026-08-25T15:04:03.000Z",
@@ -61,6 +52,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震、災害関連死疑い2人に 80代男性  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の災害廃棄物「最大100万トン」の見込み…発生から1か月、仮置き場には車の列が途切れず",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PdTBYdHRLRkhFZHFyc0N2Q1BLN2xVcDFCYnlVYUlyRjdOcVRDSDUwNjVlZUhQYUoxV1VCV0dadkZSYjlQSmliU3dDRQ?oc=5",
+      "pubDate": "2026-08-25T14:45:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の災害廃棄物「最大100万トン」の見込み…発生から1か月、仮置き場には車の列が途切れず  TVer",
       "category": "disaster"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "title": "中田英寿さん、五郎丸歩さんが熊本地震の被災地へ「継続的に支援できる形を…」（2026年8月25日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEk0UFEwRjRLQXlOZGV3QmJ1bmVjZHZWYUh5dFk1YS02bDdmWkd1SXZHNTJrZUxSSVZSZVZNWDlDOF81Q0ZWbWJtWVlWVlV4aFFGTTUxZElSOGJRaDl2dFgtRnpPNWh4NVRDam9rNDROU0RVTFgyOUZvVGp0V1VRTDJXdnd1TDA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oU2RudDN0a3hON1JSd3FseFhBTEhHd0h4c1NUYVBMSHp6OFo5MHZHOHkybUJ5WUswOTZFdjBrY1hZZDdzdDZJbmVFaEUzSmRqQzR0NlZRYXNuRE5zcXZ2NlFjS0o3VU9UQ0FmLXc1RnNhYVE1NU96bWNkRTBxNlU?oc=5",
       "pubDate": "2026-08-25T11:51:01.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -901,7 +901,7 @@
       "category": "life"
     }
   ],
-  "lastSuccess": "2026-08-25T17:31:24.241Z",
-  "lastAttempt": "2026-08-25T17:31:24.241Z",
+  "lastSuccess": "2026-08-25T18:03:49.335Z",
+  "lastAttempt": "2026-08-25T18:03:49.335Z",
   "fetchOk": true
 }
