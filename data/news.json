@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【速報】熊本市中央区など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56MGZUMW00eWsxZ3hSRHpCUGxxa042X1dneU9aSWdKNm5qdl9NYUVDQUhmY05Wclo1d3JETWpQZnhmNlp1dVBHcnFjOVNsSVU?oc=5",
+      "pubDate": "2026-08-25T19:50:50.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市中央区など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】芦北町で震度1（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RUU53QVZVXzNYT01lMkp0UjFRNFRJVklBTWpaRVpVdTRDYmZITUVoX3l6a1pHc21uMzQ3S1RlWXRfOXVrLVFjc2trVXdJQkh3eUFHN2pKQjZxc2FPX1dLVlNzTTR2NjREcVpnc2FrdmpXcmwtS2kxLUJXWXFrSmc?oc=5",
       "pubDate": "2026-08-25T19:30:44.000Z",
@@ -52,6 +61,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "令和8年熊本地震に伴う住家被害認定調査に係る職員派遣について",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy1IZlBuUExIYXpabkJHVWlySjBIc0NncF9Xd256dzFxUkdady0xTGZNR3dPeVFBaVdDTDFCVWJZRFJSYnRuM3hFQU51RjhCb1YtMmI1NE8wNWItdFRra05jSHNQWm9jeVZFRXNkN2daenVOc201REtLM2lpbXhRbEtSMU5yam9HVzloVEVFWlFFdnFEaGhPeEp5Y21DN25RREREYjE4dXEyMF92UXJHSEZhaUNBVTROR1RLeUN5SS1VUy1KN0VJdTln?oc=5",
+      "pubDate": "2026-08-25T17:38:39.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震に伴う住家被害認定調査に係る職員派遣について  city.ibaraki.osaka.jp",
       "category": "disaster"
     },
     {
@@ -199,12 +217,30 @@
       "category": "disaster"
     },
     {
+      "title": "熊本市庁舎、5案軸に検討 整備事業の有識者委",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GQzlnSUI5eU1zck9ESzlfOGQ2QmtfVDNCbmNKNXhOVTkxTzFlZ1k3Q3ZSX3lHbUVheDRkTXJKdWktUjgwcWdWTEZKMFdhaHM?oc=5",
+      "pubDate": "2026-08-25T12:59:26.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "熊本市庁舎、5案軸に検討 整備事業の有識者委  熊本日日新聞社",
+      "category": "other"
+    },
+    {
       "title": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44b09EdC1hWmhrMm5Cbzhla2xXUDdsOS1ta3BEXzRtcGhQSFE1c1BiTVJtY2NTRUdCNUluODVibC1oTnBHcnVHRDdkUVpGYVk?oc=5",
       "pubDate": "2026-08-25T12:38:57.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、日赤が活動報告",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVGM5MHBkVDdMN1ZqSzhLV1VSNHFCVGJpX2w3TUN4OVZVVEtyLTJ4MlNaRVB5dTVnd09pQW9OaFZSWTZoZS1EUlYyM043TW43bURodXRnTQ?oc=5",
+      "pubDate": "2026-08-25T12:38:47.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、日赤が活動報告  高松経済新聞",
       "category": "disaster"
     },
     {
@@ -361,15 +397,6 @@
       "category": "life"
     },
     {
-      "title": "熊本地震、日赤が活動報告",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zcWNmQWhuVEpNZEFvUExfOTRPQW52Y0FtQTQ3TkR5SUhtMlZuMW40eFM1d2tKQmhyNVFqWTB2Y3JWZ3RtaUk4OWUtS3NrUTdnNWktbg?oc=5",
-      "pubDate": "2026-08-25T11:01:54.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、日赤が活動報告  盛岡経済新聞",
-      "category": "disaster"
-    },
-    {
       "title": "【なるほどッ！】千葉豪雨や熊本地震など相次ぐ災害に…“迅速な支援”（2026年8月25日掲載）｜日テレNEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uajAwTXh5QlBIa3lvaE1HdE9sSk1NZTBpMnZKRW53SGVQb1BpbTIyOEEwTzFpbUgyamhxbC1yUFp1N0MxZGw5b1lXLUJJXzdxV2h3Y3o5X3JXZ25oeV9rX2Q1REo4cmNMN1oycmdVVjdQamdtVFNrTnJsZVo?oc=5",
       "pubDate": "2026-08-25T11:01:01.000Z",
@@ -398,11 +425,11 @@
     },
     {
       "title": "熊本地震の2日後から営業再開したスーパーが閉店へ 建物の損傷激しく“苦渋の決断” 令和8年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JT2lXTGRONlpSTGJ0LXEtRTZ6SFZwU01ZZGg0NEQwNHBjLXpXYndyRk1kODFqVkZ1RXhNTkx6dXgwV2tzYlllR0tJRXVFcG1CeUFRNnlPR3hWN1Z1RTV2QlUwb0ZicWI2VVZQcTFkUTZmQk1XdzJsZDdHZHoyMnc?oc=5",
-      "pubDate": "2026-08-25T10:57:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWd1Jsb29rbGsySGJJZHgyOXBxYXN1VVBaVmhKVXNSRmhBdE8zSHFMaWh1T3Jwd0pwMDZyaGE4S2hTZmh3M3VocXZ2d2ZnUQ?oc=5",
+      "pubDate": "2026-08-25T10:56:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の2日後から営業再開したスーパーが閉店へ 建物の損傷激しく“苦渋の決断” 令和8年熊本地震  Yahoo!ニュース",
+      "description": "熊本地震の2日後から営業再開したスーパーが閉店へ 建物の損傷激しく“苦渋の決断” 令和8年熊本地震  FNNプライムオンライン",
       "category": "disaster"
     },
     {
@@ -485,6 +512,15 @@
       "type": "local",
       "description": "【災害廃棄物】県推計で最大100万トン｢今でも1時間待ち｣氷川町では受け入れ開始前から車の列（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "other"
+    },
+    {
+      "title": "日本製紙八代工場で煙突の折れた先端部分の撤去作業始まる 熊本地震で9人が犠牲（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTFdjMzB4OUJId3RteEFiQWZYTjliakIxckhreUZHY0ZRa1YyVkVTVmtaclpXWC1SbTZ4T0NYRGtEWDN0WXFVQzdaWDU0bGJhc05VZzFkUW0zME9jZGRuRGRoT2VoMUZfc05ySXpiaTU5TEx2S3YtU19EMGJhaWs?oc=5",
+      "pubDate": "2026-08-25T10:40:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "日本製紙八代工場で煙突の折れた先端部分の撤去作業始まる 熊本地震で9人が犠牲（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
     },
     {
       "title": "日本製紙八代工場で煙突の折れた先端部分の撤去作業始まる 熊本地震で9人が犠牲",
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "熊本地震の募金箱 能登半島地震で被災した氷見の竹を使い製作  NHKニュース",
       "category": "disaster"
-    },
-    {
-      "title": "広島経済大生が熊本地震で156万円寄付 学内で募金",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SOEsyNVR3RWJVbkpVOVNmajBKZFhQZkkyNVZyVVB0OGR1Z3lueFJQOVFCQmF3dkY4ZS1rcHU0bTk5ME5PMEtwdlJhWDRJTEZEWmk1eFdqd19ZZw?oc=5",
-      "pubDate": "2026-08-25T09:24:16.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "広島経済大生が熊本地震で156万円寄付 学内で募金  中国新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "広島経済大生が熊本地震156万円寄付 学内で募金",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SOEsyNVR3RWJVbkpVOVNmajBKZFhQZkkyNVZyVVB0OGR1Z3lueFJQOVFCQmF3dkY4ZS1rcHU0bTk5ME5PMEtwdlJhWDRJTEZEWmk1eFdqd19ZZw?oc=5",
-      "pubDate": "2026-08-25T09:24:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "広島経済大生が熊本地震156万円寄付 学内で募金  中国新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れ",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVkE2VVEySi1wcTBvY19nYmo4aTBKSmZQX2pmT1B0ZXZEREV0WWtrOGV6ZE4wVEFVWll5UFFqeXRmaDhFZEQ1WTNlTVF4NkN3cmx6NlZmNmpDVUN1QlZQTTJURGFLbHRtWnpzNkJRRWs?oc=5",
-      "pubDate": "2026-08-25T09:22:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れ  首相官邸",
-      "category": "disaster"
-    },
-    {
-      "title": "日向市東郷学園の生徒 「お化け屋敷」の収益金 熊本地震の義援金として寄付｜ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MUW4ybEVQbUFtc0JYVEV1UXNZdGFPeVNfeUhpNkxaLVBVQm54VGdLalZVc0k5WGNjT1ozRzhpa1pkUW9KWWF1bjdVamdxcjB6MXcyNE5fbkRscDlUYVcw?oc=5",
-      "pubDate": "2026-08-25T09:15:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日向市東郷学園の生徒 「お化け屋敷」の収益金 熊本地震の義援金として寄付｜ニュース  UMKテレビ宮崎",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-25T19:34:30.174Z",
-  "lastAttempt": "2026-08-25T19:34:30.174Z",
+  "lastSuccess": "2026-08-25T20:01:13.615Z",
+  "lastAttempt": "2026-08-25T20:01:13.615Z",
   "fetchOk": true
 }
