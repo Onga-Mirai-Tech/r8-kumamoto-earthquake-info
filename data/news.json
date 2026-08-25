@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "熊本地震で9人死亡の日本製紙八代工場で壊れた煙突の撤去始まる 工場は損傷激しく操業復旧の見通し立たず",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BVUtHWUlESVRMMDJSaWRORGp2NmNXb0ZVNGFEUDNpZXlMXzFCSzkxOVNhODdKRjFpcG5OQ2prZXJBdl9pZktzaGh0QURIZw?oc=5",
+      "pubDate": "2026-08-25T21:26:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で9人死亡の日本製紙八代工場で壊れた煙突の撤去始まる 工場は損傷激しく操業復旧の見通し立たず  FNNプライムオンライン",
+      "category": "infra"
+    },
+    {
       "title": "地震後にいなくなってしまった愛猫・チロル 「早く見つけてあげたい」 被災地で続くペットの捜索 令和8年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TRU9FbGpFdk1OcW5RM2dPT0QydlRXdl9xMXZIVHB0Yy1tTVZZbXBkeGlIWXhaZklOc2Zicmo5dTVZNEZIZWUwZHZDOVMzLWw0MDZUYWIzX28xdlhmVXFPNTFzdXgyRGF4MVZWQkNDblNDRUs0VzB3WWJGY1ktckk?oc=5",
       "pubDate": "2026-08-25T21:11:56.000Z",
@@ -34,6 +43,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "ユーフォニアムが吹奏楽コンで紡ぐ希望の旋律 熊本・八代白百合学園 [熊本県] [2026年熊本地震]  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で校舎に大被害の学校 新学期へオンライン授業準備も",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OdzJ5VE42QTNQZk42alJIZm9QanN3dmVuelI4UkJYT2UxeWh0TFRtb1NnTGZqSDJUYnE5eXVHTlVpUVRPU0loTE5oVzdKREpxUmI4SmtkVDJMRy1iQ3ZJbkpRZUtEOEwzOWVFLVkwRUZqdw?oc=5",
+      "pubDate": "2026-08-25T20:56:24.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で校舎に大被害の学校 新学期へオンライン授業準備も  テレ朝NEWS",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "8月下旬なのに39.1℃!? 熊本地震の被災地・八代市が全国トップの\"暑さ\"…観測史上最高気温…10日連続猛暑日のエリアも　明日も熱中症厳重警戒  ｄメニューニ...",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災地に派遣された米子市の職員が活動報告 罹災証明関係の業務や被災地の福祉や心理的支援などを行う 断水解消のメドがたっていない所や片付けが終わっていない所も 今後も職員を派遣する予定 鳥取県米子市（2026年8月25日掲載）｜日本海テレビNEWS",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzk5RzFMQ1NYMVM5b0htNzRvbU4ya2llUDV2Z1VOODhFR1hxNVJTMW9mV2FkN19KTHdoQTlxS1l4NXd0ZXRlZjVjakk3aHZKZDFodkRPeUs2Nk9pNFMwMEhFS3RlRDZ2ZTNDR1puSC1sZm5SejJJZ20wYkN3YzZZS1dKLTdiTE0?oc=5",
-      "pubDate": "2026-08-25T09:55:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災地に派遣された米子市の職員が活動報告 罹災証明関係の業務や被災地の福祉や心理的支援などを行う 断水解消のメドがたっていない所や片付けが終わっていな...",
-      "category": "infra"
-    },
-    {
-      "title": "五郎丸歩さん、中田英寿さんら元日本代表アスリートが熊本地震の被災地に「恩返ししたい」",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51dkNiTy1GSzBwT002bVF6TzUzaXk1OXZ4SUJOS1g4QkZ3WHhfc2hIckhQZHRYaVozQTFjRTNpelBWdkVtaWZEZ09zODk0MU55QjcyRE9n?oc=5",
-      "pubDate": "2026-08-25T09:44:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "五郎丸歩さん、中田英寿さんら元日本代表アスリートが熊本地震の被災地に「恩返ししたい」  KAB 熊本朝日放送",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-08-25T21:27:29.011Z",
-  "lastAttempt": "2026-08-25T21:27:29.011Z",
+  "lastSuccess": "2026-08-25T21:54:41.729Z",
+  "lastAttempt": "2026-08-25T21:54:41.729Z",
   "fetchOk": true
 }
