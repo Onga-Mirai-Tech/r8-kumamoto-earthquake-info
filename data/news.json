@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03Y3dLUFRNb1hVcmRUOGRlOXlwY3BTVVNYbzA3TU5qXzg0LURfNVZOS0FOcU80LTNReFdtbEctelkwUUZlQzRjaXNEZkhFUUk?oc=5",
+      "pubDate": "2026-09-09T23:19:31.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市で震度1  kumanichi.com",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震の被災地支援へ 神奈川県と各市町の職員２０人を派遣",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KWkxmV2RrM0doTEZSc1hvTGVKNTIwU3FJTWdjaTRiVWVwM0pxYWV5RGpWSmdaV1JuMG10YW54Vk1haEhRcUhfWGRvQkFhV0c0WlpMOXc3R21WS3IwMkF6cjhKUlZ4Q0RybFlRNA?oc=5",
       "pubDate": "2026-09-09T20:30:00.000Z",
@@ -8,15 +17,6 @@
       "type": "local",
       "description": "熊本地震の被災地支援へ 神奈川県と各市町の職員２０人を派遣  カナロコ",
       "category": "life"
-    },
-    {
-      "title": "激震再び 「暑いのに、風呂にも入れない」 生活再建阻む断水、井戸の損壊 熊本地震の教訓（２）",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UUHRoSHBFN1huMkhUbzRKV1U1NzVYd0NVODhSb3dHaUFjM3VFd3lKc3hZTWU5bDc2RUxRMWoyUWllZlJQMUVkSDAzWW9KX2JJcmhKYUM1NHhKU2xURUQ0LUNLRVE0alU?oc=5",
-      "pubDate": "2026-09-09T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "激震再び 「暑いのに、風呂にも入れない」 生活再建阻む断水、井戸の損壊 熊本地震の教訓（２）  カナロコ",
-      "category": "infra"
     },
     {
       "title": "復興支援で新商品 熊本地震で工場被災湖池屋",
@@ -46,12 +46,21 @@
       "category": "infra"
     },
     {
+      "title": "激震再び 「暑いのに、風呂にも入れない」 生活再建阻む断水、井戸の損壊 熊本地震の教訓（２）",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UUHRoSHBFN1huMkhUbzRKV1U1NzVYd0NVODhSb3dHaUFjM3VFd3lKc3hZTWU5bDc2RUxRMWoyUWllZlJQMUVkSDAzWW9KX2JJcmhKYUM1NHhKU2xURUQ0LUNLRVE0alU?oc=5",
+      "pubDate": "2026-09-09T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "激震再び 「暑いのに、風呂にも入れない」 生活再建阻む断水、井戸の損壊 熊本地震の教訓（２）  カナロコ",
+      "category": "infra"
+    },
+    {
       "title": "普段の暮らし感謝の心新た（小竹実空、中学3年生、南関町）【令和熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xbDAyR0lFd3ZmVktvVjVhWVVSdW9lZThxNFRpQU9DSnBYcTVwZGVmb29XOV9HcmRXdXNJUVNlM3dBcy1Qdi1XeExSQjBWN2s?oc=5",
       "pubDate": "2026-09-09T20:00:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "普段の暮らし感謝の心新た（小竹実空、中学3年生、南関町）【令和熊本地震】  熊本日日新聞社",
+      "description": "普段の暮らし感謝の心新た（小竹実空、中学3年生、南関町）【令和熊本地震】  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -69,7 +78,7 @@
       "pubDate": "2026-09-09T18:09:58.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
+      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -175,9 +184,9 @@
       "title": "応援職員、人手不足の被災地支援 全国自治体から2万8千人超 ニーズに応じ継続的に派遣 〈2026年熊本地震〉",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wakdZcFhuWmxlTkpoQTFoYmExSERKcFM1ZWlMZWJ3S3g4ODdzM0R3TGV4MzRUbENKT19hckNtaUdkY01LNS0zcGRlOC1DQ0E?oc=5",
       "pubDate": "2026-09-09T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "応援職員、人手不足の被災地支援 全国自治体から2万8千人超 ニーズに応じ継続的に派遣 〈2026年熊本地震〉  熊本日日新聞社",
+      "description": "応援職員、人手不足の被災地支援 全国自治体から2万8千人超 ニーズに応じ継続的に派遣 〈2026年熊本地震〉  kumanichi.com",
       "category": "life"
     },
     {
@@ -220,9 +229,9 @@
       "title": "2026年熊本地震＞イオン爆発でドライバーが頭から出血 別の車の60歳男性、勇気ある行動 県警「頭が下がる思い」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnS3dqYVQyV0V4VEZTYnYyT2sta2dSV3hocXhicWdmaEtpTm1yNnZxZDUwZGdLbDA2U3ZibzczMjR4TF93b04xYkhkN2FKRHc?oc=5",
       "pubDate": "2026-09-09T11:10:01.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震＞イオン爆発でドライバーが頭から出血 別の車の60歳男性、勇気ある行動 県警「頭が下がる思い」  熊本日日新聞社",
+      "description": "2026年熊本地震＞イオン爆発でドライバーが頭から出血 別の車の60歳男性、勇気ある行動 県警「頭が下がる思い」  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -280,21 +289,21 @@
       "category": "life"
     },
     {
+      "title": "大局的には緩やかに減少 熊本地震で政府調査委",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54OTlId3RaUlp5azY2U0hNRUozTi1CZ3NySXdnUDlMeEtTSjRlRTh3bUN5NzdYOHh1R3ZONmlPS0MtcV95WEJ2RWdQMm1aWnBkd09FVHZtUUxBQQ?oc=5",
+      "pubDate": "2026-09-09T10:42:46.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "大局的には緩やかに減少 熊本地震で政府調査委  北海道新聞デジタル",
+      "category": "disaster"
+    },
+    {
       "title": "大局的には緩やかに減少 熊本地震で政府調査委 - hokkaido-np.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54OTlId3RaUlp5azY2U0hNRUozTi1CZ3NySXdnUDlMeEtTSjRlRTh3bUN5NzdYOHh1R3ZONmlPS0MtcV95WEJ2RWdQMm1aWnBkd09FVHZtUUxBQQ?oc=5",
       "pubDate": "2026-09-09T10:42:46.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "大局的には緩やかに減少 熊本地震で政府調査委  hokkaido-np.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "大局的には緩やかに減少 熊本地震で政府調査委",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02aVF1UC03X0hMTG5zRDBVSzBfdkFuMXY5YlRQckNPTDFSOFR5ZG1iQ21JLUY1VWZxWjRqQk9ZelFfT0xlSm9xdDdpbmN2Q19Q?oc=5",
-      "pubDate": "2026-09-09T10:36:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "大局的には緩やかに減少 熊本地震で政府調査委  nnn.co.jp",
       "category": "disaster"
     },
     {
@@ -375,7 +384,7 @@
       "pubDate": "2026-09-09T10:31:47.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "日本通運／日本赤十字社からの委託請け熊本地震被災地に安眠セットなど輸送  lnews.jp",
+      "description": "日本通運／日本赤十字社からの委託請け熊本地震被災地に安眠セットなど輸送  物流ニュースのLNEWS",
       "category": "disaster"
     },
     {
@@ -481,9 +490,9 @@
       "title": "＜2026年熊本地震＞複数の精密機械に被害 熊本大「億単位の損害か」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfcG9mX0JuR1Vra0dNdWhoYXJuazRYdjhGM2swNEJYV1J1OU5DRFJ5Tk9VTTdSS1c0TWhwX0gzQ2c3TGlySXMtcEJQeXBmS3c?oc=5",
       "pubDate": "2026-09-09T09:39:07.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞複数の精密機械に被害 熊本大「億単位の損害か」  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞複数の精密機械に被害 熊本大「億単位の損害か」  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -544,18 +553,18 @@
       "title": "2026年熊本地震＞井戸復旧、長期化の様相 被災者「毎日、水くみ疲れた」 利用世帯多い八代市が応急対策を模索",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VLU1oYmp5Ukw0UjdXakp3SklIWW5IYkplR1BtNEhsYWNJRG14dXVsRDMtem8xLWFRU1hyYW5XQzc5ZE9ybGJNT1I5Y2YzZFk?oc=5",
       "pubDate": "2026-09-09T08:45:12.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震＞井戸復旧、長期化の様相 被災者「毎日、水くみ疲れた」 利用世帯多い八代市が応急対策を模索  熊本日日新聞社",
+      "description": "2026年熊本地震＞井戸復旧、長期化の様相 被災者「毎日、水くみ疲れた」 利用世帯多い八代市が応急対策を模索  kumanichi.com",
       "category": "infra"
     },
     {
       "title": "あか牛風味ポテチで復興応援 湖池屋、売り上げ一部寄付 九州阿蘇工場も生産再開 ＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BdDlPNzJkZTl0NmFxVHFJZ2JDOU0wQ2dDZlBLeV9rTUFyR3ljWUxFRllXX216UXduRmpxSmMwTmFfWTlhcjF4OVlDOEZDdjA?oc=5",
       "pubDate": "2026-09-09T08:38:31.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "あか牛風味ポテチで復興応援 湖池屋、売り上げ一部寄付 九州阿蘇工場も生産再開 ＜2026年熊本地震  熊本日日新聞社",
+      "description": "あか牛風味ポテチで復興応援 湖池屋、売り上げ一部寄付 九州阿蘇工場も生産再開 ＜2026年熊本地震  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -580,9 +589,9 @@
       "title": "八雲旧居 再開は31年度以降 建物全体被災 耐震補強も検討 熊本市 ＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95eW9aTFlwUUdUZzVVMGpOb2pJY1RZSWpaUExjZ3R2OW4zRWVGQTBsTEk4aHdRQTlmS2pTVzdsZlF6Q2RYMWhYelpZMFZXTDg?oc=5",
       "pubDate": "2026-09-09T08:20:08.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "八雲旧居 再開は31年度以降 建物全体被災 耐震補強も検討 熊本市 ＜2026年熊本地震＞  熊本日日新聞社",
+      "description": "八雲旧居 再開は31年度以降 建物全体被災 耐震補強も検討 熊本市 ＜2026年熊本地震＞  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -616,9 +625,9 @@
       "title": "「変化や試練を乗りこえてこそ老舗」…1950年創業の宮崎商店（宇城市）、再起へ「もう一度、小川町で」 ＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wbUVfNnFGbWtUdmFfRkQ1NHpMWU4wWlJJdlNldjI5cGxqWVF2ZmZ0ZlZhYU1FeUlZdzJtVi1Qem1MYjRpY3N5bGpULUJvUUk?oc=5",
       "pubDate": "2026-09-09T08:00:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "「変化や試練を乗りこえてこそ老舗」…1950年創業の宮崎商店（宇城市）、再起へ「もう一度、小川町で」 ＜2026年熊本地震  熊本日日新聞社",
+      "description": "「変化や試練を乗りこえてこそ老舗」…1950年創業の宮崎商店（宇城市）、再起へ「もう一度、小川町で」 ＜2026年熊本地震  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -652,9 +661,9 @@
       "title": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NU5mWl95S3doSmF6ZXBkTUIxSzVHSDVqRTkzRXN1Zl9mTU5FS0tIZE9IOVZuRVFPOWNrUEp5WFlDZG5vRWZuc1I5QkUzdDA?oc=5",
       "pubDate": "2026-09-09T07:31:23.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災（共同通信）  熊本日日新聞社",
+      "description": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災（共同通信）  kumanichi.com",
       "category": "life"
     },
     {
@@ -664,15 +673,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災  hokkaido-np.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYkNZZ1c0eTk5eEVtZVY2dnJlMVJxY0pGby1tb2ZBVTNQVE9PSzJZNnhfS1NkaG9qNl8wdVJkOVpfMjdhTmFncTkxa01CT1NYakFXRXBYU1JuZw?oc=5",
-      "pubDate": "2026-09-09T07:30:16.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災  北海道新聞デジタル",
       "category": "life"
     },
     {
@@ -739,6 +739,15 @@
       "category": "disaster"
     },
     {
+      "title": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56R0IzbEd4RTZ0RW5UOHJPRzFUOElLM3YyQlZkTjdVdEw1S19hRHRoeHR3blBkODBhWF80aGNzM0hFLWUtVDFqeFEwZXE1b1ZMaElJ?oc=5",
+      "pubDate": "2026-09-09T07:22:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "湖池屋、復興支援のポテチ新商品 あか牛風味、熊本地震で工場被災  東京新聞",
+      "category": "life"
+    },
+    {
       "title": "住まいの被害や困りごと把握へ　熊本市がアンケート実施　生活再建を加速",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qQmNKY29JWjZRZHB1dm1XNTUwSFdRLUR4MHZjUVdvX0NMcm83ckVKb0pVTEhMc3E0SzFPYld4VUpaMWNKMHF2SUZ6MlAtQzdKbjVZLWV3dk5MU193bzVZX085YmEzNVNlRXd3NWpoZWpqTEho0gF0QVVfeXFMTmpCY0pjb0laNlFkcHV2bVc1NTBIV1EtRHgwdmNRV29fQ0xybzdyRUpvSlVMSExzcTRLMU9iV3hVSloxY0owcXZJRnoyUC1DN0puNVktZXd2TkxTX3dvNVlfTzliYTM1U2VFd3c1amhlampMSGg?oc=5",
       "pubDate": "2026-09-09T07:19:00.000Z",
@@ -798,7 +807,7 @@
       "pubDate": "2026-09-09T06:18:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "６月就任、ＪＲ九州・鹿児島支社長「熊本地震の影響じわじわ出てくるのでは」懸念…まずは新幹線復旧が課題  yomiuri.co.jp",
+      "description": "６月就任、ＪＲ九州・鹿児島支社長「熊本地震の影響じわじわ出てくるのでは」懸念…まずは新幹線復旧が課題  読売新聞",
       "category": "infra"
     },
     {
@@ -808,15 +817,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】八代市など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CWHJOYVp1YWR1VXRHU3hlZ0c4T0xBZTM5YUdYMHNJY0xNNW4xNlc3d09qVVg4QjRUX212cm1takVmdlZWZ3huWndJUDYzeEE?oc=5",
-      "pubDate": "2026-09-09T06:02:45.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市など震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -838,15 +838,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本労災病院へ、医療体制維持の緊急支援を - クラウドファンディング",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
-      "pubDate": "2026-09-09T05:56:24.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本労災病院へ、医療体制維持の緊急支援を  クラウドファンディング - READYFOR",
-      "category": "life"
-    },
-    {
       "title": "熊本地震の被災旅館 七尾市の和倉温泉視察（HAB北陸朝日放送）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NVlY1Y00xSlg1MmRnX1dfNmQ4WEpMb1dyTXFrWWprWUlsUkFWN1VDaW8ya04wQmlJeVZIazJIU3IwVy1Kc1dXOGlnYTNfbGdoSDRMMlliUkNiTEFJN3ZYU2g0QUQxMDljdVJkX1JwdnNVOUdxTE1zRHpPUC1qLU0?oc=5",
       "pubDate": "2026-09-09T05:42:50.000Z",
@@ -854,6 +845,15 @@
       "type": "local",
       "description": "熊本地震の被災旅館 七尾市の和倉温泉視察（HAB北陸朝日放送）  Yahoo!ニュース",
       "category": "disaster"
+    },
+    {
+      "title": "熊本労災病院へ、医療体制維持の緊急支援を - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqdkpPdE5EYmFGR056UXZTdURXblVBSGtoX1lqNFhPR19UWVNqRHZjeDYyNThrX1Q0eTc2cFFwZXN1azlvRHRRdUJlTG96UjVZYnowdmNR?oc=5",
+      "pubDate": "2026-09-09T05:37:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本労災病院へ、医療体制維持の緊急支援を  クラウドファンディング - READYFOR",
+      "category": "life"
     },
     {
       "title": "漫画家ちばてつやさんら、クラファンで支援募る 目標150万円、熊本に簡易住宅を 15日まで（時事通信）",
@@ -874,6 +874,15 @@
       "category": "other"
     },
     {
+      "title": "【速報】八代市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMW9pYXpoS0xyYk9XVlNjcjltNnRrRG1tYUQyTGZlLUk1b3dkNVBPbWhLTGlFd3NVOUZwTHF1VFhPNV9pdFdDcExWdWVRS2drWlEzUUY3bUY5NldVUUdNWk9nbDl3N3JBUkp5UEVCUnRZb1dZNWhjY0pnOGUtVDJCYWFn0gGHAUFVX3lxTE5PeEVPVElCNTBRYXRLdzdaaFJwQnJRaDlzNXBFWWpob3lqNHZoVEdoN2Ftd3F0S3R1Um5FMGhvcWxUbnFvY1V4M2ZBQVlmU2tZLTFJaGltblhWWnpOejJWdjlkcGlWaW1tSW9hVGlwaUNoUHA3LVNWZVlOcjVfQTRjY0ZpbEI0VQ?oc=5",
+      "pubDate": "2026-09-09T05:31:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市など震度1  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "“熊本地震2026” 風評払拭へ力合わせて",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91SFNYMEhPaFoxRGhaNG84Qm1FeFF1RkVLMGRMZlZ4YzI3SEN3V1hyY3JieFVsczFfTG9MdkFyazhWa3c1aFRvNkdTT3gxMlRVdGNJaw?oc=5",
       "pubDate": "2026-09-09T05:11:24.000Z",
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "日本通運、令和8年熊本地震の被災地へ救援物資を緊急輸送 日本赤十字社からの委託を受け、安眠セット・タオルケットを輸送  nipponexpress-holdin...",
       "category": "life"
-    },
-    {
-      "title": "熊本県警の村木さん、最高位の剣道八段に合格 ４度目の挑戦で合格率約１％の難関を突破 熊本地震に葛藤…「職場のおかげ」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlMXFEVFk1NWJxeHdKN2RrSFJxMlpldnZhdlFwaTUyY1FKMlRjbjh4MnltRldudFNidFFEM1RJVVU1WGdKd3Bxa2xFZUw1a0k?oc=5",
-      "pubDate": "2026-09-09T04:31:47.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本県警の村木さん、最高位の剣道八段に合格 ４度目の挑戦で合格率約１％の難関を突破 熊本地震に葛藤…「職場のおかげ」  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-09T21:30:39.203Z",
-  "lastAttempt": "2026-09-09T21:30:39.203Z",
+  "lastSuccess": "2026-09-09T23:30:19.679Z",
+  "lastAttempt": "2026-09-09T23:30:19.679Z",
   "fetchOk": true
 }
