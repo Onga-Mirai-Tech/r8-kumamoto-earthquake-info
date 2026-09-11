@@ -10,15 +10,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震で被害…ショッピングモールで専門店フロアなど営業再開 買い物客らでにぎわう",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YnBBR0Q3M2Q3NWNRUHZwczN6NXQ5eWZucmxRWlRBSGllc1lGYlRweU1OVmpZaWIzUE1BQlNxMDVxQ29VQW5JVlg4UQ?oc=5",
-      "pubDate": "2026-09-11T14:19:23.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被害…ショッピングモールで専門店フロアなど営業再開 買い物客らでにぎわう  TVer",
-      "category": "disaster"
-    },
-    {
       "title": "【動画】取り壊し予定の旧市役所で救助訓練 神埼署 県警機動隊が指導",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HUkwteEJ4YTd6Z3pJN2NZOTdXWHRMRWZIeFBxZUpNbG54cmFXR0tSVkdvZlZDR05VQmtsVVNsanRzS01sTldKNlZfVQ?oc=5",
       "pubDate": "2026-09-11T14:15:56.000Z",
@@ -31,9 +22,18 @@
       "title": "「罹災証明書」 住家の被害程度、6区分で判定 住家以外は被災証明書【被災者ナビ①】",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaWFZdUNEdEdyWFBxbzBtTUZaLU9OcnQ3ZU94Q3U2SHJpMm1nbERFVlNqZmNFVV9GY1BtWWFBREpDSlZ1TlliZmVxVkxzblU?oc=5",
       "pubDate": "2026-09-11T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "「罹災証明書」 住家の被害程度、6区分で判定 住家以外は被災証明書【被災者ナビ①】  熊本日日新聞社",
+      "description": "「罹災証明書」 住家の被害程度、6区分で判定 住家以外は被災証明書【被災者ナビ①】  kumanichi.com",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被害…ショッピングモールで専門店フロアなど営業再開 買い物客らでにぎわう",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTU0hVdlI0S3BHOWNReW5PLVV2VWl0YkNZR1RwZXFWOTNmUTlYU1AxS1MycmUyWldBdEpKMHBjVkdCSjY3Si02QXZUc0RrQS1SUVNvZWlBajFsVlZRSnYzXzNtWlRKS2JQbFFuNnpKdlhhN3MtRFM0cEFabGM?oc=5",
+      "pubDate": "2026-09-11T13:23:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被害…ショッピングモールで専門店フロアなど営業再開 買い物客らでにぎわう  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -67,9 +67,9 @@
       "title": "被災井戸、応急修理費を支援 1世帯75万7000円上限 住宅の「応急修理制度」活用＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WMmIxUUdHRUNSQ1B1S3BMU2VyVk4xcm9UeUp5X2UyOUdaUGtHemI0QmJGS0JtZDJib2NlTG11OHZNMXl4MWJiLWh0TjZVd1E?oc=5",
       "pubDate": "2026-09-11T12:36:49.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "被災井戸、応急修理費を支援 1世帯75万7000円上限 住宅の「応急修理制度」活用＜2026年熊本地震  熊本日日新聞社",
+      "description": "被災井戸、応急修理費を支援 1世帯75万7000円上限 住宅の「応急修理制度」活用＜2026年熊本地震  kumanichi.com",
       "category": "life"
     },
     {
@@ -115,6 +115,24 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "小学生が熊本地震の被災地にエール メッセージを書き込んだのは...？ 鹿児島（KKB鹿児島放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】上天草市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ec1lzWWhfMXluci1nRUdwaXROY2cwVUFqYS1VVElvOTBGUUVBRnJMaUpCd1ZoRFFLRW5URmZUYjg5NmxTNlBIT21mSGl4UDA?oc=5",
+      "pubDate": "2026-09-11T11:43:26.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】上天草市で震度1  kumanichi.com",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞損傷がない煙突1本も撤去へ 110メートルの強化プラスチック製、安全面を考慮 被災の日本製紙八代工場 八代市",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmSE1CQzJnUGRzenZ5RWE2Yi1mWjhVTHprWWhLSTE1M1pQaUNDWFBWRFVRYmJJSF9jZVFXVF9GdzdnSkNDYXI1LUFtZzhZdXM?oc=5",
+      "pubDate": "2026-09-11T11:25:49.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "2026年熊本地震＞損傷がない煙突1本も撤去へ 110メートルの強化プラスチック製、安全面を考慮 被災の日本製紙八代工場 八代市  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -190,6 +208,15 @@
       "category": "other"
     },
     {
+      "title": "熊本地震で被災した宇城市の老舗中華料理店が１２日「仮店舗」で営業再開へ【熊本】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQmx1MEZaY0NBSXBvTWRfNVdRdkdfbkVJSXhNQzR2bFdFcGhXMlVGMldaVnR5VldvRDFTVlIxdzRQU2tMcWVDNnRBaDZ4VVBJVDhXYS1DQW9BWjkwWXNZai1YYVJRT1RhNkQ2V0w1d2RPczRPTVJTYi1aN2pnN2c?oc=5",
+      "pubDate": "2026-09-11T10:55:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "熊本地震で被災した宇城市の老舗中華料理店が１２日「仮店舗」で営業再開へ【熊本】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本市は１１日から熊本地震に関する市民アンケートを開始【熊本】（TKUテレビ熊本）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VM3dXRzhoejlOUmVmQWltdkZDeWd6NlV5V08zbUd0Q19zWm5xMENOenlaNGwyQWxDbWVtTGhDa0JUc095UWd3QS1uenItZFJVcmxTR2xWdjdqU1I4blZYSUpQYXRjcFJqcGp3TE5BWGNybkk0eDE0SzJHQW1oWWs?oc=5",
       "pubDate": "2026-09-11T10:48:01.000Z",
@@ -220,9 +247,9 @@
       "title": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVFdtOUJwU0RCcnFqdVBSRk1OYnY0SFBwc2NXeEJDYW5CSDlNcE9JbVZCcVdvNzNGd0FDeFE0Vm14cjdoQ0JDbWszbDZ1ZmM?oc=5",
       "pubDate": "2026-09-11T10:44:06.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」＜2026年熊本地震  熊本日日新聞社",
+      "description": "全専門店に契約終了を打診 嘉島町・イオンモール熊本 「営業再開見通せないため」＜2026年熊本地震  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -256,18 +283,18 @@
       "title": "＜2026年熊本地震＞被災した中小企業のつなぎ融資 利子を独自に全額補助 八代市",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tcXhfTng3emhJSHAyUFpjdEZxeWFIYnVMdEhYSTRkZlk2Y3B4WFBRMV9paEEycWtNVXBBSEZqV3J5Z2RDZ2FxMWtFOU5VRWs?oc=5",
       "pubDate": "2026-09-11T10:38:40.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞被災した中小企業のつなぎ融資 利子を独自に全額補助 八代市  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞被災した中小企業のつなぎ融資 利子を独自に全額補助 八代市  kumanichi.com",
       "category": "disaster"
     },
     {
       "title": "2026年熊本地震・被災の医療機関、存続を＞難病患者、行き場なく 県南の拠点・熊本南病院、休止続く",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTcms0cjgycXdBWWRvZEZJTjZiRThuSUFBYnRNYjZEQngzZGhoQV9GMURscXZaSUJFVDByQWpsVnJZa0pGTnlfWjhzQzdJM1k?oc=5",
       "pubDate": "2026-09-11T10:26:51.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震・被災の医療機関、存続を＞難病患者、行き場なく 県南の拠点・熊本南病院、休止続く  熊本日日新聞社",
+      "description": "2026年熊本地震・被災の医療機関、存続を＞難病患者、行き場なく 県南の拠点・熊本南病院、休止続く  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -286,6 +313,15 @@
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
       "description": "“西の聖地”「湯らっくす」が福岡初進出! 「熊本地震からの復興をけん引したい」（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "“西の聖地”「湯らっくす」が福岡初進出! 「熊本地震からの復興をけん引したい」 (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFB2MjdMdmJCR09JYkdITWV1aFRUM0ZtZy1WMVBxRTJ0dS1mSzJPdVdaVzlaNmtBWVpoV2dNbDdKc2lUZ2YyUUNoWDl1ZWVFSXNPVkFoYTZtdTNuVm5jbm95dFVxS09pS2dpNWR6MURreWFudDE0bEJxbjBQNzY3eDlYOW5IeTltMzdjaVZB?oc=5",
+      "pubDate": "2026-09-11T10:21:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "“西の聖地”「湯らっくす」が福岡初進出! 「熊本地震からの復興をけん引したい」 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -319,9 +355,18 @@
       "title": "＜2026年熊本地震＞被災の医療機関、存続を 宇城市議会 国・県に意見書提出へ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Tb0FCUjZYYzNxWk0xMFdSVlpla2dUYzZpcWNUWmhUTEtJNWpDV19Oeko1cFRyMkkyYXdsQ09hQjktbEhOd0lYSllCaUVSY28?oc=5",
       "pubDate": "2026-09-11T10:09:28.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞被災の医療機関、存続を 宇城市議会 国・県に意見書提出へ  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞被災の医療機関、存続を 宇城市議会 国・県に意見書提出へ  kumanichi.com",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で低迷した観光需要の回復を「九州ふっこう応援割」 宮崎県内での予約開始は9月下旬を予定",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMTE4NldjR00xbVdGTkpabG9Fck5TdXVObUNfZjVHcUxKZXFnRFlGbjFlU1B0alpWenI4aVE5RzhoV0psUXBOY3FVcHFXcjFJUnNJZVpndVk0Tm1Vc1k4T3BhdnprZjg?oc=5",
+      "pubDate": "2026-09-11T10:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で低迷した観光需要の回復を「九州ふっこう応援割」 宮崎県内での予約開始は9月下旬を予定  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -334,13 +379,13 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震で低迷した観光需要の回復を「九州ふっこう応援割」 宮崎県内での予約開始は9月下旬を予定",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02a0I4LVFVLXdYbEE2YW1ucUxfbHRDUVRJbXBSeTdCczlwMG9wam1CLV9RamZYLU5tT0lIcE81MnNKaS16UkJVUXN4WW9nNGZIZ1dLYkgzdzN4QQ?oc=5",
+      "title": "熊本地震で被災したイグサ農家などに岡山県のライフネットホールディングスが１億１０００万円の支援金",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQVo1MWszX21ySzRmREVHTTZQS3ZrMDRxbkRvQWx2bEdzLVdYTjdXbTR5MllJUjg3RDZsdm9OZ1VpVEI0U0NiZ2tLZ05jUlY2akFaVUZtandnZzRaa1gyT1BDYw?oc=5",
       "pubDate": "2026-09-11T10:00:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "熊本地震で低迷した観光需要の回復を「九州ふっこう応援割」 宮崎県内での予約開始は9月下旬を予定  TBS NEWS DIG",
-      "category": "disaster"
+      "description": "熊本地震で被災したイグサ農家などに岡山県のライフネットホールディングスが１億１０００万円の支援金  TKU テレビ熊本",
+      "category": "life"
     },
     {
       "title": "熊本市は１１日から熊本地震に関する市民アンケートを開始【熊本】",
@@ -379,6 +424,15 @@
       "category": "life"
     },
     {
+      "title": "「いつの間にかいなくなった」地震後のペットの行方不明 相談約300件 (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2R4dFVlNW96aDZ1N2tKM2VZT1d2NVVCbzlaUW1HMHRNcDNmZVQ4M2hMbDdxXzFhVFMzaXMtT0FFeFRyZndDMHdYMm1PLUpUV19mWUpweVQ2SDJnaTdqSjBpaDBRTW5IdEpyYVBrY0tTYTFlRTdxX3FBQWxiT3dOMDV2NWc4c0xVU2JleS1n?oc=5",
+      "pubDate": "2026-09-11T09:50:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "「いつの間にかいなくなった」地震後のペットの行方不明 相談約300件 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "住宅再建や罹災証明の判定、被災者支援のモデルに 視標「熊本地震」 弁護士 津久井進",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HX0pTZktmLThaWVdNNHBBMk1iUkxUNG5iWHIwSTBXcm16UW5RRm1CUG8wQnlHeFhaY01XWWc5akpUMFo1ZzhJREJFUQ?oc=5",
       "pubDate": "2026-09-11T09:49:38.000Z",
@@ -402,7 +456,7 @@
       "pubDate": "2026-09-11T09:41:58.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
+      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -418,18 +472,18 @@
       "title": "2026年熊本地震の「影響受けた」企業、15.7% 防災対策見直し意向は80%超 帝国データバンク調査",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wazYtTnJ0NlNpNU5MSmE0MnlZQ3J0YlEyUjFEMkpJLWdadktBd21ZR0RidmZWVDNHRS14NXUxQnc4UERmVmZOeWg3LXhmc1k?oc=5",
       "pubDate": "2026-09-11T09:38:31.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震の「影響受けた」企業、15.7% 防災対策見直し意向は80%超 帝国データバンク調査  熊本日日新聞社",
+      "description": "2026年熊本地震の「影響受けた」企業、15.7% 防災対策見直し意向は80%超 帝国データバンク調査  kumanichi.com",
       "category": "disaster"
     },
     {
       "title": "八代港ガントリークレーン、10月中に暫定利用 コンテナの荷役再開 高圧ガス輸入も可能に ＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZMXJvZDBrRjFlM0R4WnlXcjVoZHk0MEZrYW5UdEhVTlZNY2FfN0FfaG9ILWJVdl9idDZ1SEUwUm9rVjVjWEhXcjZ4dUZzRXM?oc=5",
       "pubDate": "2026-09-11T09:37:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "八代港ガントリークレーン、10月中に暫定利用 コンテナの荷役再開 高圧ガス輸入も可能に ＜2026年熊本地震  熊本日日新聞社",
+      "description": "八代港ガントリークレーン、10月中に暫定利用 コンテナの荷役再開 高圧ガス輸入も可能に ＜2026年熊本地震  kumanichi.com",
       "category": "infra"
     },
     {
@@ -454,9 +508,9 @@
       "title": "2026年熊本地震＞九州新幹線全線再開で振り替え輸送 運休中の鹿児島線・宇土－八代 18日から",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15ZjJudHE0elNtSGxmejVFck5NSzJjYkpyUjRqck5ZX09HSVNOQjhiUFM0VmJTVlE1UllyeDJOWExPSEdZajQxWVFqdzRXRlE?oc=5",
       "pubDate": "2026-09-11T09:35:52.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "2026年熊本地震＞九州新幹線全線再開で振り替え輸送 運休中の鹿児島線・宇土－八代 18日から  熊本日日新聞社",
+      "description": "2026年熊本地震＞九州新幹線全線再開で振り替え輸送 運休中の鹿児島線・宇土－八代 18日から  kumanichi.com",
       "category": "infra"
     },
     {
@@ -499,9 +553,9 @@
       "title": "＜2026年熊本地震＞洗濯とシャワーで被災者支援 八代市 宮城・石巻市の団体「必要とされるうちは」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zcjdjR3hXRWJyemZIUFZtM3A4M21kWDZPWXJ5WnUtTDFTWC1SS0xESlV0V2diZTNUdU40UkpXOTV1cW5YQ2VLVWZhTk1GSUk?oc=5",
       "pubDate": "2026-09-11T09:08:56.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞洗濯とシャワーで被災者支援 八代市 宮城・石巻市の団体「必要とされるうちは」  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞洗濯とシャワーで被災者支援 八代市 宮城・石巻市の団体「必要とされるうちは」  kumanichi.com",
       "category": "life"
     },
     {
@@ -537,7 +591,7 @@
       "pubDate": "2026-09-11T09:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "鹿児島県独自の宿泊旅行補助、14日から1カ月 熊本地震で観光客減  asahi.com",
+      "description": "鹿児島県独自の宿泊旅行補助、14日から1カ月 熊本地震で観光客減  朝日新聞",
       "category": "disaster"
     },
     {
@@ -553,9 +607,18 @@
       "title": "熊本県内景況マイナス幅拡大 地震、資材高の影響響く 7～9月期で九州財務局",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNzBoUlpNZWwzcW5ZbVBJSzRfckVaeXpnYVJMVUUybm9pdkpPTU9xR0tMb1VGeE51MDVGV3puc0ZMN2ozcjRUNUVDaDdCbE0?oc=5",
       "pubDate": "2026-09-11T08:42:49.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本県内景況マイナス幅拡大 地震、資材高の影響響く 7～9月期で九州財務局  熊本日日新聞社",
+      "description": "熊本県内景況マイナス幅拡大 地震、資材高の影響響く 7～9月期で九州財務局  kumanichi.com",
+      "category": "disaster"
+    },
+    {
+      "title": "大分県内の企業景況感 ３期連続マイナス 熊本地震が影響",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4RnRDdlRJeUxlWXR2ZE5CYVI3RnJMOW4zUUlraXg2Z1k4OHF6Qm4zdUVJTnRHRGg1WTZGNUd4dFdjNWRuME9lYUJEQm9DLUNpSjJBRXZwcGY?oc=5",
+      "pubDate": "2026-09-11T08:33:00.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "大分県内の企業景況感 ３期連続マイナス 熊本地震が影響  NHKニュース",
       "category": "disaster"
     },
     {
@@ -652,9 +715,9 @@
       "title": "＜2026年熊本地震＞氷川町の住家、半壊以上3割 被害認定の1次調査終了",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GVUdNdkRNRFRlc2YxUmRkSVVwWXRSX2ZZYmhiWnhLWE9mWGlncVdqRHhHbFVBYlQ4UW1oSkpCSE1jMExTSERSaUNUZmQ3X2c?oc=5",
       "pubDate": "2026-09-11T07:52:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞氷川町の住家、半壊以上3割 被害認定の1次調査終了  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞氷川町の住家、半壊以上3割 被害認定の1次調査終了  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -663,7 +726,7 @@
       "pubDate": "2026-09-11T07:40:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【令和8年熊本地震】被災した里親家庭・ファミリーホーム、児童家庭支援センターへ190万円を追加助成  PR TIMES",
+      "description": "【令和8年熊本地震】被災した里親家庭・ファミリーホーム、児童家庭支援センターへ190万円を追加助成  prtimes.jp",
       "category": "life"
     },
     {
@@ -672,7 +735,7 @@
       "pubDate": "2026-09-11T07:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "（２０２６年熊本地震）九州おいでよ、割引続々 連休に合わせ県独自策 鹿児島  asahi.com",
+      "description": "（２０２６年熊本地震）九州おいでよ、割引続々 連休に合わせ県独自策 鹿児島  朝日新聞",
       "category": "disaster"
     },
     {
@@ -681,7 +744,7 @@
       "pubDate": "2026-09-11T07:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  asahi.com",
+      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
       "category": "disaster"
     },
     {
@@ -789,7 +852,7 @@
       "pubDate": "2026-09-11T06:30:04.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和8年熊本地震支援対応調整会議（第６回）を開催  PR TIMES",
+      "description": "令和8年熊本地震支援対応調整会議（第６回）を開催  prtimes.jp",
       "category": "life"
     },
     {
@@ -820,15 +883,6 @@
       "category": "disaster"
     },
     {
-      "title": "令和8年熊本地震 支援の輪＞災害ボランティアバス参加募集 10月10、11日運行 | まちの話題 | 佐賀県のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zVHBzUjZPem1rY1ZnVTZRYjM1aE9sLXFuQ1ZFV2VfWnpOQ25yMlRucUk3ZWo5U1paNGRITDVwekdzY2Frei12SEsxekJpczZRMDMzMzZn?oc=5",
-      "pubDate": "2026-09-11T06:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震 支援の輪＞災害ボランティアバス参加募集 10月10、11日運行 | まちの話題 | 佐賀県のニュース  佐賀新聞",
-      "category": "life"
-    },
-    {
       "title": "「九州ふっこう応援割」熊本は15日発売 1泊あたり最大2万円補助",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kbWVjZU1qVDhnSEpFeTdHYjlpeF9kOUpiVmZ0anhJN09EMzVyMW91N1p4c01tZnhZRXc2dDg4c3dzYzJLdnRjRVRONU1wSi1Dc2RiRlZvUDdtRWs2RzhkLTRaQzRHT19DeDdtXw?oc=5",
       "pubDate": "2026-09-11T06:00:00.000Z",
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "＜令和8年熊本地震 支援の輪＞災害ボランティアバス参加募集 10月10、11日運行  47NEWS",
       "category": "life"
-    },
-    {
-      "title": "熊本ふっこう応援割、15日販売開始 10月1日～12月25日の県内宿泊対象＜2026年熊本地震＞（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HMDBSRmhaYVN0VmV0eFA1ejBuQ3NTMW9Ib1ZkYllYcDIwQnJ0M1dweFhxbVFuSjBTMFNFbGRseXlKVXg1XzlhUjNrbDVFblp0QkF3X2l4emlnLW53bk1NUlVfcWNGWTJtelBDeVgwRVBoRUFod2w5YkhyczEzamM?oc=5",
-      "pubDate": "2026-09-11T05:59:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本ふっこう応援割、15日販売開始 10月1日～12月25日の県内宿泊対象＜2026年熊本地震＞（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "のと鉄道が新ヘッドマーク 熊本応援の思い乗せ 列車４両に設置",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xUk1DQ0tVekJFRU43TnNCN0ZpY1VVODBvamtXa2x5U01send2QVBIcXowMEJXQ3FQb3NYT2t1c3VGUFh4SFdLR0Zwdw?oc=5",
-      "pubDate": "2026-09-11T05:55:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "のと鉄道が新ヘッドマーク 熊本応援の思い乗せ 列車４両に設置  47NEWS",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震で被災した中小事業者対象、施設・設備の復旧費用で最大１５億円補助…政府が支援パッケージ（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmbF9YblN4U0ZpelBjZmNCNnl5NURiWkc4bG9lcmpoc0RoWnRmdm04NHBfZkdHNXNidjlTSEpnSUVNR3ZSdmh0U211bS04cEVKOGppRDJXOUV5M2tYM00yMGl6NXVMck9KMUVkTWtiUm1tNVgxUkJZZG5JZUw1Slk?oc=5",
-      "pubDate": "2026-09-11T05:49:50.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災した中小事業者対象、施設・設備の復旧費用で最大１５億円補助…政府が支援パッケージ（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本の応援割、15日から販売 6割引き「復興支えに」",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DX1RSSWRJMGtGRjh3TzhnNEpSdWtUUDNUVDdPQkR1djhMVDVYNHBfbm5IWHVaZ1NyV0tnZ0tOT3pwV2pJSkVNOGlsRQ?oc=5",
-      "pubDate": "2026-09-11T05:49:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本の応援割、15日から販売 6割引き「復興支えに」  47NEWS",
-      "category": "other"
-    },
-    {
-      "title": "熊本地震で被災した中小事業者対象、施設・設備の復旧費用で最大１５億円補助…政府が支援パッケージ",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4c3p3Q1M2WVY5VDRJUkZXM3B0Wk05SGdwV0VsQ3E3NEFvay1mSFptNnNrMFZabi1XTDR3X2Vnd2c1WTNHanR3WXdEZVJqTmlrRUtGZFZEdGJ2dUJmT2ktLTJxTW1kNnpvcThnTUlISHgwZw?oc=5",
-      "pubDate": "2026-09-11T05:49:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災した中小事業者対象、施設・設備の復旧費用で最大１５億円補助…政府が支援パッケージ  読売新聞",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震でみそ工場の外壁が全て倒壊したが…「立ち上がらんといかんでしょ」５代目の妻が再建へ強い思い",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTkJtX3FoNHhGeENmYWNMOGdBRld5ZHo5QW9DU3lYX2U0VS1CcUFfWjRiYTlQYV90YlY0MGhBSW9xV1pCZzBQeXVSTGJ6TVFsVjhGSFZ4R2JUY251UndUTkd3dlR1UzNyYjloSEVVd1duUQ?oc=5",
-      "pubDate": "2026-09-11T05:48:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震でみそ工場の外壁が全て倒壊したが…「立ち上がらんといかんでしょ」５代目の妻が再建へ強い思い  読売新聞",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-11T15:13:18.673Z",
-  "lastAttempt": "2026-09-11T15:13:18.673Z",
+  "lastSuccess": "2026-09-11T18:36:50.557Z",
+  "lastAttempt": "2026-09-11T18:36:50.557Z",
   "fetchOk": true
 }
