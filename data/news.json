@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "おおづオータムフェスタ with 大津地蔵祭｜お出かけ情報",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ITF80bVFwVE9zX3NsRjBGMlg2OG1DZ1UxRWJXMWtFc3pMZWFfUlVVbHN2a3R6MWtPbVBVbVlYVVk0TjB3dHpRTUpYbw?oc=5",
+      "pubDate": "2026-09-18T17:51:25.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "おおづオータムフェスタ with 大津地蔵祭｜お出かけ情報  熊本日日新聞社",
+      "category": "other"
+    },
+    {
+      "title": "【速報】宇城市で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HalZhajJFRjd2blJxWUhvMUFvSW1fTVlZX183dnhWend2MVlFNkd4YVFOZk9rUnlUTFpSWUxxZWpSVjhOeHVfcmhhdXZTLUU?oc=5",
+      "pubDate": "2026-09-18T17:03:23.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇城市で震度2  熊本日日新聞社\n【速報】八代市で震度1  熊本日日新聞社\n【速報】熊本市西区で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "九州新幹線が熊本地震以来 52日ぶりに全線で運行再開 高架橋の損傷・レールの歪みなど1000か所で被害",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85S2RiYVdXdGxZMG5va2poYndMWm4zTE5CNUR5S29hc29lRHZuR3VmUEZfUE5BVkMtbklzcjA1azFxVzVIOGdmTGh4Y24wTDlNZG9ZRkVBOA?oc=5",
+      "pubDate": "2026-09-18T15:34:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州新幹線が熊本地震以来 52日ぶりに全線で運行再開 高架橋の損傷・レールの歪みなど1000か所で被害  TBS NEWS DIG",
+      "category": "infra"
+    },
+    {
       "title": "被災地支援「続けたい」 熊本地震 青い鳥が現地に寄付",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SaGRIV2NfckFzOEdacnRHS2dJZUY3eGxqdnZLTGZ6ZHl0cDR0NldWZzJGRmYtQVdzQzcxVXZkbGVxZkVhN2Rvb2lXUmpOUldNQUJKTlhtQ2hxUXVnZWpLdkMyTXo?oc=5",
       "pubDate": "2026-09-18T15:00:00.000Z",
@@ -64,6 +91,15 @@
       "category": "disaster"
     },
     {
+      "title": "宇城市の同意書署名取得 木村・熊本県知事「良くなかった」 住家被害認定調査 ＜2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PV1Q5OHNzWGJEVjY2eTh5bGVUSmx3NDV3TDNSYlNOTGJaMXktZDJMMG1ZNGsyQzNIMWVkRWxMeGJSQ2pGSHpwMENxa0c0TXM?oc=5",
+      "pubDate": "2026-09-18T11:46:07.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "宇城市の同意書署名取得 木村・熊本県知事「良くなかった」 住家被害認定調査 ＜2026年熊本地震  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "宇城市の同意書署名取得 木村・熊本県知事「良くなかった」 住家被害認定調査 〈2026年熊本地震〉",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PV1Q5OHNzWGJEVjY2eTh5bGVUSmx3NDV3TDNSYlNOTGJaMXktZDJMMG1ZNGsyQzNIMWVkRWxMeGJSQ2pGSHpwMENxa0c0TXM?oc=5",
       "pubDate": "2026-09-18T11:46:07.000Z",
@@ -74,11 +110,11 @@
     },
     {
       "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Wb3BMWTZUS0Jkb3JHeHcycURKcjNRMjczSFY5ZXpPMFFlRXlGNUNVWmNpa1R3Y2dFVzVFZ3E1N3VEVEVGM3JHZkUwMlB1cW8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLLUREY0FaRWRDQzEwa2p6OFIzT0E5VEVHcGtVU0lRQWE1R0V0eXVrY3RsWTBBTHhoUjRBYmxxV1VZM3dxWlBJQVkzSQ?oc=5",
       "pubDate": "2026-09-18T11:38:38.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "description": "【速報】八代市で震度1  47NEWS",
       "category": "disaster"
     },
     {
@@ -107,6 +143,15 @@
       "type": "local",
       "description": "【オピニオン】再び起きた熊本地震/福和伸夫・名古屋大学名誉教授  ガスエネルギー新聞",
       "category": "infra"
+    },
+    {
+      "title": "セブン、ローソンが熊本県に寄付 2億3千万円と1億円 熊本地震の被災地支援 ＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xQzF5SGFDdm5VSnpZLTBYNnRQS21kUWFqNXJzaUVIc2pOV2lMUTRWdlY5V2hLUVQyQXpXelJ0WmphR1loMkRtQ2N0clhXOUE?oc=5",
+      "pubDate": "2026-09-18T11:11:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "セブン、ローソンが熊本県に寄付 2億3千万円と1億円 熊本地震の被災地支援 ＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "life"
     },
     {
       "title": "セブン、ローソンが熊本県に寄付 2億3千万円と1億円 熊本地震の被災地支援",
@@ -186,7 +231,7 @@
       "pubDate": "2026-09-18T10:38:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震 鹿児島市職員を被災地派遣 空き家特定や被害認定調査へ  newsdig.tbs.co.jp",
+      "description": "熊本地震 鹿児島市職員を被災地派遣 空き家特定や被害認定調査へ  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -226,6 +271,15 @@
       "category": "infra"
     },
     {
+      "title": "天草地域独自のキャンペーンで巻き返し 観光面で地震の影響【熊本】（TKUテレビ熊本）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcUJZVGpoT3VhbGlvMGxVb1B6R0d3djFDamVjbldKY3lNbGl6MWhUUW9XY1NtTjR5V25HbGt6aTJzVjBTYllrUVVNMEpTYU9JbkZfanlYbHBkWjkwYmk4ay1sMTVSUmlLVV9MOE9yVmVkV3R5RUcybG5NYjJWX2c?oc=5",
+      "pubDate": "2026-09-18T10:22:01.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "天草地域独自のキャンペーンで巻き返し 観光面で地震の影響【熊本】（TKUテレビ熊本）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震からの復旧復興を応援する横断幕が国道３号線の歩道橋に設置【熊本】（TKUテレビ熊本）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10TW54NHpZNHJmTGFTM3FRcXZqNEQ4SlFjbkVHNVRTNVZ4aVpTTlFkQ1g1eU1XOHlUek9TMW9kMUF2dGZpREttY1ppZUFNeWlOTjR3VUhNTE9Rb1lWZjF0b3JvYVNtX3g2dV85eVBveDh4RzdIb2pfRGljblBVcVU?oc=5",
       "pubDate": "2026-09-18T10:22:01.000Z",
@@ -258,7 +312,7 @@
       "pubDate": "2026-09-18T10:02:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "50日ぶりの全館再開に広がる喜びと期待 “ゆめタウンはません”が19日に全館で営業再開 2026年熊本地震  newsdig.tbs.co.jp",
+      "description": "50日ぶりの全館再開に広がる喜びと期待 “ゆめタウンはません”が19日に全館で営業再開 2026年熊本地震  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -267,7 +321,7 @@
       "pubDate": "2026-09-18T10:00:00.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.09.18 19:00 ] 熊本地震からの復旧復興を応援する横断幕が国道３号線の歩道橋に設置【熊本】  TKU テレビ熊本",
+      "description": "[TKUニュース 26.09.18 19:00 ] 熊本地震からの復旧復興を応援する横断幕が国道３号線の歩道橋に設置【熊本】  tku.co.jp",
       "category": "infra"
     },
     {
@@ -294,7 +348,7 @@
       "pubDate": "2026-09-18T09:46:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「待ってました！」連休を前に九州新幹線が全線再開 急ピッチで進んだ復旧工事 熊本地震から52日ぶり  newsdig.tbs.co.jp",
+      "description": "「待ってました！」連休を前に九州新幹線が全線再開 急ピッチで進んだ復旧工事 熊本地震から52日ぶり  TBS NEWS DIG",
       "category": "infra"
     },
     {
@@ -343,6 +397,15 @@
       "category": "infra"
     },
     {
+      "title": "熊本地震の被災地で「佐賀モデル」現場の困りごとを翌日には支援へ【佐賀県】｜佐賀のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VODNqbldBZmY0WjJKLUJnRnI0X3pfQkZXWXRYZHBSbENMazZKdnlkRWx2ZG51RElpekgxRXg0RDh2dV9HNjE4TU5zNUQ0cm9zMlpHSXdoQjMzcExHaHl4Qkx3?oc=5",
+      "pubDate": "2026-09-18T09:17:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地で「佐賀モデル」現場の困りごとを翌日には支援へ【佐賀県】｜佐賀のニュース  サガテレビ",
+      "category": "life"
+    },
+    {
       "title": "九州新幹線が全線運転再開 熊本地震から52日ぶり、当面は一部減速（朝日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOTFF3TS1WQl9aQzVqTENKaXNOM2NuTEIxU3FoYkI0LTNQY0pqdTBvTUdIN2ZaRXQtOWNvbmxJdjRzaElvck0ydkQ4ZUl2cTQxWXJlanpRbS1zang1VVdZN2FGWGlrRFEwVVVFSzlZU1A3bkdKVlRmWkJDeHBfeVk?oc=5",
       "pubDate": "2026-09-18T09:11:26.000Z",
@@ -375,7 +438,7 @@
       "pubDate": "2026-09-18T08:43:28.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "九州の7月鉱工業生産、2カ月連続の低下 熊本地震による生産減響く  nikkei.com",
+      "description": "九州の7月鉱工業生産、2カ月連続の低下 熊本地震による生産減響く  日本経済新聞",
       "category": "disaster"
     },
     {
@@ -465,7 +528,7 @@
       "pubDate": "2026-09-18T07:11:39.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "商船三井／令和8年熊本地震で300万円余寄付、手洗いスタンド設置の支援も  物流ニュースのLNEWS",
+      "description": "商船三井／令和8年熊本地震で300万円余寄付、手洗いスタンド設置の支援も  lnews.jp",
       "category": "life"
     },
     {
@@ -501,7 +564,7 @@
       "pubDate": "2026-09-18T06:58:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「熊本を応援したい」全国の想い結実 ローソンが熊本地震の支援金など1億300万円を寄付  newsdig.tbs.co.jp",
+      "description": "「熊本を応援したい」全国の想い結実 ローソンが熊本地震の支援金など1億300万円を寄付  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -510,7 +573,7 @@
       "pubDate": "2026-09-18T06:58:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「熊本を応援したい」全国の想い結実 ローソンが熊本地震の支援金など1億3000万円を寄付  newsdig.tbs.co.jp",
+      "description": "「熊本を応援したい」全国の想い結実 ローソンが熊本地震の支援金など1億3000万円を寄付  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -525,10 +588,19 @@
     {
       "title": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を - クラウドファンディング",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNGs4RXpCMVFuQi14OFFMUzE0bDZIWk5XaTdjZkp2Q3Z2MlJXdUsxX1ZQZ1Y3MHV6UHQ0dldIRFN1eDd0YXpwRDMtUnhKbElnN001SVp5ek1LeUFKejhJdUpB?oc=5",
-      "pubDate": "2026-09-18T06:53:09.000Z",
+      "pubDate": "2026-09-18T06:40:16.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【M7.1 熊本地震】緊急支援を開始。被災地へご支援を  クラウドファンディング - READYFOR",
+      "category": "life"
+    },
+    {
+      "title": "＜言葉ファイル＞地震発生時、十勝は被災地支援の最重要拠点に 北大大学院地震火山研究観測センター・高橋教授",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52Rkdlbm44QlFMaHNXakRLeHBnSXdESWF6MnQ0U0pBQ3VGZGptMDh2UV9uMnVCb1gyOEhtZTYtMlRfRUhLT2J5M1hWOA?oc=5",
+      "pubDate": "2026-09-18T06:27:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜言葉ファイル＞地震発生時、十勝は被災地支援の最重要拠点に 北大大学院地震火山研究観測センター・高橋教授  47NEWS",
       "category": "life"
     },
     {
@@ -537,7 +609,7 @@
       "pubDate": "2026-09-18T06:15:38.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の避難所、食事の栄養偏りに不安 専門家らが支援  nikkei.com",
+      "description": "熊本地震の避難所、食事の栄養偏りに不安 専門家らが支援  日本経済新聞",
       "category": "life"
     },
     {
@@ -618,7 +690,7 @@
       "pubDate": "2026-09-18T05:39:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "7月の熊本地震後、マリア・クリコフスカさんから熊本の人々へ送られた手紙の全文  西日本新聞me",
+      "description": "7月の熊本地震後、マリア・クリコフスカさんから熊本の人々へ送られた手紙の全文  nishinippon.co.jp",
       "category": "disaster"
     },
     {
@@ -646,6 +718,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "令和8年熊本地震で「くまもとアプリ」から見えてきたこと  時事ドットコム",
+      "category": "disaster"
+    },
+    {
+      "title": "「地域唯一のスーパー 閉店困る」 マルショク日奈久店閉店 住民、不安募る ＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hRHBLZUd6RWU0a3VMZ0VJcVhHR3JVc2cweXlxWGp4YWdiRE9FdkVWMHFQRld0eS1KeE5OQUZtRFpSUmVTY29nOW92RQ?oc=5",
+      "pubDate": "2026-09-18T04:45:30.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「地域唯一のスーパー 閉店困る」 マルショク日奈久店閉店 住民、不安募る ＜2026年熊本地震＞  47NEWS",
       "category": "disaster"
     },
     {
@@ -818,90 +899,9 @@
       "type": "local",
       "description": "九州新幹線52日ぶりに全線再開「シルバーウィークに間に合ってよかった」熊本地震で約1000カ所被害 当面1割ほど減便 福岡  福岡TNCニュース",
       "category": "infra"
-    },
-    {
-      "title": "熊本地震で被災「九州新幹線が全線で運転再開」混雑のピークは下り19日 上り22日の見通し《長崎》",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkl1OFVGY0h5dlg0dzF2dEF0NjRCQW01SVc2ZWRSWDQ2VElRMmNWVWxJSFpvNlR5bXZNdFhYbHJ3akJBOTBHTnIzSTNLNVZpVnJxY2puUmJXRjd2ZmI4eXNvNTVJZ0xRaFVEdmV1M0VnUExKSjBVYlRCVU5SMVlQcGZYUWc1bkE?oc=5",
-      "pubDate": "2026-09-18T03:12:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災「九州新幹線が全線で運転再開」混雑のピークは下り19日 上り22日の見通し《長崎》  日テレNEWS NNN",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 新大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSmFNS1lPal9BNDB5VzZWTFBVaFBYZkwxZlBwekxOcy1wSWpsYWZrUElwMFJfNGpVaTJPR0VlMzJOUHBOVXljQlZENXltZmxHTmZDNw?oc=5",
-      "pubDate": "2026-09-18T03:10:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 新大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に  ktv.jp",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pSmFNS1lPal9BNDB5VzZWTFBVaFBYZkwxZlBwekxOcy1wSWpsYWZrUElwMFJfNGpVaTJPR0VlMzJOUHBOVXljQlZENXltZmxHTmZDNw?oc=5",
-      "pubDate": "2026-09-18T03:10:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に  ktv.jp",
-      "category": "infra"
-    },
-    {
-      "title": "「本当にありがたい」九州新幹線全線再開に歓喜の声　シルバーウイーク中の予約は19日がピーク　熊本駅",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ndjNaaUU0NmRlcmUzOUNYR1hCN3FJNzB3Zlo5TVcxWEFfQm9tQWVtV1pULUhkWXdTUFg1SXU4SmxrM2QyeF9WZzBudzNOOWFiM3o3M1JtQWNDcC15d1ZtZXFtUUdNQ1hNNU1zaDI4OE13ekJW0gF0QVVfeXFMTWd2M1ppRTQ2ZGVyZTM5Q1hHWEI3cUk3MHdmWjlNVzFYQV9Cb21BZW1XWlQtSGRZd1NQWDVJdThKbGszZDJ4X1ZnMG53M045YWIzejczUm1BY0NwLXl3Vm1lcW1RR01DWE01TXNoMjg4TXd6QlY?oc=5",
-      "pubDate": "2026-09-18T03:06:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「本当にありがたい」九州新幹線全線再開に歓喜の声　シルバーウイーク中の予約は19日がピーク　熊本駅  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 新大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に（関西テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWUgxQlBsNkJSZmNfRmdaZlppLTZVcFkzbk1PelU3RTFoZWlCZlBoOGJUOTN4Zjl0WkEweFdaYm9lM3owTGluUm1Ib1RrRDRORi1vNUhHTlQ4aEE0UkUzYl9qNXlXdjZWWHhmaWVrdm8xZUhEMnljQXJtcVdycEk?oc=5",
-      "pubDate": "2026-09-18T03:04:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の影響で一部運休していた「九州新幹線」が全線再開 新大阪駅で出発式 今月27日まで臨時列車を運行 新大阪～鹿児島中央駅の直通運行が可能に（関西テレビ） ...",
-      "category": "infra"
-    },
-    {
-      "title": "【中継】九州新幹線が全線で運転再開 熊本地震で損傷 熊本～新水俣再開 JR鹿児島中央駅",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeDdFNFhDeTk3OVczWkozc1BKUGFqV2diRWZXU05KeUNDRld4TVBQelJyaGZacG5KT1VyWVBmYmRrSEJIbEVkR2FySFhadmlUR1VsRWpfRlhPcHVMWkxURTNZUzA0dzVNbEQ3UGdoaWJ3WkNKcHA3YjBiZFJzaXZ0Z2xBaFNZdkk?oc=5",
-      "pubDate": "2026-09-18T03:03:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【中継】九州新幹線が全線で運転再開 熊本地震で損傷 熊本～新水俣再開 JR鹿児島中央駅  日テレNEWS NNN",
-      "category": "infra"
-    },
-    {
-      "title": "太陽光発電などを手がける会社のボランティア隊が熊本地震の被災地支援に出発【岡山】（RSK山陽放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52a0gtZXZ0eTR5REJhVnVxdnB3cjlmdVhPRDJqUTR4eUZvY1B2YVhEQjB3R2Zaa3ZTV0RqLU1mb1NERkZsVDRkSmlxaEJTeVBHUjRyTE44YlhmbkZucVRuY2x4Q193T1NpaWR1cDdpZkw3VjNpRWRKcWFXTkNXdlE?oc=5",
-      "pubDate": "2026-09-18T03:02:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "太陽光発電などを手がける会社のボランティア隊が熊本地震の被災地支援に出発【岡山】（RSK山陽放送）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "九州新幹線、52日ぶり全線で運転再開 熊本地震で被災（2026年9月17日掲載）｜日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4SEMyRkZaZzhIWkE4T1ZIS242RzBfcG5yQWxYSmVuYWk1NHpCOXY1NjNyMXFWSVVqVmdDejZsak1SQTNGSVU1YzB0dUhaRnVad0RCSTY5eHpYYm9nYnlST1ktXzYyLUZ6S0hXRG82WVRwSWp5SVRaTXViY2E?oc=5",
-      "pubDate": "2026-09-18T03:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州新幹線、52日ぶり全線で運転再開 熊本地震で被災（2026年9月17日掲載）｜日テレNEWS NNN  日テレNEWS NNN",
-      "category": "infra"
-    },
-    {
-      "title": "太陽光発電などを手がける会社のボランティア隊が熊本地震の被災地支援に出発【岡山】",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrZHV4bWI0cGVyNmFsNmJKVGRkNG1mQ3Jfc050MHZnRGc2VUdFd1FMZm5ZRlBJM0RtYTNpcmtxN1YxSDJObDczT283c0xEUFpJVUxaOHBLRU5wQQ?oc=5",
-      "pubDate": "2026-09-18T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "太陽光発電などを手がける会社のボランティア隊が熊本地震の被災地支援に出発【岡山】  TBS NEWS DIG",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-09-18T17:04:46.800Z",
-  "lastAttempt": "2026-09-18T17:04:46.800Z",
+  "lastSuccess": "2026-09-18T19:36:22.453Z",
+  "lastAttempt": "2026-09-18T19:36:22.453Z",
   "fetchOk": true
 }
