@@ -1,21 +1,30 @@
 {
   "items": [
     {
-      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１７日） ▼南相馬市の雲雀ケ原幸友会が３万７２０２円",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wV1E3SUN5RFFad1hSTkwtOWp1Q1NnbWx4SmtyQlhfYngxcmlTY01jZTVmQ29VSXhGUVpDdmFIeUh4UWk0b3c3c2g2Z2RuTWs?oc=5",
-      "pubDate": "2026-09-19T20:11:00.000Z",
+      "title": "暮らし支える地場スーパーや商店街 熊本地震で閉店や廃業相次ぐ",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FbFl5VTFnOVk2MUkySlNwOEtoNWhsYWhLZHQzWlFHcE5VbzVsUHQxaTdSclFLdmhmMnBrMnQ4T05IOU50UE50UDhiN0I1clpubEhLTXhn?oc=5",
+      "pubDate": "2026-09-19T21:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１７日） ▼南相馬市の雲雀ケ原幸友会が３万７２０２円  福島民報デジタル",
+      "description": "暮らし支える地場スーパーや商店街 熊本地震で閉店や廃業相次ぐ  西日本新聞me",
       "category": "disaster"
     },
     {
       "title": "令和８年熊本地震義援金／民報教育福祉事業団（１８日） ▼会津若松市の若松一中学友会が３万３３２３円",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00aHBpU3owWTBqQUxIX0JJcTFMTmFQVmhVX1l2d3hkY0p0dnBBbVBrQmJCbFdISVNzQ1F4eGZiMndnZVNWUS16YTEwbw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XRTIzbExXbjNqZHhVMy1aejhZdHBoa01jRHdvNTU0R2xJTGVRQnVIRzc3OGUzWEpONnNEb1NVelVBRUtpMExlcGMxRDU5Nms?oc=5",
       "pubDate": "2026-09-19T20:11:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１８日） ▼会津若松市の若松一中学友会が３万３３２３円  47NEWS",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１８日） ▼会津若松市の若松一中学友会が３万３３２３円  福島民報デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１７日） ▼南相馬市の雲雀ケ原幸友会が３万７２０２円",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Xc3Z1ZEMzMDhfVmYydEFESFdrTjdNdTd3dXQzN29pRnpadWtrYjYtbmhIZDVJLUNXUFZHVUVwYi15eEJOcm5naVltTQ?oc=5",
+      "pubDate": "2026-09-19T20:11:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１７日） ▼南相馬市の雲雀ケ原幸友会が３万７２０２円  47NEWS",
       "category": "disaster"
     },
     {
@@ -26,6 +35,15 @@
       "type": "local",
       "description": "建物倒壊 備えが必要 熊本地震派遣 危険度判定士ら提言 空き家対策、模擬訓練を  琉球新報デジタル",
       "category": "disaster"
+    },
+    {
+      "title": "マニュアル5割で残りは現場判断 熊本企業、教訓生かすBCPで早期復旧",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WbEZxRTI2N29pX0RMbnNpNVh3OXc5ZUlqX09lSm1RT2hsT2NCMHZrLXhZclc5dTVNNF9jSEpEdmhmdXEwVG1OckpIc1RFbmd1dUJMTHlvR19iNHl5eDRUVHZyT2VwbEpyak94TA?oc=5",
+      "pubDate": "2026-09-19T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "マニュアル5割で残りは現場判断 熊本企業、教訓生かすBCPで早期復旧  日本経済新聞",
+      "category": "infra"
     },
     {
       "title": "新幹線復旧、兄弟の絆 熊本地震 ＪＲ各社、九州に自発的支援",
@@ -91,12 +109,21 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震 その時企業は(1) 小売り、避難後の対策精査 イオン爆発でマニュアル改訂 再入館禁止、基準づくり",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11Y2djS2cydDhiNzkyeHRvV25lMzFRc2h4WXl0VzIzWW1jbGFUZy1PMjNUTk9TNHpfY2lrczlPbTBMTkdlNC1fVC1BZWRxNUVPaWRNWGo0N2ZFZDh0aDdyVWxFYUJ1aWNJYTBydw?oc=5",
+      "pubDate": "2026-09-19T17:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 その時企業は(1) 小売り、避難後の対策精査 イオン爆発でマニュアル改訂 再入館禁止、基準づくり  日本経済新聞",
+      "category": "life"
+    },
+    {
       "title": "熊本地震、「移動式薬局」3台が調剤活動 地域医療へつなぐ役割も",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbTZWS3BIYklBTjZjQ05mN2tvR29xclE0Z25hS290SDlFSTRfVW83elBtRm8tbVFDcDBKMVYxaFE0TGtReEFtMjZ3TnZFMWpxSUF5T0dRRk1kdWpkaEhRbDc3YjdYWnF6bHBTSw?oc=5",
       "pubDate": "2026-09-19T17:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震、「移動式薬局」3台が調剤活動 地域医療へつなぐ役割も  nikkei.com",
+      "description": "熊本地震、「移動式薬局」3台が調剤活動 地域医療へつなぐ役割も  日本経済新聞",
       "category": "disaster"
     },
     {
@@ -114,7 +141,7 @@
       "pubDate": "2026-09-19T12:12:29.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】天草市で震度3  熊本日日新聞社\n【速報】甲佐町など震度1  熊本日日新聞社\n【速報】熊本市西区で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "description": "【速報】天草市で震度3  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -276,7 +303,7 @@
       "pubDate": "2026-09-19T07:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「ほっとする」熊本市南区で仮設住宅への入居はじまる  TBS NEWS DIG",
+      "description": "「ほっとする」熊本市南区で仮設住宅への入居はじまる  newsdig.tbs.co.jp",
       "category": "life"
     },
     {
@@ -453,7 +480,7 @@
     {
       "title": "[TKUニュース 26.09.19 12:00 ] ローソンが熊本県に１億円余の寄付金贈る【令和８年熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwdnpnWUVyeEc4dXY3YWhna0tPalpOX1d0RTFIMXg5YWtJNVk1aG44M0ZjU292MXVBS05xR3MwMFJOYmdUWDZPU0gxcVR6UmdpWkw5WGZGaEd0cjJqTk5mYkJTYw?oc=5",
-      "pubDate": "2026-09-19T03:15:36.000Z",
+      "pubDate": "2026-09-19T03:21:09.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
       "description": "[TKUニュース 26.09.19 12:00 ] ローソンが熊本県に１億円余の寄付金贈る【令和８年熊本地震】  TKU テレビ熊本",
@@ -465,7 +492,7 @@
       "pubDate": "2026-09-19T03:15:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "被災地域の生産者や店を応援 熊本駅前広場でマルシェ  TBS NEWS DIG",
+      "description": "被災地域の生産者や店を応援 熊本駅前広場でマルシェ  newsdig.tbs.co.jp",
       "category": "other"
     },
     {
@@ -865,43 +892,16 @@
       "category": "infra"
     },
     {
-      "title": "【独自】宇城のフジデリカ工場が閉鎖へ 10月中旬 熊本地震で被災 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNVA3bUstMzZHMXB6ZTlvWmxURGZ6REV6N1RacXItOVNPeVphZWc5VTlQcXYwS294bk1NM1BnT296aGVEajc0cVh1d212U00?oc=5",
-      "pubDate": "2026-09-18T20:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【独自】宇城のフジデリカ工場が閉鎖へ 10月中旬 熊本地震で被災 ＜2026年熊本地震＞  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "（２０２６年熊本地震）復興の願い乗せ、全線復旧 九州新幹線",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sMkt5d0NZUFdPVHdtQmZDVjdveXU0SWgxby1OemRKUlBxSXZabWRtZkhwUFVXLTdFZGtJWUtkYWtmQnc5dG1kQWtUWVZDVk1yNEl2Yzdmb0syZkR1?oc=5",
       "pubDate": "2026-09-18T20:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "（２０２６年熊本地震）復興の願い乗せ、全線復旧 九州新幹線  asahi.com",
+      "description": "（２０２６年熊本地震）復興の願い乗せ、全線復旧 九州新幹線  朝日新聞",
       "category": "infra"
-    },
-    {
-      "title": "＜お知らせ＞熊本地震、救援金受け付け",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94VDJRREpUb04tUERKeldieDBKTmhzazdDWVBma2NHTUJCZ0xiREdBRGFWNmRVbFBRNEprajc1QVVvWmZJaFFTdzNFNktRYUdMYzV1MHBvTFRkSGhI?oc=5",
-      "pubDate": "2026-09-18T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  asahi.com",
-      "category": "disaster"
-    },
-    {
-      "title": "■熊本地震被災地での活動を報告",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jVFRJNFpkSmtONkh6MExYTC1RNVc4U1otbVpSRkdlbkpIUExlZ1kxVFQtdlByREZ5SjZlenBNQWR2VlM3SmtoRkdCX1RnbjNadjBTcmUxb1U1empFSy12cA?oc=5",
-      "pubDate": "2026-09-18T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "■熊本地震被災地での活動を報告  琉球新報デジタル",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-19T21:02:16.525Z",
-  "lastAttempt": "2026-09-19T21:02:16.525Z",
+  "lastSuccess": "2026-09-19T23:05:07.494Z",
+  "lastAttempt": "2026-09-19T23:05:07.494Z",
   "fetchOk": true
 }
