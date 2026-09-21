@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "title": "【速報】水俣市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmMFM3dEkyNHY0a0lpZkZLVmt0WkRKZUg2VjZmUjNaMjctRTJPQ1dsOGhmTjdCYWV5Tjd2SXk3dUZqVkhaWXV5eW43alZkb00?oc=5",
+      "pubDate": "2026-09-20T23:12:12.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1  熊本日日新聞社\n【速報】水俣市で震度2  熊本日日新聞社\n【速報】天草市で震度3（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "2026年熊本地震＞宇土高生が防災研究を発表 東京の文科省主催イベント 「つまようじ」で耐震性調査",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zX1M3SEhnU2ZJVFcya25PbjJaYWI3R3VSblRCR2s4dE54Uk90bGNOMlFJWi1UR2RvUUs3aHo0a0duaWp6aFdiTl95RHhpMWs?oc=5",
       "pubDate": "2026-09-20T21:05:00.000Z",
@@ -33,8 +42,17 @@
       "pubDate": "2026-09-20T20:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "情報発信や連携重要 県庁で熊本地震給水支援報告会  topics.or.jp",
+      "description": "情報発信や連携重要 県庁で熊本地震給水支援報告会  徳島新聞デジタル",
       "category": "life"
+    },
+    {
+      "title": "熊本県で最大震度2の地震 熊本県・水俣市",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zZ0ZtTGgzLVUwZ1cyRFdUNGhXbngwbWd4NjNHVHZRZnViRjEyMk9FbVZURkF3Nlh6bGExSV9CV1U2ZENZeW4zUVQ1bVhseWZ4NU93eGhBQVZETHdqaXktWG84X3dBMzdhcWdfZjdn?oc=5",
+      "pubDate": "2026-09-20T17:14:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度2の地震 熊本県・水俣市  au Webポータル",
+      "category": "disaster"
     },
     {
       "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
@@ -66,7 +84,7 @@
     {
       "title": "2026年熊本地震＞地震発生初期、医療現場で何が… 10年前より組織化や初動早く 「次」に備え「耐震より免震を」 熊本大病院災害医療教育研究センター長の笠岡教授",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16WmpuUFVqR21veS1iaXlBa1dUYkp3NU5GZEhlQXFPTElkWGduMzJlN0xXT0VqYy1rcmdIdHpGdkxYZ1JzTHoza05MSjRjRFk?oc=5",
-      "pubDate": "2026-09-20T13:30:00.000Z",
+      "pubDate": "2026-09-20T13:32:04.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "2026年熊本地震＞地震発生初期、医療現場で何が… 10年前より組織化や初動早く 「次」に備え「耐震より免震を」 熊本大病院災害医療教育研究センター長の笠岡教授...",
@@ -208,6 +226,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GY1h4VGJ3alhkT2pKMFRnUXN1YXdORHBwRFhDZk1tTUF0d3VhbURaVWtHUXdwRXJBUng2dkxVQnNPRlZaUjdVc1RLYw?oc=5",
+      "pubDate": "2026-09-20T08:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "2026年熊本地震＞学生時代の経験生かしボラセン運営 八代市社協の山北さん 「復興に向けて一歩でも前に」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96dGV2b2ZFX2NTUFQ1Q1MwOG1NUTNUQVJkM2hjMVl6TGtNT2pPTmlXamZpYWFoRklaX0ZuSEtYeUMwaFVTOTRRVnVSTFhJMXM?oc=5",
       "pubDate": "2026-09-20T08:05:00.000Z",
@@ -217,12 +244,12 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付",
+      "title": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付 - niigata-nippo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qOU9uZjhwYnlBNWxoLVl1dms5S0lvY3JSSld2U3lnYUxfVDB0RVJEWm4yR3FUY0xJdExXV19KcFpXUG04Q19EWmZwcGVNM0lqdXctcEotSXI3X3hkOHc?oc=5",
       "pubDate": "2026-09-20T08:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付  新潟日報",
+      "description": "熊本地震被災地の復興後押しへ、燕三条ＪＣと三条エコノミークラブが義援金寄付  niigata-nippo.co.jp",
       "category": "disaster"
     },
     {
@@ -232,15 +259,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】水俣市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HdGNCRzJtMEpDZlI3WlVNUUJZM3ZWTWNWZjZoTml4UnAyZlFXOHRCX1BBWUVaVWZlT1poVkRKM0dodzlpUVp5U183NHJLTTg?oc=5",
-      "pubDate": "2026-09-20T07:00:37.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】水俣市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -357,7 +375,16 @@
       "pubDate": "2026-09-20T03:58:53.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "農業用水路の応急復旧完了 熊本地震、被災全２７地区  okinawatimes.co.jp",
+      "description": "農業用水路の応急復旧完了 熊本地震、被災全２７地区  沖縄タイムス社",
+      "category": "infra"
+    },
+    {
+      "title": "農業用水路の応急復旧完了 熊本地震、被災全２７地区 - niigata-nippo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91aDRHbWNhTEpBQjBWay0yUGxwcmxlYzYtenlISW4xOUZodjVWV0F2RW9oYjEtSGhCaUNJblpoSDQtdmxSdXc3SFlOeXhPMUhtc0R5X2Itbzhod25DOGc?oc=5",
+      "pubDate": "2026-09-20T03:58:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "農業用水路の応急復旧完了 熊本地震、被災全２７地区  niigata-nippo.co.jp",
       "category": "infra"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "「自由になって夜はぐっすり…」熊本市で仮設住宅の入居はじまる【令和８年熊本地震】（TKUテレビ熊本）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "被災した中小企業の経営再建に必要な資金確保などアドバイス 熊本地震融資相談会（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VWnl4dDA2Q1hsNFFxZGM2bDA0SjhNNUwydHhwNGxGWFY1THBVVE1tVEU5akN0ejhFaF9xS3pnUHIyRThrajVwZTY3ekJIUlljUVlXMHdUUGRRYzdpY1pQSDl3emRGeWV6MGhNbk9LU0haUDRidnVubFltQVhkZE0?oc=5",
-      "pubDate": "2026-09-19T10:08:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "被災した中小企業の経営再建に必要な資金確保などアドバイス 熊本地震融資相談会（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "シルバーウィーク始まる 熊本に帰省「地震があったので３カ月ぶりに」（熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EWjBjQ0lwa0Z0VXFCNjZFNS1ZMDNPdmJPN1dWNUhJMnNMV2c3djM3clZwQkJhUlFfQTltRXpVMHZTbE5UYi1seS1LZHVhUHlIMFhUeklUSkd0eWl5WUh3ZVVsRXBlSU5zSEZBUTJ1dG4?oc=5",
-      "pubDate": "2026-09-19T09:39:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "シルバーウィーク始まる 熊本に帰省「地震があったので３カ月ぶりに」（熊本ニュース KAB ONLINE）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「ありがたい、ありがたい」 熊本市の仮設団地 入居始まる 熊本地震で被災（熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TZU5hWkJGV01ybXI5RzRqaVJlVnhLay1JMm4wd3NFWVBaZ0dQdlJfcy16LUFMTUNveDdlRm95cGVCT2xQeXluR2hEZVpHWl8zTWpXNUJOOHJTXzFTX2hZNFBWQ0hHU3JERVBHY2psR0lXcnRQX3VmeU5xTVV4a3c?oc=5",
-      "pubDate": "2026-09-19T09:36:07.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「ありがたい、ありがたい」 熊本市の仮設団地 入居始まる 熊本地震で被災（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-20T22:43:10.583Z",
-  "lastAttempt": "2026-09-20T22:43:10.583Z",
+  "lastSuccess": "2026-09-21T00:32:12.141Z",
+  "lastAttempt": "2026-09-21T00:32:12.141Z",
   "fetchOk": true
 }
