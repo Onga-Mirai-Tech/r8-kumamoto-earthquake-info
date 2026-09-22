@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "【速報】水俣市で震度1（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80cmwxWG95T1gxcVQxRHVfcjVoRkcyb182UjJWa3ljcE9VRFVfeTQ5anRITy14RWV6eWl5aU5NVG54R2N6b1pFLTU1WFdWWXhlTWcya1NsY3pkNzE5dFBlUFVxVzNSNGJiYWRDX1NFY3QwSFRTQnF1Si0yZ3lyXzQ?oc=5",
+      "pubDate": "2026-09-22T22:16:12.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県天草・芦北地方 2026年09月23日06:51ごろ 地震詳細",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnZraHJlbXpCTTJ5dWJQc1NsOTBQY1BaN21UUEJEbmlXaHJYMmw4bVVmU29VXzRQNDYzbTA0MWd0bWpwUVQ3d0lEaXV2QkFIZDBIWWpPUUJjVk02SjY0NzYzMVZibkNKdXpjNWw4ZEwtd2p2TzBzNC1aOFR2cFkzemtB?oc=5",
+      "pubDate": "2026-09-22T21:59:06.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度1 熊本県天草・芦北地方 2026年09月23日06:51ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "ブラジル》熊本会館で募金慈善昼食会＝母県の地震被災者を支援で（ブラジル日報",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vcE9OVXlqUDI4WGlMUEpDQkV0M2hhMGpMMk8tVTlDQjIyaXRZbFJqN0tJTGExemNwRmFscVh3MHlMdzlHMExTVUZHb3lZTi1NUGpCUVg5QWJONVd3SUc5ZktvRXZtNGV4WHg1WEVIU0lsbFlnUU5mbDUyVF9zVTg?oc=5",
+      "pubDate": "2026-09-22T21:55:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "ブラジル》熊本会館で募金慈善昼食会＝母県の地震被災者を支援で（ブラジル日報  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "【速報】水俣市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JZk1hMThSSDlxUC1sU0tad3M5OG5MeUNfQ2xyWVdJNlhDTVN3anR3YWl4UGlWaWt6YVdtVkVMUUJOaTl0U1RjUmdQUnRDTEE?oc=5",
+      "pubDate": "2026-09-22T21:55:47.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "美祢市、熊本地震の被災地支援/八代市に職員２人を派遣 - yama.minato-yamaguchi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00cWhoQ0dSRFlwQjJhazJDdjRyMlhLbjVmY0oydm54dzNZd0tETnMyeFJJUlJDWklFQ0IwM3VLZy1BMEpRRkxqTER0VVp2VnMxVDRiWHcxcWdLTC1Xa2JQV3ZzUGtBcjlOYmc?oc=5",
+      "pubDate": "2026-09-22T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "美祢市、熊本地震の被災地支援/八代市に職員２人を派遣  yama.minato-yamaguchi.co.jp",
+      "category": "life"
+    },
+    {
       "title": "（３６）地震で損壊した熊本城再現",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEaDdGRWpJaWxDQ21SNkxHQ1YxQzc5MVZnd09fdHl6YUtTeFA4T3FqVS14aFBBdXdOcHZzcHFwZnNocHlBMGJNd0NfQ1doYnc?oc=5",
       "pubDate": "2026-09-22T20:22:33.000Z",
@@ -56,11 +101,11 @@
     },
     {
       "title": "【速報】芦北町など震度1",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY29UTXoxN2lobGxUdXZIQjJjODFqUGd2NzVTRHh5LXlWWVlNVW9wcXFCZENMekw5OTNwdkNGcDZMdTZ6cFVId09BNVhZT3RRQ29MMGdhUTdDeXpFLXRlSEMzd2lIeXA3Rk9qQXRKalpKQWRKT0hRNEphb28zSnlJSEpCeDVYOXlLRmEyQkFXcVk1Mk5DR3dmSUhkbFp6b01Kc3NPOU5aX1dIdHg4bzg0LWQ3T0ZIU245djhGaDhQZW5OcUI2Z2pqNGt3N3pvdG5vVDVuZnQ1c9IBhwFBVV95cUxOWHVBNEp2SGU2UmEtaThlemQyTlJiOTBuX0NweVM5STNmekRReEtjdkQyWjFPMlNGMXVWeWotakZQa0hhcWlEU0hmTGZCejlQR3RNeWlVVTNDYk93MUNTeGtESXpuWE5fWXpDdGxEMzQ3TDQzMm1QVlJSWnRORXh5UE0tM3BURnM?oc=5",
-      "pubDate": "2026-09-22T12:55:00.000Z",
-      "sourceName": "地元メディア",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTEdKZUtwTjA3RnhYSVFRUHM2bk9IVFFvV0gzVWNnUXNLcFFmRlRUNnFlM3FYdVI3SVpiUFVlOWljUFAtVlpEdHJJdV94bEE?oc=5",
+      "pubDate": "2026-09-22T12:55:05.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】芦北町など震度1  ｄメニューニュース",
+      "description": "【速報】芦北町など震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -83,11 +128,11 @@
     },
     {
       "title": "「Tシャツ2枚で10万円」ボートレーサーの愛用品オークション 熊本地震の復興支援 北九州市",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHczUVd0N0g0b3dKTkQ5Z0RoWElLTDM2US01d1lKaXhFSHlUTEpiTHBVUWo3TFNvNmtOUGc0MkZiQnJ3WVhBYjV5aFhKRmdkQUZURjJfZjRPQ1YweGhKMlpUaENUZlVRaDRmWmF5WHdjdm5XS2N6M0NVZXJxeXczdFBvOFhKSm8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5renRkM3Ryak5OWnJtc1A1aUxlZnpZVDlwdnYweVNROTZtcnBOeTJaQko5cXpTUkxHemZnV044MUJiRk5GWXBIMGZKai10eVFWMXg4Z2xyZTMwTnlQMUZwU0w2eXRlRV85?oc=5",
       "pubDate": "2026-09-22T10:43:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「Tシャツ2枚で10万円」ボートレーサーの愛用品オークション 熊本地震の復興支援 北九州市  日テレNEWS NNN",
+      "description": "「Tシャツ2枚で10万円」ボートレーサーの愛用品オークション 熊本地震の復興支援 北九州市  news.infoseek.co.jp",
       "category": "life"
     },
     {
@@ -96,7 +141,7 @@
       "pubDate": "2026-09-22T10:37:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本ビューストピンディーズなど３チームが熊本地震からの復興に向けたチャリティーマッチ  article.auone.jp",
+      "description": "熊本ビューストピンディーズなど３チームが熊本地震からの復興に向けたチャリティーマッチ  au Webポータル",
       "category": "disaster"
     },
     {
@@ -133,15 +178,6 @@
       "sourceName": "RKK熊本放送",
       "type": "local",
       "description": "熊本地震で被災 居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売（RKK熊本放送）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で被災 居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOUR3QTYxSVNNUi1nYmtaa3Y1Y09YMVFDR0s5OTRHck5YcUR0QW1nX1ZmY1R2NlR2U3RLRDAySVhkSjJtbml2ZklSSTlvTl9vdUdqRDBjNjNVQQ?oc=5",
-      "pubDate": "2026-09-22T10:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災 居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -280,6 +316,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震で被災 居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOUR3QTYxSVNNUi1nYmtaa3Y1Y09YMVFDR0s5OTRHck5YcUR0QW1nX1ZmY1R2NlR2U3RLRDAySVhkSjJtbml2ZklSSTlvTl9vdUdqRDBjNjNVQQ?oc=5",
+      "pubDate": "2026-09-22T08:13:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災 居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災　居酒屋経営の夫婦がJR熊本駅前で店の人気メニューを販売",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56dTNtaURQS2hsTDhiMnZBazhCcWxuR0t3MVdUZmpuTnNKajltaHdMckFVVENHZHZkcEFRX3lyLU1NMHJpVEs4WFVhNFRVOUctMDRQVDlzQlVkZ1Fvc2hKSnJXQ2NNOXhaV2o0OHF6QdIBdEFVX3lxTFB1U2xWYXRHNWxhbHdrZU5NeXkzOVd2YmFDNDg2ZUVLZ09JNVZkdWhkNmkxUVFpdTN4N0pNQVpibWN5TjVOMDdjWWVaeEN6THVfN1hWaVNqNVlDOWtDN0lKb1R4YkZLLXoycm0tY050aTdoZDI0?oc=5",
       "pubDate": "2026-09-22T08:13:00.000Z",
@@ -380,7 +425,7 @@
     },
     {
       "title": "熊本地震の被災者「玄関先まで」中高生が飲料水届ける 安否確認も（2026年9月21日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0d0eHJXcU1Fekk5VTlfeXpBTGlJVHJJZ0VaTGdKZVVwWDZ2SGw5WmtTakpyR3dPNjNwRnFQTWhPN09yWmNCVUpMdl9sNXU3U2l6aXVnblp5WHRQbjB3Q0xyUjBHcFJndUQ3Y21NOTB0ajl0QUx1cTVYYXlUVElIOWxCZGp2Sjg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZmwwTG9QS1hTbzBTM2szVEhPRWVoYkRDdzM5YmJrRlVyd3R5a1BwS3JDTVdQT3JoZW1nbnd1MEljTmNVUmQwdVVybENlMEVobHYtVTFNdVc5YjJ0bFNscFd0RXhwd1QwOTdUWjgwZzVVeUljbVNlY3pnUF8yTE0?oc=5",
       "pubDate": "2026-09-22T03:29:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -402,7 +447,7 @@
       "pubDate": "2026-09-22T03:29:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災者「玄関先まで」中高生が飲料水届ける　安否確認も  Infoseek",
+      "description": "熊本地震の被災者「玄関先まで」中高生が飲料水届ける　安否確認も  news.infoseek.co.jp",
       "category": "disaster"
     },
     {
@@ -433,21 +478,21 @@
       "category": "disaster"
     },
     {
-      "title": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiOC0zLVB5MEk4RWU4LXRWbGU4Y3lGYjRRNHVLVkE2dWZkZ01ObS1rWEZLd2hYOVQxOWJrOTRMSkx3OTdoQTMyQmtvYlI4QQ?oc=5",
-      "pubDate": "2026-09-22T02:57:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】  FNNプライムオンライン",
-      "category": "disaster"
-    },
-    {
       "title": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】｜佐賀のニュース",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtd2lBQlM4bk5oSm1QTlFDSmhseUNoSDJZWTduWTQ2cjgzbGpwZWpMVVdwSUFPZElveVV2ai1hQ1V6eEwxQy1GSmJCVUhIVWlZVUR1MDZuclhPZm12NDhXWVVR?oc=5",
       "pubDate": "2026-09-22T02:57:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】｜佐賀のニュース  サガテレビ",
+      "category": "disaster"
+    },
+    {
+      "title": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiOC0zLVB5MEk4RWU4LXRWbGU4Y3lGYjRRNHVLVkE2dWZkZ01ObS1rWEZLd2hYOVQxOWJrOTRMSkx3OTdoQTMyQmtvYlI4QQ?oc=5",
+      "pubDate": "2026-09-22T02:57:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "県内企業景気3期連続「下降」超 熊本地震の影響なども【佐賀県】  FNNプライムオンライン",
       "category": "disaster"
     },
     {
@@ -541,21 +586,21 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzA0VVU1a2JNQ2I3MkNaZExNOFdPS3ZvV3UwLTJQRVBNaGt0OXZGeWVBRDg1TFhVazE5QzQ1TVJBT3lHblB1UEM2dXN3UFg3NDdGT2I3ejFkekVLNV91ZTdVc2t1MHNCTFhPSVltVVprTmdHTkpEbWhZQjdkaXo3QU9B0gGHAUFVX3lxTE5pX2lYSTRhSVVlSEQxYXNQUTJZUG1BQ0lUNk9Sdm1rNzJlM3ZKWlZkNERQc04zaEYxa2RORFZ6YXJpLVprN1VRWjJZMWViazY3c0FEZUlGbVRUZXBZWU5ncEQ4ajMzdmRzdHdkMFF3Ynlhc0tQeHZ2S3p5VXRXb1N1Y2wtUzlWcw?oc=5",
+      "pubDate": "2026-09-21T23:42:18.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】八代市で震度1  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】八代市で震度1（熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDQ09SOFp3Um5Cek9FV0ZtVlVOemxXMnVBa0x3LWtoVmxLd1hxT2F6N3F3VkNWSnoyQmtScUZHX3JZbEw5Mjd0MDZGRDA0WjBtaGpvbDRQa052VmhrVk9mcXVWLWt2c2kySHRDX1AweXVCUThfS3NZQ0hCY1JSdjA?oc=5",
       "pubDate": "2026-09-21T23:35:22.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】八代市で震度1（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SmRDWTNMYy1mWllVNlVFaXRSTGxhOTVRQ0trMlNSUWlZTDNGTUdMS1RsUzRKVm9XbFM0Q1F4ajlPYktySEk0WTRFY0czeWc?oc=5",
-      "pubDate": "2026-09-21T23:31:51.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -595,15 +640,6 @@
       "category": "disaster"
     },
     {
-      "title": "＜お知らせ＞熊本地震、救援金受け付け",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T3dOZ2JXc29xRlRIU3NlaUk0NHEzLXBnOE1landrVnFmX0hFOEFSbW5QTkJJNXVRdWdWWTdvdUdwZVI0RWxRZ2tuamZDLVBnN0RlMS0tQmc5WjNH?oc=5",
-      "pubDate": "2026-09-21T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YLWl4Yk5Oa3NBTlhfbjNWa2xuSUh4NW52d21vUUdSTlhaRGVNRlpBb1JaOUhFNjdmc29NYlhvSVBDUEZWdjdoSmxQTTBkU09jS09qTktUUFJOMk9WTEsyc3A5NWFUSGRSelkxaQ?oc=5",
       "pubDate": "2026-09-21T20:00:00.000Z",
@@ -611,6 +647,15 @@
       "type": "local",
       "description": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧  日本経済新聞",
       "category": "infra"
+    },
+    {
+      "title": "＜お知らせ＞熊本地震、救援金受け付け",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T3dOZ2JXc29xRlRIU3NlaUk0NHEzLXBnOE1landrVnFmX0hFOEFSbW5QTkJJNXVRdWdWWTdvdUdwZVI0RWxRZ2tuamZDLVBnN0RlMS0tQmc5WjNH?oc=5",
+      "pubDate": "2026-09-21T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜お知らせ＞熊本地震、救援金受け付け  asahi.com",
+      "category": "disaster"
     },
     {
       "title": "災害の可能性知って備えを（柴田敏博、69、防災士、御船町）【令和熊本地震】",
@@ -811,15 +856,6 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】水俣市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aeGNYQkoyQWZxVUZuVngxRWxQMml1Z2xQSk9qQjhubDR3eHIyYXVXTXZKR3lsVU9NNnoyMmFYcFctNHU0ZmRsdzVWeEVfc28?oc=5",
-      "pubDate": "2026-09-21T11:42:43.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】水俣市で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "不安な気持ち和らげて 宇城市で健康相談カフェ ＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQTDVvOE9ubGE4cDV1dU9WLVNxY0U1T0lmWHBJMllmMGxqM01QbjgtQVpFQlFGVXRjcFBfMzVTWkx2aXo1ZXBDSlhCQ1hRTzg?oc=5",
       "pubDate": "2026-09-21T11:38:27.000Z",
@@ -835,15 +871,6 @@
       "sourceName": "TKUテレビ熊本",
       "type": "local",
       "description": "「楽しんでくれることが復興につながる」連休の客足は好調 熊本城はようやく地震前の水準に（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】水俣市で震度1（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOEgwbFRWZ2tUVnpEVnB1a3U2bnNCaFF4akxFc05HS2p5V2NLNl9PNkpnNmxsZ2tVQXEtdW1qZ3VkQmk0UmZ3YU1uOGhvNTF5bVN3UGwyMGlPSE43SFYtd3YxM0FFOG9XWVJxci1Bc0EtTTZmQzBGMTRXUi1UQWM?oc=5",
-      "pubDate": "2026-09-21T10:49:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】水俣市で震度1（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "JR熊本駅前でくまもと応援マルシェ 地震被災の生産者や販路失った事業者を支援（2026年9月21日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
       "category": "life"
-    },
-    {
-      "title": "熊本県で最大震度1の地震 熊本県・水俣市",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0ZGgtM3BCaTMxQTNLckxWd3dLbTExR3BIWlg2bk1ES2lyczBpVVJSR0hfMFpTSGhtM0cwNGhhWXRQR2JidzVHbFFsem5PQ3JaNlFqWERMdHctSjVLSm4xRWxYaW1xbG1pTkdmblpB?oc=5",
-      "pubDate": "2026-09-21T10:44:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本県で最大震度1の地震 熊本県・水俣市  au Webポータル",
-      "category": "disaster"
-    },
-    {
-      "title": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMVk0RjhSeFVPMlRXVlIxV3N6MVlhU3hlZjlUUUE0azlCUFc4cDdZQmVoTVFJOEJ1d3dCRVhzeTFvT01KU3MxNDBIeW50Sjc0YS1ZTmJYb2FEbk5YTzhFd3BNclJONzVfMnpYX2hzWllWaks3LXVRN0Z6eEtCdWc?oc=5",
-      "pubDate": "2026-09-21T10:40:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有 (ＫＫＴ熊本県民テレビ)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW9QLWxxVF91bHJGMEFqMWo0TVhmckQwT0xJSTJCbmtZQVRJSjdhSmtacVVQeWN5TkhWelA1NVEwSFpPelV0eUNqTXYxbzZNbUJpTGxYckpwQWZacjIybnlZc1ppMDZwZUJjOG9wZVEtNVRHTTBSckdOOWhpMTBqWnJVa0ZVSGRnakR2ajhB?oc=5",
-      "pubDate": "2026-09-21T10:40:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-09-22T21:18:56.574Z",
-  "lastAttempt": "2026-09-22T21:18:56.574Z",
+  "lastSuccess": "2026-09-22T23:42:51.509Z",
+  "lastAttempt": "2026-09-22T23:42:51.509Z",
   "fetchOk": true
 }
