@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "熊本県で最大震度1の地震 熊本県・八代市",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQVc0NzU4bmpjdUdGNzR3aFNRY05GMjRKcVVCTm1oQnRsQWVEVVdVVG0yR0hyRlY5Uk5Rc0dzQkdydnA0aGs4cm1fbXhXekRENkpia2hvUkdPdGhQNXlKdDFRWHpvR2JkbzM0Tnpn?oc=5",
+      "pubDate": "2026-09-21T23:35:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度1の地震 熊本県・八代市  au Webポータル",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SmRDWTNMYy1mWllVNlVFaXRSTGxhOTVRQ0trMlNSUWlZTDNGTUdMS1RsUzRKVm9XbFM0Q1F4ajlPYktySEk0WTRFY0czeWc?oc=5",
+      "pubDate": "2026-09-21T23:31:51.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社\n【速報】宇土市など震度3  熊本日日新聞社\n【速報】熊本市西区など震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】宇土市など震度3",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Tam5uSXA5VTU5SjNCZnJxTktqeXZxdUVURGphVW1QVWRIVkFVNkVlOHVtVnlOZEtGM2R4Mlpwd2xnNm5sbzR3aVdPTQ?oc=5",
+      "pubDate": "2026-09-21T22:39:24.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】宇土市など震度3  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "京都の現代美術家、熊本で展覧会蛍光色スーツで巡る作品なぜ？背中に「怨」、そこは水俣病の…｜THE KYOTO",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YalA0R3JMZTI3VjFLMUItMW1YeEVZcUNRVm05bm5wZE5hbHdvSWoxOW5xMWhSYlhQOHc5UXhuWU8wbWtIUTVHbmx1RHN0dVVIQWR6elpzU2NFY3hfenFTdC1n?oc=5",
+      "pubDate": "2026-09-21T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "京都の現代美術家、熊本で展覧会蛍光色スーツで巡る作品なぜ？背中に「怨」、そこは水俣病の…｜THE KYOTO  京都新聞デジタル",
+      "category": "other"
+    },
+    {
       "title": "熊本地震で被災 八代亜紀さんゆかりのキャバレーが再開 「よく頑張ったね、と褒めてくれるかな」",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTGNjSWtvUTA5ZFoyX3lZQ3BXa0J6SHBUR2w3YlRwY1lMdktNaW5nbWNqWmxSMTVySmQ4N2dJSW9BczB1V1JiNTZFbTVlS2ktRzJyS1YxZlJ3T3hGTC1sbnUySGZzeXZIdDBISkRkRVhQVm9Pck5tNU9vb2xQRmw1bFNBT042bXR2amZiaG5B?oc=5",
       "pubDate": "2026-09-21T20:30:00.000Z",
@@ -19,15 +55,6 @@
       "category": "disaster"
     },
     {
-      "title": "＜お知らせ＞熊本地震、救援金受け付け",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T3dOZ2JXc29xRlRIU3NlaUk0NHEzLXBnOE1landrVnFmX0hFOEFSbW5QTkJJNXVRdWdWWTdvdUdwZVI0RWxRZ2tuamZDLVBnN0RlMS0tQmc5WjNH?oc=5",
-      "pubDate": "2026-09-21T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YLWl4Yk5Oa3NBTlhfbjNWa2xuSUh4NW52d21vUUdSTlhaRGVNRlpBb1JaOUhFNjdmc29NYlhvSVBDUEZWdjdoSmxQTTBkU09jS09qTktUUFJOMk9WTEsyc3A5NWFUSGRSelkxaQ?oc=5",
       "pubDate": "2026-09-21T20:00:00.000Z",
@@ -35,6 +62,15 @@
       "type": "local",
       "description": "アイシン、熊本地震は5日で稼働再開 トヨタグループ200人で復旧  日本経済新聞",
       "category": "infra"
+    },
+    {
+      "title": "＜お知らせ＞熊本地震、救援金受け付け",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12T3dOZ2JXc29xRlRIU3NlaUk0NHEzLXBnOE1landrVnFmX0hFOEFSbW5QTkJJNXVRdWdWWTdvdUdwZVI0RWxRZ2tuamZDLVBnN0RlMS0tQmc5WjNH?oc=5",
+      "pubDate": "2026-09-21T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "＜お知らせ＞熊本地震、救援金受け付け  朝日新聞",
+      "category": "disaster"
     },
     {
       "title": "災害の可能性知って備えを（柴田敏博、69、防災士、御船町）【令和熊本地震】",
@@ -55,6 +91,15 @@
       "category": "infra"
     },
     {
+      "title": "熊本県で最大震度3の地震 熊本県・宇土市、宇城市",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xNXI1eFJ2V0FyTmlnSERBSmxTWUJhM1pCc3NYSFlyTW5iRlhtc0R5N0xGMWZEU0N3YlAzMERJb0d2ZWFLNDBfWFMwek1hWi1zVmdOR1JZZ193cGF5bldyZk1tWFp3Yl9UdUwyYW5n?oc=5",
+      "pubDate": "2026-09-21T17:44:12.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度3の地震 熊本県・宇土市、宇城市  au Webポータル",
+      "category": "disaster"
+    },
+    {
       "title": "(熊本地震2026)誰も取り残されない支援に 避難所運営、福祉充実を 竹谷代表が宇土市などで調査 2026.9.22付",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ucmM1YURLd1g5SnRzVk93bGtmR1ZOMmZYMWtlcXFhbVVCREE4SmNCRVBPYXhvOERReW9EZzhPRDRVeVJuZmZFdm16VGlVNFBkLTNSSExRTWJSZUg3Vlo2aXZXOW9OOUdlVlhQcEJn?oc=5",
       "pubDate": "2026-09-21T16:54:05.000Z",
@@ -64,17 +109,8 @@
       "category": "life"
     },
     {
-      "title": "【速報】宇土市など震度3",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KY0lILTRKUzk1ZU1DQlJIRTNwNnRfbVJlV0dEQzd3T1czZTd6cmZmcHdCMGJqblZ1MW5FSWpuQ0luTkxpX29WY1dreEh4NTQ?oc=5",
-      "pubDate": "2026-09-21T16:44:43.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】宇土市など震度3  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "【地震】熊本県内で震度3 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT011S0Z2SERDdnpOa2gyOVkyRVNzRWtjVVdoWDk5UDVXZUhDM2JVbjlSUVMxQkxXcjkwRS1CeFJGdTVMV3F5QWsydlZSRGpuUTFFYTd3dFAtMzluRlQ1bTdoUzg0cm5EV1A5YUk3V0J2czFxYjI2cWUxMzFHMll6bXZJN1E3R005NkpBYWJLVHAxSVUtVWFpdUFMWHhfT3BWdV9IaXh3M2poNi15TldZdVVyQlRXS0lKYVdENkVwV2hoQXo1TFHSAXZBVV95cUxQYl9mejN6WTFFOVlqU2Jpcm1mVzUzQ1pQQ042cV81T1pZVEhCbUJDUHNoai1UcHlUc1NEUVpiTW5DT0N2NzVWckVrTU85Mm14MzdMZXBUWm5ITnVQUGw4VUlYSVc5SUZXZzN1dWRDQkd6bjJma1BB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DYnVKQWRPbUxWT1RWWG02SWhvMmtkUGxmTmdtT3VMeWRtNzBLdU5JOXlSdS0xdDZ3QzdpX0FTSjZlS3dTYW45WnI0OWdudHVpZVpsSXFCUldxSVlWaHpBNlNDT1pEcW9tbDBIYUg3MVfSAXZBVV95cUxQYl9mejN6WTFFOVlqU2Jpcm1mVzUzQ1pQQ042cV81T1pZVEhCbUJDUHNoai1UcHlUc1NEUVpiTW5DT0N2NzVWckVrTU85Mm14MzdMZXBUWm5ITnVQUGw4VUlYSVc5SUZXZzN1dWRDQkd6bjJma1BB?oc=5",
       "pubDate": "2026-09-21T16:39:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -150,7 +186,7 @@
       "pubDate": "2026-09-21T13:40:08.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】52日ぶりの全線再開 九州新幹線がつなぐ、復興への道  あらたにす",
+      "description": "【熊本地震】52日ぶりの全線再開 九州新幹線がつなぐ、復興への道  allatanys.jp",
       "category": "infra"
     },
     {
@@ -231,7 +267,16 @@
       "pubDate": "2026-09-21T10:47:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
-      "description": "JR熊本駅前でくまもと応援マルシェ 地震被災の生産者や販路失った事業者を支援（2026年9月21日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
+      "description": "JR熊本駅前でくまもと応援マルシェ 地震被災の生産者や販路失った事業者を支援（2026年9月21日掲載）｜KKT NEWS NNN  news.ntv.co.j...",
+      "category": "life"
+    },
+    {
+      "title": "JR熊本駅前でくまもと応援マルシェ 地震被災の生産者や販路失った事業者を支援 (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkp5TmRhaXBqRnVjYkpjV0lHdm1rVDBsRU9kR2xXbU80X3AtTTNwbmlBeDNyZW1ma09rT2diVmc0OXp4WlR2VVY0aGhUejVwREROOUpHTFZ0aE1ld1FULWY2eU5rVFpMOU9TeTk3SUVmXzE5RUVVa0llSm5xMk9WVGZFaWJWa1BVWkFTdTJn?oc=5",
+      "pubDate": "2026-09-21T10:47:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "JR熊本駅前でくまもと応援マルシェ 地震被災の生産者や販路失った事業者を支援 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -249,7 +294,16 @@
       "pubDate": "2026-09-21T10:40:00.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
-      "description": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有（2026年9月21日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
+      "description": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有（2026年9月21日掲載）｜KKT NEWS NNN  news.ntv.co.jp",
+      "category": "life"
+    },
+    {
+      "title": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有 (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTW9QLWxxVF91bHJGMEFqMWo0TVhmckQwT0xJSTJCbmtZQVRJSjdhSmtacVVQeWN5TkhWelA1NVEwSFpPelV0eUNqTXYxbzZNbUJpTGxYckpwQWZacjIybnlZc1ppMDZwZUJjOG9wZVEtNVRHTTBSckdOOWhpMTBqWnJVa0ZVSGRnakR2ajhB?oc=5",
+      "pubDate": "2026-09-21T10:40:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "地震発生後に誕生の生活情報サイト「イマココナビ」実践事例を共有 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -277,6 +331,15 @@
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
       "description": "【シルバーウィーク】観光地に賑わい戻る 地震からの復興応援する観光客も（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【シルバーウィーク】観光地に賑わい戻る 地震からの復興応援する観光客も (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEg5bWI1b1RzZHN2MnJkZ2xlMWZaSFdLOUVKeThiYWI2MmhuVi1fcHRRc3dxenV5Zm9CVG9VNExEVUoxUDlVT1JJMWFjcVJxUWwzTlFRbGZ5WG9OMHZOVndibVBHTU5DbWtZQ2ozTUg2RDA1emRhUnk5QWxTR19kd0ctQkZkYm80TWNtblpn?oc=5",
+      "pubDate": "2026-09-21T10:16:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "【シルバーウィーク】観光地に賑わい戻る 地震からの復興応援する観光客も (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -407,11 +470,11 @@
     },
     {
       "title": "令和８年熊本地震災害支援「熊本野菜大作戦」を展開",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGSTExMG9IRHIzLXRhUnpmYURjSVVjUFJiVUhYRV9kZTlkOFB4dlhCZTBrMUtJaDhSQl9heENEMGtiWF85Yms1dEVVVkdSYTVzdU1jM3VqcVgtVldSbFIwQnFvU3ptVUduaWZwRGYzd1MzUEFWSGR4RmJR?oc=5",
-      "pubDate": "2026-09-21T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nLWxPNzhsWHdKZWRET2x3RVlMNjlxbWVFQTh5TEZxOUlOSDE1OTJZb1BfOXdlSDRDNVpDWk1wajdFTHVfcHMxRGFGUS1VWVFpQ25ieHBkOUtiQ21ZbEM3Um40bTR3Mlloemc?oc=5",
+      "pubDate": "2026-09-21T07:00:02.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和８年熊本地震災害支援「熊本野菜大作戦」を展開  イザ！",
+      "description": "令和８年熊本地震災害支援「熊本野菜大作戦」を展開  PR TIMES",
       "category": "life"
     },
     {
@@ -487,6 +550,15 @@
       "category": "life"
     },
     {
+      "title": "熊本地震、外食支援の食事券低調 申し込み2割、決済アプリが不評",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rcklic1UyajBPd2lZS3VYMVFFRW5DS1l1MjAzOHcwUHF2NEhMcXlzVEdERVlHSkhtVmo3SDZvRG01NDhjWEZta3ZBT3B4ZGExWFlpOEhB?oc=5",
+      "pubDate": "2026-09-21T05:44:22.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、外食支援の食事券低調 申し込み2割、決済アプリが不評  西日本新聞me\n熊本地震、外食支援の食事券低調 申し込み２割、決済アプリが不評 | | 全国の...",
+      "category": "life"
+    },
+    {
       "title": "熊本地震、外食支援の食事券低調",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uVDBOLWNaRnZ1cUp3QW5xM2k2d1d1ek1oaWpLRXdUTWYxT1pjcEM1ZHAyWXJ4UUtjN1NWOTBaYjB2a2pJb1lMaVYzYlFDelUyNWd0SGhaN0Z2VWhTMFE?oc=5",
       "pubDate": "2026-09-21T05:44:22.000Z",
@@ -505,30 +577,21 @@
       "category": "life"
     },
     {
-      "title": "熊本地震、外食支援の食事券低調 申し込み2割、決済アプリが不評",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Mald0a0hnSlNDYUpja0JYZUJzZHZzakJrbWpkMlkybVNKM0tyS2V0cVo4VzZVcThoUkdVR2xLeEdwblROaWU0MVdGa2lZZXVaWVdveDZZSk5zNm5kY2JBTF9VYTQydWI4cktVdld3?oc=5",
-      "pubDate": "2026-09-21T05:44:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、外食支援の食事券低調 申し込み2割、決済アプリが不評  news.infoseek.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "地震で被災キャバレー再開、熊本 八代亜紀さん、デビュー前に歌声（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpT3ZzRzdoakxwMVcwNGZYTDlrY18wTEFQQ0RJTzNXTnJ2NXRfWko5YUdZTVN2cnI2OVVneUV3cldaYUFQMDRTaXhRU091OEVoLXBHWjR0U3JfSmtMdmhZTXdRSG1Db0FaQ0lFbVBmUVVDSDE2Q2ZfREFjSmhuR0U?oc=5",
+      "title": "地震で被災キャバレー再開、熊本",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnSlNrdlo2UFc4aFhuMDNRNl9Ma0N4OWZCb3ZVZ0E5VXV6ZFFuTDF0YU5xeVV6a1I2YWNxY0hvVWg4NDFVRFpwd1BrdGdsWHJ5QmE4LXE3Ukd5elU?oc=5",
       "pubDate": "2026-09-21T05:40:26.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "地震で被災キャバレー再開、熊本 八代亜紀さん、デビュー前に歌声（共同通信）  Yahoo!ニュース",
+      "description": "地震で被災キャバレー再開、熊本  下野新聞社",
       "category": "disaster"
     },
     {
-      "title": "地震で被災キャバレー再開、熊本",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KMTFxMHlfZGgtRkdSS1htQXVDdTRFR2VTQXA4X3NzMmplLWgtNGtmYUpiVEhYUWpyRTF1Uk40VjBoNU5ac3BabVJHNVA4VHRVS2JmWnBIQQ?oc=5",
+      "title": "地震で被災キャバレー再開、熊本 八代亜紀さん、デビュー前に歌声（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTmgxNk9BMVZLV04tM1c5QmF5R3pOdjZNS2swZG5qbmF0U1BobXNwNlpmbG9obHlqVnByVm1rMC1YWDZaYzlkZ2FNNzVaekE?oc=5",
       "pubDate": "2026-09-21T05:40:00.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "地震で被災キャバレー再開、熊本  埼玉新聞",
+      "description": "地震で被災キャバレー再開、熊本 八代亜紀さん、デビュー前に歌声（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -618,7 +681,7 @@
       "pubDate": "2026-09-21T03:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "シルバーウィーク 熊本地震の被災地でボランティアが活躍 熊本・宇城市  newsdig.tbs.co.jp",
+      "description": "シルバーウィーク 熊本地震の被災地でボランティアが活躍 熊本・宇城市  TBS NEWS DIG",
       "category": "life"
     },
     {
@@ -636,7 +699,7 @@
       "pubDate": "2026-09-21T02:34:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から観光客も回復傾向 シルバーウィーク にぎわう熊本城  newsdig.tbs.co.jp",
+      "description": "熊本地震から観光客も回復傾向 シルバーウィーク にぎわう熊本城  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -811,15 +874,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール（2026年9月20日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEdiVW5rVXMwa0Q2aTl3TkRiU1VrS1pDTUF4dFZFR2tTRjI5bm9HWEF4Um9PbEE0bGZsVE44SUgydWlWRWIzMDBMZGJhemcxVmE1X1RTbndjT3lWMGdYRmliNDVLZ3dMMmxoQzVkWGtzaHREU1QzOXZsUF9TSTRMajdDS2FXcE0?oc=5",
-      "pubDate": "2026-09-20T10:08:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール（2026年9月20日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
       "title": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール (ＫＫＴ熊本県民テレビ)",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1dKdlp0Tlo1WGlFVHFseDVJNTh1OExudFJaN280ei0tVGZ4VkNFaG1MWENDSG1fSmJ3T2VRNm81OUxVdVFLOFhPTFp4SEhmeFlnWGE4UW1YTzg2cjlVU2VrUmZ1ZFk0ZGlkQVl3VzFIcmo5SjFvX1JYbVlvYjdVZ2xCWFlsQWFINDAycjBn?oc=5",
       "pubDate": "2026-09-20T10:08:00.000Z",
@@ -829,79 +883,25 @@
       "category": "disaster"
     },
     {
+      "title": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール（2026年9月20日掲載）｜KKT NEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEdiVW5rVXMwa0Q2aTl3TkRiU1VrS1pDTUF4dFZFR2tTRjI5bm9HWEF4Um9PbEE0bGZsVE44SUgydWlWRWIzMDBMZGJhemcxVmE1X1RTbndjT3lWMGdYRmliNDVLZ3dMMmxoQzVkWGtzaHREU1QzOXZsUF9TSTRMajdDS2FXcE0?oc=5",
+      "pubDate": "2026-09-20T10:08:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール（2026年9月20日掲載）｜KKT NEWS NNN  news.ntv.co.jp",
+      "category": "disaster"
+    },
+    {
       "title": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OSkFPc2R1dWlMWWNFY29WNjRfUlhzYUNRYk4zUnZOazFpZTRici1HRlJaVWdGbVZ5UldYZ0FDd2pfdklxak9CZ2tGVTN0QUdnUVZoaEp5SmZuc0wxQVh2cWlsNWdSY0E0azNmUG5R0gFuQVVfeXFMTU5KQU9zZHV1aUxZY0Vjb1Y2NF9SWHNhQ1FiTjNSdk5rMWllNGJyLUdGUlpVZ0ZtVnlSV1hnQUN3al92SXFqT0Jna0ZVM3RBR2dRVmhoSnlKZm5zTDFBWHZxaWw1Z1JjQTRrM2ZQblE?oc=5",
       "pubDate": "2026-09-20T10:08:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール  news.infoseek.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "彼岸の入り 熊本地震で被災した八代の寺に仮設の供養台",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00R1JzdWVRbHp3M05uOWpYNE5WNWRDekJaVGFOanRkbWUzNzkyRVBzS3VNZ3h1Zk1la3pGZ1pCNEhWbXc5a3B0Q0NHaGJPLVlpUWNudWZ2U0w?oc=5",
-      "pubDate": "2026-09-20T09:41:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "彼岸の入り 熊本地震で被災した八代の寺に仮設の供養台  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で外国人の相談会 医師が不安への対処法など伝える",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sc2E5b1FCSEpPcURyQ3BuX3RSQWJwVU42STBManMzN2VRR2ZIQk9SS3JtMktmSzZnMWRlbzFxMzlPZG5RWUlkaE5UbGhXLVdjc09OQ0RlQ1Q?oc=5",
-      "pubDate": "2026-09-20T09:41:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震で外国人の相談会 医師が不安への対処法など伝える  NHKニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震からの復興への願いを込めて 福岡の子どもたちが合唱",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMalFzcmpMNmV0TDZObl8xSk96VnBsbHZhUmJEQmxOMl9QS3F1WHRqcm9ZVERpRER3OGoxdWtNVUdkQXF4d3pxTVpjXy00RlFoX2dXQnU3bEw?oc=5",
-      "pubDate": "2026-09-20T09:38:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震からの復興への願いを込めて 福岡の子どもたちが合唱  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本で炊き出し】酒井法子の慈善活動に「55歳に見えない」驚きの声…“やらかし”後の地道な歩み（SmartFLASH）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94TFgwV3VEbDA2RGYxSHFyUHVYN1lBVjA5aVZIWWxhQ2NkUFgxbnd1Z2RKNndGZTItYTA1VGVRTmFIc1pMR0ZBdlMwMVBuYjVXaHJUVmZXdUhadWM5M2wyaEhLWHpMWUZWOWctWmZ5TVp1MmpNUmNjV1QzZ256LWM?oc=5",
-      "pubDate": "2026-09-20T09:30:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本で炊き出し】酒井法子の慈善活動に「55歳に見えない」驚きの声…“やらかし”後の地道な歩み（SmartFLASH）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "リベラ・ゲーミング・オペレーションズ、熊本地震の被災地へ義援金",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdGhMNXYydldRUkE4MHVOck1oYzZIM0lKajdiZnlCVk1jUWZnNVprX2J6X2pycHh5SkJETEF5SDlFaTVLZ2xtVzVwVmozZw?oc=5",
-      "pubDate": "2026-09-20T09:18:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "リベラ・ゲーミング・オペレーションズ、熊本地震の被災地へ義援金  グリーンべると",
-      "category": "disaster"
-    },
-    {
-      "title": "リベラ・ゲーミング・オペレーションズ、熊本地震の被災地へ義援金 - web-greenbelt.jp",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wdGhMNXYydldRUkE4MHVOck1oYzZIM0lKajdiZnlCVk1jUWZnNVprX2J6X2pycHh5SkJETEF5SDlFaTVLZ2xtVzVwVmozZw?oc=5",
-      "pubDate": "2026-09-20T09:18:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "リベラ・ゲーミング・オペレーションズ、熊本地震の被災地へ義援金  web-greenbelt.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "2026年熊本地震 犠牲者氏名20人匿名、16人公表＞災害犠牲者の氏名公表 なぜ控えるケースが？ 自治体やメディアに求められることは？ 山田健太専修大教授に聞く【一問一答】",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wLUJTVnhQNHBac2ROdlhLNnVOeU1WX1lWWTVjZ285SFJHZHRkSUYtLVMxVWQ2Z21ybjZDM3ZpWWVUMWY4T3hEd1ZtaHJrbms?oc=5",
-      "pubDate": "2026-09-20T09:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "2026年熊本地震 犠牲者氏名20人匿名、16人公表＞災害犠牲者の氏名公表 なぜ控えるケースが？ 自治体やメディアに求められることは？ 山田健太専修大教授に聞く...",
+      "description": "熊本市の商店街で熊本地震からの復興を応援するストリートバザール  Infoseek",
       "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-21T21:04:29.685Z",
-  "lastAttempt": "2026-09-21T21:04:29.685Z",
+  "lastSuccess": "2026-09-22T00:07:20.996Z",
+  "lastAttempt": "2026-09-22T00:07:20.996Z",
   "fetchOk": true
 }
