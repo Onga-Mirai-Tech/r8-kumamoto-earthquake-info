@@ -22,9 +22,9 @@
       "title": "【速報】芦北町で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yMFFoaGJYU255WDFCbU5SdURMZkc5WUVtWV83cDJ1SG5CRTVvYkFGcW9YRGw4elQ3Q2FqSWg0WU00VDZlOXlreDdaTVJzUlE?oc=5",
       "pubDate": "2026-09-26T14:58:52.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】芦北町で震度1  熊本日日新聞社\n【速報】八代市など震度1（熊本日日新聞）  Yahoo!ニュース\n【速報】八代市で震度1  ｄメニューニュース",
+      "description": "【速報】芦北町で震度1  kumanichi.com\n【速報】八代市など震度1（熊本日日新聞）  Yahoo!ニュース\n【速報】八代市で震度1  ｄメニューニュ...",
       "category": "disaster"
     },
     {
@@ -33,7 +33,7 @@
       "pubDate": "2026-09-26T14:57:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本県で最大震度1の地震 熊本県・芦北町  article.auone.jp",
+      "description": "熊本県で最大震度1の地震 熊本県・芦北町  au Webポータル",
       "category": "disaster"
     },
     {
@@ -58,9 +58,9 @@
       "title": "【速報】八代市で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1id3BLR3NicWJCUnJlOUNPWXdvQzVDTzdrQTBBM1FySXpkY2x4Y3NQcENORC11UFN0b3BiX1BZdmVNTlVWX1YwY0Q3elB5Mm8?oc=5",
       "pubDate": "2026-09-26T10:46:34.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "description": "【速報】八代市で震度1  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -91,12 +91,21 @@
       "category": "disaster"
     },
     {
+      "title": "八代港、１１月末本格稼働へ 熊本地震で被災",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ybEozcW5ZeGVMcEF1UXhSbWZLTDJnM3QxZ3llaWZaRWNCYXBoQnF5NVZJUFQzZkZiU3ZJVjgzSTk2bVZpUk1HN241cUF4RFctMjNDeWtMb2I1VS1I?oc=5",
+      "pubDate": "2026-09-26T10:25:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "八代港、１１月末本格稼働へ 熊本地震で被災  琉球新報デジタル",
+      "category": "disaster"
+    },
+    {
       "title": "八代港、１１月末本格稼働へ 熊本地震で被災（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44anhTeWNGSGQwSWRqRzJLbjZ4RS1mbVVXWWw0VUIweW45TVdUR29abDAxcXp5UXV2Tk9UU2FOVXZReUNmOGgzc0dJalF0QWs?oc=5",
       "pubDate": "2026-09-26T10:25:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "八代港、１１月末本格稼働へ 熊本地震で被災（共同通信）  熊本日日新聞社",
+      "description": "八代港、１１月末本格稼働へ 熊本地震で被災（共同通信）  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -118,12 +127,12 @@
       "category": "disaster"
     },
     {
-      "title": "八代港、１１月末本格稼働へ 熊本地震で被災",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDdEWHkyM19SUWI3Z21kbGdUY3h0SDJ6eEhOQmlCNjBOZFJ5ZURpbVBPV2l0Sjh1cXg4T0RPdWhoenBNamtfOTZRTGg2TzVOZDVHN04wTDdyekM3ZFc4Q0NPSXhwckNRZUJDUnpvLWxRWC1vXzNJeWRIZlczNWJpOXpUeWlFa3ltdmsw?oc=5",
+      "title": "八代港、11月末本格稼働へ 熊本地震で被災",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VZDlwSUUzX2g4cDBtZEE4cXhuRURNd2dpNlZJanFDamdrVEFCVjVQOTI2THJVc2s2WmNjazdsOVJhX2FwRzRjRVZNdU84elFBa1QwQm05U1pBbHR1bTlUVFpJb1FhSDRxUFdkOGd3?oc=5",
       "pubDate": "2026-09-26T10:24:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "八代港、１１月末本格稼働へ 熊本地震で被災  山形新聞",
+      "description": "八代港、11月末本格稼働へ 熊本地震で被災  au Webポータル",
       "category": "disaster"
     },
     {
@@ -150,7 +159,7 @@
       "pubDate": "2026-09-26T10:00:38.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.09.26 18:00 ] 震度７観測の氷川町 災害関連死の認定求め５人申請を受け付け【令和８年熊本地震】  tku.co.jp",
+      "description": "[TKUニュース 26.09.26 18:00 ] 震度７観測の氷川町 災害関連死の認定求め５人申請を受け付け【令和８年熊本地震】  TKU テレビ熊本",
       "category": "disaster"
     },
     {
@@ -166,18 +175,18 @@
       "title": "八代港の本格稼働、11月末 井林国交相が現地視察で見通し ＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pQW5ZRmNVYXJKbkc0YVlveDBWRFdDYXFDNlhzLTkwTUNiZTk5ZFpBR0luS0RIeE9qXzVpM2N4dVNUV0dDOE96TVMyYnZpU1k?oc=5",
       "pubDate": "2026-09-26T09:51:30.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "八代港の本格稼働、11月末 井林国交相が現地視察で見通し ＜2026年熊本地震＞  熊本日日新聞社",
+      "description": "八代港の本格稼働、11月末 井林国交相が現地視察で見通し ＜2026年熊本地震＞  kumanichi.com",
       "category": "disaster"
     },
     {
       "title": "＜2026年熊本地震＞罹災証明の申請、避難所でも 行政書士がサポート 宇城市",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sN20tS1dVR1pPNVh6aXpnUnQwUExUNTI5amstdzZ3UFZMUUgtMVZiOU02Ny00OS1zX0FJZmV6UEtjMElYQkVJUk5TajA3cTA?oc=5",
       "pubDate": "2026-09-26T09:30:29.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞罹災証明の申請、避難所でも 行政書士がサポート 宇城市  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞罹災証明の申請、避難所でも 行政書士がサポート 宇城市  kumanichi.com",
       "category": "life"
     },
     {
@@ -220,9 +229,9 @@
       "title": "【速報】水俣市で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3eV9Ddlh0RklEb1phSFAza09rQmxON1JqSmltT2oxc0praWJnejZOYmsycVVKZ1oyWVVPN2c1bnIxWlp4RWxxVGFFd3VVTkk?oc=5",
       "pubDate": "2026-09-26T08:09:46.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】水俣市で震度1  熊本日日新聞社",
+      "description": "【速報】水俣市で震度1  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -238,9 +247,9 @@
       "title": "＜2026年熊本地震＞宇城市小川町の避難所 3カ所を1カ所に集約",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6R191VUxWUjQ3UDJ6RVdTNFVteWEzRlBFLURSRmVGcV9pemJyVmxadkZ4VlM2dzNnRFI0ZENzM1E4TEdzOTJGYVY3eU1IR1U?oc=5",
       "pubDate": "2026-09-26T07:53:01.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜2026年熊本地震＞宇城市小川町の避難所 3カ所を1カ所に集約  熊本日日新聞社",
+      "description": "＜2026年熊本地震＞宇城市小川町の避難所 3カ所を1カ所に集約  kumanichi.com",
       "category": "life"
     },
     {
@@ -258,7 +267,7 @@
       "pubDate": "2026-09-26T06:58:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災した宇土高校の女子生徒３人、建物の揺れ探る…文部科学省イベントで発表「研究を役立てたい」  読売新聞",
+      "description": "熊本地震で被災した宇土高校の女子生徒３人、建物の揺れ探る…文部科学省イベントで発表「研究を役立てたい」  yomiuri.co.jp",
       "category": "disaster"
     },
     {
@@ -283,9 +292,9 @@
       "title": "古里を励ます音色 東京熊本県人会がチャリティーコンサート",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15M2tQQVl2VDJaelU4UGUtbkIzQzV0dW9heDd6b01fbWN1c3EwOUF6RXdUSnVvUWFlUFJWbXVRRWJSN1BnVUk4Y1dNbzZCQkU?oc=5",
       "pubDate": "2026-09-26T04:13:43.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "古里を励ます音色 東京熊本県人会がチャリティーコンサート  熊本日日新聞社",
+      "description": "古里を励ます音色 東京熊本県人会がチャリティーコンサート  kumanichi.com",
       "category": "other"
     },
     {
@@ -294,7 +303,7 @@
       "pubDate": "2026-09-26T04:05:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震２か月、辛子レンコンや馬肉などの食品メーカーが「応援フェア」を力に奮闘…国など補助金で後押し  読売新聞",
+      "description": "熊本地震２か月、辛子レンコンや馬肉などの食品メーカーが「応援フェア」を力に奮闘…国など補助金で後押し  yomiuri.co.jp",
       "category": "disaster"
     },
     {
@@ -303,7 +312,7 @@
       "pubDate": "2026-09-26T03:50:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "細野豪志・防災相が熊本地震の被災地・宇城市などを視察…防災庁新設を見据え「教訓を生かしていく」  読売新聞",
+      "description": "細野豪志・防災相が熊本地震の被災地・宇城市などを視察…防災庁新設を見据え「教訓を生かしていく」  yomiuri.co.jp",
       "category": "disaster"
     },
     {
@@ -321,7 +330,7 @@
       "pubDate": "2026-09-26T03:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「復旧・復興に全力」細野復興・防災担当大臣が熊本地震の被災地を視察  article.auone.jp",
+      "description": "「復旧・復興に全力」細野復興・防災担当大臣が熊本地震の被災地を視察  au Webポータル",
       "category": "infra"
     },
     {
@@ -337,9 +346,9 @@
       "title": "【速報】水俣市で震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4za1R4Y29QRXhCa2tPRkxrdnFuRXdOenhPcW5WVGNjV05DY2xEZmU2aTNLMzdITFk2OWJPMW1fN3FPZkVmZ3daTDFvTzFSamc?oc=5",
       "pubDate": "2026-09-26T03:22:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】水俣市で震度2  熊本日日新聞社",
+      "description": "【速報】水俣市で震度2  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -348,7 +357,7 @@
       "pubDate": "2026-09-26T03:21:36.000Z",
       "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "[TKUニュース 26.09.26 12:00 ] 熊本市などで震度４ ２６日午前１０時３１分ごろ熊本地方を震源とする地震  tku.co.jp",
+      "description": "[TKUニュース 26.09.26 12:00 ] 熊本市などで震度４ ２６日午前１０時３１分ごろ熊本地方を震源とする地震  TKU テレビ熊本",
       "category": "disaster"
     },
     {
@@ -434,7 +443,7 @@
     },
     {
       "title": "「九州の交通インフラは脆弱」熊本地震で浮き彫り、博多－熊本－鹿児島「一本足打法」では駄目…強靱化への方策は",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GMzlXd3N4ZG9SSnE2ZHVsMmZTZ19udnZZR0FtbHN5Rk9sQXJpNU4wSFlYVXdxWlh3a2RmMy1FUHcwQkcweE5aenJsb0VnWWtRTGotRXhLQ3NSV19fUUYtZzN6c2JxV1FpZ0I2aXlYa1JVNmpmNEZWWW02M1hFWTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVhlc09LbzQ1ZzVXdXdYSWF3X2tRLXlWLVFoakpQb2JFcDd5TjM1bXlpeWhsLVplSkF1eTkzQzNhWndVZEtJaEdIVlVubklFd19FMjlySWtSZTFMMmtTcHhLNkFMZWdEeTV5MHRwR0g3M1dwWkNTOTl3cDJjZ3VuNF9wb1d2eUxM?oc=5",
       "pubDate": "2026-09-26T03:01:52.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -454,9 +463,9 @@
       "title": "【速報】熊本市東区など震度3",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lcEF6SGhZUTBBaHhnVHgtVXBSZG9ZaENPWXE0dTNrUkVzdFlUbC15cFhxOVdndnlJWWlVLUZFNExVb3NsUDhLSjBxcW55R00?oc=5",
       "pubDate": "2026-09-26T02:25:58.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市東区など震度3  熊本日日新聞社",
+      "description": "【速報】熊本市東区など震度3  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -466,6 +475,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度3 熊本県熊本地方を震源とする最大震度3の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "宮崎県民らからの熊本地震義援金を宮崎県共同募金会に贈呈 宮崎日日新聞社受け付け - the-miyanichi.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GXzZDQjhfV2pYXzN2dUhIWFV1Y29lQ2Q0VzktNUJabS01ZFVlRV9ZaGJjTGlyOW92cXdrTksyM0xNZDNtaFlwZHYyYWJSLTJVbVlfcW15UnlYaTFfQW44TXN1T0RkRzNZT2FSbUJIUQ?oc=5",
+      "pubDate": "2026-09-26T02:05:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "宮崎県民らからの熊本地震義援金を宮崎県共同募金会に贈呈 宮崎日日新聞社受け付け  the-miyanichi.co.jp",
       "category": "disaster"
     },
     {
@@ -508,9 +526,9 @@
       "title": "【速報】熊本市中央区など震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04TTdmc0wyWXVfT2NzcDl1UUhXcGpiWlRDdFc0bHpUVGE2d0FacjF2SFNFbEkwdmY2ZWkycldhZ2FIMUlrYV9QT245aTVLZ00?oc=5",
       "pubDate": "2026-09-26T01:47:03.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市中央区など震度2  熊本日日新聞社",
+      "description": "【速報】熊本市中央区など震度2  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -519,7 +537,7 @@
       "pubDate": "2026-09-26T01:45:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  kab.co.jp",
       "category": "disaster"
     },
     {
@@ -553,9 +571,9 @@
       "title": "【速報】熊本市東区など震度4",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kY2RuRVhPcDFVYTBVYm1IeXpnVjZPV3VZV2ZIMGxXNHJBSzNDVnFyTE12Tkh1c19zX1ZZeEFPWlRPUi12R1d1VDRMSFRFeVE?oc=5",
       "pubDate": "2026-09-26T01:37:02.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市東区など震度4  熊本日日新聞社",
+      "description": "【速報】熊本市東区など震度4  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -742,9 +760,9 @@
       "title": "＜取材前線＞地震の歴史見つめて",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wSmNsTEJNWVdUVGpHOWtzUlM4c2JrR0MwcUxGRHdPdk0wZmxPa1p1STU5RF9yV2dRUWxXTmFRSjRkbDdMbDJTVjJfdkpFMTQ?oc=5",
       "pubDate": "2026-09-25T20:00:00.000Z",
-      "sourceName": "熊本日日新聞",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "＜取材前線＞地震の歴史見つめて  熊本日日新聞社",
+      "description": "＜取材前線＞地震の歴史見つめて  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -789,7 +807,7 @@
       "pubDate": "2026-09-25T13:55:02.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  熊本日日新聞社",
+      "description": "【随時更新】2026年熊本地震 熊日に届いた「みんなの声」  kumanichi.com",
       "category": "disaster"
     },
     {
@@ -881,27 +899,9 @@
       "type": "local",
       "description": "細野防災相 熊本被災地訪問 「防災庁」に教訓をいかす考え  NHKニュース",
       "category": "other"
-    },
-    {
-      "title": "酒井法子、熊本地震の復興支援義援金を募る一方で、40周年直前の4万円ディナーショーで見える驚異の集客力",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRcUlSeHp0VkpUc2oyUm1MSzd6OS1BWUJxVGcyd3Y3T2RDZ0hfeWF4V0pNQ1IwMnAyVXNhUzN2SGRoNXl5TS1mVk5ydUpjMG8?oc=5",
-      "pubDate": "2026-09-25T12:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "酒井法子、熊本地震の復興支援義援金を募る一方で、40周年直前の4万円ディナーショーで見える驚異の集客力  週刊女性PRIME",
-      "category": "life"
-    },
-    {
-      "title": "【熊本市議会を終えて】地震の検証、不断の監視を",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVEtsN2RjNmVkZzFVWkNnbFZ6SXZkVWY1Sjlsem9FSVBPTmRGcWpmYlFXcllxUlZ0TVJxTHNjRnhVaFJIR292cnhCa1JjVW8?oc=5",
-      "pubDate": "2026-09-25T11:57:35.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【熊本市議会を終えて】地震の検証、不断の監視を  熊本日日新聞社",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-09-26T17:37:45.507Z",
-  "lastAttempt": "2026-09-26T17:37:45.507Z",
+  "lastSuccess": "2026-09-26T20:08:28.963Z",
+  "lastAttempt": "2026-09-26T20:08:28.963Z",
   "fetchOk": true
 }
