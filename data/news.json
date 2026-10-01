@@ -1,13 +1,67 @@
 {
   "items": [
     {
-      "title": "【社告】熊本地震の義援金、総額3414万円に ご協力ありがとうございました",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMVA2dEMxZlhqdC1CZDhhX0lpZndBZ015QUFMdlNiYm41OWNUM2FwWURGelk5NDI2M0d1LVJGZFZtZU92UlBxQUE4R3BoVkpWVk5zYk9nYXFMLXFOeXc?oc=5",
-      "pubDate": "2026-10-01T14:58:21.000Z",
+      "title": "【熊本地震レポート⑤】宗派超えた支援、平時のつながりが力に 光照寺・糸山公照住職 WVJのコンテナを地域拠点へ 2026年10月2日",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ndEdFUExnZUNxSEd6TS1Da3V5WTA1Wl9aYVNRaXR2NGowa2Z6WGU4NUlsX0VxNDh4Z0xDV0tNUmZCdENZVXJQUExYd1FaT0tQdnFUUA?oc=5",
+      "pubDate": "2026-10-01T20:32:34.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【社告】熊本地震の義援金、総額3414万円に ご協力ありがとうございました  新潟日報",
+      "description": "【熊本地震レポート⑤】宗派超えた支援、平時のつながりが力に 光照寺・糸山公照住職 WVJのコンテナを地域拠点へ 2026年10月2日  kirishin.com",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震の被災農家に支援を 知事ら簗農相に要請",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10OUpZRXVVMzlGUkdWdTlscFZvWXpIZERnaENXTUNZVjdzM3h1bHd2cThJdjZsUy1mSzcwVEl5eWZXcHIxajRIVmhEQUNWYlNobDZVZFVJNA?oc=5",
+      "pubDate": "2026-10-01T20:04:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災農家に支援を 知事ら簗農相に要請  日本農業新聞",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震の停電時もエアコン稼働、オフグリッド住宅の在宅避難",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSjZ5UkVJX2RJazRrS3JIaHhwWG50dXY4MEtWcUxuQ1J6UjN6UXhuWjlhN1pnbFdJMHlkV2V5WXJNR1ZoVm12MnhfQkVqc0l6OXcwbGQ2RDM3aW5PUFlKS2d4NE5MWEdNdDYtWQ?oc=5",
+      "pubDate": "2026-10-01T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の停電時もエアコン稼働、オフグリッド住宅の在宅避難  日経クロステック（xTECH）",
+      "category": "infra"
+    },
+    {
+      "title": "再び被災 不安寄り添う 熊本地震２ヵ月、両陛下現地訪問 「直接励ます」強く望む 皇室ノート",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qU1RhVTVxWGRzekM5SS1RRUFVYl9Bb3VUWm0wclUtZml5QlFjU1RxYjA4aktUZHFuMWczZ3VpcmZ2N2ZpWmNscXlhT29meFU1T0RSVHoydzkxSDgwd3c?oc=5",
+      "pubDate": "2026-10-01T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "再び被災 不安寄り添う 熊本地震２ヵ月、両陛下現地訪問 「直接励ます」強く望む 皇室ノート  福井新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "Eligitel、JUSAの熊本地震被災地へのクラウド型固定電話無償提供プロジェクトに参画",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13YkxKTDlyeXVrT1JKc2pOYlhpZS1ZTWIzQzdfRG1KaDFnZmVET3VoOUNKbjVyMTZwdEFKOTBBWTZ0eHZ4Y19lTl81dy1aUVJuTEpBaGt6Sk5Ga2N0N3RvQVpRUnRsdXV4U3otU1VZMWxmUQ?oc=5",
+      "pubDate": "2026-10-01T18:15:25.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "Eligitel、JUSAの熊本地震被災地へのクラウド型固定電話無償提供プロジェクトに参画  Infoseek",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の復興支援 藤沢東ＲＣなど八代市に100万円",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FWkd3NGNPTjY0b0NmM2wtMndYRDRmZm1QbUlyNC1sREVVMHB4TXZJcHBpZ1Yyam90VDNybEhET0VvZU5ZLWpYN0JzOE5BcVptdTVQMnFnV0lIbGtFdXk0Nmh1UHQ?oc=5",
+      "pubDate": "2026-10-01T15:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の復興支援 藤沢東ＲＣなど八代市に100万円  タウンニュース",
+      "category": "life"
+    },
+    {
+      "title": "令和8年熊本地震被災地支援 光専寺チャリティーコンサート｜お出かけ情報",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mS1NQUzluVUNKSWVEVjFmN1FlcmV2Wk5GWEhybW95TjN1aUIwd1J5SC13aXIzcHFRSnlDSEN0S1d2M0dhTkhzeGk5OA?oc=5",
+      "pubDate": "2026-10-01T14:58:02.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "令和8年熊本地震被災地支援 光専寺チャリティーコンサート｜お出かけ情報  熊本日日新聞社",
+      "category": "life"
     },
     {
       "title": "【被災者ナビ⑦】「災害関連死」 避難生活の疲労やストレスで体調悪化 遺族申請で市町村が認定",
@@ -28,12 +82,30 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県、移動式仮設住宅を公開 自宅離れられない被災者を支援（毎日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByWDZacXZhSmVzZG12VjJqRWRiMEdEUFoxVlpTYkJlTHgtd19vVnBDbE1fbnlXYWxXVHhDM3ltcnhUcE5IbDd6YnVQc1R6LTZSSzgtNUVzbUZ5Nk9GSEU3SXFBdGRjMkR1YlZPZGhZWjRPX2wtYVIwdms4UmVXYTQ?oc=5",
+      "pubDate": "2026-10-01T12:53:43.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県、移動式仮設住宅を公開 自宅離れられない被災者を支援（毎日新聞）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "両陛下「くまモン」バッジと共に 熊本地震の被災地で「心が通い合うきっかけに」かつて上皇后さまも着用",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XWU03dUtrZEJFLVlKSmV6RzlTM1Fncjl6UmQyQVFjdGpWaTJhb29yRjNCSU8wNFZfYmpzRW1CRllrbTdHQ3N5emVPUU9FYlUtLVNoZzFqaFRDUHdWNFVJWU1iSDUySHJGNkc4cVhFRGJScGpuS0Rfa1FZZl8?oc=5",
+      "pubDate": "2026-10-01T12:41:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "両陛下「くまモン」バッジと共に 熊本地震の被災地で「心が通い合うきっかけに」かつて上皇后さまも着用  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
       "title": "【地震】栃木県内で震度2 千葉県北東部を震源とする最大震度3の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hseGYybmZQUlROaElDb0d5aDFiRlhQUjM1QlRwWTJrOEpNSkJyZDhpYnluUnFhRnBEb1BibXdvWmg2Um94Rmt1ZDdreHBmU0V3bUdjTTNfSnp6OWc3eGl2R1Fwc3UzaUtXNDM0NjdWanE5bG5jWUt1R2tyNS1TcDJGcFFxN3VoTzAtbUVOQ2FDQ0nSAZgBQVVfeXFMTndlZlFUbF9Ld2ZaOGNiMmRRY2hfdG92THlJVGV5cDUwRlI0bUtlaFJ6eXdjX3ZKVlE2TjNDUXdwUGN6M21lcFRXOHd6UTdmS1k0SmNVeVFPVFVJNEk2QlliQU81X2QyN2Ixa0g1Yk91ZnVxRHdoV0lNWnFuZWtSX0FKVUQwNVFKQndKMS1xczdaYkpQZE5POWg?oc=5",
       "pubDate": "2026-10-01T12:32:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】栃木県内で震度2 千葉県北東部を震源とする最大震度3の地震が発生 津波の心配なし  ｄメニューニュース",
+      "description": "【地震】栃木県内で震度2 千葉県北東部を震源とする最大震度3の地震が発生 津波の心配なし  topics.smt.docomo.ne.jp",
       "category": "disaster"
     },
     {
@@ -51,7 +123,7 @@
       "pubDate": "2026-10-01T12:20:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】熊本市西区など震度1  ｄメニューニュース",
+      "description": "【速報】熊本市西区など震度1  topics.smt.docomo.ne.jp",
       "category": "disaster"
     },
     {
@@ -64,12 +136,30 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震で被災のフォレストが練習再開 ホームゲームは調整中",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04cGFwcmZaSkkzZi00cWk4T0c5YjZtbEVTcDliQlN3d29sOFhyZGlMdW5TX3ZjdmJjb2REajVpWmpncnNaRXVJWHFXVHFySlozY1E?oc=5",
+      "pubDate": "2026-10-01T12:10:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災のフォレストが練習再開 ホームゲームは調整中  バレーボールキング",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災のフォレストが練習再開 ホームゲームは調整中（バレーボールキング）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wUEpIVzI4WFRtQmdrdDVnTm9EQ1gwTFZxLURGWnlPTFRmaEpZWHlQQS01VllJSWpDWjIxYnM0X0h0d1UtekdKc2ZWeUZBSWhQdlVseDVlWXFOMF9uU0ltTEJXdjR5VFp6TnNicWtyWVYzdmxNcWJiX2hSSEdnQzg?oc=5",
       "pubDate": "2026-10-01T12:10:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で被災のフォレストが練習再開 ホームゲームは調整中（バレーボールキング）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "「やっと帰る家できた」 被災者に笑顔 設置要件多く「時間必要」 自宅敷地内仮設完成間近 ＜2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRGNOT3pMaHctZlRYLWtsbkdQcndZdzdZd3NGS0duRFAybktZVlZ5el9GX0lhVlZfcUVtSHdpWjMtSEtnVmZISTZDUXdDSGc?oc=5",
+      "pubDate": "2026-10-01T12:04:47.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "「やっと帰る家できた」 被災者に笑顔 設置要件多く「時間必要」 自宅敷地内仮設完成間近 ＜2026年熊本地震  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -105,8 +195,17 @@
       "pubDate": "2026-10-01T11:29:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "description": "【地震】熊本県内で震度2 熊本県熊本地方を震源とする最大震度2の地震が発生 津波の心配なし  topics.smt.docomo.ne.jp",
       "category": "disaster"
+    },
+    {
+      "title": "自宅設置の仮設住宅、完成間近 氷川町で報道向け内覧会 ＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44aU9Gbkl2a3Z3MU5COWFLUVpHTllVaEoxSXJNQUwzRGpTOVNZMm9mSUNPY1VVNVliZWl0eUJOZHlSU3ZCMVJUcG9mMGVzbVU?oc=5",
+      "pubDate": "2026-10-01T11:14:43.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "自宅設置の仮設住宅、完成間近 氷川町で報道向け内覧会 ＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "life"
     },
     {
       "title": "自宅設置の仮設住宅、完成間近 氷川町で報道向け内覧会 〈2026年熊本地震〉",
@@ -130,9 +229,9 @@
       "title": "「献立はカツカレーライス うまい」氷川町で通常の給食が再開 熊本地震で給食センターが被災",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yWWk4WmR4YW1NM09jUmc5bUVEd0JaWGFFU1JTWUF6c1paQkxoQTN6cFY0NmYwVVQ2dC1ULUJjZDU0NFJ0WmhOeC1VYWowa1VmSWNvU0xiOGdnTU0tNDNTVjBCaw?oc=5",
       "pubDate": "2026-10-01T10:50:51.000Z",
-      "sourceName": "地元メディア",
+      "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "「献立はカツカレーライス うまい」氷川町で通常の給食が再開 熊本地震で給食センターが被災  tku.co.jp",
+      "description": "「献立はカツカレーライス うまい」氷川町で通常の給食が再開 熊本地震で給食センターが被災  TKU テレビ熊本",
       "category": "disaster"
     },
     {
@@ -181,12 +280,12 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwNVFJdUs4cDB6dUxVNXVmUWxxdnNuQXNaYzBWM3ZtcXhjblI4UE9sWDdXamhQR1htSzB6aVl1Z1FQQkdjYVg4c2t2eGhlU0ZnaGxYdzRPV0JwdmdiUFVCMFc0MmJrVGxRM1AtcXd3?oc=5",
+      "title": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事 | | 全国のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YVk4tY3NzNE1xNXRVQXZZeHNqTWtYaVNZdVBjR1JFVlNsQ1dHREI4dnJYX25IdWNzZzdrLTRvMElTU3dhUTVQSUR4cE9wUkhhdHVZblRn?oc=5",
       "pubDate": "2026-10-01T10:40:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事  au Webポータル",
+      "description": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事 | | 全国のニュース  佐賀新聞",
       "category": "disaster"
     },
     {
@@ -196,6 +295,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwNVFJdUs4cDB6dUxVNXVmUWxxdnNuQXNaYzBWM3ZtcXhjblI4UE9sWDdXamhQR1htSzB6aVl1Z1FQQkdjYVg4c2t2eGhlU0ZnaGxYdzRPV0JwdmdiUFVCMFc0MmJrVGxRM1AtcXd3?oc=5",
+      "pubDate": "2026-10-01T10:40:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の復興基金に国財政措置 年内創設へ準備と木村知事  au Webポータル",
       "category": "disaster"
     },
     {
@@ -218,11 +326,11 @@
     },
     {
       "title": "両陛下「くまモン」バッジと共に 熊本地震の被災地で「心が通い合うきっかけに」かつて上皇后さまも着用（日テレNEWS NNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lb0xELUlDRzBvV2xCSWxHX0ZtUVdkeGktcVhBZC16SHNKelhJaUN5OUNDZTkxQVNQazJZV1hIQ2Nvc0VBZGtZdXJnck1leEdkc2ZVQkxjX2FILWNHVUdPbTc1dDl1ZUpqcG1OeWpQNlJ2Ry12VmtGQWVaLW44bWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhkQWlheFNmSWVxcTNxUWx0bzVzdUZZZXBnQ3ppOW51V0cwaFZGUzVhSVRmZUg4Ui1XeHE5Q1Zfek5GLUFHZGpZTlJmTmQwV1d1REU1eG15VWlodlltVXpGY1M0NzJmUzN5NmQzNmpmTkh1czU3NmhFNkJzZ0JIdXQ3ZElGNmRVUFNJNVlIT0RtN2c0Z1VR?oc=5",
       "pubDate": "2026-10-01T10:39:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "両陛下「くまモン」バッジと共に 熊本地震の被災地で「心が通い合うきっかけに」かつて上皇后さまも着用（日テレNEWS NNN）  Yahoo!ニュース",
+      "description": "両陛下「くまモン」バッジと共に 熊本地震の被災地で「心が通い合うきっかけに」かつて上皇后さまも着用（日テレNEWS NNN）  topics.smt.docom...",
       "category": "disaster"
     },
     {
@@ -241,6 +349,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "両陛下、早期の復興願う　熊本地震の被災地見舞いを終え　宮内庁  日刊スポーツ",
+      "category": "disaster"
+    },
+    {
+      "title": "「振り出しに戻った」地震で作品失うも再起誓う益城町の陶芸家の思い (ＫＫＴ熊本県民テレビ)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXBQTXg5NUI0RU84VlQ1N1hRX0R1WE5Ud2FxLXdCWEFRX1dmdmJ5MFdOUG1QLXFVRXFHV0NuM2UwR0hEdEFSUHVuOFVYaUNMallpWXdJcjRSaFVYemFzeFV5MTBZQUs1ZnBZVmM5OGk0ejBTNThyNEItaU5JRnN5OUJFRmZXd1I4clZ3cl9n?oc=5",
+      "pubDate": "2026-10-01T10:23:00.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "「振り出しに戻った」地震で作品失うも再起誓う益城町の陶芸家の思い (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -271,6 +388,15 @@
       "category": "disaster"
     },
     {
+      "title": "「あったかい給食」2か月ぶり再開 震度7の氷川町の小学校 初日はカレーやヒレカツ 熊本",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LcGM2NGV2YjBrZ1NrQWJudWNWUUZGMlEzXzZEMUdrMkZuN2NiYnZub1l2c0x3aW5wZXJpakNGRWdJUm5pWWRWd3IxZWxibk4wR1pEanJ2dnllQQ?oc=5",
+      "pubDate": "2026-10-01T10:20:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「あったかい給食」2か月ぶり再開 震度7の氷川町の小学校 初日はカレーやヒレカツ 熊本  newsdig.tbs.co.jp",
+      "category": "disaster"
+    },
+    {
       "title": "熊本・御船町恐竜博物館 2度の地震乗り越え「恐竜のまち」発信 むかわ町と交流も",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYi1MYXhaWVF2Q1dCZVBRdzZsdFIxVlp6b0JqNFpiM21Jam4zcUxZS1k1QVcwRkZTNHAydDFxaFdDR29QdHZhNWNIbw?oc=5",
       "pubDate": "2026-10-01T10:15:19.000Z",
@@ -285,16 +411,7 @@
       "pubDate": "2026-10-01T10:11:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本初 自宅敷地内の「庭先仮設」建設進む 相談は100件超 農畜産業など自宅近くに住む必要がある被災者対象 氷川町  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "「熊本ふっこう応援割」スタート！最大60％割引で観光需要の回復目指す 支援に期待高まる",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW5VMkNrYVZ3RzI2UExiZnlOc2Z1RWlWY0U2NEw0YWc3SDdEVHJYNG1hWjBNV2hLWjdzcnJlUS1JS3VENG9wQmJXNXgzVFYzVkhKektLbEhqQ3Myd2c3QXRuX21BTDlMUjlERkVjd284Nm15VUhadWc3TkJqb3NkbTBNOTdlLTA?oc=5",
-      "pubDate": "2026-10-01T10:08:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「熊本ふっこう応援割」スタート！最大60％割引で観光需要の回復目指す 支援に期待高まる  日テレNEWS NNN",
+      "description": "熊本初 自宅敷地内の「庭先仮設」建設進む 相談は100件超 農畜産業など自宅近くに住む必要がある被災者対象 氷川町  newsdig.tbs.co.jp",
       "category": "life"
     },
     {
@@ -307,12 +424,21 @@
       "category": "life"
     },
     {
-      "title": "熊本へのお見舞い訪問 両陛下、前向きに進もうとする被災者に敬意 [熊本県] [2026年熊本地震]",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0tWeUtuckdta3dCcVM0eHY3cFZCb09aUlJNcVVyZnZsTmtDM2FrcF8yalBEMmtHSG9rbkswVlc3UFNMRU1ZNy1PaEpDOFlkN1lMdjE0ZEQ5b2V3OFUtTFNyMW5wZEpRUVJONVJnOENUek9JN0lBOXp1TmM2Qk5UQ0FFYw?oc=5",
+      "title": "「熊本ふっこう応援割」スタート！最大60％割引で観光需要の回復目指す 支援に期待高まる",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW5VMkNrYVZ3RzI2UExiZnlOc2Z1RWlWY0U2NEw0YWc3SDdEVHJYNG1hWjBNV2hLWjdzcnJlUS1JS3VENG9wQmJXNXgzVFYzVkhKektLbEhqQ3Myd2c3QXRuX21BTDlMUjlERkVjd284Nm15VUhadWc3TkJqb3NkbTBNOTdlLTA?oc=5",
+      "pubDate": "2026-10-01T10:08:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「熊本ふっこう応援割」スタート！最大60％割引で観光需要の回復目指す 支援に期待高まる  日テレNEWS NNN",
+      "category": "life"
+    },
+    {
+      "title": "産経新聞奈良県専売会が熊本地震に義援金 拉致家族会代表、横田拓也氏の講演会で募る",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95N1lYSklBcENCZlB3NDhBR2ZEaGpxbzlER2NidWswcnFxRTZRVjZSd19Ya0JhR0xsdk9veUgwTXhsNF9ZM3dXNWc5czlHYWx1S1JuanJtZGZPc3NwVkRZdTRvaXJQZkZHYk8waF81bHFVOGJ2N3c?oc=5",
       "pubDate": "2026-10-01T10:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本へのお見舞い訪問 両陛下、前向きに進もうとする被災者に敬意 [熊本県] [2026年熊本地震]  朝日新聞",
+      "description": "産経新聞奈良県専売会が熊本地震に義援金 拉致家族会代表、横田拓也氏の講演会で募る  産経ニュース",
       "category": "disaster"
     },
     {
@@ -322,6 +448,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "両陛下 被災者に寄り添われる 熊本地震の被災地ご訪問  FNNプライムオンライン",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本へのお見舞い訪問 両陛下、前向きに進もうとする被災者に敬意 [熊本県] [2026年熊本地震]",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0tWeUtuckdta3dCcVM0eHY3cFZCb09aUlJNcVVyZnZsTmtDM2FrcF8yalBEMmtHSG9rbkswVlc3UFNMRU1ZNy1PaEpDOFlkN1lMdjE0ZEQ5b2V3OFUtTFNyMW5wZEpRUVJONVJnOENUek9JN0lBOXp1TmM2Qk5UQ0FFYw?oc=5",
+      "pubDate": "2026-10-01T10:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本へのお見舞い訪問 両陛下、前向きに進もうとする被災者に敬意 [熊本県] [2026年熊本地震]  朝日新聞",
       "category": "disaster"
     },
     {
@@ -357,7 +492,7 @@
       "pubDate": "2026-10-01T09:37:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「熊本ふっこう応援割」スタート 地震で落ち込んだ観光支援へ… 宿泊6割引きで阿蘇も賑わい  TBS NEWS DIG",
+      "description": "「熊本ふっこう応援割」スタート 地震で落ち込んだ観光支援へ… 宿泊6割引きで阿蘇も賑わい  newsdig.tbs.co.jp",
       "category": "life"
     },
     {
@@ -424,6 +559,15 @@
       "category": "life"
     },
     {
+      "title": "【社告】熊本地震の義援金、総額3414万円に ご協力ありがとうございました",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMVA2dEMxZlhqdC1CZDhhX0lpZndBZ015QUFMdlNiYm41OWNUM2FwWURGelk5NDI2M0d1LVJGZFZtZU92UlBxQUE4R3BoVkpWVk5zYk9nYXFMLXFOeXc?oc=5",
+      "pubDate": "2026-10-01T09:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【社告】熊本地震の義援金、総額3414万円に ご協力ありがとうございました  新潟日報",
+      "category": "disaster"
+    },
+    {
       "title": "八代市立図書館の本館が再開 落ちた10万冊並べ直す ＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51TkNBZkt4QXlZbXRjZWJIS2pOWGZiZDNoQ0phSHY1ZHM4QzNvZFNQeE1EODMzQ1Q3X21ieW5sZHB5alJYQTNSRTlZVDZ0SEE?oc=5",
       "pubDate": "2026-10-01T08:48:29.000Z",
@@ -434,11 +578,11 @@
     },
     {
       "title": "観光業の判断引き上げ、熊本地震の影響は限定的 日銀の景気動向発表 大分",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5naXJBVWwzUUlMbjNJUDFZekhpRmZvNVJSNjZzQ2o3dERxY0ZJdUVjbWdiclBfMGo0WmpRSk93dGdrNWlJVnVmN2V5RlNaTmZhakhDWFpyUlVEUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3MlN5MmIyVjhkYTkyREZlUmdwbzhjaEZCUE9WbHNZQ3NqWUJuVklySkFuUW5LZ2RYWk95S2VmOWxkcHZ0RENDTmVKS2Vld2otQnlYRzRJVnNyVXBINkU4c2REUHk?oc=5",
       "pubDate": "2026-10-01T08:47:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "観光業の判断引き上げ、熊本地震の影響は限定的 日銀の景気動向発表 大分  TBS NEWS DIG",
+      "description": "観光業の判断引き上げ、熊本地震の影響は限定的 日銀の景気動向発表 大分  newsdig.tbs.co.jp",
       "category": "disaster"
     },
     {
@@ -465,7 +609,7 @@
       "pubDate": "2026-10-01T08:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "自宅の庭に仮設住宅、熊本地震の被災地で完成「普通の生活に戻れる」 [熊本県]  朝日新聞",
+      "description": "自宅の庭に仮設住宅、熊本地震の被災地で完成「普通の生活に戻れる」 [熊本県]  asahi.com",
       "category": "life"
     },
     {
@@ -483,7 +627,7 @@
       "pubDate": "2026-10-01T08:27:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から2か月「九州ふっこう応援割」スタート 交通網再開と市独自施策で戻り始めた客足 観光地の切実な期待  TBS NEWS DIG",
+      "description": "熊本地震から2か月「九州ふっこう応援割」スタート 交通網再開と市独自施策で戻り始めた客足 観光地の切実な期待  newsdig.tbs.co.jp",
       "category": "infra"
     },
     {
@@ -528,7 +672,7 @@
       "pubDate": "2026-10-01T08:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "尾上松也「逆にやらなくては」 “熊本地震”の復興を胸に紡ぐ“新生・ヤマトタケルの物語”【詩楽劇『武と建 〜火の國のまほろば〜』】  entax.news",
+      "description": "尾上松也「逆にやらなくては」 “熊本地震”の復興を胸に紡ぐ“新生・ヤマトタケルの物語”【詩楽劇『武と建 〜火の國のまほろば〜』】  entax（エンタックス）",
       "category": "disaster"
     },
     {
@@ -546,7 +690,7 @@
       "pubDate": "2026-10-01T07:30:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "「よさこい大賞」の衣装は\"がれきの下から\"「こんなに重みのあるものなんや」 熊本地震直後、往復18時間かけ被災地の縫製工場へ  TBS NEWS DIG",
+      "description": "「よさこい大賞」の衣装は\"がれきの下から\"「こんなに重みのあるものなんや」 熊本地震直後、往復18時間かけ被災地の縫製工場へ  newsdig.tbs.co.j...",
       "category": "disaster"
     },
     {
@@ -600,7 +744,7 @@
       "pubDate": "2026-10-01T06:21:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "平野美宇、熊本地震で被災の八代市で復興支援の卓球教室開催「卓球を一緒にやることで、勇気と元気につながれば」  ｄメニューニュース",
+      "description": "平野美宇、熊本地震で被災の八代市で復興支援の卓球教室開催「卓球を一緒にやることで、勇気と元気につながれば」  topics.smt.docomo.ne.jp",
       "category": "life"
     },
     {
@@ -613,15 +757,6 @@
       "category": "disaster"
     },
     {
-      "title": "Eligitel、JUSAの熊本地震被災地へのクラウド型固定電話無償提供プロジェクトに参画",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Nk1sZWFPY0RxUFBoQjdNQjZVTnhKUE5xN3VWNHkzWkt0RXQ1VFJFdC1PR0t5SjFyTFBETHdhcWExc3d3c1JVcXMxMXlWR0JYdXFRR1dsMkNlNFRMVy1DR01zWGJOM2VJaE04Q3J0U1JPbWNjUE1FRVpLTQ?oc=5",
-      "pubDate": "2026-10-01T06:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Eligitel、JUSAの熊本地震被災地へのクラウド型固定電話無償提供プロジェクトに参画  産経ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "7日に釧路で熊本チャリティーライブ 元従業員と被災地支援へ",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lWUx5OHdNN2IwZ2RHT1dnc0ZIcTgyaENZOWhabkFMRWFIeC1MUkl6YUNoUGdPZ2hmTklQa2dCbFNIOHZ2R0RadThlbw?oc=5",
       "pubDate": "2026-10-01T05:08:05.000Z",
@@ -629,6 +764,15 @@
       "type": "local",
       "description": "7日に釧路で熊本チャリティーライブ 元従業員と被災地支援へ  47NEWS",
       "category": "life"
+    },
+    {
+      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える（済生会熊本病院 2026/07/30 公開） - クラウドファンディング",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
+      "pubDate": "2026-10-01T04:58:34.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える（済生会熊本病院 2026/07/30 公開）  クラウドファンディング - READYFOR",
+      "category": "disaster"
     },
     {
       "title": "令和８年熊本地震の復旧・復興のため熊本県へ長期派遣される職員に対する辞令交付式を行いました",
@@ -755,153 +899,9 @@
       "type": "local",
       "description": "九州新幹線、熊本地震から全線再開へ 現場で共に闘った人々の52日間のドキュメンタリー動画を公開（オーヴォ）  Yahoo!ニュース",
       "category": "infra"
-    },
-    {
-      "title": "「ママがダメって言ってた」小5長女はブロック塀から離れ…3児の母の防災士が熊本地震で直面した“プロでも想定外”の自宅被害",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1A3ZE5xbTk2TjF3cnBqaGpUMGFrNVlHVkxLRjc2UGRPLTVKOHNCTXlweDRQUnI0OE5VbUpwUkIzTFpXdzRhREx0RjlONDVMSlpBSUlZZXpsWlJibkJiVVBwV0xKX3l4NWRiYTNmRnZISkpFTmVBRUhsTnYzYWM?oc=5",
-      "pubDate": "2026-10-01T02:00:37.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「ママがダメって言ってた」小5長女はブロック塀から離れ…3児の母の防災士が熊本地震で直面した“プロでも想定外”の自宅被害  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震災害チャリティ第二弾 温かいご支援と反響にお応えし、急遽「くまモン 熊本チャリティVer.」の予約販売が決定!!",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lWU03RTZsMFpGMmpkRWxycVJJYUJST19rTW51cWdQNDViSm45LWFhWXNHY3lQVWJiX2dORTZDbEdtYTBQMkhzVGViVFJmQXdweFItc0E2amJ1OVJyX2dieWlxUVo2THdoVGc?oc=5",
-      "pubDate": "2026-10-01T02:00:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震災害チャリティ第二弾 温かいご支援と反響にお応えし、急遽「くまモン 熊本チャリティVer.」の予約販売が決定!!  PR TIMES",
-      "category": "life"
-    },
-    {
-      "title": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、9月30日集計分",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVDgxTmFqRFJja1pQeWtlVXo1TjZaMlhaRFFZU2paOUZ5U3NEbnJ3bmd0cnRfczdnUnQ5WUliMDdUMXQ4bklqbmpveFhoWjQ?oc=5",
-      "pubDate": "2026-10-01T02:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、9月30日集計分  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【重要】令和8年熊本地震で被災された在学生への支援について - seinan-gu.ac.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10TXZCZW1XY3M3VnBQdDQzVkg1bzJ4RUs1Y3ZaRUJOdWhRb295azRHQ3FhZDVPTXlvU0VsdDVjNkwwRHk1WWU0dXVXeldhb1NrR1NYQ0hPWG5IcG9FNFFycm56ZUQ?oc=5",
-      "pubDate": "2026-10-01T01:54:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【重要】令和8年熊本地震で被災された在学生への支援について  seinan-gu.ac.jp",
-      "category": "life"
-    },
-    {
-      "title": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う 両陛下「直接励ましたい」（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DNGJQNnhpMDNvaVYyUG5pRzZ0RmpMXzhieEtMYm1SS2NWUm56d2lLcmdfRktGRFZuc2Rud2dWeVphZkVRSUNxelFJZlVTcGs?oc=5",
-      "pubDate": "2026-10-01T01:19:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う 両陛下「直接励ましたい」（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う 両陛下「直接励ましたい」",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90QVl2YVBlVnUtZmFQZUhyd1g5QlE3cGptajRoSThmb1VaYnU0b1A5WlgtYUdJZUxkQXlXUkRjdDVrNE1NbmJOTmJQQU1ENjNEQlFPb24wOVBaLWdMNmc?oc=5",
-      "pubDate": "2026-10-01T01:17:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う 両陛下「直接励ましたい」  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjR1pyUWlCU1JmNUczaHJZS0xhcXVVUWhFSGM3d0kza0VXb2NGSWxtb3B4WmtvX1ppTFVkNXNDN3ZaMDZLR1FyVWk2cGEwMHNXOHJQZnpMQkNZdG8?oc=5",
-      "pubDate": "2026-10-01T01:17:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【『皇室ノート』熊本地震被災地訪問】再度の苦難に寄り添う  下野新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "Lib Work---令和8年熊本地震の被災地支援として宇城市へ寄付",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa25uSjR3dXh3V3phVkdRV0s3UUpQcmxhcU9fUGdXZWZnTjUwRzhna1NHZWY2aDNfMzJfMjFfM3lHNEVDOVZHaVVwUjNCamg0VF9VVFcyMGhGVmZqczVQVUdOZ3J1Vy1HVm9UY2FjS0o0TkFfX3NOSzJXeWo0aHdoMEhlZ2hEdk3SAYwBQVVfeXFMTmd0dGZYQmVBamxfMWZqaDhmSEx5dWUycldkZzNFdG5qcmY5RVl5OVJXbGNldFVieHJQc0lUWEw0RjhlMThEN2R5bUxyX2lPeWZKVWtvTk9ZZWgzWGs3RjNrZE1SSVRuSzRuYkM5VG1KMFJoOFVvdGxqMmp1Sy1zMTBHcDhFU050RzhDQlQ?oc=5",
-      "pubDate": "2026-10-01T01:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Lib Work---令和8年熊本地震の被災地支援として宇城市へ寄付  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "Lib Work---令和8年熊本地震の被災地支援として宇城市へ寄付 執筆",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13SVJLb0JQZDRsak1zNjI2MERCVS1xeWtCdUd5ZWtSZFhOX3p1THl1RXR1bEh3UzJ3Q1kyQ3J5T3BGZlU2Yk5SQ2w1Z05kd2habHhmZE9iRy1GOWFfbHhOT0V2Vnc1OEpuc19ZUUVBZ1M?oc=5",
-      "pubDate": "2026-10-01T01:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "Lib Work---令和8年熊本地震の被災地支援として宇城市へ寄付 執筆  Investing.com 日本",
-      "category": "life"
-    },
-    {
-      "title": "あなたの歌声が令和8年熊本地震 被災地の復興支援に！「カラオケで応援しよう～今こそ日本の歌力（うたぢから）～」 10月1日から開催！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45enpUaDllMHlrUDZ6dzRYOEJ1anh4YVFhdnFDTWRtVDlCYVEyNTVMT29oUGx0Y3c4Z1lRLTQ1bEt2NXpFYkl1ZzdkVlJSRkozWEJTaUxEb19qRS14WG5ZSkVLbkZQbnIwM1E?oc=5",
-      "pubDate": "2026-10-01T01:00:03.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "あなたの歌声が令和8年熊本地震 被災地の復興支援に！「カラオケで応援しよう～今こそ日本の歌力（うたぢから）～」 10月1日から開催！  PR TIMES",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震によるイオンモール熊本店休業受けPerfect Suit Factory新店舗を「はるやま 熊本嘉島店」内にオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LemdTM2VweTE3NG5NYnFzNUhGQXJJcC1OR3duYjd0RGNIZW5aQ0h5c0pwOGlVS3dqVXZkOEpJZUFtSGo1R0t1SFRETVdRMUg0ZXY1eS1sUDJyQ0cxb21mc2R6eUM1NENpN0E?oc=5",
-      "pubDate": "2026-10-01T01:00:03.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震によるイオンモール熊本店休業受けPerfect Suit Factory新店舗を「はるやま 熊本嘉島店」内にオープン！  PR TIMES",
-      "category": "disaster"
-    },
-    {
-      "title": "あなたの歌声が令和8年熊本地震の復興支援に「カラオケで応援しよう～今こそ日本の歌力～」プロジェクトに協力",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSW02Ui1Bb0ROVlY1d0FWd0JmUFpmajZ2Zm1xRGZrMHZ0TWhseHNWdmd0aUY0UUlxZEE4TlBNeW81ekIxWUZacDhSWURNTzk2MnA3ckxMVFFVdHp2V3pzYTI4eGdQT0NmWGc?oc=5",
-      "pubDate": "2026-10-01T01:00:03.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "あなたの歌声が令和8年熊本地震の復興支援に「カラオケで応援しよう～今こそ日本の歌力～」プロジェクトに協力  PR TIMES",
-      "category": "life"
-    },
-    {
-      "title": "あなたの歌声が令和8年熊本地震の復興支援に 「カラオケで応援しよう～今こそ日本の歌力～」プロジェクトに協力",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Ym9KZ2UtZnBqbzBDeUY5dk9PV3BTYmJJZVlWZUNnaWpCdTJhNENoeVZBWmhjNVZwa2ZEM0FpVDdTeWNCazA1cXVJaWU1UXlMLVFfbDZUalo1RlltV0E?oc=5",
-      "pubDate": "2026-10-01T01:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "あなたの歌声が令和8年熊本地震の復興支援に 「カラオケで応援しよう～今こそ日本の歌力～」プロジェクトに協力  okinawatimes.co.jp",
-      "category": "life"
-    },
-    {
-      "title": "あなたの歌声が熊本の復興支援に！カラオケで復興応援歌を 1曲歌うごとに1円を被災地へ、10月1日から開催！",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySjVYck8tOUpkci1KTHJzMHE1cllTVkI2WHQtLUZVQVhxZnVJdDJnZ3Q0RkpDT2JHWFFPN2tNcHFGV2w0bXBhT2R6dkFIdlk?oc=5",
-      "pubDate": "2026-10-01T01:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "あなたの歌声が熊本の復興支援に！カラオケで復興応援歌を 1曲歌うごとに1円を被災地へ、10月1日から開催！  Newscast.jp",
-      "category": "life"
-    },
-    {
-      "title": "いよいよ10月3日・4日開催！『特別版 お城EXPO in 熊本 2026 ー令和8年熊本地震復興支援事業ー』",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3bkhoaXAtUTkxVWtFdGR4UzlUd1dsSVQya0FlZnpEMHFNSTNzTF9yWEFBZ2dMZE5QMnpDNEpsaFE2MWdLcm13ZjZMcmFCQkpnQk8zNlNPVmFmZHVCYmhzd1hKS2FuSUVlY0RCeFd0MFFrdzg?oc=5",
-      "pubDate": "2026-10-01T01:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "いよいよ10月3日・4日開催！『特別版 お城EXPO in 熊本 2026 ー令和8年熊本地震復興支援事業ー』  宮崎日日新聞DIGITAL",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震で崩落した熊本城、石垣の回収作業が本格化「前を向く力になれば」…４０か所で崩落や変形確認",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nWXV0dFllQ3hLRWhCbERWRHVFNHBqWkdjXzlaOWMxcVRETllUWUJoY0pRc19aN3lkUWd4dlgyOS1GYnRUV3RBdU1Qazc3UEVnUElnSHJnWHRqZ1h6XzdycnBNV2Q3VmZaRGRvcUR6NHI2QQ?oc=5",
-      "pubDate": "2026-10-01T00:59:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で崩落した熊本城、石垣の回収作業が本格化「前を向く力になれば」…４０か所で崩落や変形確認  読売新聞",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-01T17:22:26.865Z",
-  "lastAttempt": "2026-10-01T17:22:26.865Z",
+  "lastSuccess": "2026-10-01T21:55:17.119Z",
+  "lastAttempt": "2026-10-01T21:55:17.119Z",
   "fetchOk": true
 }
