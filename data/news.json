@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "title": "熊本地震支援ライヴ",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oRGo4MjlMWHdvYnZmYTJ4amVDN1JfalNmTXAtOENxR1M0MjFCOFVsZGlSRlVRMm1fSldsM01QUnRRUQ?oc=5",
+      "pubDate": "2026-10-03T15:55:54.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震支援ライヴ  YouTube",
+      "category": "life"
+    },
+    {
+      "title": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjR2lXYTFET2tsR3FQWDhUTHRKR285TzY1SUdsWV9jV0o2eU9VOElSZkV6aVp2dkw0bFB0VmMzN01hMXJnd2JHc2w4dFVCMlpKLTFoMUZkOXNOLS15UlRR?oc=5",
+      "pubDate": "2026-10-03T14:55:47.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震復旧へ全力姿勢 簗農水相、「予算カット」には言及せず（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92SnluYzRGOHR4WDI5cHRsc1lSSVc1R3p3dHRyU0xHWXBwVXJkYlQyeEVLeFFJZFAwWjR6SGMtaVVpWUJKSDhfZnM2THVuWEoyQU1nTmdGb3k2VTFNTVpiRklkTGVXNmFNaDZ0RHA2OGdObm51NG9ISlZHXzlNdjA?oc=5",
+      "pubDate": "2026-10-03T13:17:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震復旧へ全力姿勢 簗農水相、「予算カット」には言及せず（時事通信）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
       "title": "農林水産物の輸出と海外展開 企業の再建支援 大手企業との連携【熊本の経済1週間】（9/26～10/2）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbC14cnBfZE91cEVYZHRHTkUwZkFJZmU0OWNmMk85c010YXVzV3RIaURlQWdXWGtoeWdkdTNoWG95VnFFcXBMdEdEOWVjaVU?oc=5",
       "pubDate": "2026-10-03T11:00:00.000Z",
@@ -37,24 +64,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震、井戸水枯渇世帯への支援は限界なのか 「能登方式」給水に黄色信号（関口威人） - エキスパート",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVhaOC1YYm9iNnJvWExlR0JEWXAtblpMTWRrVmJBTUpLU2NzNTdUSVRXTUdFS1dsRUdDSjlLUjhTeXBtZkhpS2FnWF9TNXRocmZVempiQXhJdC1Zd0RpazZKRzNLSEg2N1YwTWxfMXZCUnNXdzJPRGo3c05ueHJBdi1GaDdBcEhW?oc=5",
-      "pubDate": "2026-10-03T10:43:11.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、井戸水枯渇世帯への支援は限界なのか 「能登方式」給水に黄色信号（関口威人） - エキスパート  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震復旧へ全力姿勢 簗農水相、「予算カット」には言及せず（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92SnluYzRGOHR4WDI5cHRsc1lSSVc1R3p3dHRyU0xHWXBwVXJkYlQyeEVLeFFJZFAwWjR6SGMtaVVpWUJKSDhfZnM2THVuWEoyQU1nTmdGb3k2VTFNTVpiRklkTGVXNmFNaDZ0RHA2OGdObm51NG9ISlZHXzlNdjA?oc=5",
-      "pubDate": "2026-10-03T09:35:28.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震復旧へ全力姿勢 簗農水相、「予算カット」には言及せず（時事通信）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
       "title": "企業の景気判断 「宿泊・飲食」で悪化 熊本地震などの影響",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11UlVYa2ZKWUpOeHRvYkV0U2ZMc0xRdk5HNjUydTFhd3c1a0lpb1VQS3JqcEo4d0dMLTNkREhkam1iUFR3SVA4Z1lXR2FyNFVpMmxBMXVUaVo?oc=5",
       "pubDate": "2026-10-03T09:35:00.000Z",
@@ -74,11 +83,11 @@
     },
     {
       "title": "「復興基金へ財政支援行うと回答」木村知事が木原官房長官と面会 熊本地震からの復旧復興へ要望【熊本発】",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UT1FuR3NrdnU5TXhXQlRXZU9JNE5GZnJrdjJtcUlpUkdoc0szak1LN0RGTHdrcWk2WXFrV1JEOWhlSng4LUgtUTFjcncxUQ?oc=5",
-      "pubDate": "2026-10-03T09:30:00.000Z",
-      "sourceName": "地元メディア",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zdFJVeEVkSEJpbU91dkh4Nm1VRkpLLVQyaEV1RG95NXBTazZwR21RdFFJdDItbGxuZTB0TzE2UlU3X09SMUJNd2ZxU0cwRzZCeE5Kb290cDVsaFh0SFAwR0VKdw?oc=5",
+      "pubDate": "2026-10-03T09:33:32.000Z",
+      "sourceName": "TKUテレビ熊本",
       "type": "local",
-      "description": "「復興基金へ財政支援行うと回答」木村知事が木原官房長官と面会 熊本地震からの復旧復興へ要望【熊本発】  FNNプライムオンライン",
+      "description": "「復興基金へ財政支援行うと回答」木村知事が木原官房長官と面会 熊本地震からの復旧復興へ要望【熊本発】  TKU テレビ熊本",
       "category": "infra"
     },
     {
@@ -91,12 +100,30 @@
       "category": "disaster"
     },
     {
+      "title": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震（毎日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDcVVGM1RqWE1vQlpZeGFmemNGX2d0SzhZV0pDYlltRkQweVdwSlY3RTV6dU5zTkRZZjU4YVB0b2NzQm5LSWRTYVFJa0xJb1lqNFhwVFFUbGRVdXE5VkUwT3ctTHdReEl1QnhtRVcyR3VNVGlBUXA4cDVFaTRYeVU?oc=5",
+      "pubDate": "2026-10-03T09:15:39.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震（毎日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震 (毎日新聞)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWpnXzZmdXMyT0s2dmFZbWQtWnphLTBrdXBWdEJ0WjRxdFU5Q3FoT0lQMElZdWtpMmtZdTNlVks0Vml3WjZlUDBySmhOTTE4c0hOczhyQzRSRTMwclBkWUhyZkhsM0NSVnNwUFdva0dHVWZuTjJzU3BpRVAtaHN0Znpyc3Foa2RiM0tXS0t3?oc=5",
+      "pubDate": "2026-10-03T09:15:39.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震 (毎日新聞)  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zeE1Ebnd3WTNrZnhIZzRBdEJST240Zk9Ua1ljVmlrR21lQWFCYWtNdEpoa25Mcmg4U1JJMmFXRzdTbmppa1J0Y1BlamxlM0ZBRUpncFlOTTdscFY0RUdvQ1lqS2FtRUZv?oc=5",
       "pubDate": "2026-10-03T09:15:08.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震  毎日新聞",
+      "description": "水田で稲刈りすると断層くっきり…「防災教育で重要」 熊本地震  mainichi.jp",
       "category": "disaster"
     },
     {
@@ -213,7 +240,25 @@
       "pubDate": "2026-10-03T04:37:56.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  kab.co.jp",
+      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で断層が出現した水田で稲刈り 八代 [写真特集5/8]",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVBZUFZ6TDZyQ0tPWEVNYXV5U2k2b3Fuc1Vta1FXNG9Na1U0dkxheDdZTUgxOEJDYlNsSGswOEx2dzdJb1pGZ2IweWtubFVzQzJqSUJKTS1JSXFNbkpUSmJ0VWZlZ0dQcHZ5bzJycFJhTUVoYmNXakx2cm1oTnRUekZGbVJsamc?oc=5",
+      "pubDate": "2026-10-03T04:31:54.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で断層が出現した水田で稲刈り 八代 [写真特集5/8]  mainichi.jp",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で断層が出現した水田で稲刈り 八代 [写真特集3/8]",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPak13SzJtbDlUQ2Y1S01kLUJkcWVtWE1TWXBma0o1MEZBa2g0RHRJMzVkU1pmM1NoaG9fUWREb2hIQzU3djNZLTFiNGtmWFpxWnY3UGpkUFNVdmZ4OGhTM0k5TnNLUVJfZDhIVmpKRG1BeXVXeVEzMlRPQU1NZ2xwSUtGZGJkTDg?oc=5",
+      "pubDate": "2026-10-03T04:31:54.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で断層が出現した水田で稲刈り 八代 [写真特集3/8]  mainichi.jp",
       "category": "disaster"
     },
     {
@@ -224,6 +269,15 @@
       "type": "local",
       "description": "熊本地震で断層が出現した水田で稲刈り 八代 [写真特集1/8]  毎日新聞",
       "category": "disaster"
+    },
+    {
+      "title": "震度6強の美里町に初めての仮設住宅 入居開始",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RZWk2c0QyWDBIZWRDUHM0Tll5cWhvSmJYR2QzQ05KclI5RDlTUTd2anVjY0pUcnBWMXNkS0lyLTd5QWV2WTl6VkduZ0FPay05RGpncThiWVdfTWtVandN?oc=5",
+      "pubDate": "2026-10-03T04:30:00.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "震度6強の美里町に初めての仮設住宅 入居開始  NHKニュース",
+      "category": "life"
     },
     {
       "title": "熊本・宇城市の豆腐関連食品製造販売業が自己破産申請 熊本地震で被災",
@@ -316,6 +370,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本地震、井戸水枯渇世帯への支援は限界なのか 「能登方式」給水に黄色信号（関口威人） - エキスパート",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVhaOC1YYm9iNnJvWExlR0JEWXAtblpMTWRrVmJBTUpLU2NzNTdUSVRXTUdFS1dsRUdDSjlLUjhTeXBtZkhpS2FnWF9TNXRocmZVempiQXhJdC1Zd0RpazZKRzNLSEg2N1YwTWxfMXZCUnNXdzJPRGo3c05ueHJBdi1GaDdBcEhW?oc=5",
+      "pubDate": "2026-10-02T22:01:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、井戸水枯渇世帯への支援は限界なのか 「能登方式」給水に黄色信号（関口威人） - エキスパート  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
       "title": "【速報】水俣市で震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QRkRMek0wcWI4dS1oUkJ6d1ZEWDBGX2VNQnVkUkZ5NmVBYTR0UG9Mc0VLbWNtZW0zMzNHYlZobEk1d3psMW5mM2UtVXpvUTQ?oc=5",
       "pubDate": "2026-10-02T21:45:54.000Z",
@@ -384,7 +447,7 @@
       "pubDate": "2026-10-02T20:01:05.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "菓子製造の「しんこう」が熊本地震被災地支援 人気商品のシャーベット 1万1000袋贈る ／福岡  毎日新聞",
+      "description": "菓子製造の「しんこう」が熊本地震被災地支援 人気商品のシャーベット 1万1000袋贈る ／福岡  mainichi.jp",
       "category": "life"
     },
     {
@@ -456,7 +519,7 @@
       "pubDate": "2026-10-02T17:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震2カ月、トライアルが示した復旧力 危機対応の教訓と課題  日本経済新聞",
+      "description": "熊本地震2カ月、トライアルが示した復旧力 危機対応の教訓と課題  nikkei.com",
       "category": "infra"
     },
     {
@@ -469,21 +532,21 @@
       "category": "life"
     },
     {
-      "title": "釜尾古墳の石室が大規模崩落 内部の装飾調査できず 熊本市北区 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83VE13MW9JVmxXWUdSb25NRk1EdVpaWjFaeFJUVkljTzhvbzgtS1Z4M2Y0UFA3dEJON1lqU2RVY1QtdmdwLUY1cWY1R0ZDX1E?oc=5",
-      "pubDate": "2026-10-02T13:30:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "釜尾古墳の石室が大規模崩落 内部の装飾調査できず 熊本市北区 ＜2026年熊本地震＞  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "【独自】雇用維持へ「産雇金」活用検討 能登地震で「特例」運用 出向先の賃金も助成 ＜2026年熊本地震",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRMGUwTm5xMDc1YWlmRnhaUjRDVFVSLThhd3Y2VGdkZUNFQTdhZ2VncmJuRVNnVWZqTzdNVVVFUS1yMVdDM2M2eVhRMDVRMlk?oc=5",
       "pubDate": "2026-10-02T13:30:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【独自】雇用維持へ「産雇金」活用検討 能登地震で「特例」運用 出向先の賃金も助成 ＜2026年熊本地震  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "釜尾古墳の石室が大規模崩落 内部の装飾調査できず 熊本市北区 ＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83VE13MW9JVmxXWUdSb25NRk1EdVpaWjFaeFJUVkljTzhvbzgtS1Z4M2Y0UFA3dEJON1lqU2RVY1QtdmdwLUY1cWY1R0ZDX1E?oc=5",
+      "pubDate": "2026-10-02T13:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "釜尾古墳の石室が大規模崩落 内部の装飾調査できず 熊本市北区 ＜2026年熊本地震＞  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -632,11 +695,11 @@
     },
     {
       "title": "熊本地震から２カ月 発災直後から避難生活、その先まで 変化するニーズに応じた中長期的な支援を継続",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQUJvT0RlanRZRXN2YVQ1bWZrS1FOc2RGSENadmtqV1lkSUdpSFRqRDk2ank2ZEpJcV9uTjVHSjZrZ3R5QWd0ZEstcnVDZENkRTV6UFU2TjBKQ0tvNFE?oc=5",
-      "pubDate": "2026-10-02T10:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mZXRRQjhnUHpPZzFfTWVrNGFUUk40aG1SNnNEOTFWSm9iem94NW9ENlNZSDd3dVM1b2x6b2tQWGRYaEk?oc=5",
+      "pubDate": "2026-10-02T10:03:09.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震から２カ月 発災直後から避難生活、その先まで 変化するニーズに応じた中長期的な支援を継続  沖縄タイムス社",
+      "description": "熊本地震から２カ月 発災直後から避難生活、その先まで 変化するニーズに応じた中長期的な支援を継続  digitalpr.jp",
       "category": "life"
     },
     {
@@ -681,7 +744,7 @@
       "pubDate": "2026-10-02T09:13:45.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和8年熊本地震支援募金 実施のご報告  仙台89ERS",
+      "description": "令和8年熊本地震支援募金 実施のご報告  89ers.jp",
       "category": "life"
     },
     {
@@ -836,72 +899,9 @@
       "type": "local",
       "description": "熊本県で最大震度1の地震 熊本県・嘉島町  Infoseek",
       "category": "disaster"
-    },
-    {
-      "title": "熊本地震2か月 どう支える？多重被災事業者・多重債務",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SQlNHcFY2cGhsTWU2MUUwLVljSWtkUHc1Y0g1OHVNOUVDbEdxTThnVTJhVWZIZEF6UUdySmI1WmM3Tmo0UWJYbjM4eE51d3NIRVBKNVZRcVlNbUx1RnNz?oc=5",
-      "pubDate": "2026-10-02T05:57:43.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震2か月 どう支える？多重被災事業者・多重債務  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【周南】熊本地震被災者へ義援金 佐々木ソロバン学習塾の子どもたち",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JdjhoYmRhR3IxTEtWckYxQkN6dUg0OFk1bXQ4OHJLcTdrZ3VfX0hJdU1JT3E5NGsxQ0FhYWhzMlpCdWlySnE2M0U2V2JrQ0QtWkE1VHd5bWRjbjdkRVhsdThXVkJEcjI5SlVfMEFoVUxpVDg?oc=5",
-      "pubDate": "2026-10-02T05:45:29.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【周南】熊本地震被災者へ義援金 佐々木ソロバン学習塾の子どもたち  新周南新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "「玄関脇にタンク」能登地震での経験を踏まえた給水技術、熊本地震で「恩返し」…断水が続く八代市を支える",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvZmJDdjh6azdUZVRadktCSlhCb29WRE9DUUpnVDRXU0lrc3E2bFhONm5mS1hyYUl3OW1WblNUWGVyd2ZyRmdmMGh5ekNlYmZpTm1qZVRBYUdZeTV5bXhoVk9UVG9XbTdlUzJQLVg4a1Vfdw?oc=5",
-      "pubDate": "2026-10-02T05:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「玄関脇にタンク」能登地震での経験を踏まえた給水技術、熊本地震で「恩返し」…断水が続く八代市を支える  読売新聞",
-      "category": "infra"
-    },
-    {
-      "title": "木原官房長官、復興基金に国として資金拠出の考え伝える 熊本知事から地震の復興要望受け（日テレNEWS NNN）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15cUxaTUVudXVLSDVGQ1hHNHNrajJKNVdmZEhPSkRBUDZUSnVXcmUxbnljLXJTWTJCaDhaZEZkTkxYakpDYlVHbGpvRmh4N1lkeWZKOGhvUDNWdUJvaTV0U0xLZGxlUExWeXZMOGV0WnUzRDRnSVNfSVMyY1ZZOGs?oc=5",
-      "pubDate": "2026-10-02T05:15:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "木原官房長官、復興基金に国として資金拠出の考え伝える 熊本知事から地震の復興要望受け（日テレNEWS NNN）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「熊本地震の対応などについて意見交換・・」・・異業種交流会・ついたち会｜デジカメレポート - kumamoto-keizai.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXpNc0tWZDRkWTB6TFpqQmt4SDBPY1Uyc0hJRmdILW1CYzB0bkhoVHViQU84UWJDWEpyQU9mRXF4Z0U4S1JOa3pZb28tbzNOZ2xwQzRfc0RFdjI0VURKblVnV3VxNkpqTThjaVhKSDF0bjZjcVY5VFIxZWVPeUJERXY3ek5uOW1VU3NDV2pubGE5Sklmd0s2U2p0a0RqRFdPZkJ5dHF5SGFmcmhW?oc=5",
-      "pubDate": "2026-10-02T05:09:46.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「熊本地震の対応などについて意見交換・・」・・異業種交流会・ついたち会｜デジカメレポート  kumamoto-keizai.co.jp",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の復興基金、国が財政措置 木村知事が木原官房長官と面会",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoYTF6S2NuUVhRWUNxU2RSLW9OeXRuM1E3RnFxZnBHZV83cVgyLUVuZGZHcDRlT3hmUnRkNjg4a202QUxkTGtiQ1hKdjFMMHBSeUp5VEp3?oc=5",
-      "pubDate": "2026-10-02T03:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の復興基金、国が財政措置 木村知事が木原官房長官と面会  西日本新聞me",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震や資材高騰が打撃 4期ぶりに\"景況感悪化\" 宿泊・飲食サービスは50ポイントも下落 日銀短観 （RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRVE0OXQyQWtLUzFFUXlWdUdHQjF5YkpmMy1iQU9VQjdmUmJMd2VibFMtWDlfQjVqemNFeVFqZnFvNG4zdXJtekZHUlhKd2s1aHdNTHZraGhOUkFLa0pidHJscjNuN3dLRTUxdnlJYWF4UV9BZ0x2WVVBdGlsdkE?oc=5",
-      "pubDate": "2026-10-02T03:12:17.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "熊本地震や資材高騰が打撃 4期ぶりに\"景況感悪化\" 宿泊・飲食サービスは50ポイントも下落 日銀短観 （RKK熊本放送）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-03T13:04:37.919Z",
-  "lastAttempt": "2026-10-03T13:04:37.919Z",
+  "lastSuccess": "2026-10-03T17:16:44.779Z",
+  "lastAttempt": "2026-10-03T17:16:44.779Z",
   "fetchOk": true
 }
