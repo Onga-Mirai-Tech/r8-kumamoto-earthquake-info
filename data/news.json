@@ -1,12 +1,75 @@
 {
   "items": [
     {
-      "title": "【速報】八代市で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VamZnVGZfQkNHM2hYQ29kSmR4V0tFX0F4a3JyeFM0YTNaSGE5eUY5T0FVdm9LLURITmRrY3BwRjdpR3hESzNaNS1SWQ?oc=5",
-      "pubDate": "2026-10-10T21:24:12.000Z",
+      "title": "熊本県、熊本地震被災企業へ新補助制度 10月16日まで申込不要の説明会",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EMHU5S1dRQS1jaDFEajJ4UlA3MmY0Z2VnSzd2dFJTUWU2eUM4NFNmekpOd1ZaeldOTUFNRmxOOFhzU2FQeUE3cVZ4ai1qWnN0X001Xw?oc=5",
+      "pubDate": "2026-10-11T00:30:56.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】八代市で震度1  47NEWS",
+      "description": "熊本県、熊本地震被災企業へ新補助制度 10月16日まで申込不要の説明会  観光経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞「Snow Man」ら、氷川町の避難所訪問 被災住民らと交流",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85UWRPOVRjWWQ3TEw5bTZnRHl6Rkk5UkRseFNZYU9ocEQxQlZYd25PX0J4ZGttQUZuZTlxNEY3Vi03TE95MmMyX0haN00yeGs?oc=5",
+      "pubDate": "2026-10-10T23:08:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞「Snow Man」ら、氷川町の避難所訪問 被災住民らと交流  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震から2ヶ月超…旅館開放のスザンヌが“感謝の言葉”に気付かされたこと 大浴場が入りづらい被災者事情",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RNjNaek1ldC1ZRkMwNXFBamZ5Q2dtZ1d0UV9GbmJPTm4yZEhETlBKWTc2MnI3QlA0VWNlQWh6OWhXaC1SbjlrUVhDQkJ0cUtXSEtnUGZBcw?oc=5",
+      "pubDate": "2026-10-10T22:50:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震から2ヶ月超…旅館開放のスザンヌが“感謝の言葉”に気付かされたこと 大浴場が入りづらい被災者事情  双葉社 THE CHANGE",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被災の鹿児島線が74日ぶり運転全面再開（西日本新聞me）",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWtfdlJESXZBR0RaS0dkRkljUEJ0XzZsQUlxWmIyeUFBeFBqM1pvZGxQaHlnWWJ4a0RLdHJpd29oc0ZNVDNnYTE4dEdqWGxwSEZBYk1EblhCTC00ajJSOWRkckxrQzFudHU2Qm8xMk16Zm03R2hnaHlaWkNvRnFmN3JwelBxa0ot?oc=5",
+      "pubDate": "2026-10-10T22:24:45.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災の鹿児島線が74日ぶり運転全面再開（西日本新聞me）  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え 動画",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ueDlpQlE2cU02b2w3OHZ2aWdVMnExVEtNY21xb2Z0OWVveERvSDdSWU9uWGg3UkhXVTNTakx2LWdaSVN0Y196dEs2eTlQcmxhVzNDRm9BV1ROemk3Q2oxODgzM05SbnF2THB3VmFsWQ?oc=5",
+      "pubDate": "2026-10-10T22:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え 動画  朝日新聞",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DSWstejc1cWFKdDhEUnZ2VzQ0bC0tSUxhWllNUjNYUTJMVVdzU2RhSzlBS1VFdW9YanRIaWhlQVI2eVQ0bUJMS1NOVmFpTWZBVmVpbVhFVjBZSkxNQ3J0MEZ4Z3RJV0k?oc=5",
+      "pubDate": "2026-10-10T22:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で落ちかけた高速、復旧になぜ2年 橋脚が移動→桁架け替え  朝日新聞",
+      "category": "infra"
+    },
+    {
+      "title": "２０２４年元日の能登半島地震... (10/11)",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CdDhIZVFLS3lTVnltdlY2UXdwRVJpZFRHaHFvdTh3Mm1QS1BoNmFNbDJKUWhQWUlUY1Z5RldvNzVDTWJMdnAxUUd3SQ?oc=5",
+      "pubDate": "2026-10-10T21:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "２０２４年元日の能登半島地震... (10/11)  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcmRZVnNfQXM1T0lGWGp1SkEtaXBmWlpyMWVjNXU0MzB1ZGhHOXlGbHc4RlB1V2tfS1c1Y3FNdWgwNzJkTnk0V1BWQXJGc1U?oc=5",
+      "pubDate": "2026-10-10T21:24:12.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -20,11 +83,11 @@
     },
     {
       "title": "熊本地震で被災の鹿児島線が74日ぶり運転全面再開",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LWUhiU3BVb3JMUXJmMTBiekxZYXVzRVNPbXhNS2xLbm00cXd1dENKYmVWNVh5THg4OWdjMVdWYWhtOVdpNmZka2RwTzQtcWYwYUdWNXFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0VlRhb1VSNWZYNDFkNG5aOUtvQzRULXp2S2tuWWl5TVRoRTFDREpPanRXZXVjbFJwRlpuWDA5c3RRbTYwMnZ6REUtVQ?oc=5",
       "pubDate": "2026-10-10T21:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災の鹿児島線が74日ぶり運転全面再開  西日本新聞me",
+      "description": "熊本地震で被災の鹿児島線が74日ぶり運転全面再開  47NEWS",
       "category": "disaster"
     },
     {
@@ -393,7 +456,7 @@
       "pubDate": "2026-10-10T03:09:34.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災のJR鹿児島線、2カ月半ぶり全線再開  日本経済新聞",
+      "description": "熊本地震で被災のJR鹿児島線、2カ月半ぶり全線再開  日本経済新聞\nJR鹿児島線が全線運転再開 熊本地震から74日ぶり「日常戻った」  朝日新聞\n熊本地震で被災...",
       "category": "disaster"
     },
     {
@@ -541,21 +604,21 @@
       "category": "life"
     },
     {
-      "title": "JR九州74日ぶり全線復旧　熊本地震の被災区間",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0NjMEtQMi10VEwtN2x5Qy0xenozeWpJU3BLY0RuMzVzbUpfbzVhenZvOHBrRDFZWHRNSFk0RUc4R0d1SmdvNGZwVjRzTWFpNk5RMWFsWkNxNFV3VnZERGpRTUdCek9oOWRuYndPaEt4b21RMXBPMDUyQjNNS1hnNV9EYnozWnZEVENj0gGQAUFVX3lxTE1GWVlFcWxrZkx1RzZNSUVES2FZc0ZFOUhmd2RCMktPZDc1cFFzRnRYdm5MczZ5SFZlVHpFVXgzU25QWVVDanR5S1FRMXpfYTBBenFLSklxQVpvdmVqRkU4X3BhN2o5Q0NrLVdrblhSZHJxZkNZLTJra0dWdFFLcFVBMFJySF84cE1oaDdGd050VA?oc=5",
-      "pubDate": "2026-10-10T00:31:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "JR九州74日ぶり全線復旧　熊本地震の被災区間  ｄメニューニュース\n熊本地震で被災のJR鹿児島線、2カ月半ぶり全線再開  日本経済新聞\nJR鹿児島線「宇土～八...",
-      "category": "infra"
-    },
-    {
       "title": "ＪＲ九州７４日ぶり全線復旧 熊本地震の被災区間（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ekJsY0ZJNE51cnVBdmExcmRuRWVqV1ZsMEdrNGxpTTFyNGZVQUNueTBZOFRINkJwMzVtNXJ1Q19PZU5tX0V6QTFKYTBlVGM?oc=5",
       "pubDate": "2026-10-10T00:31:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "ＪＲ九州７４日ぶり全線復旧 熊本地震の被災区間（共同通信）  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "JR九州74日ぶり全線復旧　熊本地震の被災区間",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0NjMEtQMi10VEwtN2x5Qy0xenozeWpJU3BLY0RuMzVzbUpfbzVhenZvOHBrRDFZWHRNSFk0RUc4R0d1SmdvNGZwVjRzTWFpNk5RMWFsWkNxNFV3VnZERGpRTUdCek9oOWRuYndPaEt4b21RMXBPMDUyQjNNS1hnNV9EYnozWnZEVENj0gGQAUFVX3lxTE1GWVlFcWxrZkx1RzZNSUVES2FZc0ZFOUhmd2RCMktPZDc1cFFzRnRYdm5MczZ5SFZlVHpFVXgzU25QWVVDanR5S1FRMXpfYTBBenFLSklxQVpvdmVqRkU4X3BhN2o5Q0NrLVdrblhSZHJxZkNZLTJra0dWdFFLcFVBMFJySF84cE1oaDdGd050VA?oc=5",
+      "pubDate": "2026-10-10T00:31:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "JR九州74日ぶり全線復旧　熊本地震の被災区間  ｄメニューニュース\n熊本地震で被災のJR鹿児島線、2カ月半ぶり全線再開  日本経済新聞\nJR鹿児島線「宇土～八...",
       "category": "infra"
     },
     {
@@ -836,72 +899,9 @@
       "type": "local",
       "description": "｢飲んで、食べて応援｣熊本の日本酒とグルメが集結!｢秋酒まつり｣始まる 被災地からの出店も（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
       "category": "other"
-    },
-    {
-      "title": "｢飲んで、食べて応援｣熊本の日本酒とグルメが集結!｢秋酒まつり｣始まる 被災地からの出店も",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1J1VllQYTlUeG5wRnVLc2F5SU1BbmVTTDJnUC1aOWFBQlg2RkQ1a2VFdk1wVjI4UF9xanMzU01zV1hIVVhnbkI2TXRzWExfOU9HRUdDSlE1MXNfMURNUXpnOHRHWl9JMnRNWEI2cEgtYmxLeGgycmFieTlmWjRqcWl3RQ?oc=5",
-      "pubDate": "2026-10-09T10:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "｢飲んで、食べて応援｣熊本の日本酒とグルメが集結!｢秋酒まつり｣始まる 被災地からの出店も  日テレNEWS NNN",
-      "category": "other"
-    },
-    {
-      "title": "パリで活躍の熊本出身シェフら復興支援 地震被災の八代市に342万円を寄付",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55ZGtRY1libHBwQmxTUzdrTVhpd2VvTFhWVTZQRXROaF9BbWZwYTdvX3hCMU9jOURESVlfdzVfN1h1Q3R0d1FvdGVYWnRhUjU3eGFsR25B?oc=5",
-      "pubDate": "2026-10-09T10:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "パリで活躍の熊本出身シェフら復興支援 地震被災の八代市に342万円を寄付  KAB 熊本朝日放送",
-      "category": "life"
-    },
-    {
-      "title": "熊本市の地震復興計画 検討委員会が初会合 早ければ年内の策定を目指す（2026年10月9日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWlNUNld1Q2FoMlltdW1raGVyNDVoSlI2bHhiaWNtLTNBZmllWWRWbXpJaGtPdi13Yi16bmZRSW1lSXQ2bHZhSHllSlBScXhXZ09vRHRhcmh1SU92QjVmNlJESkY4MVFiZjFObnQzSEd1emRJRi1iQTFuZ0h1V29JN0QwQVZqVXM?oc=5",
-      "pubDate": "2026-10-09T10:24:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本市の地震復興計画 検討委員会が初会合 早ければ年内の策定を目指す（2026年10月9日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本市の地震復興計画 検討委員会が初会合 早ければ年内の策定を目指す",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCbDNRb0hqc0FyaVd0R2RTSXFWdUgtUDlGa1V4TExvNHFqYlpEVDdCTEdYNEpnXzdqclVMemZXeGlDLU1JYmplVHlGM3ZRTWxjRS02LWlSZXVoQkRWT2ZEakxacHVVNDdqckU3WGlB0gFuQVVfeXFMUEJsM1FvSGpzQXJpV3RHZFNJcVZ1SC1QOUZrVXhMTG80cWpiWkRUN0JMR1g0SmdfN2pyVUx6Zld4aUMtTUliamVUeUYzdlFNbGNFLTYtaVJldWhCRFZPZkRqTFpwdVU0N2pyRTdYaUE?oc=5",
-      "pubDate": "2026-10-09T10:24:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本市の地震復興計画 検討委員会が初会合 早ければ年内の策定を目指す  Infoseek",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で派遣された薩摩川内市職員の報告会 消防隊員に活力を与えたコンビニ店員の“ある行動”",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2p4Vll2ZzhvdkZwSFJCaHJxT3QtNUxnZHhBaVZPeXFUR2hsZFctQzhEU3FLNWtrOHVhMDBOSGpNOHNZRjVTLUh0cGxYck1iS2ZmNVl3dnJPWXdmeEtkbUhWdHhETUR0NElmS29SM3lQVjgweWNmdXBSQzl2RHI1MnZxMnhvMDA?oc=5",
-      "pubDate": "2026-10-09T10:22:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で派遣された薩摩川内市職員の報告会 消防隊員に活力を与えたコンビニ店員の“ある行動”  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "｢かっぱの本屋さん｣金龍堂まるぶん店が年末に半世紀以上の歴史に幕 10年前の地震を乗り越えるが老朽化",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZVp2eVJRb21vV2VuTmhvLTFrVmk4dzZDZUZGWHNnNHk0VVFObFhtdHl5NWJ1T0F0RXAxZ0lRQ3dDMGRhMDhxOGpkZDZrNzdQZWFhOWVQVlRfOU15cTY5ZVdPYXdaU19o0gFuQVVfeXFMUG93TTBhbzZpb1NEY1hJZTg3dDQ1bTlEamtpOXg3amVKeWJGVW5GalFoYlZEOTRISTloS0ZHN3c4X1M4RmhNU09pS1BvRkpRLXRRM0pYVDhvYVNJY3h5NGQ2NXdhb25UdWVtdXkyRWc?oc=5",
-      "pubDate": "2026-10-09T10:20:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "｢かっぱの本屋さん｣金龍堂まるぶん店が年末に半世紀以上の歴史に幕 10年前の地震を乗り越えるが老朽化  Infoseek",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本の地震、緩やかに減少 政府調査委「震度4以上の可能性はある。備え十分に」",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3d1dXQ1JvblA3b2lHWmxvcktfbWIzQWNPbklCLWFjVTk2ajNHa0xiR1BHS1Y2NEpRb000ZDZCY2tNMVlHOGMtR3UzMDVwam9FV0RFdm1FYUo2S2xkTVhMLWVLaEFVaVhNb3FHckR6MUZCZTdFekE?oc=5",
-      "pubDate": "2026-10-09T10:18:51.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本の地震、緩やかに減少 政府調査委「震度4以上の可能性はある。備え十分に」  産経ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-10T21:43:50.782Z",
-  "lastAttempt": "2026-10-10T21:43:50.782Z",
+  "lastSuccess": "2026-10-11T00:31:37.584Z",
+  "lastAttempt": "2026-10-11T00:31:37.584Z",
   "fetchOk": true
 }
