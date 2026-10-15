@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4SHp2c210R1JNUmRYX0x0X0VtMHlzMkdIQ2FFc3BHZWFVRTNEOVgySzZVY0JxaGFSY1ZHV21HRTJONlBtd090MTQyRDVrd1hWcWNjcmZB?oc=5",
+      "pubDate": "2026-10-14T23:02:45.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震、復興支援ファンド設立 経産省、最大50億円で被災事業者の多重債務に対応",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85X0NKbmVSdk0wbFgxS0RGOFVCSWREbmctWWZKSktoRHNxTGxuU25kSkpBNG9XUDNDQ2c3NVdnUm53d2VoYnd6MUItQWZEQTNUMnhBb3BR?oc=5",
+      "pubDate": "2026-10-14T23:02:32.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震、復興支援ファンド設立 経産省、最大50億円で被災事業者の多重債務に対応  ウェルネスデイリーニュース",
+      "category": "life"
+    },
+    {
+      "title": "【速報】水俣市で震度1（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TaFJpRjNBRVdBSGdSNC10dVI1b1RNUDFObUw4MTlMckF5NFhsN3V3QmZJSHlNQTE1R283SjRsT29OUzdCUUwwMzliLVFodlZkNzU1aW9jYlVRQkh0OUFXeGhncXBrWlA1OHc4cU9ZR3dBNjNQZEd6aVVSbnh1ODA?oc=5",
+      "pubDate": "2026-10-14T22:10:34.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県天草・芦北地方 2026年10月15日06:58ごろ 地震詳細",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnpNaHQ1cFcwazBacVZzclpjbXM0NWVTVDdfMTVEcE9YYXBjVGRVN2c5MjZVbmdGX01pa0FYZWFlTDdMRkVKbEV4UVE5MU94aTlsdC1aUjFqYzVRYlJRaGZHZk56SldVZkJCclJ6UnM0UlphQ3ZjWk5wV1d2MzZuVjBR?oc=5",
+      "pubDate": "2026-10-14T22:07:56.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度1 熊本県天草・芦北地方 2026年10月15日06:58ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNZEtrdE5LeHR2SHFiRkNyakRtM244bTdsbmxFZVF0SVBEUkN0T3Zva25VWHJyUUFDMlRydXEwRWVKRlE4ektnMlZxRzRLS0U?oc=5",
+      "pubDate": "2026-10-14T22:04:56.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "京都市職員が熊本地震の被災地支援を報告 猛暑の長時間活動に課題、デジタル化で成果も",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GN1I0Zm1nUmNZS29NVGdyQkdJNEF3bjdLYlM5WThIM1ZIY3NQVkxuVTBWdEhJZDZTTDlLTUJoSTRyYm53eUZ5MURaeFNSMXNuVXNVVERyckM?oc=5",
       "pubDate": "2026-10-14T21:20:00.000Z",
@@ -127,15 +172,6 @@
       "category": "other"
     },
     {
-      "title": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uT2hNV3A2dF9RWHJvRWxxT3RLYnN3X3NXdEw1ZFB1LS0teV9sbDZEa0ZOZ25Ea3kxb1d2Ml9rcnRzYm1aamRxTklkNmxYUQ?oc=5",
-      "pubDate": "2026-10-14T10:51:21.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】  FNNプライムオンライン",
-      "category": "disaster"
-    },
-    {
       "title": "[TKUニュース 26.10.14 15:00 ] 外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZaElWSlc1enl0eVpuanRxdEFkZUh5RllORENGNDh4bjlKMDFrZTR2TVZuejJ2ekRPXzgxMmZ0QVFybURvRDY1YmM1ZWpBM1FxMWhIbXB1R2FyRllieXMyWXNUdw?oc=5",
       "pubDate": "2026-10-14T10:50:54.000Z",
@@ -196,15 +232,6 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "避難所体育館の冷房設置 熊本地震で課題 鳥取県内でも設置進む  日本海新聞",
-      "category": "life"
-    },
-    {
-      "title": "STARTO社など参加のプロジェクト、「令和8年熊本地震」緊急支援募金で約3527万円寄付を発表",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VRWhaTzBYUUgyX181MTJWUlY5b0ZFY2hmX2tfcnItT3l5eWhjdFJtcmc1TjFNUHNZY0ZOSEx5OHYxb0J6QlZvd3ptOGlrb0lfbk8wTmtMaGJWTWRseEE?oc=5",
-      "pubDate": "2026-10-14T10:00:42.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "STARTO社など参加のプロジェクト、「令和8年熊本地震」緊急支援募金で約3527万円寄付を発表  新潟日報",
       "category": "life"
     },
     {
@@ -325,15 +352,6 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】水俣市で震度1（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0cnVUTlRHeG1CQm95WVNOMGJtMUZualAwLWljWjZaQkQzLWZQYVhXak1VcHZBV3VJcGN5aVZwaHBsdm94NVo3Znl3M0I0dWdNOVdMX0x3X0NyYU1YMlRhV0ZYb25LVnNIdU9saWhsTVZiZS14TUhLd293cmFMOXM?oc=5",
-      "pubDate": "2026-10-14T07:15:24.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】水俣市で震度1（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
       "title": "司法書士による令和8年熊本地震に関する無料電話相談を 令和8年12月28日(月)まで延長",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SNmU4OEhTakRiUWpMUWh6OTdEcmQyVHhGeWY1V0VDVWJIVW1iRVhyMEpyd1lYVUFuTHd3SnFyMnFOcXNPVk55Wldvb0Zhdw?oc=5",
       "pubDate": "2026-10-14T07:15:00.000Z",
@@ -404,6 +422,15 @@
       "type": "local",
       "description": "第９回おおしま屋復興祭｜お出かけ情報  熊本日日新聞社",
       "category": "other"
+    },
+    {
+      "title": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uT2hNV3A2dF9RWHJvRWxxT3RLYnN3X3NXdEw1ZFB1LS0teV9sbDZEa0ZOZ25Ea3kxb1d2Ml9rcnRzYm1aamRxTklkNmxYUQ?oc=5",
+      "pubDate": "2026-10-14T06:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】  FNNプライムオンライン",
+      "category": "disaster"
     },
     {
       "title": "NewsRelease／NPOカタリバ、令和8年熊本地震で4市町11か所に子どもの居場所を開設、のべ2,300人以上が利用",
@@ -497,7 +524,7 @@
     },
     {
       "title": "イズミ 熊本地震で休業の「ゆめタウン八代」年内再開は困難 来年春には「ゆめマート九州」発足へ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54S2hRSXFGbEtKZ05zMWxHRFlUUl92VDVzREVENnpEOW9vV0Z4V1hGbDJvR2V2QXhyRzM0QkRpbTQ0cUtJX08weFpURGhBdzE5c2lWNWJoVl9BLXpYbG4zZ2NhbTdtTG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpWHl2TW5JZUZGYzZQaG9nTmlMeS1tUEZtbFpMbk5ZYXF6LWpGamFmdTV6ZHNBYWI4WFJaZjNXWV8tSzVYNmdRRkFzMjBhejBFYUhIT1l4dU9pbThsNHdJ?oc=5",
       "pubDate": "2026-10-14T03:06:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -619,6 +646,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "STARTO社など参加のプロジェクト、「令和8年熊本地震」緊急支援募金で約3527万円寄付を発表（オリコン）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "STARTO社など参加のプロジェクト、「令和8年熊本地震」緊急支援募金で約3527万円寄付を発表",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MZVZEZG9sZi1HTzhyYzJucVJhQUhlNlBaQ3FQaVJRVHNybjNGb3VteFhGd3Z2TGUxWU5MVWxGS3ZaWnZnajRQNW8tV185OTJZT3JJdklB?oc=5",
+      "pubDate": "2026-10-14T02:13:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "STARTO社など参加のプロジェクト、「令和8年熊本地震」緊急支援募金で約3527万円寄付を発表  オリコンニュース",
       "category": "life"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "外国人実習生、熊本地震で被災…避難所の運営を手伝って サポート情報や支援物資「知らない」人も（withnews by 朝日新聞）  Yahoo!ニュース",
       "category": "life"
-    },
-    {
-      "title": "熊本地震から2カ月 毎日の水汲みで住民疲弊 生活用水絶たれ自力給水 行政の動き乏しく置き去りになる高齢者",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zTFFnUjhDRHktMllDMzdqMXIyd1U0MFVlWjdJYzVxSWIwd2pqcGxCd0xkckpIWTJIdnA2eEVYR2FHcFU3MjZkRGZrck1ac0N4akUxLQ?oc=5",
-      "pubDate": "2026-10-13T22:03:05.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震から2カ月 毎日の水汲みで住民疲弊 生活用水絶たれ自力給水 行政の動き乏しく置き去りになる高齢者  長周新聞",
-      "category": "life"
-    },
-    {
-      "title": "外国人実習生、熊本地震で被災…避難所の運営に協力　サポート情報や支援物資「知らない」人も",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlBtQUMweGx0X0hiSG5qeE5lQTR1dzktS2pKaDgtV1YzVzBucVBDUjRndWFqc3hkcl9ESTlIZmFaU1VSMV9OS2tocHViLUtkeVlNbm84cTB6ZThDUEpGUGtsRlhwWXhBS1dzVUNOYXlhdzJGWU16U3R3TnVlellwWDFfeEHSAYoBQVVfeXFMT1ItZmpndWFERm5UUGM1WTYza2c1aUEtUXVGMHZtTzJfSHFPZEV4WWFxNVI3d091VklwZXFNb29OLVRGbk01Vm9WRXNZTnBpaWdXMFd4V2RMRk83Z3ZScGxqTUpIRjdLLW5pSkJEa0hMVDRJMlE5UmVSeFpRVjBmMDkzWVVucWVMcEhn?oc=5",
-      "pubDate": "2026-10-13T22:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "外国人実習生、熊本地震で被災…避難所の運営に協力　サポート情報や支援物資「知らない」人も  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "外国人実習生、熊本地震で被災…避難所の運営に協力 サポート情報や支援物資「知らない」人も（withnews by 朝日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTUxVRTNQdnp1RXJMNXphdThDXzRlNGxGSzc5NEEyN25QSGY5ckh2bGczdEpkeEpfWE1GRHM2aUh5TUdTR0NHRE9mMjRVV3dCSEZuRUFVYlBCSEVlbzlWMlhRSTYxOGM2V3dvYkNCZkNMMm5PQ2FRckdtZFJDMzA?oc=5",
-      "pubDate": "2026-10-13T22:02:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "外国人実習生、熊本地震で被災…避難所の運営に協力 サポート情報や支援物資「知らない」人も（withnews by 朝日新聞）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震 鉄道が全て復旧 「肥薩おれんじ鉄道」再開",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xRmRhLXNtbzIwRE9xTmxNOC1HZVY0bl80ZzZiNUIzbERGUG9YMGdSUTJoSVBWOFFVUUFLWVhMTzRZY3ZXTTFmbjNvdVlXZw?oc=5",
-      "pubDate": "2026-10-13T21:43:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 鉄道が全て復旧 「肥薩おれんじ鉄道」再開  FNNプライムオンライン",
-      "category": "infra"
     }
   ],
-  "lastSuccess": "2026-10-14T21:41:13.738Z",
-  "lastAttempt": "2026-10-14T21:41:13.738Z",
+  "lastSuccess": "2026-10-15T00:07:35.954Z",
+  "lastAttempt": "2026-10-15T00:07:35.954Z",
   "fetchOk": true
 }
