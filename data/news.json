@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EWGkydDZ0ODdWWkd0Vk9YcGVuMl9LeDZwRnE2N0RhTWxYLVdHREJZSmY2UXFoTmZ4WHlXVVNTMjBKRWFoV2ZMdFFQRldma1htTHoyN2l3?oc=5",
+      "pubDate": "2026-10-17T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮  西日本新聞me",
+      "category": "life"
+    },
+    {
+      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１５日） ▼南相馬市の原町三小が８万２０５５円",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tcl9YSzRJbEswSEtwek9sTXJ4VVQ1MHRseE16d010Szd2SkxhMC1mMFkwRl95cHRFRTFDcndLckM2OGNHYmlzaTB2ZHZjZlk?oc=5",
+      "pubDate": "2026-10-17T20:52:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１５日） ▼南相馬市の原町三小が８万２０５５円  福島民報デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5md0hHZnRaOUxrYzMwRjByekVFY3V0ckswX0syTXZZX2h3eC1WeDR3OGlxYmhBVGp2UWVWLWE4VHJHR1VyRFRTUm9SSQ?oc=5",
+      "pubDate": "2026-10-17T20:51:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "（２０２６年熊本地震）熊本、まだまだ助けを求めている ボランティア半減、人手足りず",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsVExGcEZCcjZDblN1ajE0b2xHMElURzlOWEQzMjJWcTY3emF0Y2w3cTFCUEdCMjZJUmpUcDlScHB4N2JiX0diN1A1d2s1YUVQbXlCR1A5ZTRlc3Bf?oc=5",
+      "pubDate": "2026-10-17T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "（２０２６年熊本地震）熊本、まだまだ助けを求めている ボランティア半減、人手足りず  朝日新聞",
+      "category": "life"
+    },
+    {
+      "title": "【18日の交通取り締まり情報】",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ19oeHBfVW85aXVzeUJLWHRRSlFIaXZWTTFSbDl0dXhUekFqZ1NsRkpZeWUtbDZaVlkxQlVjVUs3Y1JiaWlkcjVUUWJvSGpJVjFiR2w4UHQ5TnNldXlrRXVHOTJPQ3IzLThGR29HNHFWU0xjbllmeVE4VWtMNzhfS2h3T3F6VmhYcDN6Yjd3M2czaDZVR3BUdg?oc=5",
+      "pubDate": "2026-10-17T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【18日の交通取り締まり情報】  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "日奈久温泉、お湯供給できず 2026年熊本地震で配管など損傷 八代市",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Yk1LVVBDZzdJZE9hVzdYQWU1N3VmQ2J6Y1M0a204Vzlrb0lGSlJSbXlzaF80dDYtYmUtZjA2Y2Zna3gzQVBFZ0lnNzY1Szg?oc=5",
       "pubDate": "2026-10-17T13:30:00.000Z",
@@ -83,7 +128,7 @@
     },
     {
       "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出 (ＫＫＴ熊本県民テレビ)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0Myd3dFYVBObnFBLW1EWjFZUmtKV3ltLVhXNUtnUEFCVlltTF9SY3oxbmZKNTJ1a2JKWS03VENGSE1BaUZPeHlVWHpFamQxdEFnM056SnV0NmMyZUY0MTMwSHNFVlMyNDRsV3cyZy1TYnpJZlI3YU5qRnlZSDdEV1RNWG1KOUo2T2ZQTjVn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGdCVGpDWmdWeFRraVdLN2szZFNOYVBBS1paTU02U3NWM1o4RWNIeTVBN1dhd0FoV3V1dlMyZHhzZF9YSEVVQXVPOHpVVU9FaGwxZ1FBV3ZiRXRHQjJxQmR2LURMX0JQS3BGdXVvNnZZWGY5RkZ6REFPRHBJNlNqV2NoWHYxWmg1TTA0Rzln?oc=5",
       "pubDate": "2026-10-17T08:40:01.000Z",
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
@@ -123,7 +168,7 @@
       "pubDate": "2026-10-17T04:53:53.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう（スポーツ報知）  Yahoo!ニュース",
+      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう（スポーツ報知）  Yahoo!ニュース\n熊本地震復興支援大会のスーパーGT第7戦オー...",
       "category": "life"
     },
     {
@@ -209,7 +254,7 @@
     },
     {
       "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RYWlsU3NiMVZUblNMcWZEa2FmMlNjXzR6dzFOczJfblliTFVzUzl5YTF3Q2dwQmRCNW9zdEQwS0FhVnVWcHU1eEw2MmhRd1ZMemItSVpfWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BN2wwVU94Tm5HemRCeE03NTJtRDM1aVR4UnpVbUxVbm9pVTlqUlVaNUxhTkgydGxxS1g2WTdDZHZkRTAzWTJYRXQ4SWphLWpleEtham0zbnlqMF9nN0xXeHFnWWtLcVk?oc=5",
       "pubDate": "2026-10-17T02:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -316,21 +361,21 @@
       "category": "disaster"
     },
     {
-      "title": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FbVFqQUVYLWVTRzBmNElzYWV1MERfeTVENVlZWWFDb1Nkek44c09FQ0xhdGNZVnJ0SWlZUHZQWnlQcG5rOWVpdDF0VlRwczNWcXZxZ3Bn?oc=5",
-      "pubDate": "2026-10-16T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響  西日本新聞me",
-      "category": "disaster"
-    },
-    {
       "title": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼郡山市のうすい百貨店が１３万円",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kQk84akNTM2FocFFaYUFVNmpSM3F1UFNybWpIdXVYc0laMzBKN2dQTWUyRVdrNXdSZzQxS3lsMHE1cVBpdmdKZ1FITmhSMXM?oc=5",
       "pubDate": "2026-10-16T21:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼郡山市のうすい百貨店が１３万円  福島民報デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvY2NsYWRseE9wcHVtLU1MQUlfS1VuSmhHdFdLVTExcXc1TS0wdDl3Wko2ZTQzSFdROEZBQVQ0QzRobGRTNHh4TWFZbw?oc=5",
+      "pubDate": "2026-10-16T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響  47NEWS",
       "category": "disaster"
     },
     {
@@ -577,21 +622,21 @@
       "category": "disaster"
     },
     {
-      "title": "震度７緊急地震速報を取り消し 過大推定と気象庁、原因調査（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcWNPTVcwamFod1J2aEd4WVYzakFLZTRPVEpIemtITjlZelFYeDZkUjBPUHFJWUp6MnFoMDc3MURSclZJZ3ZteUNjbl83WU0?oc=5",
-      "pubDate": "2026-10-16T09:25:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "震度７緊急地震速報を取り消し 過大推定と気象庁、原因調査（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "秋香る、伝統「焼きアユ」始まる 八代市の被災商店 ＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mU2p4a3EyejZfVzNhSUNYZENiU0JPTmo4S2lJekxFeW9IdGdkSm82VkVkOHpWNWNDUUdiU2pmOWs5ZGViSXVkampSZi01UG8?oc=5",
       "pubDate": "2026-10-16T09:25:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "秋香る、伝統「焼きアユ」始まる 八代市の被災商店 ＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "震度７緊急地震速報を取り消し 過大推定と気象庁、原因調査（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcWNPTVcwamFod1J2aEd4WVYzakFLZTRPVEpIemtITjlZelFYeDZkUjBPUHFJWUp6MnFoMDc3MURSclZJZ3ZteUNjbl83WU0?oc=5",
+      "pubDate": "2026-10-16T09:25:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "震度７緊急地震速報を取り消し 過大推定と気象庁、原因調査（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "【令和8年熊本地震】避難所でCheerful Projectによる支援活動をサポートしました  Peace Winds Japan",
       "category": "life"
-    },
-    {
-      "title": "建設型仮設住宅、計1500戸 熊本県が当面の整備計画発表 [熊本県] [2026年熊本地震]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lS3l4MFBqM0F4VC1seklIejV0MEJNeHhpV0pSdW9UamtxeHFWUndIb1VJQ1lNR094aFVBc3B2ZnJlRjdVSUdGbTNqN2pKNkY2WnBKcmdpVjI3aDllR3UydGhrdXd6V2c?oc=5",
-      "pubDate": "2026-10-16T02:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "建設型仮設住宅、計1500戸 熊本県が当面の整備計画発表 [熊本県] [2026年熊本地震]  朝日新聞",
-      "category": "life"
-    },
-    {
-      "title": "十勝岳の警戒レベル２に 活動低下、火口周辺規制（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fdF9Wa3QxWmhDTDNiaGo5ZmpqaDR6Rm1rUzJPRzlaVXU2R3BRY0VCanIyRmNZZ3M4NURVbU1xQ1hpSUlhM2NBWHFia3oxTFE?oc=5",
-      "pubDate": "2026-10-16T02:28:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "十勝岳の警戒レベル２に 活動低下、火口周辺規制（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "森三中・黒沢、熊本県氷川町の“1玉3300円”奇跡の梨を購入⇒熊本地震を耐えた味に「美味しい」「支援にもなる」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wOWdiVXZqQXAySzc1X2FUUXV3Z2J2NVE3RmQ4ZFFXUVlaZ0hhWjI1S0tPZTlhdFRqbWN2QlpzNDZvNWRqd1BoVGFvaGk3U0RjNV9BSnRYdG1JS0pKTEhfakRZd19RZ0RYWGJmWG9CS2ZyaExvZ21KdXdxS1d0S3c?oc=5",
-      "pubDate": "2026-10-16T02:27:59.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "森三中・黒沢、熊本県氷川町の“1玉3300円”奇跡の梨を購入⇒熊本地震を耐えた味に「美味しい」「支援にもなる」  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "福岡県大牟田市で九州市長会、熊本地震の被災者の生活再建や活力ある地域社会の再生などを国に要請へ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTFhyc3JLbzZLN2RuZVJpQVpfYWREb2wxMzdTRHdUU2c4QTEzcmVxM1JZN0VwT2RNTi1jMUNldXdPTlV1dC16Q19NVnFkZ3hWelBRTE83WEwxOXRHd0JDSUxnMmZjakNRM2dPazZhd2hLYWowbzd3VEVQMU9mN0k?oc=5",
-      "pubDate": "2026-10-16T02:24:04.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "福岡県大牟田市で九州市長会、熊本地震の被災者の生活再建や活力ある地域社会の再生などを国に要請へ  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "８月中間連結決算、熊本地震の影響が流通企業にも…各社が気をもむ「物価高の行方」（読売新聞オンライン）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XS0l0RFVLZV9tbmNJcXNYWHBmVVQ4SzQ0OUVxVHowU3lWai1KSENEbTJYTHpoelNXdXE1QkdoOXNDSG5ISkl6V3lzbTVLc3lOUHBlUGo2Nkk3SmVlMW1RZnVGdjFFVWI1V1NSZlZfcmE3MGpxUUgxMDBmOG81M3c?oc=5",
-      "pubDate": "2026-10-16T02:23:38.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "８月中間連結決算、熊本地震の影響が流通企業にも…各社が気をもむ「物価高の行方」（読売新聞オンライン）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-17T18:45:28.434Z",
-  "lastAttempt": "2026-10-17T18:45:28.434Z",
+  "lastSuccess": "2026-10-17T21:15:19.553Z",
+  "lastAttempt": "2026-10-17T21:15:19.553Z",
   "fetchOk": true
 }
