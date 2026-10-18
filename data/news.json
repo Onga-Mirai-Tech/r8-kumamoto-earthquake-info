@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "震度1 熊本県天草・芦北地方 2026年10月19日07:14ごろ 地震詳細",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDh1MWV1X09YOTZweFlVNHVTdjBVelhZc2V1ZlVWYVhZSVpWeTFSQVBYRXViLURDdGFZZlJXaWY3VzFUNlpLcWo3VkltZHN5akRoZTFGRDkwTWs5WlpBTW9XVHc0ZFdOejJ4NGRCb2ZTamNIc2w1NzJlUThJQkw2T01n?oc=5",
+      "pubDate": "2026-10-18T22:22:03.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度1 熊本県天草・芦北地方 2026年10月19日07:14ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】芦北町で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiaGVCa043WnBRSldTc0FJUGdyMXNBbS1DOHBQbzVXWjN5bGd6RlliNDJFekJOVzZZNUhuVkp2eUw3TEhBc2xLcXNjVWdCXzg?oc=5",
+      "pubDate": "2026-10-18T22:18:48.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "「非現実的な光景に恐怖」イオン爆発事故 救助隊員は声の元へ進んだ [熊本県] [2026年熊本地震]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNT2d1RHlMOTlzS3RUZi12Ykx2NGR3bjZvRHJDNDRrVzhYQVdlR1M3SEl5S2N3cllvbzhrUXhpS2dQNDMzeWZuR1FTNjVJQ3UtaFFKQTNlYjhUZHFnVzB3MzRiRFBBMGM?oc=5",
+      "pubDate": "2026-10-18T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「非現実的な光景に恐怖」イオン爆発事故 救助隊員は声の元へ進んだ [熊本県] [2026年熊本地震]  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "田中あいみ 熊本復興コンサートに出演 「明るい非日常を届けることができたら」被災地へエール（スポニチアネックス）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ET3RES2I0UGk2c1NTcm5jODcyVWdzdUtYbjBtNFhibVhhcG9GUGV2M0V6cUhXREVwQXZ5clpLRFVTQkpNbmhKZ1FsUUphUGRReTJnWEZaa0dRRjI1QTVlUlFwSm1jXy1aaUJPdUlXVnFkTGFJNkRLVVZ0WVZzUkU?oc=5",
+      "pubDate": "2026-10-18T20:43:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "田中あいみ 熊本復興コンサートに出演 「明るい非日常を届けることができたら」被災地へエール（スポニチアネックス）  Yahoo!ニュース",
+      "category": "other"
+    },
+    {
+      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼福島市の吉井田小が９万３００円",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Xa19zNmRyUzkwVk01ZVJXTmZmaGlOdjREelUzOEJmQzIzMEJ0WV9GTWxSdFJ4N2NUaEJwV2Y2QkVyRU5TTWFRTlJWTQ?oc=5",
+      "pubDate": "2026-10-18T20:40:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼福島市の吉井田小が９万３００円  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "令和8年熊本地震復興コンサート「FUTURE」＞出演前に復旧に向かう熊本城を目にした田中あいみ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEp1NzIxSkRLRDVOR2htNDNhUS1uQU9PeWg1UUg2SkRId3hJMHp2MnV3Z3NQcUJidnJwVnNfcEFMQVQxZXB6ZzVRbVRxYlVSS0c5cHVSLXlPejRrcl9nb1hYOGZ2WmRmMThyZ3MwRlNTUk1ISjhlQVFla0NnS3hDUTdrLXZ5dTZlMnd2U2NJN25tYS1LbGc?oc=5",
+      "pubDate": "2026-10-18T20:39:57.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "令和8年熊本地震復興コンサート「FUTURE」＞出演前に復旧に向かう熊本城を目にした田中あいみ  スポニチ Sponichi Annex",
+      "category": "infra"
+    },
+    {
       "title": "熊本地震で義援金寄託 絵手紙協会、赤十字支部に",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Z3lxRVNDMmJyYnJlNV9yWkd4cEZ2QVhoSWRWTmoycWlndVo0SDAybS1qX1ROTV9TRDdGTXlFMWRWSWxieVVvUXQzS0h5cWhDT1I1UFYtOFhRUnBVUVE?oc=5",
       "pubDate": "2026-10-18T20:00:00.000Z",
@@ -16,6 +70,24 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "2位は「Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト」20代以下の注目トップ10  日経クロステック",
+      "category": "disaster"
+    },
+    {
+      "title": "【19日の交通取り締まり情報】",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1JzZEQtbVhDOTJQRjVKLVhUaC1pcFZHZnZlemFPY0FYSkMtOVZDUWVaNXd3ZkVoclc0ZlZwN2RfemE5ZjVuMWdBQi1tSlJ1V1JqWEZxcWZtRUgtLWl6eFk5ZjFFQjQ0UVh1NmlmRkRUWmE2ZjNRLVBpemxmUlNlM29hM0M4U1pqdlBoZFdKSTdCdDZKNDhNYQ?oc=5",
+      "pubDate": "2026-10-18T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【19日の交通取り締まり情報】  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "イズミ・27年2月期 熊本地震影響も増収増益を達成",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9URUdRMURDNjdrMUE2S1N4SVpNU3Jwc3NqX1NOb3ctdVZDcTF4dlEtYVFmU3YzWjJkRXhxU1E4NUNyQi1TWVNCYi1DY052N3RmTF9BNzFWOHVVRlN4ckp4cVljbDNtNmdf?oc=5",
+      "pubDate": "2026-10-18T15:06:05.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "イズミ・27年2月期 熊本地震影響も増収増益を達成  日本食糧新聞・電子版",
       "category": "disaster"
     },
     {
@@ -118,12 +190,12 @@
       "category": "other"
     },
     {
-      "title": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlBENF9EQjNTX0tJY1EteEdabkw1d3d3T0wtTlNLcmw4LUpuT2pIcndOWHJEWnloQnJKWWdYOGNOR1VxM2J5T0UwbzBYRXJBdGoyTVo5S21tZWtXd01HZGs3UjlVLUU2QTNEVWhRQmtGN1VjRGhXYVBzUGUtN3M?oc=5",
+      "title": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUpaSFFZak1mdG1NazJfekU4dU1yRXNTMGRzZ3NOc0RYZU1XZjNkX29LY3F1MndEN0NrNDhWdjdtbHlySTN4Z0hMMlkwcm5sOHF5MGlLQ1FrRkloUnQxRTNHRjFWbFpfX05IX3paRFhZVnVJeGxrY0FVX2c1NUhud3hmdjQzd1ZDbkJMaXlYYkZDdFpnLVE?oc=5",
       "pubDate": "2026-10-18T12:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）  Yahoo!ニュース",
+      "description": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる  スポニチ Sponichi Annex",
       "category": "disaster"
     },
     {
@@ -136,12 +208,12 @@
       "category": "disaster"
     },
     {
-      "title": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfMjBxOWVGclFGMjNLWURkSFJZR2NXRmwxQUVZb2VyUm9GWl8zdUxBd0M4Q2lqQ19RVkdEcWlUVmFtcXNJQ2ZfNUhYQWhXblJXZjN2N0tFVjZSdFVMUnln?oc=5",
+      "title": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlBENF9EQjNTX0tJY1EteEdabkw1d3d3T0wtTlNLcmw4LUpuT2pIcndOWHJEWnloQnJKWWdYOGNOR1VxM2J5T0UwbzBYRXJBdGoyTVo5S21tZWtXd01HZGs3UjlVLUU2QTNEVWhRQmtGN1VjRGhXYVBzUGUtN3M?oc=5",
       "pubDate": "2026-10-18T12:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる  ライブドアニュース",
+      "description": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -361,6 +433,15 @@
       "category": "life"
     },
     {
+      "title": "チヂミやキムチ！ダンスも！日韓文化交流 熊本地震復興応援イベント",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1c0dKdTNxSUZLZEZXWTRmaUw3ZVh3em4yZ29PM0piajBGOEV1RGU5ZGp0MGZJWkRVN2loYVlWTlVDUExfM1dpWXZtVk9SLS12akdWQ3cwVWpMNUxLQXRyVkVGQndSb00?oc=5",
+      "pubDate": "2026-10-18T04:01:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "チヂミやキムチ！ダンスも！日韓文化交流 熊本地震復興応援イベント  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
       "title": "【スーパーＧＴ】熊本地震復興支援大会 被災地から約１００人を招待 「やれることはみんなでやる」と坂東代表",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JZ3NxVmRFbTJMVENwZ1J6ZVRMRnhIQzhlZVVHOU1vM3EwWXdCeHJDaWJZdzlYOEJEb1BWY1M4U3FrZGdZeHk0?oc=5",
       "pubDate": "2026-10-18T04:01:00.000Z",
@@ -368,15 +449,6 @@
       "type": "local",
       "description": "【スーパーＧＴ】熊本地震復興支援大会 被災地から約１００人を招待 「やれることはみんなでやる」と坂東代表  スポーツブル",
       "category": "life"
-    },
-    {
-      "title": "チヂミやキムチ！ダンスも！日韓文化交流 熊本地震復興応援イベント",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aX0dJQzlHR1RjUXpPT0dENkIta09IMG95eXNOMGN1UGNLU3Y1WnRuX0lpamQwYlg4MTdOZFdNLTF1c0pKM0xKMUlGN0gtTy1TUlR1NXAyZFVPUQ?oc=5",
-      "pubDate": "2026-10-18T04:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "チヂミやキムチ！ダンスも！日韓文化交流 熊本地震復興応援イベント  TBS NEWS DIG",
-      "category": "disaster"
     },
     {
       "title": "【スーパーＧＴ】熊本地震復興支援大会　被災地から約１００人を招待　「やれることはみんなでやる」と坂東代表",
@@ -424,21 +496,30 @@
       "category": "disaster"
     },
     {
-      "title": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU3VwOGttZE5xYWF0MkRwN0drMS0zRVliNWtyc3kwYUpRcV9QeXROZnBWb0tXeHVtZ3ZBVlBjV19KQ1pjQjk0V2pXQkJ5TGI4UktJS0Rn?oc=5",
-      "pubDate": "2026-10-17T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援  西日本新聞me",
-      "category": "life"
-    },
-    {
       "title": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EWGkydDZ0ODdWWkd0Vk9YcGVuMl9LeDZwRnE2N0RhTWxYLVdHREJZSmY2UXFoTmZ4WHlXVVNTMjBKRWFoV2ZMdFFQRldma1htTHoyN2l3?oc=5",
       "pubDate": "2026-10-17T21:00:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮  西日本新聞me",
+      "category": "life"
+    },
+    {
+      "title": "被災者の熱中症対策に注力 日赤福岡県支部、熊本地震被災地に77人派遣 「自助と共助」の大切さ訴え",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV0RwaTczQzhha1dHUEM1RzFYNjdGNnpIQ0dQMjVndWtNWEZpVmx5VlZSaWU5by1IOE45SmU4a1VBdmd5U01iZlIxOHlYTnktU1pkSDdn?oc=5",
+      "pubDate": "2026-10-17T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "被災者の熱中症対策に注力 日赤福岡県支部、熊本地震被災地に77人派遣 「自助と共助」の大切さ訴え  西日本新聞me",
+      "category": "disaster"
+    },
+    {
+      "title": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU3VwOGttZE5xYWF0MkRwN0drMS0zRVliNWtyc3kwYUpRcV9QeXROZnBWb0tXeHVtZ3ZBVlBjV19KQ1pjQjk0V2pXQkJ5TGI4UktJS0Rn?oc=5",
+      "pubDate": "2026-10-17T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援  西日本新聞me",
       "category": "life"
     },
     {
@@ -452,11 +533,11 @@
     },
     {
       "title": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xRTRvSVBLVXdkTWlWUjVxRVNUQk9jZERIalY1ZzhQZktoSXVHNm1ITi1nbkxuSWZmZ0xNeHQ1UzJPVG9BeTdKRGR3Y0JzM0U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5md0hHZnRaOUxrYzMwRjByekVFY3V0ckswX0syTXZZX2h3eC1WeDR3OGlxYmhBVGp2UWVWLWE4VHJHR1VyRFRTUm9SSQ?oc=5",
       "pubDate": "2026-10-17T20:51:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円  福島民報デジタル",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円  47NEWS",
       "category": "disaster"
     },
     {
@@ -568,6 +649,15 @@
       "category": "disaster"
     },
     {
+      "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UTRsbFBMZFBNVmFlR216VjhmVFNVUzZhYXhCUmpvTGpjUlBkTjBIOE9FU0Z1aFFBbWVlQUFKUmtqNE56a2xPYjZoWllJMkRWanJtbXVWNFh1Vl9sZ0s0TjdXcDJHdWFHWG9Ia2hwVmRoaExPUUpPYklkT2c5Zlk?oc=5",
+      "pubDate": "2026-10-17T08:40:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
       "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）｜KKT NEWS NNN",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1ZoZmVYTjI5aGE0YnBKRGNySlpsNi1JbFo5U1llRjFoLVY2MUQ1Y01tckl0MGQ1QWNObGIzU3VvQ2JGQXdhWHBhUEJPNTJrZ0h3bUdPZU10TEdRTUg1QU5YNEV1eklMS3N4TEs4N2JOUVQ2eGdLQXRzQ2JkNGs3NzBBcEhoWVU?oc=5",
       "pubDate": "2026-10-17T08:40:01.000Z",
@@ -583,15 +673,6 @@
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
       "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UTRsbFBMZFBNVmFlR216VjhmVFNVUzZhYXhCUmpvTGpjUlBkTjBIOE9FU0Z1aFFBbWVlQUFKUmtqNE56a2xPYjZoWllJMkRWanJtbXVWNFh1Vl9sZ0s0TjdXcDJHdWFHWG9Ia2hwVmRoaExPUUpPYklkT2c5Zlk?oc=5",
-      "pubDate": "2026-10-17T08:40:01.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -623,11 +704,11 @@
     },
     {
       "title": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZUZWRHFFWmFLQ3dmY1JCVktQZXZVRXlodEN3ZzBJZDBPc0t4Y1ZtZ2x1azF3WDhNdnM0NjgwczY2NjUxT3A5Y3l6UGFHVVdnV2JuUFpiSVhkdlU0NHVTb2RR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIN3RJVnAxQjl6c3EzZXNpUW1qb0VfNlNZYzdQbE1wOHJ0WTlRckNpTlNDM2xFeW5jZVVMeERMVFpxcDB5c25J?oc=5",
       "pubDate": "2026-10-17T04:53:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう  スポーツ報知",
+      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう  スポーツブル",
       "category": "life"
     },
     {
@@ -818,90 +899,9 @@
       "type": "local",
       "description": "誤報防止機能が正常に動作せず 遠方データで緊急地震速報（共同通信）  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "熊本・八代港のコンテナターミナルが部分的再開へ 10月18日、熊本地震で停止",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Nk11T2xWaHI3R1NDVlhodDhHbERtc2pZNjQ4dFEzR3RuUFMwRDlONnVJdFM1bTlJR19RR05ud0NtLTRscXRiM01fSQ?oc=5",
-      "pubDate": "2026-10-16T22:15:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本・八代港のコンテナターミナルが部分的再開へ 10月18日、熊本地震で停止  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼郡山市のうすい百貨店が１３万円",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kQk84akNTM2FocFFaYUFVNmpSM3F1UFNybWpIdXVYc0laMzBKN2dQTWUyRVdrNXdSZzQxS3lsMHE1cVBpdmdKZ1FITmhSMXM?oc=5",
-      "pubDate": "2026-10-16T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼郡山市のうすい百貨店が１３万円  福島民報デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvY2NsYWRseE9wcHVtLU1MQUlfS1VuSmhHdFdLVTExcXc1TS0wdDl3Wko2ZTQzSFdROEZBQVQ0QzRobGRTNHh4TWFZbw?oc=5",
-      "pubDate": "2026-10-16T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州の2026年度経済成長率、下方修正し0.9％増に 中東情勢による物価上昇や熊本地震が影響  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "みんなの家「笑顔満開に」 熊本・宇城市の仮設団地内集会所 地元高生が表札揮毫 設置式",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14NDRWdGd1UUVFR3ctR3o0Uk42Sm52RFlYNFItYVBRdE51ZDNJbnl0NGh6THBxLWp4YXdoX1NHOWRNSTJJYXJLZmxLMA?oc=5",
-      "pubDate": "2026-10-16T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "みんなの家「笑顔満開に」 熊本・宇城市の仮設団地内集会所 地元高生が表札揮毫 設置式  47NEWS",
-      "category": "other"
-    },
-    {
-      "title": "［熊本県］みんなの家「笑顔満開に」 宇城市の仮設団地内集会所 地元高生が表札揮毫 設置式",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93X01ZcHRkMHZRV3VPMHdOOFUwVTdLa1E2OHRXSHdTREU5dlpFYmhDS3lwMC12OEU3RlhyOUg0QU9GU3FPcXVfVjY1amppR1l4cWxPWUF3?oc=5",
-      "pubDate": "2026-10-16T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［熊本県］みんなの家「笑顔満開に」 宇城市の仮設団地内集会所 地元高生が表札揮毫 設置式  西日本新聞me",
-      "category": "other"
-    },
-    {
-      "title": "「ペットと一緒に避難所」の理想と現実…熊本地震や千葉豪雨では利用を断られたり苦情も",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4R1dDMkxQaEliLWtEQ1VqMWpOQ2tEN2xKT1pBRV93d1o0OV9URnRFd2VFNXBTcXZtQkNkV0VYNTE2TmRpSW1SeTZzUGw0U0hDSDlv?oc=5",
-      "pubDate": "2026-10-16T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「ペットと一緒に避難所」の理想と現実…熊本地震や千葉豪雨では利用を断られたり苦情も  東京新聞",
-      "category": "life"
-    },
-    {
-      "title": "宮城・涌谷町女性防火交通安全クラブ連合会が熊本地震で義援金",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcEZFX3NVRy16NUVoSnRJYVVRWF9wU3ZDeXFVTFE2aVFQT2hKX1AyNzhTMmUzY2JmWHY0cUFJLWY4akNIV1ljMVN0ZTBwRnNPUklWQmJ5Ml83dFE?oc=5",
-      "pubDate": "2026-10-16T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "宮城・涌谷町女性防火交通安全クラブ連合会が熊本地震で義援金  河北新報オンライン",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震復興支援大会のスーパーGT第7戦オートポリス、GTA坂東代表らが大分県知事を表敬訪問「大いに盛り上げて」",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MeFBiWktjakRzZWdoYTZ6RGtuTlUxQTlUN1pmdHA0MVY5UUxoeTJnU3VXOERTdTJVVld0SUphNHZ2R3hVbHB4TnhlUHNfZw?oc=5",
-      "pubDate": "2026-10-16T14:05:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震復興支援大会のスーパーGT第7戦オートポリス、GTA坂東代表らが大分県知事を表敬訪問「大いに盛り上げて」  autosport web",
-      "category": "life"
-    },
-    {
-      "title": "ダイナム、「令和8年熊本地震」の復興支援として熊本県へ1,000万円を寄付 - https://p-bomb.co.jp/",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvSGRiNjViQ2RWdGpuVE9JS0R6T1A1X25GcFlBVktKVnVzcXpSZkhIZ1k2Z0pjMGF2SHZhRUE5WnNLaFFkN2JUaDBtRUJGeGU4Zmcw?oc=5",
-      "pubDate": "2026-10-16T13:58:40.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "ダイナム、「令和8年熊本地震」の復興支援として熊本県へ1,000万円を寄付  https://p-bomb.co.jp/",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-10-18T20:09:56.799Z",
-  "lastAttempt": "2026-10-18T20:09:56.799Z",
+  "lastSuccess": "2026-10-18T22:25:43.910Z",
+  "lastAttempt": "2026-10-18T22:25:43.910Z",
   "fetchOk": true
 }
