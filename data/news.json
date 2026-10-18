@@ -1,22 +1,31 @@
 {
   "items": [
     {
-      "title": "熊本地震 セブン 被災地へ義援金 店頭募金など2．3億円 ／熊本",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUlhPQmRTZV8tNGRLem03NTloYnJaZ2RVY0NwZ0FCTkJkc1BZcTJSSGxqSGhxRmV5S1JOMk9Mc1RxS3M2X1ZKc011d25ETGVBaWxCYVVuSTU3d3B0dlcwX0RRd1hTT3E0?oc=5",
-      "pubDate": "2026-10-17T23:08:59.000Z",
-      "sourceName": "地元メディア",
+      "title": "【速報】芦北町で震度2（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nZU4xWWVQRm82eFpQd1A4V29Ed2FKRGk5cm9nSTFyQlE4YzJEYlRuYmZHOEZCSldnZkhRZ0tlbGotX3hsbVlTSk1BVHFZVmpCRmdlRklqd01WQkcxNDdIT2hhcUNBVTR6amY2bHI3dEd4NUktNFRNWWNvVTBFN3M?oc=5",
+      "pubDate": "2026-10-17T23:25:21.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "熊本地震 セブン 被災地へ義援金 店頭募金など2．3億円 ／熊本  毎日新聞",
+      "description": "【速報】芦北町で震度2（熊本日日新聞）  Yahoo!ニュース",
       "category": "disaster"
     },
     {
-      "title": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU3VwOGttZE5xYWF0MkRwN0drMS0zRVliNWtyc3kwYUpRcV9QeXROZnBWb0tXeHVtZ3ZBVlBjV19KQ1pjQjk0V2pXQkJ5TGI4UktJS0Rn?oc=5",
-      "pubDate": "2026-10-17T21:00:00.000Z",
+      "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUVVaGtYNWZFSDZsZy0tUU54M2pveFpKbnNTblc1NTVFT09GMkkzZVFEcjhUNjFkRmt1VzBHY1gtT3dOT1NhRW85Z0dFMHBnVU1yOGVCbkJUV19aNU1UWmQwWTlEMUhBcllmY3BpTUEzbEtPdG5aYjdYM3hfcVZVOV9mTdIBdkFVX3lxTE05dWZDb20wakhOQTNjSVY0aU5kQXZxX2ZsTnowZXVhcURXT2thOGpLWTFpZElVZ2JsSVE0YlppUjgtaEZHb1Z4M0p2MXFlWXh0OTZuUFBIcXJxVUczX2tzbXE5VlpRUGZ4RnVMNzFzVGduS2NQS2c?oc=5",
+      "pubDate": "2026-10-17T23:23:42.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援  西日本新聞me",
-      "category": "life"
+      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】芦北町で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGbzRJN0FSbjZpd1NaV01KZElPYnpxMGwyTW9qWFdQTDB5bm5ZMEs3MnY1Y2hKR29CbE1vTDVZWS1USVZiNkRtaERXMnRNZU0?oc=5",
+      "pubDate": "2026-10-17T23:20:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度2  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮",
@@ -25,6 +34,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震からの復興願い、10月31日「復興狂言奉納祭」 クラウドファンディングで支援求め、藤崎八旛宮  西日本新聞me",
+      "category": "life"
+    },
+    {
+      "title": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fU3VwOGttZE5xYWF0MkRwN0drMS0zRVliNWtyc3kwYUpRcV9QeXROZnBWb0tXeHVtZ3ZBVlBjV19KQ1pjQjk0V2pXQkJ5TGI4UktJS0Rn?oc=5",
+      "pubDate": "2026-10-17T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［福岡県］香椎高生駅前で募金活動 熊本地震 途切れぬ支援  西日本新聞me",
       "category": "life"
     },
     {
@@ -43,6 +61,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "令和８年熊本地震義援金／民報教育福祉事業団（１６日） ▼ニュー・スイング・ブレイズ・オーケストラ（白河市）が１万２５８２円  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震 セブン 被災地へ義援金 店頭募金など2．3億円 ／熊本",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUlhPQmRTZV8tNGRLem03NTloYnJaZ2RVY0NwZ0FCTkJkc1BZcTJSSGxqSGhxRmV5S1JOMk9Mc1RxS3M2X1ZKc011d25ETGVBaWxCYVVuSTU3d3B0dlcwX0RRd1hTT3E0?oc=5",
+      "pubDate": "2026-10-17T20:04:33.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震 セブン 被災地へ義援金 店頭募金など2．3億円 ／熊本  毎日新聞",
       "category": "disaster"
     },
     {
@@ -127,12 +154,12 @@
       "category": "disaster"
     },
     {
-      "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UTRsbFBMZFBNVmFlR216VjhmVFNVUzZhYXhCUmpvTGpjUlBkTjBIOE9FU0Z1aFFBbWVlQUFKUmtqNE56a2xPYjZoWllJMkRWanJtbXVWNFh1Vl9sZ0s0TjdXcDJHdWFHWG9Ia2hwVmRoaExPUUpPYklkT2c5Zlk?oc=5",
+      "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsbHZwZnppcHVFc3piWmRxdkduVGV0UW4zSkpIdzdZMWdTVmgzYzFzY19xOUxDajNTcG9uODRSVnUyd2xadzc4bTVyUTQtVkRkV2F0WkdITUtPT0YtRDhVb3pneDBlYXRa0gFuQVVfeXFMTTNleFNwekhqRUxoUjJSckZBQVVMb1FGX0VGREdhY0VvTXdvRmR0TzV0V2dBRHdnZ0xray1fS2Rub29HdDFFTGdOTzZaQUdkTlY3MUl1OGVpM01jZ3VJWjkxZlFlWTdxVmZ4U2xidEE?oc=5",
       "pubDate": "2026-10-17T08:40:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）  日テレNEWS NNN",
+      "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出  Infoseek",
       "category": "disaster"
     },
     {
@@ -151,6 +178,15 @@
       "sourceName": "KKT熊本県民テレビ",
       "type": "local",
       "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UTRsbFBMZFBNVmFlR216VjhmVFNVUzZhYXhCUmpvTGpjUlBkTjBIOE9FU0Z1aFFBbWVlQUFKUmtqNE56a2xPYjZoWllJMkRWanJtbXVWNFh1Vl9sZ0s0TjdXcDJHdWFHWG9Ia2hwVmRoaExPUUpPYklkT2c5Zlk?oc=5",
+      "pubDate": "2026-10-17T08:40:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【熊本地震】文化財レスキュー活動を知事に報告 9月までに8か所約600点救出（2026年10月17日掲載）  日テレNEWS NNN",
       "category": "disaster"
     },
     {
@@ -186,7 +222,7 @@
       "pubDate": "2026-10-17T04:53:53.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう（スポーツ報知）  Yahoo!ニュース\n熊本地震復興支援大会のスーパーGT第7戦オー...",
+      "description": "【スーパーＧＴ】第７戦は熊本地震復興支援大会 公式練習前には１分間の黙とう（スポーツ報知）  Yahoo!ニュース",
       "category": "life"
     },
     {
@@ -271,15 +307,6 @@
       "category": "disaster"
     },
     {
-      "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BN2wwVU94Tm5HemRCeE03NTJtRDM1aVR4UnpVbUxVbm9pVTlqUlVaNUxhTkgydGxxS1g2WTdDZHZkRTAzWTJYRXQ4SWphLWpleEtham0zbnlqMF9nN0xXeHFnWWtLcVk?oc=5",
-      "pubDate": "2026-10-17T02:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
       "title": "熊本地震被害認定 本県の調査支援終了 延べ４８人現地入り",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aamhGcHFPRVBHLVRKLVgzWXc2d0Y0Q0ZKTG92Zjltd2JuNDlEVHJ1cDJJSHcwZXZEX0p4SkYxTzM4WGZCZmVUbVVmZw?oc=5",
       "pubDate": "2026-10-17T02:00:00.000Z",
@@ -287,6 +314,15 @@
       "type": "local",
       "description": "熊本地震被害認定 本県の調査支援終了 延べ４８人現地入り  47NEWS",
       "category": "life"
+    },
+    {
+      "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTjhFTFNxTmJCTXF2M3kwWmJQUktzU05oU3ljRVR5Z0pBLWtXOW9FelNTN1c4MGc2X0l4bkRzWEVkU2pRT0VWZGJPUm1WN2JaRGRNM01SaWZ2dw?oc=5",
+      "pubDate": "2026-10-17T02:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』  TBS NEWS DIG",
+      "category": "disaster"
     },
     {
       "title": "【2026年熊本地震救援金】熊日・RKK・熊本善意銀行受け付け名簿＝敬称略、10月16日集計分",
@@ -298,21 +334,21 @@
       "category": "disaster"
     },
     {
+      "title": "アイシン九州の工場、１０年前の熊本地震では通常体制への復帰に１３０日を要したが…今回は教訓生かし１９日に短縮",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2YkU1Z215UnR0Qi0tcnFsTjJSU1FZQndKVFVDVWRuRmFYbFZDNVZYeTFZdXBwOTU4cVBjdXhMcGlIOXFtWDlZdlAwRURVNjl4X3JRaWZGSlpab2F2bHhDbjFQcUtPWWJ4WjRjRHA2Y2lrVEppRXRXWTBJUmNUVFE?oc=5",
+      "pubDate": "2026-10-17T01:29:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "アイシン九州の工場、１０年前の熊本地震では通常体制への復帰に１３０日を要したが…今回は教訓生かし１９日に短縮  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災した八代港、コンテナターミナルの使用を再開へ…「ガントリークレーン」稼働が可能に",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jZXYyS3FkUDVNOFRRc192R3pGb293VHR6V2Y4b285Z3AyY1ExZnotOHZDQnRVRnREV255YU9tRXhTYThud0o5SGFBdVczQW9hX29LWUpQVXh6c2dpbDdfR0tTMFpYcGN3SDFYN3R6aXlJQQ?oc=5",
       "pubDate": "2026-10-17T01:29:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震で被災した八代港、コンテナターミナルの使用を再開へ…「ガントリークレーン」稼働が可能に  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "アイシン九州の工場、１０年前の熊本地震では通常体制への復帰に１３０日を要したが…今回は教訓生かし１９日に短縮",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQ180NmtMUEprcmw1dzY3SjdNODhjQ0o3bXRYaXJ6OXZMbHE5azJ1MTNtZkJHQkwyR3dTdmF3LWk5NmQtOXZEVVRrZDdiUk1oZGw2OGxsTXpxbUo2N25TelYwdkxOV1BCOVZEQk1hcEtnQQ?oc=5",
-      "pubDate": "2026-10-17T01:28:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "アイシン九州の工場、１０年前の熊本地震では通常体制への復帰に１３０日を要したが…今回は教訓生かし１９日に短縮  読売新聞",
       "category": "disaster"
     },
     {
@@ -863,45 +899,9 @@
       "type": "local",
       "description": "熊本地震で倒壊した「珈琲店ミック」…1500回以上の作品展開いた交流拠点、再建の夢は次世代へ  新潟日報",
       "category": "disaster"
-    },
-    {
-      "title": "【速報】緊急地震速報を取り消し　原因について確認進める　気象庁",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zTHY2U3J1M05LWVdPd3VDc1ZDWGxWaXdNdDFHS014cU5qUV9HY1Q3VHRZWVc0RENuQUp4bDFlVlZ6WWlsZW0tRTM0LVBKcTJrYUVrQWYyekhHZ2tXbUFiUGFlb0RVVnF4M1cxS2l1cWkzRWQxQ0NudExRZ9IBgAFBVV95cUxQc3ZUZGowNjJlYmF5eUVsdGhmS1ZjbjhkNTZtUXJqTHNRMkN5bjVkNEc2aVpxSWFNYnFuczlobHlNT1lVNU1ud3BiLWJJYU96aVBHeWp3UDZyRm5TREFET0g5RXlUSUdfSmFIc1dZdEFRU0FSR0hqYkk4SXN6TXB2TA?oc=5",
-      "pubDate": "2026-10-16T03:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】緊急地震速報を取り消し　原因について確認進める　気象庁  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で被災した家は暮らして半世紀近く「家族との思い出が詰まった家だったのでさみしい」…熊本市で公費解体始まる",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80bDdoWmlLbUVPX29kUmNUZ05JeFVOVEpVVGM5SFJmTEoxWW1Edkg2MTdOOEJYa0hDdUx1VU5yNGh4VGFvUnRHOUlzb09tVFRsMWdvSUJralh5OTRqRTE0TEJpUjJLRV9vQnhEeDNKSU5xUQ?oc=5",
-      "pubDate": "2026-10-16T03:48:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災した家は暮らして半世紀近く「家族との思い出が詰まった家だったのでさみしい」…熊本市で公費解体始まる  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "「令和8年熊本地震」の復興支援として熊本県へ1,000万円を義援金として寄付",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOVGZtQndEeXdDbklKeTVRX2h2aEJ0eUpEc204dW0yQXUxV29FQkx2WnphZENGeHJHelg1SHh1VjQ5QnlxS0YzdkFfLWw4c0piak53bk9GVkRZMVdUX2FGV0NMb29Gc19WZVE?oc=5",
-      "pubDate": "2026-10-16T03:40:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「令和8年熊本地震」の復興支援として熊本県へ1,000万円を義援金として寄付  PR TIMES",
-      "category": "life"
-    },
-    {
-      "title": "「Jリーグ TEAM AS ONE募金（令和8年熊本地震）」募金額のご報告",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jZHk2cFFSMklEWWY0Vm9NcmZRcVRPa1F2c1JsbndoODlqQWt1V3JGOVBrWFNYNHdBS3kyQWw0czhaYnh3S2FwZ2R0U1hUazBPUXkzUg?oc=5",
-      "pubDate": "2026-10-16T03:34:15.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「Jリーグ TEAM AS ONE募金（令和8年熊本地震）」募金額のご報告  セレッソ大阪オフィシャルウェブサイト",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-17T23:18:33.236Z",
-  "lastAttempt": "2026-10-17T23:18:33.236Z",
+  "lastSuccess": "2026-10-18T01:22:54.161Z",
+  "lastAttempt": "2026-10-18T01:22:54.161Z",
   "fetchOk": true
 }
