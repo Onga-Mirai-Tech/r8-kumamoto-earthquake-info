@@ -64,15 +64,6 @@
       "category": "life"
     },
     {
-      "title": "【令和８年熊本地震】忘れてはいけない教訓 現地で感じた〝言葉の重み〟",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02Yzhpb1RZbHZYblZuRlMwbGdTTEtSbTRpSTNBSWR2N0Q3cXhvTzZiQTVfWVllR3JVQjV5dVBCeVdDdy1BSnJqNjlNX0J5aVdoWWhF?oc=5",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【令和８年熊本地震】忘れてはいけない教訓 現地で感じた〝言葉の重み〟  Wedge ONLINE",
-      "category": "disaster"
-    },
-    {
       "title": "県職員ら5人、熊本地震被災地支援活動を報告",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSnU1d1luRWk1WmdRRG5pRWUwUV91OUxnRjY3THRTOHMydUx6WmZScG83dkdDR0ZnLVBqV2k4SGItZGZtZ0dRNE9nNHlibFZMZVl6ZGxB?oc=5",
       "pubDate": "2026-10-19T20:00:00.000Z",
@@ -82,12 +73,30 @@
       "category": "life"
     },
     {
+      "title": "【令和８年熊本地震】忘れてはいけない教訓 現地で感じた〝言葉の重み〟",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02Yzhpb1RZbHZYblZuRlMwbGdTTEtSbTRpSTNBSWR2N0Q3cXhvTzZiQTVfWVllR3JVQjV5dVBCeVdDdy1BSnJqNjlNX0J5aVdoWWhF?oc=5",
+      "pubDate": "2026-10-19T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和８年熊本地震】忘れてはいけない教訓 現地で感じた〝言葉の重み〟  Wedge ONLINE",
+      "category": "disaster"
+    },
+    {
       "title": "【20日の交通取り締まり情報】",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGRuUEJsVC1sbzlxaWhoTFZtTHBxSEJwRVVaalJTRUFkV2RJUklYMmNDZ1p1LTFQLXZaUVA1VEFfM1dxRU1aVWpKNW9yTUVxWF93d1lES1ZiMHRtR2JEOWRmNEFFWXN4Yy1mU2pIaGRUMkRPbmJ5VU1vcmoxWnk0bldXeDY1ejNIeHZwQ0NidnBGTVJkeWM0TQ?oc=5",
       "pubDate": "2026-10-19T20:00:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【20日の交通取り締まり情報】  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "九州新幹線、地震で橋脚が最大36cm沈下",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rWFJUWm96Q0Z3THhXeUFucmw3VnRDcGhRSVk0Zld1WGZhYTRKYUlhLVREUlhYczljRUp0alREWWUwb2RQZThoZUt4VFBocE5kaE1zMGY1dm9iMUFKM1h4MmZ2YlR3MTUwSTBsUVRn?oc=5",
+      "pubDate": "2026-10-19T17:01:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "九州新幹線、地震で橋脚が最大36cm沈下  日経クロステック",
       "category": "infra"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "南こうせつ、木梨憲武、小室哲哉、田中あいみらが歌で熊本地震の被災地にエール 復興コンサートでレジェンド共演  スポーツ報知",
       "category": "disaster"
-    },
-    {
-      "title": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlBENF9EQjNTX0tJY1EteEdabkw1d3d3T0wtTlNLcmw4LUpuT2pIcndOWHJEWnloQnJKWWdYOGNOR1VxM2J5T0UwbzBYRXJBdGoyTVo5S21tZWtXd01HZGs3UjlVLUU2QTNEVWhRQmtGN1VjRGhXYVBzUGUtN3M?oc=5",
-      "pubDate": "2026-10-18T12:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "田中あいみ 熊本地震復興コンサート出演 木梨憲武らと豪華共演 公演前には熊本城を訪れる（スポニチアネックス）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-19T21:39:44.377Z",
-  "lastAttempt": "2026-10-19T21:39:44.377Z",
+  "lastSuccess": "2026-10-20T00:40:29.706Z",
+  "lastAttempt": "2026-10-20T00:40:29.706Z",
   "fetchOk": true
 }
