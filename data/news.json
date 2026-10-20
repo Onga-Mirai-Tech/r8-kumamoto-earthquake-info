@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "クラフティア東京九栄会、熊本県に１００万円寄付 –",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YZVRDSUJGUnlTZ0NfLUp2QldNVmdNMjd1VXJxcjhjb0tkVlV4RmhQcy0yb1VSbjF4eko2SmlQQktFbDRaOEtYSWIwMnZvNEltLXR3VkFXRQ?oc=5",
+      "pubDate": "2026-10-20T21:01:36.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "クラフティア東京九栄会、熊本県に１００万円寄付 –  電気新聞ウェブサイト",
+      "category": "other"
+    },
+    {
+      "title": "［熊本県］熊本地震被災の文化財レスキュー 8カ所約600点を救出 木村知事に報告 復旧へ尽力誓う",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2eVN6LVJnY0VwbVJZY2lxYkRYYXExNEVWOFZrLXJma2FrbDZjaThrQ0R2ZERJX2NzQk9YR0FUc1lic2xLUGlGZEZKT3lCUFZ6Y3dXNTFn?oc=5",
+      "pubDate": "2026-10-20T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "［熊本県］熊本地震被災の文化財レスキュー 8カ所約600点を救出 木村知事に報告 復旧へ尽力誓う  西日本新聞me",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震の被災地へ 飯田市職員2人派遣",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UlZGZ0Nzd3EwM2REcnlTNTMxc1JnTXZSR3VMSnNLYUZqNFhSZjEtLXAwOUlYNzF0Z0RnT0pVZ3QtaWhialBESnEtWkROcVZRbVU5dV9B?oc=5",
+      "pubDate": "2026-10-20T20:31:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地へ 飯田市職員2人派遣  南信州新聞電子版",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の家屋被害8万棟",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVnhtejhYNGZQU0dhS3A5VmlBcFZEOHlxaDh1M3JjMDN3T1NxTUs4Mk5hMEJhSFlPZGozbWFSNW5odVR5ZXpFZW9hZmZwbENCRHJuZWN5cDladw?oc=5",
+      "pubDate": "2026-10-20T20:09:11.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の家屋被害8万棟  北海道新聞デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "Claude Codeで被災者開発 熊本地震で60万人が利用した掲示板サイト",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4bFIyeTR0Rl9ULTdOWUkyTUZpUWZLTnRnRkJZWFNNSUVmQzEwbGpUQllVek1HQXBtcXViendTNzdyV1Zocl9PWGc5NUU3YXNOTGpTY2hiNmZJdGpvcmZsSENzQllqVWhIeXZpeA?oc=5",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "Claude Codeで被災者開発 熊本地震で60万人が利用した掲示板サイト  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "【21日の交通取り締まり情報】",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTHRQMHp6RkdqWUhPNTY3eTk0U3Q5NWtwU3BRMEdaejBfeG5YdHo3UW5vRXdNXzdxSTJSc2RtTXl0Y29KU1dsSjFpd3U2eHdHWTQ1SXc5TlJ2bk5ReXZpS3ctLWVLMXRWSTVacEVfZEZ2TVo1RUFmbjBuQkhlSVItWGVtQ0dROFN1c2dMcGE4YklSVGtEa0REWQ?oc=5",
+      "pubDate": "2026-10-20T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【21日の交通取り締まり情報】  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "株式会社トーホー「令和８年熊本地震」への災害復興義援金寄贈のお知らせ",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwN2x1ODdlWFd3VmFweHRQUEdsZy1VZXg2MTFrOWppUHdpUHdLVkRpWjczU2E2VUJra09jTTBYRmFDbzhaUWF1MlJjNE1hUVAwd1l1SFlxS2JMVzhwM0Q1MF9zQ0xuRTRm?oc=5",
       "pubDate": "2026-10-20T17:15:25.000Z",
@@ -17,6 +71,15 @@
       "type": "local",
       "description": "2026年熊本地震＞県南、県央に失業者急増 生活に不安、企業の対応に不満も 商業施設や工場被災で休業・廃業 行政は支援急ぐ  熊本日日新聞社",
       "category": "life"
+    },
+    {
+      "title": "国登録有形文化財「まちつくり酒屋」（氷川町）倒壊 地域の交流施設 住民ら落胆「心のよりどころ、寂しい」＜2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOYmJTSThkVzdyYTROOUlYZE83QnZWQzA0anFFQlZUQnY2bnZ5VFZIcGhyWnVCNFZySWg2eHQ1YWtEWGtCcmxMNllGeUVLTVk?oc=5",
+      "pubDate": "2026-10-20T13:32:26.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "国登録有形文化財「まちつくり酒屋」（氷川町）倒壊 地域の交流施設 住民ら落胆「心のよりどころ、寂しい」＜2026年熊本地震  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "2026年熊本地震＞宇城市が整備の仮設商店街 「無償はありがたい」「再開見通し立たず」…被災事業者、期待と不安",
@@ -56,11 +119,11 @@
     },
     {
       "title": "江戸時代に建てられた登録有形文化財が倒壊 熊本地震で被害 直前に「ミシミシ」音 熊本・氷川町",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjbzFfRlI3N0lmeWlyaGNIQkpjN0pXNTNrMjNVank5RkVIX3VubldaTzFoREZlcVVnUUxJSEwtX2N6RFp3QjdhZjBlMnFJV0pEZl9JVUtzNHVSVGVTTElmYzNfMks4TldqdUNwb2c3TkZNNkxrUGljd2w1QnFyVkk?oc=5",
-      "pubDate": "2026-10-20T11:51:24.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yOGNRMFFYcWE4OENNYW9fTkZWZks3dVBxSHN4ODFSZXJ3TkVxYzR1RGg1RDR0aWxtdVZsYnQxT2ozVXlVMXNmay1fZU9OQQ?oc=5",
+      "pubDate": "2026-10-20T11:45:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "江戸時代に建てられた登録有形文化財が倒壊 熊本地震で被害 直前に「ミシミシ」音 熊本・氷川町  Yahoo!ニュース",
+      "description": "江戸時代に建てられた登録有形文化財が倒壊 熊本地震で被害 直前に「ミシミシ」音 熊本・氷川町  FNNプライムオンライン",
       "category": "disaster"
     },
     {
@@ -146,7 +209,7 @@
     },
     {
       "title": "トーホー、熊本地震被災地の八代市に義援金|経済ニュース",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWWpmWjN1a0VmTVkwVnVNblU3YVNodGNOc0E4X0NNUEtKRWRLYWY3TFFVdWJDNE5RVFkwZ2lYLWlqcDc3aWRSWHNER0NSOFhYNWZmRC1GaEtDVXNZVmF3R2xUbUN1dGhpel8tWlJXOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlcnFESDlyeE10aGJJQnROUEJHUkJBaTZSREZySW9yeXJyQUoxYXByQUQzOXN1enk1cU5CeHh3ZWRTNElRUExvWFd4RU1XWWh2YjMyOE40THRoM1F3NzhsOVZlR3J1T3FjdWtGVEtn?oc=5",
       "pubDate": "2026-10-20T09:44:28.000Z",
       "sourceName": "地元メディア",
       "type": "local",
@@ -251,6 +314,15 @@
       "type": "local",
       "description": "エフエム熊本、671万円寄付 ＜２０２６年熊本地震＞  熊本日日新聞社",
       "category": "disaster"
+    },
+    {
+      "title": "県職員ら5人、熊本地震被災地支援活動を報告",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NNFRNTUNheWI4bzlFckxpOHhfN0dmMndEX3dTVkFGbTZwWGdXSzNCYWNncVNGd25LNC1sMzVmYUQ5d1FUM0RQZUl6Yw?oc=5",
+      "pubDate": "2026-10-20T06:10:24.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "県職員ら5人、熊本地震被災地支援活動を報告  47NEWS",
+      "category": "life"
     },
     {
       "title": "株式会社トーホー「令和８年熊本地震」への災害復興義援金寄贈のお知らせ｜Infoseekニュース",
@@ -586,15 +658,6 @@
       "category": "disaster"
     },
     {
-      "title": "県職員ら5人、熊本地震被災地支援活動を報告",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSnU1d1luRWk1WmdRRG5pRWUwUV91OUxnRjY3THRTOHMydUx6WmZScG83dkdDR0ZnLVBqV2k4SGItZGZtZ0dRNE9nNHlibFZMZVl6ZGxB?oc=5",
-      "pubDate": "2026-10-19T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "県職員ら5人、熊本地震被災地支援活動を報告  徳島新聞デジタル",
-      "category": "life"
-    },
-    {
       "title": "【20日の交通取り締まり情報】",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGRuUEJsVC1sbzlxaWhoTFZtTHBxSEJwRVVaalJTRUFkV2RJUklYMmNDZ1p1LTFQLXZaUVA1VEFfM1dxRU1aVWpKNW9yTUVxWF93d1lES1ZiMHRtR2JEOWRmNEFFWXN4Yy1mU2pIaGRUMkRPbmJ5VU1vcmoxWnk0bldXeDY1ejNIeHZwQ0NidnBGTVJkeWM0TQ?oc=5",
       "pubDate": "2026-10-19T20:00:00.000Z",
@@ -836,72 +899,9 @@
       "type": "local",
       "description": "イオンモール熊本「現時点で撤退議論なし」赤沢 経産大臣が国会で答弁 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
       "category": "other"
-    },
-    {
-      "title": "被災で離れた元住民たちを招き交流会 絆をつなぐ南阿蘇村立野",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOcjZ5WWtoN0RZekg4bkVBUk1mUFdHb0xlT2w0WXFJNVJqYUJWTHRENFJmcFpyOERIdE9mRUlqTEdoekV4MkdTb0FnYUlFQTgzMjZiQ3dJSmJJdw?oc=5",
-      "pubDate": "2026-10-19T10:04:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災で離れた元住民たちを招き交流会 絆をつなぐ南阿蘇村立野  TBS NEWS DIG",
-      "category": "other"
-    },
-    {
-      "title": "地下と地表で起きた2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XRTQ4U0IxTWtPQnFhS3BJakJ3cHpsU09PQktZS01GdEFEeGwwZ3liWFNwU1ZYanhNdTFxRDVTamtTa1lxYkFRQ1NvZWYzZ2hvZWY4ckdR?oc=5",
-      "pubDate": "2026-10-19T10:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地下と地表で起きた2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査  KAB 熊本朝日放送",
-      "category": "disaster"
-    },
-    {
-      "title": "2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査 （熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IS21VakM3cElFVUlNYURKeHNCVlk3dzYxdFdKS3pQRlUxOG9iVUxESlZxUGt2a0t5LUR5UHp4VFdvYkFkZUxxRkxfV3R0NUEwanZsWm9YLXdqVnRFWElFU3N5RVphcHdudDBzSUwyMnk?oc=5",
-      "pubDate": "2026-10-19T10:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査 （熊本ニュース KAB ONLINE）  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XRTQ4U0IxTWtPQnFhS3BJakJ3cHpsU09PQktZS01GdEFEeGwwZ3liWFNwU1ZYanhNdTFxRDVTamtTa1lxYkFRQ1NvZWYzZ2hvZWY4ckdR?oc=5",
-      "pubDate": "2026-10-19T10:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "2つの揺れが襲ったか 熊本地震で断層出現した田んぼを専門家が調査  KAB 熊本朝日放送",
-      "category": "disaster"
-    },
-    {
-      "title": "「むき出しの山肌」を再生へ ヘリで種や肥料散布し植生回復 熊本地震で被災した長崎・島原「眉山」で工事始まる（NBC長崎放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qVFZPQVdRQzEzU1hNV2pwQjhfWWppbktBRFRfZFA5UHZsVkJEWWRLcWNXdTB6VEVfUmV3TDBBajJRZW1McEZfZnNPUEp6ajl3Tm1Bb2prQ0xfY0Z3N21KVnN4eDJqYWl3aEFPOVJiUzBiSjJYdXRWU0NZby1JLWc?oc=5",
-      "pubDate": "2026-10-19T10:00:35.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「むき出しの山肌」を再生へ ヘリで種や肥料散布し植生回復 熊本地震で被災した長崎・島原「眉山」で工事始まる（NBC長崎放送）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「むき出しの山肌」を再生へ ヘリで種や肥料散布し植生回復 熊本地震で被災した長崎・島原「眉山」で工事始まる",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PRmVXcGdDM3QzM2JLMEpUWDZlYlE0a21qbFhtN3ZpTThZeXFiZU83YVZIQkZkT2JnaWhNeFlPazlNWlZRUTVGckNzSFBEaWczV3FHV3ZmVkRwSXhUTmwxWFljUXc?oc=5",
-      "pubDate": "2026-10-19T09:59:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「むき出しの山肌」を再生へ ヘリで種や肥料散布し植生回復 熊本地震で被災した長崎・島原「眉山」で工事始まる  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
-      "title": "｢被災地を音楽の力で｣南こうせつさんや木梨憲武さんらが熊本地震復興コンサート（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vcFNFbGtqN0NQbkZpWElReU9STl9JUjJpYXFIUHZySWtjUGozcm1LRTlDRFQxejhJdDVmVC1UeXRKakttcFpTYVpobjBPal91Q3hTTklJa1AwZU4xeVQtbGplVHVETzJHUm4wMVRGVkl3bEVpdzduNmVZellPQW8?oc=5",
-      "pubDate": "2026-10-19T09:58:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "｢被災地を音楽の力で｣南こうせつさんや木梨憲武さんらが熊本地震復興コンサート（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-10-20T19:28:58.982Z",
-  "lastAttempt": "2026-10-20T19:28:58.982Z",
+  "lastSuccess": "2026-10-20T22:34:13.996Z",
+  "lastAttempt": "2026-10-20T22:34:13.996Z",
   "fetchOk": true
 }
