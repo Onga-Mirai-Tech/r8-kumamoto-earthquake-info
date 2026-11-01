@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "【熊本地震から10年 仏像 国宝×肥後仏展③】「阿弥陀堂」 住民が守る仏様",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZEIyelpEVms2UktCaE1tRVlERDJpM2FDMzRnbllqOUM5Y1h3czNNY1VYU3JRTDNoZnNuNkhpei1xN0o4cFlZaFlPUmhGRkE?oc=5",
+      "pubDate": "2026-11-01T21:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【熊本地震から10年 仏像 国宝×肥後仏展③】「阿弥陀堂」 住民が守る仏様  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "出向時の賃金助成 熊本地震被災企業に特例 厚労省",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90eGFIRWxKTnBTTFlnSmlPOU43Ykl0Qm5fcjRaSWdyNnlYT25HMFZCTGViUTdyN056eHBKcjJaODV5bVFfWDdZOGJBVQ?oc=5",
+      "pubDate": "2026-11-01T20:02:34.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "出向時の賃金助成 熊本地震被災企業に特例 厚労省  労働新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "＜読者の皆さんへ＞命守るため次に備える",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zSkdpTHdFemttVi1xM1NjX3Zidm15OVhZdUJBWTRlLWJSZk05UnRaZ1VOR0ZrYnNYQWhQSHVlTVlESWFXcXlGc0t0VmpJaE0?oc=5",
+      "pubDate": "2026-11-01T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜読者の皆さんへ＞命守るため次に備える  熊本日日新聞社",
+      "category": "other"
+    },
+    {
+      "title": "上野厚労相 熊本地震踏まえた煙突調査 医薬品関連企業で４本中３本劣化・損傷確認",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xb3NuOVlMX2VNWFdNMVQ2eDZESDZKVVVDUTgtcjZvRXN1QlhVYWwtNnVmNnh1OXpXVy00SFFKMU83ejlNNDFIVUV5eElXOW1NX3hPM19PQXdIMlpCeEE?oc=5",
+      "pubDate": "2026-11-01T19:49:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "上野厚労相 熊本地震踏まえた煙突調査 医薬品関連企業で４本中３本劣化・損傷確認  ミクスOnline",
+      "category": "disaster"
+    },
+    {
       "title": "地震避難 障がい者に壁 熊本 受け皿周知されず体調悪化",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qX1dUemg0YXc5QUltclN6VUI2R0FjYzRSZVM0d0VEbXZvbzVaU25mV2syQTUzYmI4Ymc1anNsTG9aWE9zcXlRbXd3eXAwVlBWNk9JcnZKN3lEaGgtOXc?oc=5",
       "pubDate": "2026-11-01T18:59:00.000Z",
@@ -8,6 +44,15 @@
       "type": "local",
       "description": "地震避難 障がい者に壁 熊本 受け皿周知されず体調悪化  沖縄タイムス社",
       "category": "life"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NYXJGSl9pc2U4TzZyUVlNLWVYcV9WZU96VnZHeVlScTZtUXNrSXZzd1A2a05jX0VvcmZHTXNVLXYxdXI4SlRvRzRsOW5pUFRmX0lNeHRLVmZoTW1hQkdvc3JTeUFOOFlycU41OFNJcEHSAXZBVV95cUxNMW1GVUlCN2VSTURMdGJIdWJSSWEzVENHZk9zVjQtR1VYcUxKaF9HV2tpTmZSRFVfRHR4OUhONGpLX0tERkVNYmx0OXFua0xUcFlUdWdReXA1WWNuc2hQWTAxT1RtejNfcnZsQzN6NFBJSTJjZ3FR?oc=5",
+      "pubDate": "2026-11-01T16:32:20.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
+      "category": "disaster"
     },
     {
       "title": "【速報】熊本市西区など震度1",
@@ -19,21 +64,12 @@
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NYXJGSl9pc2U4TzZyUVlNLWVYcV9WZU96VnZHeVlScTZtUXNrSXZzd1A2a05jX0VvcmZHTXNVLXYxdXI4SlRvRzRsOW5pUFRmX0lNeHRLVmZoTW1hQkdvc3JTeUFOOFlycU41OFNJcEHSAXZBVV95cUxNMW1GVUlCN2VSTURMdGJIdWJSSWEzVENHZk9zVjQtR1VYcUxKaF9HV2tpTmZSRFVfRHR4OUhONGpLX0tERkVNYmx0OXFua0xUcFlUdWdReXA1WWNuc2hQWTAxT1RtejNfcnZsQzN6NFBJSTJjZ3FR?oc=5",
-      "pubDate": "2026-11-01T16:21:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
       "title": "2026年熊本地震＞熊本市の避難所、全て閉鎖 地震発生から3カ月 （熊本日日新聞）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44bVNyeVJVSjRyMDB1a1VWUGlxUlRQYWZieEpydXFnSGNKblBiTzhQcEFocEhVb0szNG9NQnFieDZXNk5UWXpaM3JDT01PRmt0U1VjR25oLUFDZTFWVWtWMzFCaE1CbE9FcnhCZXV2NTZoX2JydWtPR0liZkhwdUU?oc=5",
       "pubDate": "2026-11-01T08:15:21.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "2026年熊本地震＞熊本市の避難所、全て閉鎖 地震発生から3カ月 （熊本日日新聞）  Yahoo!ニュース\n社説：熊本地震の被災者支援 生活の再建へ切れ目なく ...",
+      "description": "2026年熊本地震＞熊本市の避難所、全て閉鎖 地震発生から3カ月 （熊本日日新聞）  Yahoo!ニュース\n避難所の受験生 焦る 生活音や疲れ 集中の妨げ 熊本...",
       "category": "life"
     },
     {
@@ -44,6 +80,15 @@
       "type": "local",
       "description": "2026年熊本地震＞熊本市の避難所、全て閉鎖 地震発生から3カ月 (熊本日日新聞)  Yahoo!ニュース",
       "category": "life"
+    },
+    {
+      "title": "【詳報】現職と新人、計5人立候補 熊本市長選告示 14日間の舌戦スタート",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YOGdhZUxEdk9rTVYyQUwzZXA4TnNjWDhwY3J5ek1UZ2ZLVk9LbFF4TXpnb2czOHpQUVM4X2RiUDFRbS1Gb3NzY3VWUGtsNHc?oc=5",
+      "pubDate": "2026-11-01T08:07:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【詳報】現職と新人、計5人立候補 熊本市長選告示 14日間の舌戦スタート  熊本日日新聞社",
+      "category": "other"
     },
     {
       "title": "2026年熊本地震＞阿蘇から10年前の「恩返し」…美里町で移動型ミニ祭り「阿蘇から夜市」 キッチンカー協会、被災地で巡回開催",
@@ -712,6 +757,15 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】熊本市西区など震度3（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRjg2c2Jsd1FQUUs1SnpNZUh3WUVzTzVWMU8yeUFqNHRpOTRCS2kwZlNoM1NRT2pzS1RNNFRMRE5oQWJOZk83dU52YS12QWI2Q1NnMUhodE5UUDNzWFFSdUN1YjJoOVdHY3RCX2UyNlZ3Z19mU0N4c1NqNWpZQkE?oc=5",
+      "pubDate": "2026-10-30T16:55:21.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市西区など震度3（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "震度3 熊本県熊本地方 2026年10月31日01:45ごろ 地震詳細",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzFEWnJhNDBWM3ozYjNCZVN4THBVWnJuOVNHbG5vUTM1NGhyZWJFbG1FTC1Qc3hrOUladjlBSW1uTF94LUhVUGc1XzRxLVRvSHNJQXVsaHRvYVJwR3diUlZOa1UzX3JKSEQybzA1S0hvS2NaQ0lnVnFYanJZNFR2SkFB?oc=5",
       "pubDate": "2026-10-30T16:54:15.000Z",
@@ -845,63 +899,9 @@
       "type": "local",
       "description": "全国で災害救援訓練、熊本地震の教訓新たに/岩谷産業マルヰ会  ガスエネルギー新聞",
       "category": "infra"
-    },
-    {
-      "title": "【現地から中継】熊本地震から3か月「爆発現場に残る爪痕リポート」今なお1000人超が避難生活《長崎》",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qTU1kYkhhM1JyYWFzZkdGZTBhUTRoMGl3ZmROZEdoc2piVktDNFBpOHVqaHRpTXMwMVlvNHVPakV2a1VhSVFtN2ZYcnBlS0lrU3ptU1pSSUVNemppU3lLMjlBWWZfY3hMUGtNdnVLT0FzZGZycUdxUVhwMGJTcFU?oc=5",
-      "pubDate": "2026-10-30T10:54:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【現地から中継】熊本地震から3か月「爆発現場に残る爪痕リポート」今なお1000人超が避難生活《長崎》  日テレNEWS NNN",
-      "category": "life"
-    },
-    {
-      "title": "石川、防災条例の骨子策定 能登地震と豪雨踏まえ（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94QWlVY0ZTTTI0ZDBUNGV5UTUzQ2hLcUhXRnpHeU5lUUdjYTRVQUFIU1FfZ3hNWHNNbUdFQmJvYmlvRDkxZ2hOeVNiWkdRMnM?oc=5",
-      "pubDate": "2026-10-30T10:42:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "石川、防災条例の骨子策定 能登地震と豪雨踏まえ（共同通信）  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "九州電力、熊本地震の復旧費15億円 被災電柱の建て替え・補強など",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xWmxWTGRjRWlZZHpPUUlGT1pITzFZTFdNZU9EMlJ6bHdRUG1fczFkR0lhS2t6NE9Db0NxeVFBblB0ejEtcHh4SC1pZW9ObE0?oc=5",
-      "pubDate": "2026-10-30T10:26:11.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "九州電力、熊本地震の復旧費15億円 被災電柱の建て替え・補強など  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "九州電力、熊本地震の復旧費15億円　被災電柱の建て替え・補強など",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVzgyb1B5aU56SzBBRW42UXNWUF9KLThJQ1dhYVRyTW1sQ1dXR1V4V2lPZ2dEWlhveWMxWGVha1VCSF9SR0pKTFRaM2VWUlZyc3RobXk3RXRDcURNWUVPOC1tUjNoYVJqb2FaZGxSWTI1S3JTSkJCdms4Sy1XekpFTnZ30gGHAUFVX3lxTFBEckdkUVpBRlBHWWRTV1lXTXJ6aDBCbmlDV1F3ZDJRYlBoWnNsNnI0Um9la0EwbG1EVDNIbDJGYmNmRzd6RlY5UzVuWGdOZHNmMGJlNXJrdlRVSTloUk5RY1dqVXVxazRQVHJDNjVGOXlIRjFDaWh4eWRIY3NLbnRiR1FveDJVYw?oc=5",
-      "pubDate": "2026-10-30T10:26:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "九州電力、熊本地震の復旧費15億円　被災電柱の建て替え・補強など  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
-      "title": "モータースポーツ界から令和8年熊本地震への義援金が寄贈「レースファンの熱い応援のエールとお見舞いの気持ちをいただけた」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ed2pYZVE2NHlDMWxwM3BDUnRDODB3NWhsV2doYmZRRFpQQkZJOVZYTHpRYVRJeTBWdEtCTDBwRGIyclZHRXlWLXVGZmZ3aGo4dVB4emsxRGFJazB3cVRPWkYwLWRUM1lYcTB3aDF3OEQyRFo1Y3BlXzF2a09oNlk?oc=5",
-      "pubDate": "2026-10-30T10:15:43.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "モータースポーツ界から令和8年熊本地震への義援金が寄贈「レースファンの熱い応援のエールとお見舞いの気持ちをいただけた」  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "モータースポーツ界から令和8年熊本地震への義援金が寄贈「レースファンの熱いエールとお見舞いの気持ちをいただけた」",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zc2tLMVMxWF9xVkozOHVNX05qNkFxclJjdXFTU1ZGSUNIX1V0aGdIcGNLODB0ZzFOWHM2eVAtRzFnT0dDNDlWQjg3NzBTdw?oc=5",
-      "pubDate": "2026-10-30T10:15:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "モータースポーツ界から令和8年熊本地震への義援金が寄贈「レースファンの熱いエールとお見舞いの気持ちをいただけた」  autosport web",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-11-01T19:40:01.877Z",
-  "lastAttempt": "2026-11-01T19:40:01.877Z",
+  "lastSuccess": "2026-11-01T23:06:06.604Z",
+  "lastAttempt": "2026-11-01T23:06:06.604Z",
   "fetchOk": true
 }
