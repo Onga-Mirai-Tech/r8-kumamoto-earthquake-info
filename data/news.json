@@ -1,12 +1,57 @@
 {
   "items": [
     {
+      "title": "震度1 熊本県熊本地方 2026年11月08日08:23ごろ 地震詳細",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnZDdkNIY1lYU2h5XzVoRWtmUHA1THFwY29wOEVwMWhhNGdYNGlyZlcwY3Z3a0VJcGlmNkdkRDJET3YxYWZBeHFuZTVjeXVvZFhQNU94ZTBnNnV4WUFhWnJBVVNaS2pTZDZ2d0VCSk83d19rdlVrZVhuNnYxdlB2TVpB?oc=5",
+      "pubDate": "2026-11-07T23:29:40.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "震度1 熊本県熊本地方 2026年11月08日08:23ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】八代市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zcWNlZXN2R2stTjgxTlIweXdENGllMmtGdVNmVjA1X0tEakdSREF4dWlXS0R0dlA1S2dnWFJNN3B6S042dGxIQjlFMm9GZ3c?oc=5",
+      "pubDate": "2026-11-07T23:27:34.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】八代市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【提言・減災】熊本地震の実態を共有（吉野篤人・浜松医科大名誉教授）",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1abjNndTVUaHBmYVJEdGREbk43TksyUlE2aU03dVd1RXNhT1RkUDZyT1Fwc0tDLUdZWEgzQUU5UXpSbjJabGVtWmZuMmRnQQ?oc=5",
+      "pubDate": "2026-11-07T23:20:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【提言・減災】熊本地震の実態を共有（吉野篤人・浜松医科大名誉教授）  静岡新聞DIGITAL",
+      "category": "disaster"
+    },
+    {
+      "title": "愛知県知多市で震度５強 Ｍ５・７、けが２０人以上（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMR0xnRWlKVVdBcTZfUUZFUHB2VVVKUWdQaG1QazVjWm5uUUs1NXFHZDFFQ2RXVEJ0X0JZSHpRQ2xaS0RIRXgwQ2ZHOTU0X2s?oc=5",
+      "pubDate": "2026-11-07T22:36:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "愛知県知多市で震度５強 Ｍ５・７、けが２０人以上（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【熊本地震から10年 仏像 国宝×肥後仏展⑧】「光背」聖なる光 形さまざま",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NQjM2WGdBV3EtQmQtS2NKMlpYcjBDVWZlNVNDYjd3ck44akhIZjhEZmZDWXdQclJqN1NnSmZmX3J3SHVUUEpsRlBPMHFSN2s?oc=5",
       "pubDate": "2026-11-07T21:00:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【熊本地震から10年 仏像 国宝×肥後仏展⑧】「光背」聖なる光 形さまざま  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "老舗の味、届けたいから 熊本地震で被災 氷川のみそ・しょうゆ店再建へ 友人、常連客の声に押され ／熊本",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Wbl95WUtLLXBGQkUzeFcyV3Y0dXQ1YWFCNXU0RWRwVV9jVE53NXFuWUxTS3p4bEVzcUpYU0p3NjhoTjhoU3ppZFBtSFRfS2Etc29KTmRvRGJSWk82V2dDWUxyZVNsc01x?oc=5",
+      "pubDate": "2026-11-07T20:04:09.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "老舗の味、届けたいから 熊本地震で被災 氷川のみそ・しょうゆ店再建へ 友人、常連客の声に押され ／熊本  毎日新聞",
       "category": "disaster"
     },
     {
@@ -181,21 +226,21 @@
       "category": "disaster"
     },
     {
-      "title": "観測井戸の地下水位「大きな変動はない」 熊本県 [熊本県] [2026年熊本地震]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wWm1DbXJETXBSd056NHRuMElqeF9TYkRfQW9Ud2JXdEdyMXBlOWVtUFMtVXB6Uk0xUTZYZjBnTFFZalBLUTltWUZzaHN2LU5OUVVpdk1icm5Ed3dfSUhWMUd0UlNRT1k?oc=5",
-      "pubDate": "2026-11-07T02:30:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "観測井戸の地下水位「大きな変動はない」 熊本県 [熊本県] [2026年熊本地震]  朝日新聞",
-      "category": "disaster"
-    },
-    {
       "title": "復興願い、オリジナルTシャツを販売 嘉島町 2016年の地震、コロナ禍に続き第3弾",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzWU5nOU93SjNiUHYtMkhvdXZ5NWx5eGpfUFQ2dldtb1poa3lPT3RQcGtEbk1pZ05LLVpvdVlpX2R4bmZ4VjFIdWVjWmVpSlU?oc=5",
       "pubDate": "2026-11-07T02:30:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "復興願い、オリジナルTシャツを販売 嘉島町 2016年の地震、コロナ禍に続き第3弾  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "観測井戸の地下水位「大きな変動はない」 熊本県 [熊本県] [2026年熊本地震]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wWm1DbXJETXBSd056NHRuMElqeF9TYkRfQW9Ud2JXdEdyMXBlOWVtUFMtVXB6Uk0xUTZYZjBnTFFZalBLUTltWUZzaHN2LU5OUVVpdk1icm5Ed3dfSUhWMUd0UlNRT1k?oc=5",
+      "pubDate": "2026-11-07T02:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "観測井戸の地下水位「大きな変動はない」 熊本県 [熊本県] [2026年熊本地震]  朝日新聞",
       "category": "disaster"
     },
     {
@@ -289,15 +334,6 @@
       "category": "other"
     },
     {
-      "title": "熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PQ3ZfQ0RxNnJqUXRsR2t4YjAyQXduaUl4V1hoTk9YaHBKMURfN3FFbFQtMTdsOThyLXo1R3JIYTc0T25RTTI4ZW9EU2d4ZGU2RTNVM0tn?oc=5",
-      "pubDate": "2026-11-06T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下  西日本新聞me",
-      "category": "disaster"
-    },
-    {
       "title": "八代のシンボル・日本製紙の生産断念にショック 行政は支援を模索 [熊本県] [2026年熊本地震]",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fX0pZNkdMaG9oa2NCMF83ZkFrc296ejZ1LVpnRGVrZ0NnTkZEc1ZzYkxXOFNXb09Ebmk5SnBVenFzS3JhdWdJbmRWeGVOTGdIcjhjazR3Ujl6ZXl4amg2bjJjMmFsNUU?oc=5",
       "pubDate": "2026-11-06T21:00:00.000Z",
@@ -305,6 +341,15 @@
       "type": "local",
       "description": "八代のシンボル・日本製紙の生産断念にショック 行政は支援を模索 [熊本県] [2026年熊本地震]  朝日新聞",
       "category": "life"
+    },
+    {
+      "title": "熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nOHpxTVQzeC1YQkoya1hqYjRHS0NpakhBZTItSF9ZZnF2THdWUDlpa19IcjhXTHJCc0dmczNUb1F0LXRTbEcySi1idw?oc=5",
+      "pubDate": "2026-11-06T21:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下  47NEWS",
+      "category": "disaster"
     },
     {
       "title": "【会見一問一答】「100年の歴史終えることになり…残念」熊本地震で被災の日本製紙八代工場、生産断念",
@@ -357,7 +402,7 @@
       "pubDate": "2026-11-06T20:39:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震で被災　日本製紙の八代工場 新聞用紙やパルプの生産終了へ  ｄメニューニュース\n日本製紙、今期純損失400億円 熊本地震・米子会社事故で（ロイター）  ...",
+      "description": "熊本地震で被災　日本製紙の八代工場 新聞用紙やパルプの生産終了へ  ｄメニューニュース\n熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下  西日...",
       "category": "disaster"
     },
     {
@@ -854,54 +899,9 @@
       "type": "local",
       "description": "日本製紙、今期純損失400億円 熊本地震・米子会社事故で（ロイター）  Yahoo!ニュース",
       "category": "disaster"
-    },
-    {
-      "title": "日本製紙、今期純損失400億円 熊本地震・米子会社事故で",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vaTBSdkExNnlnS2JzS0FYMW14VzhDWDM1OF9lQTlfaXd5cWVuTVUxMHA3ems3UHJPY08xQkRHNVNMWnNlUTczQXQyOGFETkFTLUg5YTdSTlhzTEwzZTlhblg1VUVZbDFlc0tsWDVaQVhIYTFUSzhKdXZ6WQ?oc=5",
-      "pubDate": "2026-11-06T06:51:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日本製紙、今期純損失400億円 熊本地震・米子会社事故で  Reuters",
-      "category": "disaster"
-    },
-    {
-      "title": "東京駅「Depot」、熊本地震の復興支援に阿蘇牛乳を使った濃厚プリンを復刻販売",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14d0U5R2ZSYjhKajduYmZmaFhsLTJUTXVuS0hwbmMzMGpULWlBMDB5ZzVEaUJzdHh5bGpnTkZlUGlpVlhlYWRMQ2dZQjh0cG9hLUZ4anMwWVdDME42RTFpbHRoQXl3ZjRNWnc?oc=5",
-      "pubDate": "2026-11-06T06:30:02.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "東京駅「Depot」、熊本地震の復興支援に阿蘇牛乳を使った濃厚プリンを復刻販売  PR TIMES",
-      "category": "life"
-    },
-    {
-      "title": "日本製紙、熊本地震で特別損失151億円（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBra1dTb2tUR2hyUHlQMUVhZ2t1SDhNaEtZU2lVLUJTU05DX3BhcklROE10dU9RWXRJVk92ZEMzbldmeWRHVkpyZ2ljODYxUDExZWoyVDBCYzlhcTJPX1pncUtZZlFZSTY3RS1MOFFiZ3hhSjY5TWRmdkRSV3dFT00?oc=5",
-      "pubDate": "2026-11-06T06:29:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日本製紙、熊本地震で特別損失151億円（共同通信）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "日本製紙、熊本地震で特別損失１５１億円",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnQ2k4Ynk0YXhJeGRrTEZFM1RucWtBVERUOTBfeGZGa0JRWlpTRExIMGduU2xubEsySHkwMG5QWEdHZnZjeksxT1hRTjB0S2MzNlZHdlJDOUVVWHBxdVE?oc=5",
-      "pubDate": "2026-11-06T06:29:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日本製紙、熊本地震で特別損失１５１億円  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】日本製紙、熊本地震で特別損失151億円",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nSkM4ZVFKbE8zU3EtcTh0b3hTNVhYUDVvd2hxeGE3ZTJ1NERfRDZGM3BGdzJHMkoyN1FzTVdOVk5ydFNnOWVSdElVdw?oc=5",
-      "pubDate": "2026-11-06T06:29:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】日本製紙、熊本地震で特別損失151億円  47NEWS",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-11-07T21:50:33.070Z",
-  "lastAttempt": "2026-11-07T21:50:33.070Z",
+  "lastSuccess": "2026-11-08T01:07:03.480Z",
+  "lastAttempt": "2026-11-08T01:07:03.480Z",
   "fetchOk": true
 }
