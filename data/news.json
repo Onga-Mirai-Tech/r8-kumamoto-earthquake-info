@@ -483,7 +483,7 @@
       "pubDate": "2026-11-07T08:13:48.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "日本製紙が熊本地震で被災した八代工場の再開断念  ABEMA",
+      "description": "日本製紙が熊本地震で被災した八代工場の再開断念  ABEMA\n日本製紙が熊本地震で被災した八代工場の再開断念 新事業で拠点や雇用は維持  テレ朝NEWS\n日本製...",
       "category": "disaster"
     },
     {
@@ -595,6 +595,15 @@
       "category": "disaster"
     },
     {
+      "title": "7月の熊本地震で被災した龍峯小校舎2階の廊下。天井の一部が崩落していた - 熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下 - 写真・画像(1/1)",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBja2JwSUQ0cHRtcFdfa0hqYTlYZUJwVVZNWU83LWZXMzVZZEEwVFlJUEZjVlJwekY2UTFxQ3pUbEk2ekk2MEJKQ0F2b0E3czc4dkVqZ3Rubw?oc=5",
+      "pubDate": "2026-11-06T21:05:58.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "7月の熊本地震で被災した龍峯小校舎2階の廊下。天井の一部が崩落していた - 熊本地震で被災、八代市の龍峯小の内部初公開 天井崩落、ゆがむ廊下 - 写真・画像(1...",
+      "category": "disaster"
+    },
+    {
       "title": "熊本地震で被災した八代工場の事業方針について説明する日本製紙の瀬辺明社長 - 【会見一問一答】「100年の歴史終えることになり…残念」熊本地震で被災の日本製紙八代工場、生産断念 - 写真・画像(1/2)",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KWVRCRkEzRnVkYVJSUk5PN1JwQVE5SFo2NnZLcDlRc09tTTV6VHBxRy1nQUl2U1FybEhsOFgyektUck1TeVp4a3pkdXA1allFQnlqSWluZw?oc=5",
       "pubDate": "2026-11-06T21:05:58.000Z",
@@ -632,11 +641,11 @@
     },
     {
       "title": "令和８年熊本地震義援金／民報教育福祉事業団（５日） ▼郡山市の増子建築工業が２万４千円",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ScEVVVmFIS0o2YWU3enlyQzBjT3c2cHJOVTRRcDZiaWRCU0JTRDBlaWZxTXVWWE5PaGdITUR6cXZFSzNsa1BKM3RmWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kbGVZRDZKNExtRW9QWkw3MkZCLS1zZ0I5OGI1Q0FtMk1pSTJLcDNTRnlsdzJtZEFueGNydnAxbE9ncnJBTHpad0FnekU4RjA?oc=5",
       "pubDate": "2026-11-06T21:01:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（５日） ▼郡山市の増子建築工業が２万４千円  47NEWS",
+      "description": "令和８年熊本地震義援金／民報教育福祉事業団（５日） ▼郡山市の増子建築工業が２万４千円  福島民報デジタル",
       "category": "disaster"
     },
     {
@@ -890,18 +899,9 @@
       "type": "local",
       "description": "日本製紙、熊本・八代工場の紙生産再開断念 「復旧は難しい」（毎日新聞）  Yahoo!ニュース",
       "category": "infra"
-    },
-    {
-      "title": "イオン、総合防災訓練を実施（時事通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tcWcxLTFZbEJOTGZPb3FoTnBzQngyWGtySVdoT2NmMzBMbk1UMWNNeVpnb3ZJclhVYlBiWUZ5UlAyMUs3SUF4eWVheXVIMkFXazBPb3pCMjc0Vl81WUEwT2drOF9MNFFNNnVOcDZIMEU5TGZRb1VuTnVLX2lPZzg?oc=5",
-      "pubDate": "2026-11-06T11:00:58.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオン、総合防災訓練を実施（時事通信）  Yahoo!ニュース",
-      "category": "other"
     }
   ],
-  "lastSuccess": "2026-11-08T14:25:26.083Z",
-  "lastAttempt": "2026-11-08T14:25:26.083Z",
+  "lastSuccess": "2026-11-08T18:57:33.093Z",
+  "lastAttempt": "2026-11-08T18:57:33.093Z",
   "fetchOk": true
 }
