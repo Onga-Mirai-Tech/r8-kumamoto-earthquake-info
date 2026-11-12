@@ -1,21 +1,471 @@
 {
   "items": [
     {
-      "title": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住宅で活用へ",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVmxnYWMyZGtEdG5OSmdFUkQycURSemwybVZBdEhTOUVaY0Q5Q0Q0Z2RvcFgyeDY4d0kyTzJWWDJZV1ItMG4wck1VRFZjVy1tNE1Gc3FrNGstV2R4a0FTVjNUMF96Q003?oc=5",
-      "pubDate": "2026-11-12T07:22:33.000Z",
+      "title": "2026年熊本地震・守る備える＞木造住宅の耐震改修へ「精密診断」を 「改修費抑えられる」と名古屋工業大名誉教授の井戸田氏指摘 人吉市で講演会",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hWWZ6SUdteXpLem5LdVZ6bGlkekdITUtSaXF4UGtYcVNOWnhTS1lPX2hJRTVWb2JKaVN0YjN4SjFIY01JajhKb09kMk1IWTQ?oc=5",
+      "pubDate": "2026-11-12T13:32:16.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震・守る備える＞木造住宅の耐震改修へ「精密診断」を 「改修費抑えられる」と名古屋工業大名誉教授の井戸田氏指摘 人吉市で講演会  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞「気軽に行ける場所の存在痛感」 居場所確保で地域クラブ、国際NGOが連携 嘉島町",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtWUVZRVFReGxZUVg0dW12VkdfMW5SdF9tMHZoYWhKcmo1MEptdGhWT2hyWjJTR2pvdzdlODdZeHV1MlZCN1pIOGhqVi1YUm8?oc=5",
+      "pubDate": "2026-11-12T13:30:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞「気軽に行ける場所の存在痛感」 居場所確保で地域クラブ、国際NGOが連携 嘉島町  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "アジア・アジアパラ大会のコンテナ型選手宿泊施設、熊本地震の被災地へ出発 仮設住宅に活用へ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BbWpxQVNwN0lLbDdmR1l4V0pNZTBNbnh5LWFBQ3VZcUxaVFhmTkdCOURHYlR6Y21BMXNRNGpEX29ZT2U3R2xLWnZoWS1PY0p2T29xNw?oc=5",
+      "pubDate": "2026-11-12T13:00:56.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住宅で活用へ  毎日新聞",
+      "description": "アジア・アジアパラ大会のコンテナ型選手宿泊施設、熊本地震の被災地へ出発 仮設住宅に活用へ  中日新聞Web",
       "category": "life"
     },
     {
-      "title": "熊本地震の被災地で温州ミカンの収穫が本格化「無事に迎えられてうれしか」…児童から「あきらめないで」メッセージも",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VMW1OT3dLaWw4dVhVSG1qaEFMcERoVWgwN0tiR2g1b1RoNk5wQ0hndm1qWlVBSVdTUmJ5ZFFMblhMQ0VRZTZaM01rZm1VSEhjcUxEWHJxejQ1aXJGMktpTVZGWkJKd0FueGNDTVc4dGxxSDZFakYtVmZ5NlJtdE0?oc=5",
-      "pubDate": "2026-11-12T07:20:20.000Z",
+      "title": "【速報】熊本市南区など震度1（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNFoyaGdYVzZNWkZIbDBKTkZTZ0kydzJwMW1xck1MVUJHdEFlUm1fRlBVQmdxOVFNbG91LWo0cU40SmdGN1ZISm9mWW1yOXZTRzF3OVZVWHhoQVBXMTFKQVVMcmY1VTNUT3JtcUc2cl9Zcm1wRExNRTFNQTFob1U?oc=5",
+      "pubDate": "2026-11-12T12:55:21.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区など震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "震度1 熊本県熊本地方 2026年11月12日21:43ごろ 地震詳細",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0pFN21uSnRSMExOVzNOUTVDU2pwX3RiWnNGamxGQUNWdU1TakswZGdqM3RMWktmT0NxWGVDMzROUFIyOHREbnNkM2JXOVp3LWkxUnhuUVdpWlB5V0ZGT3I3UXhtTmE5TkhhOXZfNlFVblVsa29jRTczWUZjOUQ2WWp3?oc=5",
+      "pubDate": "2026-11-12T12:52:56.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本地震の被災地で温州ミカンの収穫が本格化「無事に迎えられてうれしか」…児童から「あきらめないで」メッセージも  Yahoo!ニュース",
+      "description": "震度1 熊本県熊本地方 2026年11月12日21:43ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】熊本市南区など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05RkpDU0lLck5CTThlUjhBVWppc25RWUhteTRjNWJIM2ZrZ0NWOTQ4SXA4bGVTem5wNnlndUtxMGpFTzVYR3RoSnduejR3alU?oc=5",
+      "pubDate": "2026-11-12T12:47:58.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】熊本市南区など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "門仲どらやき どら山が「熊本県産 紅はるかどら」の一部売上を熊本地震の復興支援に寄付。11月の注目は「無花果の紅茶どら」",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jdDZWVmhDbDBOSWtHTDNTR3czSm9MamRTMGphRVdqbzNuNUhabXkwaUxNbUxCLXB2enJpTTVIbEZLYWhCYUNUcHNCUXFmX3VWZHVn?oc=5",
+      "pubDate": "2026-11-12T12:33:38.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "門仲どらやき どら山が「熊本県産 紅はるかどら」の一部売上を熊本地震の復興支援に寄付。11月の注目は「無花果の紅茶どら」  STRAIGHT PRESS",
+      "category": "life"
+    },
+    {
+      "title": "アジア・アジアパラ競技大会で使われたコンテナハウスが熊本地震の被災地へ（2026年11月12日掲載）｜KKT NEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RXzl1YV94OHF6OGxIQTUwLUxiWTJvWXZLbWNaQ2RnSVpaaXlRM2R2WlY5RzlITW1PelFkV1YwWlpSdzdVS3pkbk1QYXB6M0hSa0FRenpDUG05U3FHTDBINnRmbUtDeUJ4TkNXTmJ1T3Brdm5KXzZheGJ5OXBuUk0?oc=5",
+      "pubDate": "2026-11-12T12:23:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "アジア・アジアパラ競技大会で使われたコンテナハウスが熊本地震の被災地へ（2026年11月12日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
+      "category": "disaster"
+    },
+    {
+      "title": "アジア・アジアパラ競技大会で使われたコンテナハウスが熊本地震の被災地へ（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BZDVSRUpWTkc5dlh4ampaeXdLcC13R0dkckdmeFJWelJsLVBxempiS2FBbVNpTnhHN2dsV3FUTHhHTEtxdDVKbEdiTU1qVlFPREhpRnFuNFNRbTBsUnJUTlFjMUxKcWQ5Ql9MTExaVnhnbGlDQmY4S01Gdi02REU?oc=5",
+      "pubDate": "2026-11-12T12:23:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "アジア・アジアパラ競技大会で使われたコンテナハウスが熊本地震の被災地へ（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "長引く避難、疲れ癒やして 資生堂が「タッチケア」 宇城市＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wQXJ2Z2VEYVRpaWFSVmpKZ0tZbnlMM3dOVktjdjdTQlJSMjBJTjhaX2JNdS1RNVB1UkN1WjV5alJIYkFKU3dnNVlwcHV6UEk?oc=5",
+      "pubDate": "2026-11-12T12:20:28.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "長引く避難、疲れ癒やして 資生堂が「タッチケア」 宇城市＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "笑顔1回1円! 首里高校のボランティア部、4万5000回の笑顔で熊本地震の被災地に支援金を寄付（RBC琉球放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRHhtUEhkaE8weGpIV0owOFFaRUFxcV9qeW9QUjZ5ZzlBQ3VtUHFkTFBRLWtuaWNidXdHTmRlbVVwbzNzUkxTMnQ0bkZRTzVRS2FZVDZLTDU2UUtNLUpESTFaaEs4RGpWczMweVNEY0JVV1Mtd1ZOQ09xZFpEZ2s?oc=5",
+      "pubDate": "2026-11-12T11:30:32.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "笑顔1回1円! 首里高校のボランティア部、4万5000回の笑顔で熊本地震の被災地に支援金を寄付（RBC琉球放送）  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震で壊れた自宅→2カ月半の修繕後…… 完成した“驚きの姿“に「元気いただきました」「すごすぎます！」（ねとらぼ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWXNZNFBmT1A5TzFXSk5SN0RqLS14WU9ZbUFHdWI0R2libGZLMVB1VktEOTh5OE1sbTdRRFY0WmdiazFfVE5odG5uUGJnN01leTRJaU1LMVg0S2UxU05POEROb1FBU01ORWVQVHJPd2RpanRlMEpKYVRGa2lWc2s?oc=5",
+      "pubDate": "2026-11-12T11:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で壊れた自宅→2カ月半の修繕後…… 完成した“驚きの姿“に「元気いただきました」「すごすぎます！」（ねとらぼ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "笑顔1回1円！ 首里高校のボランティア部、4万5000回の笑顔で熊本地震の被災地に支援金を寄付",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WG45M29scnl0a3UyckZWdEhrNzBfSDdsTUYwZllvU1VBalFrMktDc00xakxNakNQdEhCVFd2T25tbzM3ZlplcHJhMzZibWRudkc2U1J1dkNlRGxQMURSME0yMEoyR3M?oc=5",
+      "pubDate": "2026-11-12T11:30:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "笑顔1回1円！ 首里高校のボランティア部、4万5000回の笑顔で熊本地震の被災地に支援金を寄付  TBS NEWS DIG",
+      "category": "life"
+    },
+    {
+      "title": "熊本地震で被災 サントリー九州熊本工場 約３か月ぶりに生産再開（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tMWJ0VmZJMS1OQlpyZmY1NGdkbk1uMUpnekwzSjl3bEx0Um1ONmNsQjQ0MU1icElSTGFNaUI1WE1CRWFKNG9Gb21Cb250aE1BU21aQUVUeFdUaUZ3SDZPaElEYUh3UlV6bHpGZTIxUlpIamZTNFJHYTBTOGN1TDA?oc=5",
+      "pubDate": "2026-11-12T11:24:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "熊本地震で被災 サントリー九州熊本工場 約３か月ぶりに生産再開（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "ものづくり楽しいよ！ アルミ板でネームプレートづくり 宇城市・小川工高生、小川小児童に指導＜2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yNkVFOWNMRE9WcU9xangwWjEtcVlxeVBsOTQ2WjNrVm5fa3JEcnhiWmVMZVk4M2p0cHd5NmhBUFNvR1ZnSVNSc0k4V1F6QzQ?oc=5",
+      "pubDate": "2026-11-12T11:22:32.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "ものづくり楽しいよ！ アルミ板でネームプレートづくり 宇城市・小川工高生、小川小児童に指導＜2026年熊本地震  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "17校被災し500匹が必要 被災地の小学校に理科の授業で必要なメダカが贈られる（ＫＫＴ熊本県民テレビ）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWFFiLXZIMzZkenhZMC03dERzZnBTcXEwUWlPVF84alEtTDNSbXBzeUpxa0RZUkd0OXN4VkxPTGV5SV92RVRqTUdxaTdWR0R1djBZY3lldU5OclFaZndYdlhCWGszX1lzZlZhZEV6UEhiS2c2UEd2cnJRaUVCTkk?oc=5",
+      "pubDate": "2026-11-12T11:22:01.000Z",
+      "sourceName": "KKT熊本県民テレビ",
+      "type": "local",
+      "description": "17校被災し500匹が必要 被災地の小学校に理科の授業で必要なメダカが贈られる（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
+      "category": "other"
+    },
+    {
+      "title": "サントリーHD、九州熊本工場の生産再開＝7月の地震で被災(時事通信)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWENxSE14UXBUbkJXLXBKN2pOb0dRSFhDd3RaYTBMcHlNQmlyT0h5UVBfMjVRTllycHFTQnpnUWwzVVlQQVVCUVJLdkU3cnFJTWxMMTQ3d3pXNmxoZmtQT0dSVHpRMXc1eTZsQWRrMWtkemRQN0tvdTdDVkF6VFRHOEVWeHRzemM?oc=5",
+      "pubDate": "2026-11-12T10:55:48.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリーHD、九州熊本工場の生産再開＝7月の地震で被災(時事通信)  Yahoo!ファイナンス",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞義援金の2次配分32億円 熊本県内29市町村に 配分基準に変更なし",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10ek1rcWNVXzAyaUROQkdacWVHM2JZNDhmSWt6bFgwdGt3SVNLMzdTaHBSZzhqMm1XYmhmMFN2U3FpdDZQN1pvVHdSUDhXODg?oc=5",
+      "pubDate": "2026-11-12T10:55:25.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞義援金の2次配分32億円 熊本県内29市町村に 配分基準に変更なし  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "地震で被災のサントリー工場 ビール生産を再開【熊本】",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWFp4a2VaeHNsaGZ6UmNubWRISG42V044YVZJQnMteWRZUVF5eVZkZklRb0l0b3V4REVaeV9nQ09yT0JhelBpSzQtbjFhMVk0QUtSMk1aZnBFSmhhZTd3SnR5dG1kYTNjQU9Ld0V3?oc=5",
+      "pubDate": "2026-11-12T10:53:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "地震で被災のサントリー工場 ビール生産を再開【熊本】  au Webポータル",
+      "category": "disaster"
+    },
+    {
+      "title": "[TKUニュース 26.11.12 18:30 ] 地震で被災のサントリー工場 ビール生産を再開【熊本】",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pNXI3SGpET3U0cUhKaWVrbV9XMTZOSWtEaUxaUXdjdXhuSXlKVi0wWTJqQUVENnBKN1o2T1JYaFQ0UExXU3BaNHFvZThfdkJ0dkpLZkJhWUx5ZW1hUlJzVlR4OA?oc=5",
+      "pubDate": "2026-11-12T10:47:31.000Z",
+      "sourceName": "TKUテレビ熊本",
+      "type": "local",
+      "description": "[TKUニュース 26.11.12 18:30 ] 地震で被災のサントリー工場 ビール生産を再開【熊本】  TKU テレビ熊本",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞被災文化財、復旧・復興に20億円寄付 九州FG",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jRXdnYjl5WTE1dVpTZkFqbUZBbFhHaG9oTnR5cDlMOXRKbXRPTGhiQnRkT3hWQU9WM0traEJUZ3RqckIzYnBycXNsUHh1aWM?oc=5",
+      "pubDate": "2026-11-12T10:17:21.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞被災文化財、復旧・復興に20億円寄付 九州FG  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震で音楽フェスを断念企画者が11月14日、下北沢で「共創フェス」を開く理由（堀潤） - エキスパート",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDBHUVJ2dnNRVmg3VG93YUU3TEhzNlo1MlNxTFBERFYzRi1hVEpYLW1SWGtDYm1iUzJyNkw4QWUwRkUycWo2bVJLNDNRa29kclUzdEsxdE8tZk9kU01SallLckxJWjFkb3l5SEpidkNKQ3ltM1hVX1RBNGRxZlJaWnRJdGxXeVo4?oc=5",
+      "pubDate": "2026-11-12T10:17:03.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震で音楽フェスを断念企画者が11月14日、下北沢で「共創フェス」を開く理由（堀潤） - エキスパート  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー九州熊本工場でビール生産再開 清涼飲料なども年内再開へ 嘉島町＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9udFlneF9PMHJpTjdneUJTTHFHbm96SFp2Uk93ci1acVNIa054UzhPT3diWUJ2Tm95anRyVE9TY0RZSzBVVlNGNi1FXzJERm8?oc=5",
+      "pubDate": "2026-11-12T10:13:33.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "サントリー九州熊本工場でビール生産再開 清涼飲料なども年内再開へ 嘉島町＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "イズミ山西会長、熊本地震の対応語る 経営は「必ずよくなる」",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XUV9ZREJ4V1pYUEFtZWp1cXV1eHdpSTlZYUIzVlpabUsxYWV1YjBCdHFCOGJqWFRQQ0dGMmVJQ3RJTi1FdnRCUy1GRHJFZWM0VXNOUzF4NGc4RFNER2hTdExmX0ZsS2VBVjdSUw?oc=5",
+      "pubDate": "2026-11-12T10:02:12.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "イズミ山西会長、熊本地震の対応語る 経営は「必ずよくなる」  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞宇土中・高、いまも爪痕深く 仮設校舎年内に完成予定 「不便な中でも前向きに」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVThPeS1BdEVIV2NFUjFoejJxS3VlS3k3dURLNUxEQS0xczhnREN6TzktWWFxYlN5ZzJYYzljbUVndTM1WjlsdEc4YnBTUFE?oc=5",
+      "pubDate": "2026-11-12T10:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞宇土中・高、いまも爪痕深く 仮設校舎年内に完成予定 「不便な中でも前向きに」  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開 ビールの仕込み開始 12月中旬から出荷へ（RKK熊本放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SNUlyVk1Ha1dXMGN6ZGxuTFBSOU9xd2N5WUV3Y2RMTXZJVVNpN1ViNnpOdnNmMFNPQm1raFpTb3I3S3U1SjdMMXB0dTVaQlZKTnAyNFd5eF8tQ0ZlQjQ4MGc0eFpiQkFVTG4yUmIwVEhFQ29nby1NTXEtTzc1cmc?oc=5",
+      "pubDate": "2026-11-12T09:43:14.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開 ビールの仕込み開始 12月中旬から出荷へ（RKK熊本放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開 ビールの仕込み開始 12月中旬から出荷へ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fdEtSYlhHQzNlWkQzbFUtcy05cVJBMjFOWlBwZG0xTnZYUmtoRHgzaWl4VEVOdGtlcXNIbU9jLXo0QmkyWVVTa05zOVlrUy0yaXlLMzVEM3ZZSDBIa1BOTi1NU29PNWM?oc=5",
+      "pubDate": "2026-11-12T09:42:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開 ビールの仕込み開始 12月中旬から出荷へ  TBSテレビ",
+      "category": "disaster"
+    },
+    {
+      "title": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開　ビールの仕込み開始　12月中旬から出荷へ",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1hLZTlEbjkzT2ZCeFhlYUFxSEtJWTNmdDdwM21JbXdsck04ZE94VmNZdndOY2V4bUQ1NVJ1ODBWd192TG1zM1NlQTZIYUcyb3VUNWo1V2tYR1RUakk0SFo1RzJDc2EzMGRPZWJ2SllOWWU0YlZnTnkzVlpSWlEtMmZ30gF0QVVfeXFMT0ZaYVNhWFN0bEFETkhMb0MzTG9hYUJQdURZaXNOeXJ0Z2lwdDhTWVZSWU4wN25fSGFKd215YjQ3V3dVZF9WaWdQbnV5bm9QaXNUSUJQYkdxWkhHR1o3MlZiWE9iWE41OWplS05MbXFHekNvSUg?oc=5",
+      "pubDate": "2026-11-12T09:42:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【サントリー】熊本地震から3か月半…九州熊本工場が生産再開　ビールの仕込み開始　12月中旬から出荷へ  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "ヤマックス（熊本市）売上高29%減 前期反動、地震で納入先送りも 9月中間連結決算",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5dW9TcFY0eFN2REVjVEFrRFVhTmhPWGFMYUtVOUx3SktRTGFvS1BHazVoUVF6VEZJVGlWXzdCQ0Q1aDlPUEVkSGlnSlVFQjQ?oc=5",
+      "pubDate": "2026-11-12T09:40:31.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "ヤマックス（熊本市）売上高29%減 前期反動、地震で納入先送りも 9月中間連結決算  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "決算:九州FGの27年3月期、熊本地震で与信費用3倍に 業績予想は据え置き",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04WWxhRzNBSC1abGdPZnBMYk1wa3BWekxYcFFPRm4yMDljZ0czMHJUYS03XzVsa05JOTFDV3VqV1h3eUZWb1Jub2xodXk2VHVic3FzSVQ3YUpTRUR0bEJoQTF3RmZ1cUZVNFRmOQ?oc=5",
+      "pubDate": "2026-11-12T09:36:41.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "決算:九州FGの27年3月期、熊本地震で与信費用3倍に 業績予想は据え置き  日本経済新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "記録的大雨、2026年熊本地震…相次ぐ被災にもハート美しく 美里町の二俣橋 「修復される石橋の様子見に来て」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nODNqODRvRG1TUEszRkxSc1R5X3ZIX3JRX1RsNzhSQTJoaEhPVW82RGZKeE40UTZOdnF4Uk53Q1R1T3lsQ1ZXTjVsZWZMS28?oc=5",
+      "pubDate": "2026-11-12T09:36:33.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "記録的大雨、2026年熊本地震…相次ぐ被災にもハート美しく 美里町の二俣橋 「修復される石橋の様子見に来て」  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "＜2026年熊本地震＞仮設商店街2カ所整備へ 鏡町と日奈久地区 八代市、11月末入居者募集",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZVR2dF9SWnVNdklpRC1Sa3Zwb1lKWktwTGNWbnFGQXF3VmxxNlFjTkg3SmxPbXRqel9HTnh6Q3RqSzZlc3RMT1pvNFI3WUE?oc=5",
+      "pubDate": "2026-11-12T09:35:33.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "＜2026年熊本地震＞仮設商店街2カ所整備へ 鏡町と日奈久地区 八代市、11月末入居者募集  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー熊本工場が生産再開 地震で被災、１２月出荷開始へ｜全国の記事｜京都新聞 ON BUSINESS",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PXzdta2RaWE9jbnFVLVRDUWEwZUZMT3kzYllPZTJCMUhBcEZUOEd1ZFVDVHZOQmRIUU5ZZVg1bDNTcFR4SWZYdDF3NG82M1BnLUlvV2Z1Zm55Xzg?oc=5",
+      "pubDate": "2026-11-12T09:28:21.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー熊本工場が生産再開 地震で被災、１２月出荷開始へ｜全国の記事｜京都新聞 ON BUSINESS  京都新聞デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー熊本工場が生産再開 地震で被災、12月出荷開始へ（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTXNKZTZkU1pqcTNMVWlRR1JJOEJKNnRGdGpUZTR5YW9NcDZ6UldPbU1hZ2RXX05qR3FGNmRaelVWQ3ZSbjVuTGRobkM5aXV5NEs1VHJhLUEzUTUzV2QzRDRkY2YyQl80dnhFRTRGN3l4ZWhoRDhoTGZEczZHX2s?oc=5",
+      "pubDate": "2026-11-12T09:28:19.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー熊本工場が生産再開 地震で被災、12月出荷開始へ（共同通信）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー熊本工場が生産再開 地震で被災、12月出荷開始へ",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2YndZdHJuQ3ZvVFpPMldHYmNlczNuMXB4RGtzNzg1eExJU283ckxkemFScWxzRWVwbkdnS3dYMkRMX0szbUxBa2hKSQ?oc=5",
+      "pubDate": "2026-11-12T09:28:19.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー熊本工場が生産再開 地震で被災、12月出荷開始へ  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー熊本工場が生産再開 地震で被災、１２月出荷開始へ | | 全国のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wbzJha3JGOFVTMDhLVXFHS05tRnlJYUI3OHNrb0RBQUlFSXpIV2ZvdnVDWFNWZXpGQU10OWk4ZmFEdFNFTTVZeXhkWjdNWTNZOWVQeG13?oc=5",
+      "pubDate": "2026-11-12T09:28:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー熊本工場が生産再開 地震で被災、１２月出荷開始へ | | 全国のニュース  佐賀新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震で被災した事業者に仮設商店街 八代市で説明会",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMZy1iaHphbkZpc3dCTkZQOG44b0xDVllpV1BuQ0cyb2UyN0FmVWNHRVE1ZlVPcW1LcXpnQlRnQkdXaHdhU3c2RmZ6b29BV1huVzJyUExwdHUxVVFMSW5F?oc=5",
+      "pubDate": "2026-11-12T09:05:13.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震で被災した事業者に仮設商店街 八代市で説明会  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本 八代 冬を前に避難所で保健師が感染症対策呼びかけ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EUVhmN3UwZUdJWE9IMEctTEowcEotQWlCa05POFZWVGJpZWcxN2Rjbk9GLWE2d3Z6MzJLaWFiMGF6UkVIaG9qV0N5U3RHdms0ZDNWWTdqZ3JJd1hNMC1j?oc=5",
+      "pubDate": "2026-11-12T09:05:00.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本 八代 冬を前に避難所で保健師が感染症対策呼びかけ  NHKニュース",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震＞「地震に負けない」が合言葉 被災乗り越え最優秀賞 宇土小音楽部、宇土市長に報告",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaMXRUZWQxMUVXWWNwTUxNVVBWbVFEalJuNzdVaHdreHBDejd2Qmd4TWY0bFJyNWFDR0NQSDVvcnJGSl9FZjhVS1lJSmdXcGs?oc=5",
+      "pubDate": "2026-11-12T09:03:48.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞「地震に負けない」が合言葉 被災乗り越え最優秀賞 宇土小音楽部、宇土市長に報告  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震による文化財被害410億円 熊本城分を除けば「前回以上」",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tZTRxbXM5U0E1S1FxQ1JJNlpLSkJNRXFHb0JiX3FqTDlnTEh4b1JDTjBfdUhVbjJQYUl2Sy0walBWTGg4YXRGVG1SbVlCSjl4QUd0MTQwSWhiLWVrclFEQUpBMGpMZkU?oc=5",
+      "pubDate": "2026-11-12T09:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震による文化財被害410億円 熊本城分を除けば「前回以上」  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリーHD、九州熊本工場の生産再開 7月の地震で被災（時事通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRXFCUGVYa2tzR0VDbDZUV1l0dTloX1A4cXN0VTl6dEp6elFQb2diMTJsY1ZQZlA2dE5LZkdoRmZHbDhFS0xJNHRUZnk0QmJPSzdRTXJtMlJVQmp2azB2UzFRdEdlNXIwSVMtUlBOdkJPU3JzelhOa01xaUxYTk0?oc=5",
+      "pubDate": "2026-11-12T08:57:11.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリーHD、九州熊本工場の生産再開 7月の地震で被災（時事通信）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー、地震で被災の熊本工場再開（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80RFlpZ05IU20tSzNLZkNZSmFfNXM3TzJybEc5NGhreFRZZzMwaFVEX0RkdGlYeVcxaFk5NkdsQjItZmxzVGdCRzBQMzlWNlFMTlhpYzQ3SWtNZko2V0pSWFZqSHNsdUVUalF1SG9ld042YV9vY0NBMlB5V3FOcE0?oc=5",
+      "pubDate": "2026-11-12T08:55:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー、地震で被災の熊本工場再開（共同通信）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】サントリー、地震で被災の熊本工場再開",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fbHlhOF9NVHJVVWw3UHNlT0s4Zy1reHVQeS1GMUt6VGhlNkFUQzVZakFDWTFVSU5nU2ExQ2ZXcGkxcmRSRWhYMjVSVQ?oc=5",
+      "pubDate": "2026-11-12T08:55:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】サントリー、地震で被災の熊本工場再開  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー、地震で被災の熊本工場再開",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtWkFHR3d3Q1h5cGR1OUswVTE5dEpYSHZ6UDdsTUFhZ0xraGhmdUVOSXRtSnRVRExCVGFFLTVtQm9ZU1FuTENBQkJ0RVVoVXVhdDlubHR2S1A?oc=5",
+      "pubDate": "2026-11-12T08:55:17.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー、地震で被災の熊本工場再開  京都新聞デジタル",
+      "category": "disaster"
+    },
+    {
+      "title": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sSEI4amszazFVT3N2WXB0cWFibjFrYTdKYU9ORWttdHpTYUl5UWhrd3pTczVNQ2Vjd2dJNlBmNFYyVWdVcFluVE1YMA?oc=5",
+      "pubDate": "2026-11-12T08:19:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdS1OTU5YU2RuVWQ2SmdhOTdmVlBKcmZJRy1fNzQ3WU8zek5aeUpkMWxBbUdNOTBBTTdUMnpYOGxpZ1BFN1laR05abE9mTkU?oc=5",
+      "pubDate": "2026-11-12T08:15:31.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア（共同通信）  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "サントリー九州熊本工場、生産再開 熊本地震で被災 来春フル生産へ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iRDIxZ2hLZjBWMl93alY1SjVoUWhhckdOeGJvUmFMVUxlVDBLT2o3b2o0S283TDBoVnI1Ymg1WWNsdXlGWGozMmo1VmE4T1NkamVjVzc5WjRFQnJ1a1pmeGtDLTBaa00?oc=5",
+      "pubDate": "2026-11-12T08:10:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリー九州熊本工場、生産再開 熊本地震で被災 来春フル生産へ  朝日新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア | | 全国のニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpQ19abzdfX09LZFFEWVBTOE02YkJDY2ZfUFNRNjlHdDFqQnNkQUU1ZXh4czBJNGk0TDJpNG5GRkZTUlRnVUZ5VU4wT0dRU1BZaHUxR0JB?oc=5",
+      "pubDate": "2026-11-12T08:07:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア | | 全国のニュース  佐賀新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "【写真】日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oZUF6Zl9wdDBMUmcwVll2NkdlUEpZM0JSaEM2T2ZDTElUdjRoT1pTUVVBM2VvNl9RdDF3ZFRIa0VjYXVMSWV1QW1nUXhyTXFibG8zenUzeVJ0V25JT0luazJDN256T3Z6?oc=5",
+      "pubDate": "2026-11-12T08:06:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【写真】日赤「我慢重ねず自分大切に」 熊本地震、職員が心のケア  南日本新聞",
+      "category": "disaster"
+    },
+    {
+      "title": "日赤「我慢重ねず自分大切に」／熊本地震、職員が心のケア",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12Qkc0SDRJMFFZemRkWlV6SDRIWUJnUEdEbkowYUpESl9wY3gwQ0lEZDcxN3B3MFhRSWxIT09OakZBM3hBY0FvSWp3eG5aRlNQWEJzMDJMNTNHYkxUT2d3V2RFVkYwS09Tai1KS1p1RUZHd2Y1MUE?oc=5",
+      "pubDate": "2026-11-12T08:06:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "日赤「我慢重ねず自分大切に」／熊本地震、職員が心のケア  四国新聞\n熊本地震の被災者支援へ KBC水と緑のキャンペーン募金を贈呈｜KBCニュース  KBC九州朝...",
+      "category": "life"
+    },
+    {
+      "title": "「被災家屋を壊さずに直す」建築士による勉強会を開催：熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KS3BpeDRPMHZXejFnZVRXbDRKQkRYU0h3OWV2Y3hJNDRpWUtCdTk2ZDFtbjFtOHp0aHpsLVIyWl8tclkzSi1JY0VjelE?oc=5",
+      "pubDate": "2026-11-12T07:41:58.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「被災家屋を壊さずに直す」建築士による勉強会を開催：熊本地震  AAR Japan［難民を助ける会］",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災地で温州ミカンの収穫が本格化「無事に迎えられてうれしか」…児童から「あきらめないで」メッセージも",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyUEdmTU5NZ2ZWaVJrb0hNUXRlcWFDOFBsd1RCTkRTOEl4TVZweDlha01GVENqaVJ5VmVsWHZYek03Y1hlZGFNZ3NNYmYyZVRXVE1ZWlRqMUNaOGl2Uzd4RnpnT1c?oc=5",
+      "pubDate": "2026-11-12T07:20:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地で温州ミカンの収穫が本格化「無事に迎えられてうれしか」…児童から「あきらめないで」メッセージも  読売新聞",
       "category": "disaster"
     },
     {
@@ -30,7 +480,7 @@
     {
       "title": "アジア大会選手団の移動式宿泊施設 熊本地震被災地で再利用へ",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVzdOLTNDY1pORHhFUG93aUpodkpERmlWbWlrTEx4a2NBWXVfZUg5cl9feVJDVnlHbnRXTVl5dnVTV2pxUTFMZGlndExCdGV0Q2Q3Ukk5ckk5bE02em5v?oc=5",
-      "pubDate": "2026-11-12T07:02:20.000Z",
+      "pubDate": "2026-11-12T07:02:00.000Z",
       "sourceName": "NHK",
       "type": "local",
       "description": "アジア大会選手団の移動式宿泊施設 熊本地震被災地で再利用へ  NHKニュース",
@@ -73,6 +523,15 @@
       "category": "disaster"
     },
     {
+      "title": "鶴屋八代店、20日から営業再開 老舗菓子店「彦一本舗」跡に仮店舗 八代市＜2026年熊本地震＞（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzU2NvM002d1BuNHQ0dk84ZWR1RV9Jb1hnOG9HQ1J6eWRGM1pCTXNDRzNqZE1yV1JGT0MzT0RBc1FNa3AxUS1zTV8zLWxQSTI2d1BCVlpLQXByeS1ROWhIYi1xN1poTnR5WjUydWdSVHdjNkVOYUY2YkRfYlk1bnM?oc=5",
+      "pubDate": "2026-11-12T06:35:33.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "鶴屋八代店、20日から営業再開 老舗菓子店「彦一本舗」跡に仮店舗 八代市＜2026年熊本地震＞（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "鶴屋八代店、20日から営業再開 老舗菓子店「「彦一本舗」跡に仮店舗 八代市＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FWDlpdGJHYVFNRjY5elczS1dWRXI4VV9XUktVRVNjQTN2WEZiUW9lc2FZUHMwRWRQQUZ3dFFvZXUtYVhteGxtbmRyTQ?oc=5",
       "pubDate": "2026-11-12T06:35:31.000Z",
@@ -82,21 +541,21 @@
       "category": "disaster"
     },
     {
+      "title": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に（共同通信）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMlpuWHM4YVItX1pNay1SS2t3V1pJM21kR1hQeWRrUUo2eEFuaGdidXMxTlM0cXlveXo0em1RM29FanFOZFg4X0o5dGl1eF8wUmFBVi1WZ2FiMU92ZlBFbXZPS0taMldSMHYxVEhJUXNtT3d4RG5IcVFYNTBMM00?oc=5",
+      "pubDate": "2026-11-12T06:35:06.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に（共同通信）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に | | 全国のニュース",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBidnZmNk5yRnprSmpiQWdaanRXNWxpY0J0dzBURmVpZWNhc005RmxqY0FNcVJaVW44NzVZczFrcjRFUEc1eHQ3cUJZdzJoOHJQbEo1d1B3?oc=5",
       "pubDate": "2026-11-12T06:35:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に | | 全国のニュース  佐賀新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VcEpUVnAyRFRDbG4tSHplLWw2T0pCLXlDU1VoT3dXQnpFUG1LNnlyMFczcnB5dEx1cU5qZE9vVjFVMHpSNDA0QVgyeTRvQXM?oc=5",
-      "pubDate": "2026-11-12T06:35:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "選手宿泊コンテナ、地震被災地へ アジア大会施設、熊本で住宅に（共同通信）  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -118,21 +577,21 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】サントリー九州熊本工場が生産再開 2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pLTZ0Y2UybXZQVFNYVnlSVUJaWllQQXNydXh6Q2syZ01OOHdXd0RWWENFNlZTbmRUSWx2a1hvV0FVdERXMlQ0emdtMA?oc=5",
-      "pubDate": "2026-11-12T06:28:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】サントリー九州熊本工場が生産再開 2026年熊本地震  47NEWS",
-      "category": "disaster"
-    },
-    {
       "title": "【速報】サントリー九州熊本工場が生産再開＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lV3FHQnItbFlhdS1nUWwtUDZiYnZ4R2toV2JjdTVvSmN0UVI0Xy1oZmpoUEZFeW41cEVuUERQRGtzYzNMb3hNZEpzaWNvTUk?oc=5",
       "pubDate": "2026-11-12T06:28:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】サントリー九州熊本工場が生産再開＜2026年熊本地震＞  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】サントリー九州熊本工場が生産再開 2026年熊本地震",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pLTZ0Y2UybXZQVFNYVnlSVUJaWllQQXNydXh6Q2syZ01OOHdXd0RWWENFNlZTbmRUSWx2a1hvV0FVdERXMlQ0emdtMA?oc=5",
+      "pubDate": "2026-11-12T06:28:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】サントリー九州熊本工場が生産再開 2026年熊本地震  47NEWS",
       "category": "disaster"
     },
     {
@@ -154,6 +613,15 @@
       "category": "disaster"
     },
     {
+      "title": "サントリーHD、熊本工場生産再開 7月地震で被災",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAweVhwVUNJSWlobldNU3M5U3lOVEwwelhJR1RzLV9FNnNGNlBNMnB0VW1pLUJxU015TncyYUpzS0phUERwNVRxemI1S3FTT1RQYTJvY253ekM1TURlOHp5bTJvMnNqYVVodjdnTw?oc=5",
+      "pubDate": "2026-11-12T06:05:28.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "サントリーHD、熊本工場生産再開 7月地震で被災  日本経済新聞",
+      "category": "disaster"
+    },
+    {
       "title": "サントリーが九州熊本工場で生産再開 熊本地震で約3か月半生産停止 来年3月ごろのフル生産開始を目指す",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CVGI0aWxudFVlQlVjRk1iYUJURnFuWXQ1b2Z4OThWRVVnNjZLb3Q1RzRVTnRwU1JNalBaNHRFWHlfSDZSTEZLTVFhWEVlTDhsVzRrWGVsYw?oc=5",
       "pubDate": "2026-11-12T05:48:26.000Z",
@@ -172,6 +640,15 @@
       "category": "disaster"
     },
     {
+      "title": "鶴屋八代店、20日から営業再開 老舗菓子店「彦一本舗」跡に仮店舗 八代市＜2026年熊本地震＞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FWDlpdGJHYVFNRjY5elczS1dWRXI4VV9XUktVRVNjQTN2WEZiUW9lc2FZUHMwRWRQQUZ3dFFvZXUtYVhteGxtbmRyTQ?oc=5",
+      "pubDate": "2026-11-12T05:09:23.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "鶴屋八代店、20日から営業再開 老舗菓子店「彦一本舗」跡に仮店舗 八代市＜2026年熊本地震＞  47NEWS",
+      "category": "disaster"
+    },
+    {
       "title": "鶴屋八代店、20日から営業再開　老舗菓子店「「彦一本舗」跡に仮店舗　八代市＜2026年熊本地震＞",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUHNWOW9XWWNCaUV2VktMdk1hOXNNeWk0T1dIY0lMYjFLdjV5Z2g1a1VqZXlwVkFMQ2VTdy1NY2VINWVLckRaQkUyR2NGaUhweXdYQkE5VWJaQUo5cDBITDdYbnUxZWlSQXFTNUFRX2dHSEZMSWhLNU1WUGc5amJsZzNB0gGHAUFVX3lxTE5XSFk2UGxwZDhwSk1pdmJCdUpPV015d2hWSWQ0ZnNzQ245bHA5eGVwVXRHOUp4akJESHpicnV4UHdJcmk3OWVDbkZCRGYxd0JxaVg0QWM4OWpremkydDhlc2xGWW9RYWFxaG5SWENPSzBRQ0RwSTFoN29zeC1kYjVnakliOFZUUQ?oc=5",
       "pubDate": "2026-11-12T05:09:00.000Z",
@@ -179,6 +656,24 @@
       "type": "local",
       "description": "鶴屋八代店、20日から営業再開　老舗菓子店「「彦一本舗」跡に仮店舗　八代市＜2026年熊本地震＞  ｄメニューニュース",
       "category": "disaster"
+    },
+    {
+      "title": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住居で活用へ（毎日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtWXpTaXVfUWpRWGVhMnI4U2pDSHZZT0NNbTJBVDBQSWRTaExOUE5VQ1ZXMlRWMUxzVDN4ODFuV0RrS25xLUVRT2FNWU5DSFpXOVJpRG5qV3RYZ1QxMkpGaGQ0ZU90R2hSZDRHTi1oUTZSNjVJMl9ZTXEtR2J6YUk?oc=5",
+      "pubDate": "2026-11-12T04:32:53.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住居で活用へ（毎日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住宅で活用へ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tVmxnYWMyZGtEdG5OSmdFUkQycURSemwybVZBdEhTOUVaY0Q5Q0Q0Z2RvcFgyeDY4d0kyTzJWWDJZV1ItMG4wck1VRFZjVy1tNE1Gc3FrNGstV2R4a0FTVjNUMF96Q003?oc=5",
+      "pubDate": "2026-11-12T04:32:34.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "アジア大会のコンテナ型宿泊施設 熊本地震の仮設住宅で活用へ  毎日新聞",
+      "category": "life"
     },
     {
       "title": "熊本地震で一度閉店した「フードプラザにしだ」海士江店が再開…イオン九州が事業承継、２店舗も順次（読売新聞オンライン）",
@@ -209,11 +704,11 @@
     },
     {
       "title": "アジア大会で選手の宿泊施設として使われたコンテナハウス 約40戸が熊本地震の被災地へ出発 ｢希望の光となる｣",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YN0s1a3JibkJoWFpIR3hNa2tpYk5CaFRmVHk0OTlhZWc5dU5qTjdnb2dfMTFkY3VNR1NpU0pUVzByREhmRG1OQkM1YmlPeHBRRExqckNrSGtnUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPRkVxU29ublFUeU05T1hJbWhsUE5VVktZRUYyT1Y0dE83SElXRU9HcjFVM0NSVGpfYXFHTVc4N0dDNEtXYWdpdHRobHlhaGFwT1dCeDJWVmNyUEl0d0JwamtKS2VrZkE?oc=5",
       "pubDate": "2026-11-12T03:06:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "アジア大会で選手の宿泊施設として使われたコンテナハウス 約40戸が熊本地震の被災地へ出発 ｢希望の光となる｣  TBS NEWS DIG",
+      "description": "アジア大会で選手の宿泊施設として使われたコンテナハウス 約40戸が熊本地震の被災地へ出発 ｢希望の光となる｣  TBSテレビ",
       "category": "disaster"
     },
     {
@@ -280,21 +775,21 @@
       "category": "life"
     },
     {
+      "title": "「すごい道路損壊…」 令和8年熊本地震で南九州道「通行止め」続く 解除までは「約2年かかります」 SNSでも驚愕の声上がった被害の全貌とは？",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlNpT3lkeENQd2hIcmJvQWN4QXlURnlPR3BILUpRVUNyX0M1Y0pQRjFvZlhGUFVOS2g5aGloQnNoQWJSOUR2ek1OMlFBWDNYZWdYa25kQmF0T25lYzVmdWdhODhKd19yMXJoalhTNDN2a19zWkJtcVVWSENjcmN0ZNIBhgFBVV95cUxPaEdGWndkdkNHS2xGSjl1NUFnanFsSlR5eU85eXVDNEx0bEZza0pmOEJCVXZqeEduS3NXLTB3b1N2eWo4VmlwZXpCT1I5VzdBc3E4dEVzTldLUGlFclBkOURCTEFfam9Kb3BSNEYxcDFKQlU0M3hydEFocnRkRTJuWTA4eE1oQQ?oc=5",
+      "pubDate": "2026-11-11T21:20:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "「すごい道路損壊…」 令和8年熊本地震で南九州道「通行止め」続く 解除までは「約2年かかります」 SNSでも驚愕の声上がった被害の全貌とは？  ｄメニューニュー...",
+      "category": "infra"
+    },
+    {
       "title": "令和8年熊本地震で破損した 南九州道 八代JCT～八代南IC 通行止め解除までは「約2年」被害の全貌とは？",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY2N3eVhyRDRCZE5qMlQtQ1habmZQRFZfMGhYN05HdXVLaDdsQmgwTTVOUkx5YTItU1pLQkZLYmJpMC0zXzg5RDg4ZXk4TFNUdkF4MHEzNUk2R0dSX0dEMUZqbjhGdFp3UnJzVEhGLWhPY1hYTkhmc1ZCSUVmYUpIdkd6RkN3V0d1VmlSc1YzNDc2QmR3?oc=5",
       "pubDate": "2026-11-11T21:20:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "令和8年熊本地震で破損した 南九州道 八代JCT～八代南IC 通行止め解除までは「約2年」被害の全貌とは？  carview!",
-      "category": "infra"
-    },
-    {
-      "title": "「すごい道路損壊…」 令和8年熊本地震で南九州道「通行止め」続く 解除までは「約2年かかります」 SNSでも驚愕の声上がった被害の全貌とは？",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FMk9iNHU0OHVGbl9Va2ZzQldlLUZEa2dZTm5GZGxadHFkOTUzZGdwWElkZ0JmLTZ3V2d6Zy1PY2JGQWt6cGlXaW1MSQ?oc=5",
-      "pubDate": "2026-11-11T21:20:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「すごい道路損壊…」 令和8年熊本地震で南九州道「通行止め」続く 解除までは「約2年かかります」 SNSでも驚愕の声上がった被害の全貌とは？  くるまのニュース",
       "category": "infra"
     },
     {
@@ -404,504 +899,9 @@
       "type": "local",
       "description": "【上天草市の課題㊦】大雨、地震…2年連続で被災、観光業に打撃 次の地震に備え対策急務  熊本日日新聞社",
       "category": "disaster"
-    },
-    {
-      "title": "NXHD／令和8年熊本地震被害に対する支援について - LOGI-BIZ online",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42X3RtRmRUZFZUdXZ3NTd0TEI3MWFPQkdaaDU0RGFhY2ROUnVxNElHZnBVcUM2eGtLOFhGVDZ6bnRaSWVWUmJlaVVQYw?oc=5",
-      "pubDate": "2026-11-11T13:29:14.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "NXHD／令和8年熊本地震被害に対する支援について  LOGI-BIZ online",
-      "category": "life"
-    },
-    {
-      "title": "海側プレート内での地震に注意を 愛知の震度５強、政府の調査委",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8za3gtTWw0ZzU2NXRlSVU2d3pfMjlJdlh5ZUlLUE5zU21mNE96eGxza1EwYWdZbGNLV1YyQkZ5LUdnSmhLd3U4N2sxcGI3cUFCNUZUTg?oc=5",
-      "pubDate": "2026-11-11T11:56:34.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "海側プレート内での地震に注意を 愛知の震度５強、政府の調査委  中日新聞Web",
-      "category": "disaster"
-    },
-    {
-      "title": "日産、２年連続で中間決算赤字 ３９７億円、中国で苦戦（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wLVdhSWVxYVFKTG5kd1JSY2NPYU9xX2RPQUhQY0QtRjIybndXSmZDX3M5VmZLa3Nwdm9HMV9pTnduTERsUzZzeV9wNUFxQ28?oc=5",
-      "pubDate": "2026-11-11T11:45:41.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "日産、２年連続で中間決算赤字 ３９７億円、中国で苦戦（共同通信）  熊本日日新聞社",
-      "category": "other"
-    },
-    {
-      "title": "交配用のミツバチ出荷で約１万軒の農家と取引 地震で被災した西岡養蜂園「日本の食を守る」【熊本】（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUDRYWExSUVBuY2t5VGFCQ1VOMXY4QkpKVVVuRmd5OGtSSDAzRVdVbU5BOFBGV0VvMHVFNW5iSzFzV3BaM0ZXdmpPVnFzTkY5TnVqLU1pLVVTcTIwMERWbDB1T2x4YWNRWnVLX0hWX1JuSUxsbUJnWF9pQWFvSGc?oc=5",
-      "pubDate": "2026-11-11T11:40:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "交配用のミツバチ出荷で約１万軒の農家と取引 地震で被災した西岡養蜂園「日本の食を守る」【熊本】（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "[TKUニュース 26.11.11 19:00 ] 地震で被災した文化財の復旧・復興を 基金創設など求める共同声明を発表【熊本】",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRGFxeGF3NFljOTN6cmZldUxTdlBkejJmSGJKd24xbXd0Zkg4TUlJc2NfQ0ZMNWthTkxTc1BLZFNmTV9XVDBmdTVkYmg5TUIzVUpTa2hYVmxxRktFU0hDWkNtMA?oc=5",
-      "pubDate": "2026-11-11T11:15:05.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.11.11 19:00 ] 地震で被災した文化財の復旧・復興を 基金創設など求める共同声明を発表【熊本】  TKU テレビ熊本",
-      "category": "infra"
-    },
-    {
-      "title": "テラ・ルネッサンスの熊本地震被災地での活動。物資支援から子どもの居場所づくり、八代のクリスマスマーケットを支援",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HMnV0MU05SjBKRUFCWVdBU044MXJDcURQZGU4UGlwODViajFKZkNLZ2FzbW9wWHA1OWZHQkFIdUZnMlRzcTJ6UUx0cmp2NU9aVG1n?oc=5",
-      "pubDate": "2026-11-11T11:03:56.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "テラ・ルネッサンスの熊本地震被災地での活動。物資支援から子どもの居場所づくり、八代のクリスマスマーケットを支援  STRAIGHT PRESS",
-      "category": "life"
-    },
-    {
-      "title": "東日本大震災や熊本地震 現場写真から防災考える 名護市で写真・資料展",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nUnJwUDljVE5nVXpuR1p2TGpTNUtPMVd2WlBUQWtURHJYYnVMWjdLV25EM0dTblhweEpVTXdnLWt5OGs3dlBDdTRQVm90bGMxak9YNURBLTcwRGZYeFE?oc=5",
-      "pubDate": "2026-11-11T10:41:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "東日本大震災や熊本地震 現場写真から防災考える 名護市で写真・資料展  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "決算:サントリーBFの26年12月期、一転減益 中東情勢・熊本地震が重荷",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82eFZveERiclRUVEFFbmtWX2x2dVJtaVd5SkpVSjVCa1NiQ0xVX3IyckF3UVpiQklaREJDM1ZZSTlCWm9fREJ6dkFfc19BaUc5bm5hMFJVeE0zVkktTGw5X0E3U1dQZWtyUGZPWg?oc=5",
-      "pubDate": "2026-11-11T10:28:31.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "決算:サントリーBFの26年12月期、一転減益 中東情勢・熊本地震が重荷  日本経済新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "地震から約100日 熊本･八代市民に親しまれてきたスーパーが営業再開 イオン九州が事業を承継（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdFB3elZGUUtTWl9vd3JpdDBEWGgzS0FObFhFd2lvakQ3d0V0V05Jd1FFbnFtWExiaklLbldkdjJHaEllMU40eE40Tlk0b3pIZHRkMl9ScTNNZlpJR0FaemhNRVpWMHRqemJVZlpQN3lDS2E5Sm8tRUpTU3dmdlE?oc=5",
-      "pubDate": "2026-11-11T10:21:01.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "地震から約100日 熊本･八代市民に親しまれてきたスーパーが営業再開 イオン九州が事業を承継（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "市民が守った「街なか図書館」10年の歴史に幕 地震被災と高齢化で苦渋の決断…一部は新たに「ブックカフェ」へ 熊本・宇城市",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNFd4MWlMZEk5X2tGY0pCdDA0Q1BCczJSbmt0b2YySk15TGdHUGEtUHNBM0F0QVViRGtXeHBPSHJPZ1A2d0VWZWtWXzlPTDNPbTRZVWJFdlF5UQ?oc=5",
-      "pubDate": "2026-11-11T10:08:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "市民が守った「街なか図書館」10年の歴史に幕 地震被災と高齢化で苦渋の決断…一部は新たに「ブックカフェ」へ 熊本・宇城市  TBS NEWS DIG",
-      "category": "disaster"
-    },
-    {
-      "title": "【社説】災害の犠牲者、氏名共有できる社会へ 都道府県で異なる対応 [2026年熊本地震][東日本大震災]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9acEdaYkxCb0JIMEpPX0dXajc1dDFTUXhjUWF5d1pYRnpsdm9ONS1wQm9mUHdDd3hKNUZnVGMyd3BUblV2TE52ZGpQbDVxTTdJYzZKX2FXb0pXa2twVWVERThrSW9ZMEE?oc=5",
-      "pubDate": "2026-11-11T10:01:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【社説】災害の犠牲者、氏名共有できる社会へ 都道府県で異なる対応 [2026年熊本地震][東日本大震災]  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "東日本大震災や熊本地震　現場写真から防災考える　名護市で写真・資料展",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPei1UOXU0RWhhNEN4bVBzSm5lcVByM1JKYXRCRGo1WW9aajBsem00UmpSam5xanN1VUdOcWVKRWNDT1RWd29JMTZzX1ZRQ3ZiTThyMVUwdVp1MlVZODNvQVBtV1o1bTB2bEZXNmVKMkE4QjcxR0RtbVJTNkt1WlluWHdZTXZOcm9QOEN4TV90VVotaXhGdkVESzdUUkdXVXhDR2MyNlpUYjVMbkhuaFNtUEVCNWZ2RE44aGRLWmoxM3o4ejk1Vk5IS2xXU29lVnlBVTFHSDNKcFDSAYgBQVVfeXFMTUVHbmtoRUNfWlhtczI1aDZxMHd2eUI4c0FZeUdkeGF2cFVxdUdrektXb0Nkbkt3azNYQjFXQ2dFSUlCNmpCVEZoUjdGVTd1Y3hBaXI3UXlZanhTMDlValpaUzRsZG5oM0hJOFVlNXg1czl2aFdwTENNNFd6cFMyMW45dV80UVJELQ?oc=5",
-      "pubDate": "2026-11-11T10:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "東日本大震災や熊本地震　現場写真から防災考える　名護市で写真・資料展  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「待っていました」地震被害のスーパーが再出発 八代で愛された店がイオン九州のもと新装開店（熊本ニュース KAB ONLINE）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ialF1M1pHUllVdE9MVVZwczhhY0pvc1Jtb25XOWFFWGFjWUNPWTFnN0QyS0tnd2RxUHpEV2RTbW40Vzc4VVZWSUhxUVBHZTRCeEIyNGd6cmFKa0EzNTBVdEhNUjl6WjIzT0lPYU9DQnZIWWd6UU5MT21RRVBsVEU?oc=5",
-      "pubDate": "2026-11-11T09:49:25.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「待っていました」地震被害のスーパーが再出発 八代で愛された店がイオン九州のもと新装開店（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "［国会答弁］令和8年熊本地震における米軍による災害支援の要請手続等に関する質問答弁",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96YTJybU01WFcyS3VjNFVlTjQ2QnFSZVFlVl93MUI1LVoySjZSSUF3bXRlTVcyUmthbDZVSGdxbk9SWVM2OENHdEVXdGRkaDU5Q09JdzFKQnZSNVJj?oc=5",
-      "pubDate": "2026-11-11T09:25:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［国会答弁］令和8年熊本地震における米軍による災害支援の要請手続等に関する質問答弁  J ディフェンス ニュース",
-      "category": "life"
-    },
-    {
-      "title": "【再建の針路 熊本県「復旧・復興プラン」点検①】住まいの確保㊤ 住宅再建支援策、年度内に＜2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bmM2QjZtVDNRZmdIMzIxUWtBdjlpU08tZXlVdEd4bFIwM0E0MGUxYzh5WGVKZ3pJNkl5bUk2QnlWX1Z2TDI5dDVDVGxmWTg?oc=5",
-      "pubDate": "2026-11-11T09:03:07.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【再建の針路 熊本県「復旧・復興プラン」点検①】住まいの確保㊤ 住宅再建支援策、年度内に＜2026年熊本地震  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "【再建の針路 県「復旧・復興プラン」点検①】住まいの確保㊤ 住宅再建支援策、年度内に＜2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91bmM2QjZtVDNRZmdIMzIxUWtBdjlpU08tZXlVdEd4bFIwM0E0MGUxYzh5WGVKZ3pJNkl5bUk2QnlWX1Z2TDI5dDVDVGxmWTg?oc=5",
-      "pubDate": "2026-11-11T09:03:07.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【再建の針路 県「復旧・復興プラン」点検①】住まいの確保㊤ 住宅再建支援策、年度内に＜2026年熊本地震  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "［国会答弁］令和8年熊本地震における自衛隊の災害派遣の撤収手続等に関する質問答弁",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kRWIwWG52SEQwVzBsUXZTenpPbEhsWE11aFVSVVBIN2FWaTNuTDA5Z01BVTJkTGxYVWlCSmFWa0VDVUUzdUFvb3ZHQ2x4eVVLRzdLaUVWS0g3Q1li?oc=5",
-      "pubDate": "2026-11-11T09:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "［国会答弁］令和8年熊本地震における自衛隊の災害派遣の撤収手続等に関する質問答弁  J ディフェンス ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "日産、2年連続で中間赤字 397億円、熊本地震影響 通期黒字予想は維持",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0YTlHUlctQ1Rod0pOYU1UOHZwN0JmTTBTZXI2M1VKYzFZX0RvbUFleW5CYWh4cDdfSy1EanI0MHU2eVVzRVdJZGRZVXVvZ0UxYUI0YW9PMkw3aGZvU05ObmVxZEpjVWxzNElQZnF5Z2JIMFpkcVE?oc=5",
-      "pubDate": "2026-11-11T08:46:12.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日産、2年連続で中間赤字 397億円、熊本地震影響 通期黒字予想は維持  産経ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震被災地支援のため佛教大の学生らが募金活動　31万円集め日本赤十字社通じ寄付",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3hkdUZ3TnFUMS1jWWFXNjA1MncyNF9xYlBPZGNOTkJCZHdMNTBDZUhfYTNPSlk0dDlXMlM5dUZXR29KV1pjUE04cm9EblJIZ2JaVEZLQWRpeTYydk1vNFVXaGRsNTQweHJhN3d0ZndoTFR6VjZFd19RZ1IyRVZIcktSdE9ISG9Oc09YZEtwM0trQTRkTU9ucDFvVjRBQdIBowFBVV95cUxQQjRWeEMyc1puTldINTgyWlFrMDhOWWVZazJDTDljVUVWUXJ0bXNYN01fdHNVaElXUjNkZTdBeUwzVkxrUVNrWmJLc1J0Z2dsTHZZNTAyYnVjYzdwVHZ3QWw5azF6bXp6Yi1QVV9Gem45bG9teFQ1NEYtbmZ4dGc3THYwUFJrcC1fcEV5emZnTlhfcktNbUduN0hCZmdsRi1jd1Zv?oc=5",
-      "pubDate": "2026-11-11T08:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震被災地支援のため佛教大の学生らが募金活動　31万円集め日本赤十字社通じ寄付  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "被災地で身に染みたのは水の大切さ 熊本地震の給水支援に従事、三重県いなべ市職員が活動報告",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MTURpVXpqMGtRMGttT3FFSmU4RWthRktHbHJSazNUMmFiZDhDV0JyLWpNaTZITXpfOGJua1RnVHR0ajh0eF9rUERPcElqX29Nb28yTw?oc=5",
-      "pubDate": "2026-11-11T08:08:55.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地で身に染みたのは水の大切さ 熊本地震の給水支援に従事、三重県いなべ市職員が活動報告  中日新聞Web",
-      "category": "life"
-    },
-    {
-      "title": "日産、2年連続中間赤字 397億円、熊本地震影響",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Xzd4WHBMVUIzTEtQSWN0dWpaQXBkeS1UUmtFLVBUNkxieFhSM1gweDU0RkFCakVOeVlxaUhTbVRqRGFNUHdnclpSYm1IQ3pHeFBoMmJDUWs0dw?oc=5",
-      "pubDate": "2026-11-11T07:30:20.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日産、2年連続中間赤字 397億円、熊本地震影響  北海道新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "日産、２年連続中間赤字 ３９７億円、熊本地震影響",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSFZLMWJFMWhaajhsQm1XdHN1NzlLX2dCZmpCTlJ3WWpBcm92Z2YxMEYwanNyaEQzU3lMc1daam5MU2dFZkdyWG9oMmFSUENKd1R5T21CeTdPcERYY0E?oc=5",
-      "pubDate": "2026-11-11T07:24:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日産、２年連続中間赤字 ３９７億円、熊本地震影響  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "日産、2年連続中間赤字 397億円、熊本地震影響（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52a2NrM1ZFWm9KejJIRzY0d2NiMXhVdnpBS1h2M2F6bUVqN1JyQXFCaklfdFIwY1BSSDZfZEM0MHdZNExyRDdmajNnSU5TZ0pTc3EzTVJYSml1YWdfT3oyTkJNUk45X1RQUGc5dU1vWmxORVlCa2FCVk5HWERUajg?oc=5",
-      "pubDate": "2026-11-11T07:24:45.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日産、2年連続中間赤字 397億円、熊本地震影響（共同通信）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "日産、２年連続中間赤字 ３９７億円、熊本地震影響 | | 全国のニュース",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQTRsRnhtTzR0NWRMcl9aSFgybDUxNGFpMEdDS2VRRDBYcjYzVTVVMEg0d2o4QUVka2p0eGxmcktKM05FTmlCbmI1ajd3MUhoTnktenFn?oc=5",
-      "pubDate": "2026-11-11T07:24:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "日産、２年連続中間赤字 ３９７億円、熊本地震影響 | | 全国のニュース  佐賀新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "益城町のグランメッセ熊本、一般利用再開 1階展示ホール＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tSVdaTlRONGFhdW9XZHhxVkJPOWJjTlJ5UzRxZVMyRFpBM1dodHR6UkRscllNRF9XeWYxOV9IVzUtaEc5dlE5aXlicjJUVzQ?oc=5",
-      "pubDate": "2026-11-11T07:19:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "益城町のグランメッセ熊本、一般利用再開 1階展示ホール＜2026年熊本地震＞  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "大創産業news｜熊本地震被災店舗の営業状況一覧(11/11時点)",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLTE9XRjFtVG5ta3R0WUtBV085czdlN1hpQnRKMmczWkNLb1MyeFVseVB2emtHTmFwQV9wMWg3SmhQX2VlTUVtYy1kVXc4ZjJqRUg0?oc=5",
-      "pubDate": "2026-11-11T07:05:06.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "大創産業news｜熊本地震被災店舗の営業状況一覧(11/11時点)  流通スーパーニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災者支援へ KBC水と緑のキャンペーン募金を贈呈｜KBCニュース",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IdUxCbU04SlZsRjFaMll5LVRjNVh5cWlVbXJOZ3QtRkJJOVlxQXdSYUR6LUE0SS1Za0d1aWZ2YWY5WEJVb3Z4MDBmaG9VWkJobng3LWpvT3FrQQ?oc=5",
-      "pubDate": "2026-11-11T06:53:49.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災者支援へ KBC水と緑のキャンペーン募金を贈呈｜KBCニュース  KBC九州朝日放送",
-      "category": "life"
-    },
-    {
-      "title": "距離と傷をリアルタイム測定、熊本地震で活躍した重さ246gの最新狭小点検ドローン",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMTHlwOU1TY3ptRy1tZ3FZQ01OWTE1SlZRd2NyQ25ObXFsRjJxWkJxZ3FtbXUwTFNDVWV5T1QyWkJteThPblp2ajhQMjMxdTBFTmduQzhvMnVTNnk5SHExY1NERHJiT1pXOHpjUQ?oc=5",
-      "pubDate": "2026-11-11T06:44:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "距離と傷をリアルタイム測定、熊本地震で活躍した重さ246gの最新狭小点検ドローン  ITmedia",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】南阿蘇村で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JWW1Zblg2WXEtT3NEeFpYa2V2TjVEQUc0ajZHc2w1eUNIRmFTa0VRdWRVS1o1c29GUVFhQ0QxVkRyXzFuU2xyZ0JQUk9FNlk?oc=5",
-      "pubDate": "2026-11-11T06:26:24.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】南阿蘇村で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震】熊本県内で震度1 熊本県阿蘇地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96ZkVyN1YzM3dteHNlN1d2aVZrcHVvOGNnVzl0dWtmRGN3WTBld2l3cjFSdktxeXAzVjBLSHI1bm9BUnJSSGtOallkbkZxdmN4eFNUVkhSQlRkMTUxdVA4akU5ZzhLRFE5NTFIVEp4Tl9mazZJRDlIZm11UjktSWs?oc=5",
-      "pubDate": "2026-11-11T06:26:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県阿蘇地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で自宅全壊、みなし仮設住宅から通って育てたもち米「先を考えれば苦しい。でも今だけは収穫を喜びたい」",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxeUlnZkkyM0F1MElPc2MzRjhtekhheDhxdXRBUkUyNW1ab3M5a2k4bVNZQ3lVUW5JQzdwUmJudVZFUmZrQzZWdDZ0ZTNWUTZjOURfM0tMejU2OG1wTzRDbENnNGF2NVRlMnJqQ0tzSHhOaTBXTDIxS0ZrWFBEUWM?oc=5",
-      "pubDate": "2026-11-11T06:17:10.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で自宅全壊、みなし仮設住宅から通って育てたもち米「先を考えれば苦しい。でも今だけは収穫を喜びたい」  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震の被災者支援へ　KBC水と緑のキャンペーン募金を贈呈",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDFPNVVBRHJkdnlBMWN1blpJSXR0WkJxRkpRUlB4a0kxTndpbjcxRkpVbFVpWXVzSnNneV9fUW9ja2U0ek9jeWNmMVROV0xHUkdOcGJqRXY2OEZ6eXUzSi1PTnRZQXJJUmFjaEFNbUIzT3FELTZHZXRmTHdnQ0FseTNDQUFuUVNyY0hMemxOZDZQbHMtOHA2SDhFcU5adlF4N2JTOHJrNW5Nc1JoUzdVSlVzM2VyM0w0NHVFeDZwZXZBaEFiU0HSAXZBVV95cUxPVnp6ZzlEaEZMcVgxUHV2WUtlVE1HLXZjVDNrU0dRQkxYWjFXdElaZFMxMGVJc3diamFmN09LZTdRV2o1QkItY19adjR2dndUZk1YZjFLWTFVSkNiZ0dZY2JUUWJXOV9zclhPdFlLdFQ0R3dYQVFB?oc=5",
-      "pubDate": "2026-11-11T05:29:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災者支援へ　KBC水と緑のキャンペーン募金を贈呈  ｄメニューニュース",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震、新たに５人を災害関連死に認定…車中泊による熱中症・入所施設が被災して空調が止まり体調悪化など",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxc0MxekNlNW5hSkljYjU2Vl9jY2RySnE3SVVsaHJSWjlSd29FekRwLXFJY2FVcUEwSkFLWlIzMG5WWnRQTHlyNEVhWkRRMEllTC1KRU9fQl96WGFPdEk3dm9Kdm5icFJaWXVTZFB2SU11MldEZ0h0WElxR0RWbm8?oc=5",
-      "pubDate": "2026-11-11T04:17:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震、新たに５人を災害関連死に認定…車中泊による熱中症・入所施設が被災して空調が止まり体調悪化など  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震10年、益城町で復興祈る盆踊り 地元の「ましき盆踊り部」が初開催",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44OWJzYlhIWGE5OVM2WVJNUzJiMkFNMEcwY19GMlJfc2o5QjBlMlZ6TWV1RGJzZ0k5YzlpTENzMXJiblNtQ2Nhakw5aC1CdnM?oc=5",
-      "pubDate": "2026-11-11T04:11:05.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本地震10年、益城町で復興祈る盆踊り 地元の「ましき盆踊り部」が初開催  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で被災したスーパーが営業再開 熊本 八代",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUlNTZmxFVTd4d1J5LU1MMjJWYXh0SnZDVC1heHFXS2VqaGNkZUxlbTZLVFVweG1EOWV3MnFUVnhsbDF6WXdmSEFZbTAxR3JKcTFUenE1QjNQZS1ybTU4?oc=5",
-      "pubDate": "2026-11-11T03:51:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震で被災したスーパーが営業再開 熊本 八代  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震 氷川町のふるさと納税代理寄付に567万円 小布施町",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OTmlJalVHaGZVYW5wamp2MjIyYzVRVzVnMUVLTlpOVDJXZFNZRmtPRVl0Njg0Q1ZCRkhYNUVYMHE2MFBtb0JpR1BqdTU0NEFBSk5EOVdWeUhZUnozWE1IY0t1RUs4ZGtoTHozMXlRMkQ?oc=5",
-      "pubDate": "2026-11-11T03:49:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震 氷川町のふるさと納税代理寄付に567万円 小布施町  信濃毎日新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で被災のスーパーが営業再開 八代",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mN1UtWFY0bUp4OWt6dUtlcHdqcnIyX2tYYWhKLVQ1SlI5RFIwdG5ENjBJcjJoRkJ3WDZLdWc0ZGZ0MlVyd2xUZC1LZjRmWmZtdlozZE9LZ01aRDh3RmNz?oc=5",
-      "pubDate": "2026-11-11T03:21:00.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "熊本地震で被災のスーパーが営業再開 八代  NHKニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で約1年分の自家製豆板醤を失う。麻婆豆腐専門店「熊本敏敏」が、味の原点を取り戻す復興プロジェクトに挑戦 - 写真・画像(1/1)",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NOU1CQ2tZejVPWlpFQkNTVk1zQlk2S3hKTWJVeXFReEthdFgzUDRWN1d3b0hXR2VWS1pmMDFabmx6ZENmM1NGdWNvZXhoRlVaajlNYW4tWQ?oc=5",
-      "pubDate": "2026-11-11T02:42:52.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で約1年分の自家製豆板醤を失う。麻婆豆腐専門店「熊本敏敏」が、味の原点を取り戻す復興プロジェクトに挑戦 - 写真・画像(1/1)  西日本新聞me",
-      "category": "disaster"
-    },
-    {
-      "title": "プレスリリース：熊本地震で約1年分の自家製豆板醤を失う。麻婆豆腐専門店「熊本敏敏」が、味の原点を取り戻す復興プロジェクトに挑戦（PR TIMES）",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaXlYTXBpcV80Tl8tMW1FZnAybFlHVk9PZURJYlZvOVViYkFGSXZ2T0lFclBQb1lrWWhxRGRFYlpld2dwclpSZXhXZkFZd21BWXdHd3B6WE9tbWlXMmlBODBVZktzYmZ2?oc=5",
-      "pubDate": "2026-11-11T01:53:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "プレスリリース：熊本地震で約1年分の自家製豆板醤を失う。麻婆豆腐専門店「熊本敏敏」が、味の原点を取り戻す復興プロジェクトに挑戦（PR TIMES）  毎日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の被災者宅から金品盗みだそうとした疑い、２０歳の無職男逮捕…防犯カメラ映像で判明",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fZmdELV8yNExvaUFSUFIyLWh4Y3lVQVBDWU1Cc1I4TVJUb0lmRlBMRk1reEgtLVpyaFZ3TmhPNHVQa3lHM3o0ODI2YVlkZGV3cGdva1FpVmtYb1RHSHdGSzduSFZ2QQ?oc=5",
-      "pubDate": "2026-11-11T01:16:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震の被災者宅から金品盗みだそうとした疑い、２０歳の無職男逮捕…防犯カメラ映像で判明  読売新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "王将フードサービス[9936]：令和８年熊本地震 被災地支援活動のご報告と御礼 2026年11月11日(適時開示) ：日経会社情報DIGITAL",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xOU9OUjBvQlpBZTBwdnFaN05xcGdRWlZLYTFwdE9lM01xME9RRFNNbWdPckdYWDh3WnlGRzFjTlQtdHA0eFRIY001aXg3dzQ0c05od2tjeWFnOEVBSkxRZTRFUWpPaWwyUWc?oc=5",
-      "pubDate": "2026-11-11T01:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "王将フードサービス[9936]：令和８年熊本地震 被災地支援活動のご報告と御礼 2026年11月11日(適時開示) ：日経会社情報DIGITAL  日本経済新聞",
-      "category": "life"
-    },
-    {
-      "title": "10年前の地震で町屋倒壊…熊本市の新町・古町地区、跡地や路地をにぎわいの場に 地元まちづくり団体活動5年目",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4VEtNeHdzRVY4VW83R0xCSDE0bWxLZ1NvTjVhT1N6ck5NLUt4anVERTVGQ3g5MnpBa2pOdDF5RHVlaHlZanY1QlJOb3Zfelg5emZ6TEEzV0txbnViUzZrS2Y1OWo5TW5QVTFOOXZfT01LWklGaVZ0ZURQdlpzc1U?oc=5",
-      "pubDate": "2026-11-11T00:15:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "10年前の地震で町屋倒壊…熊本市の新町・古町地区、跡地や路地をにぎわいの場に 地元まちづくり団体活動5年目  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZEw1a0FwUXVKZ3dJMnhscmZteVlIQ3VKNWMwVkJ5N05fb1FLb2pGU183TjVqX0dkQUhNem1vSldmUEt6ZkpRVEdDVWNUUndXZ1hpZlJR?oc=5",
-      "pubDate": "2026-11-10T23:54:33.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  KAB 熊本朝日放送",
-      "category": "disaster"
-    },
-    {
-      "title": "【2026年11月9日】熊本地震の被災地を応援 工房もくもく缶バッジ作成",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelZhbkYtVEh2cTdWVjB4THJNTUZHTmItQ1lNdGNNY2hLMVNVSkYycVNiRzJfWkNFanNKS3NfeFVTWW5qdlRzTnpQUmdqVVhnZThBMmFpZWhUZzQxWUxubEJKQ3lKT0lNMkkxTXNNTmFFbG5OVmVwenRYRlQwT3YzajdUVV92R2pFVEdqck1NWkMzLXJaTUF1VzYyRDQ4dUs0VVpV?oc=5",
-      "pubDate": "2026-11-10T23:40:37.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【2026年11月9日】熊本地震の被災地を応援 工房もくもく缶バッジ作成  相馬市",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】熊本市西区など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MYlJqMFFCTEQ5TWR0X1IwWE83RXg0WVF0aThBWGhMSnhBQkt5WWRGUm10QXh1dDJaalZlLTJRZHJyX21sajNZTjRtTTdSMVk?oc=5",
-      "pubDate": "2026-11-10T23:37:38.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】熊本市西区など震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "移籍直後に被災 避難生活を経て…長身ブロッカー 特別なホーム開幕戦にかける思い 【熊本ヴィレックス】（RKK熊本放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KV2pnLVBOcFdId0gxODM0b1p4c0RmbDVkS1N5dmVxR2lPODctVk90OG00QlhzTWFlN3BfMkV6MUx2MDAxV1FfdzZSUHU0WlltcUtJV3c4TkpxSnk3LW81M0xZdE1oZEhTWHFVMEg3dDd2UDNmLUcxTlY0U0hMeW8?oc=5",
-      "pubDate": "2026-11-10T21:00:35.000Z",
-      "sourceName": "RKK熊本放送",
-      "type": "local",
-      "description": "移籍直後に被災 避難生活を経て…長身ブロッカー 特別なホーム開幕戦にかける思い 【熊本ヴィレックス】（RKK熊本放送）  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "移籍直後に被災 避難生活を経て…長身ブロッカー 特別なホーム開幕戦にかける思い 【熊本ヴィレックス】",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xZHZIZTBNRG5nWDN6VjUzWkJ3RFNLamoxSEw0R1BXVjBhM2tIYVFZNG9TTWJJcjlVTG45WFFaRjV4b1BFb1JNWVRPaFN3blZDRWt1cl85NDBJZw?oc=5",
-      "pubDate": "2026-11-10T21:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "移籍直後に被災 避難生活を経て…長身ブロッカー 特別なホーム開幕戦にかける思い 【熊本ヴィレックス】  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "7月の熊本地震「災害関連死」新たに5人認定 疑い含め死者は43人に",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DcE40akdaQk9YSmlRWVU4MlJaUDlQS2hzSDlaSkExQkZOLXlUQWx0NHM5T0VQTjByOHd0ZG9Yb2N0MkJIUllhQVlUS29ZWml6bFhRbjdreVhNRW1leWxnVkpCXzFzZFhzbWhqYU5vLVpHUQ?oc=5",
-      "pubDate": "2026-11-10T20:58:32.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "7月の熊本地震「災害関連死」新たに5人認定 疑い含め死者は43人に  テレ朝NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "7月の熊本地震「災害関連死」新たに5人認定　疑い含め死者は43人に",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGN0YjYxZGpnYXkxR0g2SVFjQWFOam41Q2tHdTFDUkVqT2Mzb09zVENJWVBQd0cyalA2SjUzcHBEWW9EWE00eGVsd3poT0Z5OFZTbV8zMlJPZUdsRWtjTUNjSmRmWFZFRzJKR3hEMVFFdXpGRVNHWEk4RWpIZGhpSjNkNng5UlHSAYwBQVVfeXFMTlF4Z0kwVUYwSUFVcUxOS1RLTjB5VXJjYTVRY2c3WV9lSjFOX1V6eGp2ZWl3UXlJN1BETTNvcjN5NE9JY3hyUFNKQ3pxUVI5SFlaWWEyczU0aWQtSEVzOERza1E0ZHdzTDl3WUhNNkxQUUhtMWtJdjJfclJCUlY1ekNlQVFXZkMxa2VucHg?oc=5",
-      "pubDate": "2026-11-10T20:58:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "7月の熊本地震「災害関連死」新たに5人認定　疑い含め死者は43人に  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和８年熊本地震義援金／民報教育福祉事業団（９日） ▼白河市の白河地区労働福祉協議会と棚倉町の東白川地区労働福祉協議会が３万円",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hbXAtcHFEc3IyLUpzbk53NDhIcW8td1A0c0VkRDgwQ3JhNTA2cEx0VmJ5V1FsSkxFeF8wd19rX1RsWWtfTjVLbGJZVQ?oc=5",
-      "pubDate": "2026-11-10T20:38:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和８年熊本地震義援金／民報教育福祉事業団（９日） ▼白河市の白河地区労働福祉協議会と棚倉町の東白川地区労働福祉協議会が３万円  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "令和６年能登半島地震・令和８年熊本地震義援金／民報教育福祉事業団（１０日） ▼田村市のふくぎん船引ファミリー会が６万円",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92VHhTR25jeERQcXU2T3NTbi1rR1BnZGZHY1BpX3pZUlRTQ2lhNVVPdndwdjJkeXpPMGYtRGtGSlByTmEwdkpuTUtLOV9aZzQ?oc=5",
-      "pubDate": "2026-11-10T20:37:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和６年能登半島地震・令和８年熊本地震義援金／民報教育福祉事業団（１０日） ▼田村市のふくぎん船引ファミリー会が６万円  福島民報デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "第5部 新聞社の苦闘（2）熊本日日新聞㊦今ならできる。電子版なら【アテンション、プリーズ！】：ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c2dlekljWDdyVDJpLUJOakp3RXhkQWx4UU96a1U5cFpCTEJSbU91c0RCVmduRTc5ZzhlNVpjbG1zSHoyUlNfZHI5QklrbVhXRXJYZDdScExWdnd1RWJJ?oc=5",
-      "pubDate": "2026-11-10T20:05:09.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "第5部 新聞社の苦闘（2）熊本日日新聞㊦今ならできる。電子版なら【アテンション、プリーズ！】：ニュース  中日BIZナビ",
-      "category": "other"
-    },
-    {
-      "title": "第5部 新聞社の苦闘（2）熊本日日新聞㊦今ならできる。電子版なら【アテンション、プリーズ！】 FREE",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2c2dlekljWDdyVDJpLUJOakp3RXhkQWx4UU96a1U5cFpCTEJSbU91c0RCVmduRTc5ZzhlNVpjbG1zSHoyUlNfZHI5QklrbVhXRXJYZDdScExWdnd1RWJJ?oc=5",
-      "pubDate": "2026-11-10T20:05:09.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "第5部 新聞社の苦闘（2）熊本日日新聞㊦今ならできる。電子版なら【アテンション、プリーズ！】 FREE  中日BIZナビ",
-      "category": "other"
-    },
-    {
-      "title": "被災地支援活動 教訓や課題共有 熊本地震派遣で報告会",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSzlKU0lzNUZsZVdiSlVSekJfV3ZtYmhJYl92SjRUY254czhZcGpuOVpZci1JYTJIR1dWUmVERUdnaTctajROcmxwbHIzNXNYZVJ1aHpnYlJHbDFWbDVTaw?oc=5",
-      "pubDate": "2026-11-10T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地支援活動 教訓や課題共有 熊本地震派遣で報告会  琉球新報デジタル",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震で家屋調査、久慈で経験生かす 浜雄希さん（34）＝岩手県久慈市川貫・市職員〈共に歩もう 東日本大震災15年〉",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hcTcwRmRGMTlSUVU4elBJVnp3blV1MGhZMERodTRBWHQ2N0FzS2Y2SjFZYlB0eGNVcXpGR0ZCZE11SVVQYUVYcnZvaGVkcUxDREItdXpoX2hja1k?oc=5",
-      "pubDate": "2026-11-10T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で家屋調査、久慈で経験生かす 浜雄希さん（34）＝岩手県久慈市川貫・市職員〈共に歩もう 東日本大震災15年〉  河北新報オンライン",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-11-12T08:04:00.493Z",
-  "lastAttempt": "2026-11-12T08:04:00.493Z",
+  "lastSuccess": "2026-11-12T16:47:49.892Z",
+  "lastAttempt": "2026-11-12T16:47:49.892Z",
   "fetchOk": true
 }
