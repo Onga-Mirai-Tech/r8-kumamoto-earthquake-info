@@ -1,6 +1,303 @@
 {
   "items": [
     {
+      "title": "NTTドコモグループ、熊本地震の復興支援で2.5億円寄付",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESXROa0VoZFE4dHItX3g5TEZtMDQ5WFNrdGpUVU1Qd2F3alJFc21WN1hnU3ZvWW5KX3I5Yngwd2M5RklnVUpmQkdfYzlJNTJYdnc?oc=5",
+      "pubDate": "2026-11-19T04:20:47.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "NTTドコモグループ、熊本地震の復興支援で2.5億円寄付  電波新聞デジタル",
+      "category": "life"
+    },
+    {
+      "title": "【岡山大学】令和8年熊本地震における被災地支援活動に対し文部科学大臣感謝状を受領",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XMFRoZUpBZEJYQWlqeWQ0czBoNUw3bG9McVBaLWFTTmNEZU9JTVVncTNJV1NrQWdMSVc5OVNYLThESnJiLW9hcGRHSVlfTEx6MEtqcFhIcDJvUDQ5eGFZQVIyMXc3aVdmZkE?oc=5",
+      "pubDate": "2026-11-19T04:15:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【岡山大学】令和8年熊本地震における被災地支援活動に対し文部科学大臣感謝状を受領  PR TIMES",
+      "category": "life"
+    },
+    {
+      "title": "過去1週間の地震回数 熊本では19日未明以降は40回以上 日ごろから備えを（tenki.jp）",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FdjgyNmlHN1E3clpqU0JDWm1CVnphS01BQkhTX0VMMlNycXZjWWR2T1RENVFwNzNwOUdXU0p0U1N2Y3YzLUgwd055SU1JZDEtU1ZoMXlXbTJPVlFUTWN3MUx5MU9GWjVjV0d3UklWbUJDUDJJVUs4?oc=5",
+      "pubDate": "2026-11-19T04:15:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "過去1週間の地震回数 熊本では19日未明以降は40回以上 日ごろから備えを（tenki.jp）  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "7月の熊本地震で震度7 氷川町の男性「夜の地震は不安」",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLN2gzZGRpTVJPNGhZLTlKaDBzQ2dDNWhCWkM5WVhta2ZxdnhqNWEtSWhIMXRFWXYxVEpBZDVGWHc5cmVsZml0MXhiRl83S19GbzlDMU91TFVMejVuckdz?oc=5",
+      "pubDate": "2026-11-19T04:07:17.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "7月の熊本地震で震度7 氷川町の男性「夜の地震は不安」  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【令和8年熊本地震】KCSセンターボランティアグループが義援金342,820円を寄付",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSLWdfeThyVEFjQkQxZ0xral92VHcwcEk0elNKb28zeXUtWWhPUkpTVDZZeXpQR29FNGhmQ2l2SHhvQ3VIQVZ1TDFpeFF1SHdCRGNNbDlfbXotNy1jZTZRVU9qSFJVRWxUX0E?oc=5",
+      "pubDate": "2026-11-19T04:06:15.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【令和8年熊本地震】KCSセンターボランティアグループが義援金342,820円を寄付  PR TIMES",
+      "category": "life"
+    },
+    {
+      "title": "2026年熊本地震の復興支援を熊本県に要請",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zMDdCblBBbzhRUFI2ZVpIWWVGalY5WXowd3RMMGNJckphOW9XajZ1QTQtQkRJWkRiZmRqTlMxajFQcmFQLWQ1NTc4Zml1ak0?oc=5",
+      "pubDate": "2026-11-19T03:48:32.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震の復興支援を熊本県に要請  熊本日日新聞社",
+      "category": "life"
+    },
+    {
+      "title": "約1億9000万円を熊本県に贈る 熊本日日新聞社やRKK熊本放送などが実施した救援募金 熊本地震の被災者支援へ",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNk1IZjdTazUxYm8xUVFHaHQwY3pIWFh3SHBwdWpCYkhUeFlJdDJwX2xHdnNTYnh5emRET1BmYzhOMWl3WFNDb0dNeVpVSGRua2RyTnIyWWkxX2wxelRMYm9DeGJ1ZWpLVnRRSDdOXzJPQU9NMVJGNjdQUWtpUFk?oc=5",
+      "pubDate": "2026-11-19T03:24:15.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "約1億9000万円を熊本県に贈る 熊本日日新聞社やRKK熊本放送などが実施した救援募金 熊本地震の被災者支援へ  Yahoo!ニュース",
+      "category": "life"
+    },
+    {
+      "title": "7月の熊本地震で被災した住宅に関する相談会 県内各地で開催",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Q2FKVmVQUWY5NVYzZzFpNmF4RXdxa2pYbE5MV3B1aEhUeGdtdUJQOWR5aTVNVXh1QjlpOVhLeHBvRFlhM2NIOXpDQWNfUTA4eml0OElmUTFYZHZMNnFV?oc=5",
+      "pubDate": "2026-11-19T03:15:45.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "7月の熊本地震で被災した住宅に関する相談会 県内各地で開催  NHKニュース",
+      "category": "life"
+    },
+    {
+      "title": "【速報】球磨村で震度2（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WnVVWDdYQ2ZieVhCeVZSZnFwajc4LVlFdFBiUDZndzBOR1FtN2NmZkxZNHFMcDdIOXhGWTRNUkxTX3RJVzE1aEdlRVE1RmZlcnhpM0tFT0wxSVpIWEJCcC1OZ0RxS2dadVpWUXZKWXEtWWIwdDJVUFNfZ1VsMGc?oc=5",
+      "pubDate": "2026-11-19T03:15:27.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】球磨村で震度2（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本で最大震度５弱の地震　県内で震度４の揺れ　交通に乱れ　鹿児島",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHMweTNJRHFxOW9zVXJFNFBHVmdaR1M4UjdSaXNCMGJBQUlfME9ocjdvdzlTclZrcS1ReFQ1eklVYWdnazBVWllPVzRKY3lYRmtUckIzM3kxQVh2djNWaWEzTl9neFZYdHBzSkpwbTJELUtUYnJLME84RjEwN0JlQ1dZeWZrWUJUQ3NRSGFNWdIBggFBVV95cUxOWnAtcllnMTNoaDViVXpnSjdITENoUE45cDVEZWtHMzZ2aFRQZlk5M2lJZnRpZTFxNGdMLU81M3Z0TS15VENMNlNRLTd0akI3SFpoR3h3NjJpSEkxRUg0b0ZhczVkRUd5TElYdTdGSUNYdXp6UDV5ZUlqbG1zSF9fSVZn?oc=5",
+      "pubDate": "2026-11-19T03:13:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本で最大震度５弱の地震　県内で震度４の揺れ　交通に乱れ　鹿児島  ｄメニューニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本県で震度5弱の強い地震 水俣市などで2人けが 今後1週間は同程度の揺れに注意（RKK熊本放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96d2xncElUQ0NoaDY1LVJRQ2xJQ1hHRWFjRVZHcE9JNWtWcGROVExJZUxHcTR0c2h2M0pSRkRvM0U5R21EMGotSDBnT1A2aGtxSHVmY3VjWVdJS0ljeFhZejkyUTM5RFBjWS1IU0hfYkl2MFk2QnRyYjg3WE9MajA?oc=5",
+      "pubDate": "2026-11-19T03:12:17.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "熊本県で震度5弱の強い地震 水俣市などで2人けが 今後1週間は同程度の揺れに注意（RKK熊本放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で震度5弱の強い地震 水俣市などで2人けが 今後1週間は同程度の揺れに注意",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52S19WUUUtS0pMV09TZzlxOS1kVFJQLXR2dDBLWi0tSUVCU0J6Rkp3RjNxbnNFRkhaRXpISGJHT1M4bnlxZm5ySnhlMWpiQzRTcUpLUE81cnM2bE8zeUxWeDVpUkEtMmM?oc=5",
+      "pubDate": "2026-11-19T03:11:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で震度5弱の強い地震 水俣市などで2人けが 今後1週間は同程度の揺れに注意  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】球磨村で震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCZWd4TTAybmQtcExZUmFkWU5rcUFWMmZCbXZiN0xxWnA2Y21Ib0diY0U2TDBRQU41UzB4dTZfM0padm9zWmdwbVc5dFdMdkk?oc=5",
+      "pubDate": "2026-11-19T03:10:47.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】球磨村で震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKbTViVnZSUFlESWppYlFwVFdBcEo3Z3dfbWdPMWtid3FyMjJIb2FpMXJkcDdMMWk2ZmNHenpwX1FJMUtnM2FuOGNNY2ZpM24xZVFycW8zbTNKc0NiUEZGX2hlTE4zWEVpT0tZeXNnZ0ZHc0sxbWZsTi1SWUtQbzA?oc=5",
+      "pubDate": "2026-11-19T03:10:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【長崎】未明に熊本県天草・芦北地方で震度５弱　長崎県内最大震度３の地震",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxUmE0YjEyZ1BrTktlQWtpVHJHeEdEem4xeVVoV0xEWWZ1LWNGME45X2ZGYWNQb0RhSmZRVU15Nk9jSEdxWXByUGdtMnh2SnhJa2diam9iTjBncTRLNnNaTENvdGJvNEREN01kVGQ1RjNjNURBUXfSAXtBVV95cUxQb0FDTUVId2NWLUJXY29PN1d3TWpYSENqV1NtSDVqNWdjNmxKUE1WYmN6cXc4QWFST2FrRVV6NDM2WFIxS0JLbnQ5QlVmWXBPWUhMclRjUUZacWx4RkNidHg5R3hKM2QxM2M3aWZYN1FnTFFPVTNCSDFnSUk?oc=5",
+      "pubDate": "2026-11-19T03:08:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【長崎】未明に熊本県天草・芦北地方で震度５弱　長崎県内最大震度３の地震  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災地へ 徳島県内の社会福祉協議会から最後の派遣",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uM1RuVzF5VHJmdXhHR1dKVHp2N1lQeTZjU3d0QTJxNnRZRzMxZzl6WW1xX2RxSDFzcHEwNUdCYm5fZTM1b1h6U3NkZWx6Nk5IRmlvOVRtQnVnY19yYjA0?oc=5",
+      "pubDate": "2026-11-19T03:05:04.000Z",
+      "sourceName": "NHK",
+      "type": "local",
+      "description": "熊本地震の被災地へ 徳島県内の社会福祉協議会から最後の派遣  NHKニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rb1dDbFNueW9Ca3dEOXpjNTBQbDNHSVg0NzB0LW8ycnJvcDNIVm5MYVJkQVV6ejhjTHBkbW9reXhoSG8tc2M0dWFqSVpQU1NRVjVQZVdVeVVRLXZrcmxJVlJyWGtiT0haSm9xcVRzWjFqUHhubUtKMFR6cTFiS3c?oc=5",
+      "pubDate": "2026-11-19T03:01:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本で最大震度5弱の地震　鹿児島県内でも震度4　九州道の一部区間が通行止め　九州新幹線は運休や遅れで約5600人影響",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXNEbjN2YnlFOXFHZmRBMzdOY0Q1M185Z3g1Z3pwMXNpTHJwUF9BeGFHQjN4OXA4R1hMeUVuSW9BTjF1eEJGVjBwei1PSXVPLXI1dXJSTm5lbG10emJzU3BCMTFEX0NseGJxUldFaWtLQnhKb0lvbnNwNjlpZEdINlBLMWsyTDZ2NlF1SF9LVTgwSWJwWW1kLW9qZzNFckVteTNMRlBCOUF4SC1HZmFGYS00OTRER2U0MUpGRldkZHc2cTIySmfSAXRBVV95cUxNdTh6ZWMxaUJLVEI0b2s3a1VsRnF6TjRpeFFmc1dVSVROVkRvNlhKNFpsUTNLZFNadlBwZEl0NkhSRkJrY0FEWXBoamlmS1c5a045NTVqd1UxOGhJUS1sQzlsOEt6aVJITmc0d3NmekpLN255TA?oc=5",
+      "pubDate": "2026-11-19T02:59:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本で最大震度5弱の地震　鹿児島県内でも震度4　九州道の一部区間が通行止め　九州新幹線は運休や遅れで約5600人影響  ｄメニューニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本・水俣市など震度5弱 1週間程度は同程度の地震に注意 九州道は昼過ぎ通行止め解除へ",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZbnBSYno1VnFXUGMxVUdKV1VNandfZ094N2x0MndBbU5IRmdBT0c1N2dObUFnQUx3QVJ0ZE00NjlQT0dxOVdfZWdscw?oc=5",
+      "pubDate": "2026-11-19T02:58:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本・水俣市など震度5弱 1週間程度は同程度の地震に注意 九州道は昼過ぎ通行止め解除へ  47NEWS",
+      "category": "infra"
+    },
+    {
+      "title": "『エスパルス福祉基金(令和8年熊本地震支援募金)』実施のご報告",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVpaa2M5T1ZvRTF3Rlo1TWdGal94dXBrYjJsTTRTSjZqMWFreTNuNTVZWGhXek1PS0g2WWEyMnY2WDRJVkRJT1JwTEF5NXBJU1d3TE1n?oc=5",
+      "pubDate": "2026-11-19T02:42:05.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "『エスパルス福祉基金(令和8年熊本地震支援募金)』実施のご報告  清水エスパルス公式WEBサイト",
+      "category": "life"
+    },
+    {
+      "title": "【速報】芦北町で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Tb3lEYzlMWl9wVGdZNHd4QnlUT2ZkS21zSU9UV0w5cTlOMWtrN29nVWtxVk01Z2VEa3VLTmd4RVMwQTJHa0FKal9RcEdNYzA?oc=5",
+      "pubDate": "2026-11-19T02:31:31.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災住宅、県が利子助成など再建支援策 重複被災に上乗せ [熊本県] [2026年熊本地震]",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aHc0UURRejVMNXhQdk1kUUpZaHJzdkxnbVhybmtURlQ3WkdyOFFQZDZ6dFV5cWdiMDN5OHVOaGlHY193VXJlcFBWOWtMT05oSlpadVVBdFlWT3FxZmZsODVvRjNfRGs?oc=5",
+      "pubDate": "2026-11-19T02:30:01.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災住宅、県が利子助成など再建支援策 重複被災に上乗せ [熊本県] [2026年熊本地震]  朝日新聞",
+      "category": "life"
+    },
+    {
+      "title": "【速報】水俣市で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNTzJ5ZVRoaTgzRjBOb1JBRjk0TzlwVWFrTVlkNHJHU3p4emZWdGZHd0JqbWszNEE1emd0ZHhNRk05MVNTenhrbkVYR3pqeWM?oc=5",
+      "pubDate": "2026-11-19T02:19:38.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市で震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本で震度5弱 住民「夜は怖い」",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1QnpYTWZOemg1MVJfRFZKR2JLa2FVSVM3RVZSR21IeDJfNUZrSDhhX1hyZGUyNEw2ZnJwV0x2OUFESXpaQXk5OTMzZFdjWUtW?oc=5",
+      "pubDate": "2026-11-19T02:10:38.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本で震度5弱 住民「夜は怖い」  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【動画あり】一斉に飛び立つカラス 熊本で震度5弱 気象台「同程度か さらに強い揺れに注意を」（RKK熊本放送）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WFhyWmowNEN3WmIzbFozWldDek9sNDVQZjQzNE45bnhFb1NWRG9GR1NFN21PbWV5T212OGRvNW9FRUFVTXBRTmpQbzdjNzFpQkJ5VEhTbS15dFdfYWRHZ2x1c3FvT3g0bXB4RGxuejFVaXEwY192dUkyR05GYTQ?oc=5",
+      "pubDate": "2026-11-19T01:41:13.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "【動画あり】一斉に飛び立つカラス 熊本で震度5弱 気象台「同程度か さらに強い揺れに注意を」（RKK熊本放送）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "8月1日以来の震度5弱…熊本地震の一連の活動「もうやめてほしい」「夜は怖い」住宅の瓦が落下する被害も",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14VVVxWlZ1UWxaRWVnYkx4eVliN2x2N1FXTEZkcXJkUTBISVY5WUlVM1pDdlV0RURxSkZyNkpteEExamdWb0tZcW1BS241ZkYtT2M3V3VTOG9HVjNlbUhLTF9WWVdGcGdGdWlfRlJIVXNXMnY0NTZFRXd2QUpwbDQ?oc=5",
+      "pubDate": "2026-11-19T01:21:49.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "8月1日以来の震度5弱…熊本地震の一連の活動「もうやめてほしい」「夜は怖い」住宅の瓦が落下する被害も  Yahoo!ニュース\n【地震情報】熊本県で震度5弱 熊本...",
+      "category": "disaster"
+    },
+    {
+      "title": "8月1日以来の震度5弱…熊本地震の一連の活動「もうやめてほしい」「夜は怖い」不安の声",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44NWdWcGtKZGlmeFJFc0VpcUVfTFBaSnk5ai1RekxVLVRiTFZTSTJZODk4RnFCRGhuR3dETnRiZVRiMUtCaWFyYzZtV3JJTUJnZDhGbi14RTlwT2t6WmlOSFctZUoyME9kM2JRckNsN0_SAXZBVV95cUxPRmM0R1Jkek5Vc3RCX1J4RG5ELTRZTnlDQXpMQmVDNXZsMnhDQ0RBVHY4ekZYUmZJcTR2Qjd6aXRrbzUxMVpJUF90ZUxPV1ZqS3pVUjNkTVlwdGI2RmI5ODNJRkg0LVZ4WDlVMFVkMXBNaURpWVVR?oc=5",
+      "pubDate": "2026-11-19T01:21:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "8月1日以来の震度5弱…熊本地震の一連の活動「もうやめてほしい」「夜は怖い」不安の声  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本でM5.7 7月29日以来の規模 今夜〜明日は雨で寒さ続く",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dUhMWWI1S0pMdERheXV1V29XNnZtT0g3ZDg2Z3ZJeGMtc2hfVGcwSWVmaEZib2ZGME53X1hMVnItZlZpcTVZSFVNeHhEcnlieTROTQ?oc=5",
+      "pubDate": "2026-11-19T01:07:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本でM5.7 7月29日以来の規模 今夜〜明日は雨で寒さ続く  ウェザーニュース",
+      "category": "other"
+    },
+    {
+      "title": "熊本で震度3の地震、長崎と鹿児島で揺れ観測 各市町村の震度一覧…11月19日午前9時38分発生",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0weHRpTjl4YWd1OFY4T0tMbWM2NVQ5YmlKcjdWMUl3TXkxQkIyN0ZNNUpnQTJDSldaY0NwOFpDckdETTZoNTcweDVKOA?oc=5",
+      "pubDate": "2026-11-19T00:54:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本で震度3の地震、長崎と鹿児島で揺れ観測 各市町村の震度一覧…11月19日午前9時38分発生  47NEWS",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】芦北町で震度3",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Md2tKNnBKY3NTcDFMcjFlR00wR0VQZjFYM21FQ0YtY1E1V2U2SzBLNWJZYWJieURzRzVhdTBudENTSUFpZ282NmhLYTNsTlk?oc=5",
+      "pubDate": "2026-11-19T00:43:17.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】芦北町で震度3  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】九州新幹線、鹿児島中央発上り2本運休 地震影響、速度落とし運転 他にも遅れの見込み（西日本新聞me）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZmZQY1c0bmRPcmN5VVc4ZG1mMGR1VGtHa2R4T1ppYnFRMkdhUzVNNG1KSE5IOEoxcEU1Q2wyREtOMHlGZFdibnNsVEI0Vnprc1Z6bXNMajlpSW81c1dhdV9naTFaTWVCSU5DZTVaN1FadDdiNldaRU13d2RaRU0?oc=5",
+      "pubDate": "2026-11-18T23:57:02.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】九州新幹線、鹿児島中央発上り2本運休 地震影響、速度落とし運転 他にも遅れの見込み（西日本新聞me）  Yahoo!ニュース",
+      "category": "infra"
+    },
+    {
+      "title": "熊本で震度５弱 ７月地震の一連の活動―気象庁",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Nc3gtT1BqbVBlZE5XUkxjcHZLWlp4bU1mdGEwUUc4RW1pMkVSZDZFSGdIblphQkcyeklhdzUtMm5ZV0lyekJHQ2lCQnFKZGlrbGh2RGUtYWZ0ZVc0RndYWFVLVQ?oc=5",
+      "pubDate": "2026-11-18T23:47:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本で震度５弱 ７月地震の一連の活動―気象庁  時事ドットコム",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCYUJ5cDFEY05ReENNN1E0aUVxNjhhS092ZDB4UUlwYzNxWlpJUVF6SUpHLURsS09mcWxiZzA2Yjlkc1hpazdDMEFXV3dIcmg1ems2U1RR?oc=5",
+      "pubDate": "2026-11-18T23:05:11.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "category": "disaster"
+    },
+    {
       "title": "【2026年10月19日放送】ゲツキン×熊日＝「ヨミトク！ クマニチ」 19日の放送は文化部の中村部長が登場",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRE9YaHZIejR6YTdGXzV2Q185YktOYlo4cXZRajY0NGZKLUFWN3FVQ1NyLS1sNHMwdHVWXzVsTzd3ZW9FcUtzU3l5WWRnUTA?oc=5",
       "pubDate": "2026-11-18T23:00:00.000Z",
@@ -28,13 +325,31 @@
       "category": "disaster"
     },
     {
+      "title": "【リアルタイム速報】水俣市などで震度5弱 水俣市と球磨村が「避難指示」 おれんじ鉄道は運転見合わせ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuNVFQZUN6NFJ2NUd1M0kzWkVmYjRGZzJmcDlpZmNiTVoxbzhEZUNRc09LSUd1bzNhLUQwZ0k3MlM2eDdMZTExQml6UEJTcmc?oc=5",
+      "pubDate": "2026-11-18T22:19:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【リアルタイム速報】水俣市などで震度5弱 水俣市と球磨村が「避難指示」 おれんじ鉄道は運転見合わせ  熊本日日新聞社",
+      "category": "infra"
+    },
+    {
       "title": "【速報】水俣市など震度1",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRb25VVHo4ellfYU5QR19KalBoN255MjdmaFh2dnVmUVNFM3F5R2xjS25udjNmekU1X2lyQ1Z1ZUxPd2FORERvOHRlbnBfb1U?oc=5",
       "pubDate": "2026-11-18T22:18:28.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】水俣市など震度1  熊本日日新聞社\n【速報】水俣市など震度2  熊本日日新聞社\n熊本・水俣市など震度5弱 九州道一部通行止め 1週間程度は同程度の地震に...",
-      "category": "infra"
+      "description": "【速報】水俣市など震度1  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】宇土市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLc1hZQTNkR2pqQ0tMNlFaQnBQc19VMzQ0dlZMdVoyMjhNZTlpQnhVT3Nsdi0yUXJ4czh2bW5XWHZGdmdacjBIZUl6aXRIWXM?oc=5",
+      "pubDate": "2026-11-18T22:14:29.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】宇土市など震度1  熊本日日新聞社",
+      "category": "disaster"
     },
     {
       "title": "熊本県で最大震度1の地震 熊本県・宇土市、宇城市",
@@ -53,33 +368,6 @@
       "type": "local",
       "description": "【速報】九州新幹線、鹿児島中央発上り2本運休 地震影響、速度落とし運転 他にも遅れの見込み  西日本新聞me",
       "category": "infra"
-    },
-    {
-      "title": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SOHlXOXpTTkE0MVVrYlEtYW8zcW5qNGdLZVJSMVAyeVYtMm5qd1UtSVNkUnFqVGVGOE1BZXFKOFFyQW9jY2VXUGQtTzhrdFlXUEUzODQ5ZWV0VVdzVy1HSXZESlRTLWpzdWFmSW9zenjSAXZBVV95cUxQMUsyY1BPSFphOUpudjZsdFpldjBkcmptSFRlRllkVTY4R2xrWXVIVFR0bU1EMUhGRGFyZ3VRTDVIRWQ5MXdlekVkaDBROXlrRXNlQ2NCY1pRZWVTXzZ2SklnaUdUM1FFUnQxSFVJZ1R4T3ZsUGhn?oc=5",
-      "pubDate": "2026-11-18T22:10:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県熊本地方を震源とする最大震度1の地震が発生 津波の心配なし  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震速報】熊本県で震度5弱「県内は諌早市などで震度3」(19日午前2時22分)《長崎》",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQWh1N3BrbUNkbXhKejhreTNNZU5KUXJhWE92TEhuYjVBNmNTWWhfaVhHV0JYaUZhSDZBY2F6d0pkaFBUbmUyemRTOWo5YTdQbk1qV0UzLTUxZDZicXU4YnloUW9ZSXRLWUpEWFkwaXpMV24tajZ1dEdXb9IBgAFBVV95cUxNZ1Z1ZF9JM0xXWl8yZG1TcXZSeWFCeUh3V0s5ajlIb0JsX3ZOUldmNGZSSFBMdlpoRThsYU1hV3ZJUUJRa2F1VVE2RE1PeHBEbWpIbEZiMzg1SHAwbHdZNkl3VXJjbENzVHJabnFJblh0WmRwbjlXTmdwdjdFTHppbw?oc=5",
-      "pubDate": "2026-11-18T22:08:08.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震速報】熊本県で震度5弱「県内は諌早市などで震度3」(19日午前2時22分)《長崎》  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QM0M0bWJ5SEJBaHcwWDRMbVI5dURQcml4U2pRQ0EwUTBURXVjQ3RzMTc5RHdFUF91RXZKWnNkWmg2UnM0VXJUWG9oY0FnSlBUWmlELWdB?oc=5",
-      "pubDate": "2026-11-18T22:06:58.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  KAB 熊本朝日放送",
-      "category": "disaster"
     },
     {
       "title": "熊本で震度5弱の地震、鹿児島と宮﨑で震度4観測 各市町村の震度一覧…11月19日午前2時22分発生",
@@ -136,12 +424,39 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】九州新幹線8本が運休 地震影響、遅延も発生 19日11時頃ごろまで影響見込み",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11bjh0VC1scXVjc1gxbG90b0dFbGxGeEM1OFBtbV9OWTQwWm9UX3NSUmRsc1RzVk4tWmRCWUpzOUpURndFTnk5Q0FWdWpLWVNiWGtwNWVR?oc=5",
+      "pubDate": "2026-11-18T20:58:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】九州新幹線8本が運休 地震影響、遅延も発生 19日11時頃ごろまで影響見込み  西日本新聞me",
+      "category": "infra"
+    },
+    {
+      "title": "熊本地震の一連の活動「1週間程度は最大震度5弱程度の地震に注意」気象台",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sZGVMYVVFblhCMUtPdEZvZVJ1SFI2Y2RVQ1pzOTEyMUthbU5oeC13ZXU3TzFmc1hkTG9qTEx1VDFyaWgwSUlCQmw3VmcxY1V1Z21yZE93?oc=5",
+      "pubDate": "2026-11-18T20:56:10.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の一連の活動「1週間程度は最大震度5弱程度の地震に注意」気象台  KAB 熊本朝日放送",
+      "category": "disaster"
+    },
+    {
       "title": "「1週間程度は最大震度5弱程度の地震に注意」気象台（熊本ニュース KAB ONLINE）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRkdRTEVhUHIxUXRsUnlQZVdZVHRicG9zaURaYXYxUjZzdnkyT3lwLWhlSnBYZTdYRlFhZE13Y2ExNkFSTzRNNEZucnN5ZEgzQUhld2lRdFlfdjlYTHBGeWxrMFRKVzBFd3R3amdsc3BDZjNYYzBQVHlQRXdEUlk?oc=5",
       "pubDate": "2026-11-18T20:55:48.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "「1週間程度は最大震度5弱程度の地震に注意」気象台（熊本ニュース KAB ONLINE）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の一連の活動「1週間程度は最大震度5弱程度の地震に注意」気象台 (熊本ニュース KAB ONLINE)",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1E3S2RGN3ZRZS1nRGV2dmlfSDAtZlJzeEpJcmRiQ0tlM0NLSWc1NVBNaUdHSkNPRGo0cTNDZU1odjNSNU1SZ0psbzdjT3VINWp1alhNLW5Bb2NIMmc5SHBpaThkdkJtXzUxclB5WHhRQ3JXTU1IWWotVFRhcWtRVHVWSzFYZXduSGttS25R?oc=5",
+      "pubDate": "2026-11-18T20:52:05.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の一連の活動「1週間程度は最大震度5弱程度の地震に注意」気象台 (熊本ニュース KAB ONLINE)  Yahoo!ニュース",
       "category": "disaster"
     },
     {
@@ -174,7 +489,7 @@
     {
       "title": "熊本で未明に震度５弱 Ｍ５・７、津波の心配なし（共同通信）",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rUEtaVk1aRFdZcWlEblp5aGJtTVZSYzRBZC1xSW80a3FWUTNqcXFnU0JTcWc3MWZyUjMxeGFlcmVrYWtQU09FQUd4NXl2clE?oc=5",
-      "pubDate": "2026-11-18T20:23:00.000Z",
+      "pubDate": "2026-11-18T20:32:38.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "熊本で未明に震度５弱 Ｍ５・７、津波の心配なし（共同通信）  熊本日日新聞社",
@@ -190,21 +505,21 @@
       "category": "life"
     },
     {
-      "title": "想考（２０２６年１１月１９日・木曜日）＝熊本の大地を引き裂いた断層 論説委員 川内十郎",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95bnZud2VsS3FVcTlkazhSWjZGVWFuMFZJb19VNVltd1FSRzBFWnVDYWtzdFJVTlNkX2hxcXFGUlJIdmFWTWUzN0YzQmpkdw?oc=5",
-      "pubDate": "2026-11-18T20:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "想考（２０２６年１１月１９日・木曜日）＝熊本の大地を引き裂いた断層 論説委員 川内十郎  静岡新聞DIGITAL",
-      "category": "other"
-    },
-    {
       "title": "＜取材前線＞災害を自分ごとに",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1Y2JZdmt1UGlkNHlSY2hjQ2swSXB3TzQ0WHlLWFZ1OXo0Y1RCSEtjR1Jqc19yaWh1ZTlwR0k0cWRJOWpXVHA5NEk4ZXlLVEU?oc=5",
       "pubDate": "2026-11-18T20:00:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "＜取材前線＞災害を自分ごとに  熊本日日新聞社",
+      "category": "other"
+    },
+    {
+      "title": "想考（２０２６年１１月１９日・木曜日）＝熊本の大地を引き裂いた断層 論説委員 川内十郎",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95bnZud2VsS3FVcTlkazhSWjZGVWFuMFZJb19VNVltd1FSRzBFWnVDYWtzdFJVTlNkX2hxcXFGUlJIdmFWTWUzN0YzQmpkdw?oc=5",
+      "pubDate": "2026-11-18T20:00:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "想考（２０２６年１１月１９日・木曜日）＝熊本の大地を引き裂いた断層 論説委員 川内十郎  静岡新聞DIGITAL",
       "category": "other"
     },
     {
@@ -217,12 +532,30 @@
       "category": "disaster"
     },
     {
-      "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fbk0yUmZ1YV9MdFd4b1lpTksyeGRlaXAxRjFqRlVNZVpDMGpreEpsOW5xNVNsYl8tdzN1U0JxbmUxT3FMbUw5dUZlV25vVkR3VURJcjd3?oc=5",
-      "pubDate": "2026-11-18T19:12:24.000Z",
-      "sourceName": "地元メディア",
+      "title": "【速報】水俣市など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kM0txcTVDUV9rZE92MU9uQlhqaXgzM1VDRkdneGhRRHhvQnBsdmFNR1h6Q2kwY3NxcGpfRjNYMTBaUjlKNnlsVHNob2VCV3M?oc=5",
+      "pubDate": "2026-11-18T19:34:34.000Z",
+      "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  KAB 熊本朝日放送",
+      "description": "【速報】水俣市など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "2026年熊本地震＞救援金1億9千万円を熊本県に贈る 熊日、熊本放送、熊本善意銀行（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVjAwS0FzQmI3Qzg4Mm40MjVjNlI1VXZ6RkdJRDJPTmNxM20xQzd4MGsxZi1ZYzhYZmpaZEVfVmh5WWZwaERzR3JUenpUeUlBOG9jRFJzaWFpRy1GaFdXakdESEN3cVZ6ZnFqYXEwX0I1aEJ2UGFkRjI2RkhZaEU?oc=5",
+      "pubDate": "2026-11-18T19:28:27.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "2026年熊本地震＞救援金1億9千万円を熊本県に贈る 熊日、熊本放送、熊本善意銀行（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】球磨村で震度1",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TT2xUU281Rl9oOUtXS2ZNT1Z3cGpKT3JIeG5EX3g4OWF5RXRCNlhUUXQ2b3lNTG14ZGpkVjQwc2h6ZndIcjNTSWh0eXZYZFU?oc=5",
+      "pubDate": "2026-11-18T19:27:55.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】球磨村で震度1  熊本日日新聞社",
       "category": "disaster"
     },
     {
@@ -244,22 +577,13 @@
       "category": "infra"
     },
     {
-      "title": "【速報】球磨村で震度2",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tSHF4LVdldjJ0VGVkc1Nhc1hjWkdUQ0llWXZKN0ttUWY1d2ZQcGFzWVNEU0t1eHJJMThpWV9DN0FrMGhQejJwcjBsa0tFNGc?oc=5",
-      "pubDate": "2026-11-18T18:51:58.000Z",
-      "sourceName": "熊本日日新聞",
+      "title": "熊本で震度5弱 1人が気分不良で搬送 高速道路で一部通行止めも",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XeU9tbThhU3J2YXhySUE4dEV3TTktSVBndXFua2RCSGNxb0J5YVo0RmJWOWVoQTEyMC15YURya2JDMHV4YWt3cng4V2l0QmtIQ2RLeXgtYTVwWHZGVFphRlN2T2VyWVpUTzJUNXdDYk0wdw?oc=5",
+      "pubDate": "2026-11-18T18:58:46.000Z",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】球磨村で震度2  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】水俣市など震度2",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WSkhlMElJZjBqUml4djFwamhidE5tbXhMdEhWQnkzUFlTRVUzU1VmaFp4N1J5VmY2N29BbmphTkVmNTNMUmF1MTU2SG9GSUk?oc=5",
-      "pubDate": "2026-11-18T18:42:27.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】水俣市など震度2  熊本日日新聞社",
-      "category": "disaster"
+      "description": "熊本で震度5弱 1人が気分不良で搬送 高速道路で一部通行止めも  テレ朝NEWS",
+      "category": "infra"
     },
     {
       "title": "【速報】水俣市で震度2",
@@ -289,6 +613,15 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】球磨村で震度1（熊本日日新聞）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12WnhIa2JvZVh1ZkNXNzRULWh3dVlaY0RkNnBGTDdSMzlyVF9xYkxBMlZlYmNYNlZRNnB6R0lFaFdhYTJleVg3Ri1Hb0Z4Mk5mX2JTaWJWWExTajE3bGFyVmd3blVHZVV1eUw1VEVNbjZWbTJwV2x0X0xvN1VyN28?oc=5",
+      "pubDate": "2026-11-18T18:16:52.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】球磨村で震度1（熊本日日新聞）  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】水俣市など震度5弱 熊本県「被害の報告ない」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ScFh2ZTBUaDhYbTZZNFhld0FZZU1qT3BYcWczQ1dwaTd2Rmt0eVFQNzEtRE5XeEp1TjFURnFDRENmREs1MHd5aW5Odk9GSFU?oc=5",
       "pubDate": "2026-11-18T18:11:02.000Z",
@@ -307,30 +640,12 @@
       "category": "infra"
     },
     {
-      "title": "【速報】球磨村で震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wS1hMNkpXR0JrLVlIYlJDU1B1djlEaDVUR080bkJRakhJNnk3S25ReG9xNkZ2ekhqamUwaHFLVWFwRUptaFpxMF9aT2RPbjg?oc=5",
-      "pubDate": "2026-11-18T17:58:54.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【速報】球磨村で震度1  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
       "title": "熊本県球磨村、あさぎり町などで震度5弱の地震 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45c0lVc2NmSDItTGZnUDZaNEpzWEZyY2dzelZKSTJrM3R0eFJCeHFybnQtUE9jVWxJVlkydG5PbEozU2xJRmpIMVR5eDhCZTlPYzhzRDRpQmJMOE4yT2p4dndXdlRxazg?oc=5",
-      "pubDate": "2026-11-18T17:46:26.000Z",
+      "pubDate": "2026-11-18T17:46:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本県球磨村、あさぎり町などで震度5弱の地震 津波の心配なし  朝日新聞",
-      "category": "disaster"
-    },
-    {
-      "title": "【地震情報】熊本で震度5弱　福岡・佐賀でも震度3　津波の心配なし　各地の震度を詳しく",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazJZbzBDX0VPQVdjd3VhT3JPWF84b2tZWUxiTEl4RmsxWllOZmNkbWdDaEdnQWlOaXJ5RW8wdkpNV29jSXlIOThjUlMwWU9KX2xGTXVGUnhLN2RDX0xFZzZMdy1RRDlFWElMY0lQWVQyQWg2c19JTlJ0b1VtWkhpS0RESmVlUdIBiwFBVV95cUxPcVVmclpjd0dCVGZKYmtUTGdVWldSaGxKNEd6bGxfWm9GdV9xbEdhQ1gtNFFMb0Q2OG1CQjcxVE5qT1MtSWlJei1UNnFlNjAyOFByVVlHaEFkZFdTaFNreGZDMXJPSXZEU01hY2NSUVBEVjZTMHNQcXIzRlhDdzNTZFhxQUhHTzVzY1Bz?oc=5",
-      "pubDate": "2026-11-18T17:42:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【地震情報】熊本で震度5弱　福岡・佐賀でも震度3　津波の心配なし　各地の震度を詳しく  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -358,6 +673,15 @@
       "sourceName": "熊本日日新聞",
       "type": "local",
       "description": "【速報】水俣市など震度3  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県でマグニチュード5.7の地震　長周期地震動「階級2」を観測",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kcXRMWjFwalc3U3ZPOHNReVRBY2c5Q29zcnV4WlhjaV9rWEo4NlBPelB4NmpwenNaTEJYZHFDQkVpb1ZESnFQR19zTVNRUThENURBZ1p2QkljZm56RUtfZ0hqNEZFUmEydVBUUFQ4c9IBdEFVX3lxTE52WVFxajJ4MnhXak02OXlMVWFwVVJ4ZnlVSlloRTdVQzdqVWgtMWZYREpiOWw4Z2F5RnpPVU9JS3loeUtsR2pKWWs2aGJTbUx3NW81YUVzV2pXNVVWWGllQkdlQlJSVlhzRFN2VUtlaXFKQjdw?oc=5",
+      "pubDate": "2026-11-18T17:42:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県でマグニチュード5.7の地震　長周期地震動「階級2」を観測  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -397,6 +721,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県で震度5弱の地震 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGR6MWpyMGZQcXVxY0ExOGZJMzFoQVJMdjZIM1JtdF8wdUpKMU1wNTg3QldSWkNVRmZxWFZGLWdLQmJvWWx4YnVDb3hFNTlqSnp2RWRuNVA5cmlKQU5zN2h2UlVWNEkzTEQxMQ?oc=5",
+      "pubDate": "2026-11-18T17:35:35.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で震度5弱の地震 津波の心配なし  日本経済新聞",
+      "category": "disaster"
+    },
+    {
       "title": "【速報】芦北町で震度2",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BSDEtOHQ5d1FaY1pjMVY2TllYVnJuR1VkZDhWMnJTUHFVNUNuQ0FtbXhHQVFhSVljTTkxa21uMEd6SG1Ec1RucWFXd2ppZHc?oc=5",
       "pubDate": "2026-11-18T17:33:42.000Z",
@@ -406,12 +739,39 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】芦北町で震度3",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IeXhjX0VjY2NhUVE2aVEzMzZQeHUyQWhSSTVEcEVPcHJ0UFJHcUN2RDdmSXEtRE5CeFJEY3U1Q2Q4UmZxRkpDSUxSOHlMN1k?oc=5",
-      "pubDate": "2026-11-18T17:31:15.000Z",
-      "sourceName": "熊本日日新聞",
+      "title": "熊本県で最大震度5弱の強い地震 宮崎市 小林市で震度４",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ya3dTc3EyMm5qSmFnakFTM2V1bE8tT3pka29udU43WVpsT21maFVMazBILW9YVERxT3ZIWlNDSlA2YTFUWTlUbDFxTWptalZOMnFCWXY5QQ?oc=5",
+      "pubDate": "2026-11-18T17:33:00.000Z",
+      "sourceName": "地元メディア",
       "type": "local",
-      "description": "【速報】芦北町で震度3  熊本日日新聞社",
+      "description": "熊本県で最大震度5弱の強い地震 宮崎市 小林市で震度４  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震情報】熊本で震度5弱　福岡・佐賀でも震度3　津波の心配なし　各地の震度を詳しく",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazJZbzBDX0VPQVdjd3VhT3JPWF84b2tZWUxiTEl4RmsxWllOZmNkbWdDaEdnQWlOaXJ5RW8wdkpNV29jSXlIOThjUlMwWU9KX2xGTXVGUnhLN2RDX0xFZzZMdy1RRDlFWElMY0lQWVQyQWg2c19JTlJ0b1VtWkhpS0RESmVlUdIBiwFBVV95cUxPcVVmclpjd0dCVGZKYmtUTGdVWldSaGxKNEd6bGxfWm9GdV9xbEdhQ1gtNFFMb0Q2OG1CQjcxVE5qT1MtSWlJei1UNnFlNjAyOFByVVlHaEFkZFdTaFNreGZDMXJPSXZEU01hY2NSUVBEVjZTMHNQcXIzRlhDdzNTZFhxQUhHTzVzY1Bz?oc=5",
+      "pubDate": "2026-11-18T17:33:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震情報】熊本で震度5弱　福岡・佐賀でも震度3　津波の心配なし　各地の震度を詳しく  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【地震速報】熊本県で震度5弱「県内は諌早市などで震度3」(19日午前2時22分)《長崎》",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQWh1N3BrbUNkbXhKejhreTNNZU5KUXJhWE92TEhuYjVBNmNTWWhfaVhHV0JYaUZhSDZBY2F6d0pkaFBUbmUyemRTOWo5YTdQbk1qV0UzLTUxZDZicXU4YnloUW9ZSXRLWUpEWFkwaXpMV24tajZ1dEdXb9IBgAFBVV95cUxNZ1Z1ZF9JM0xXWl8yZG1TcXZSeWFCeUh3V0s5ajlIb0JsX3ZOUldmNGZSSFBMdlpoRThsYU1hV3ZJUUJRa2F1VVE2RE1PeHBEbWpIbEZiMzg1SHAwbHdZNkl3VXJjbENzVHJabnFJblh0WmRwbjlXTmdwdjdFTHppbw?oc=5",
+      "pubDate": "2026-11-18T17:32:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【地震速報】熊本県で震度5弱「県内は諌早市などで震度3」(19日午前2時22分)《長崎》  ｄメニューニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度5弱の強い地震 熊本県・球磨村、あさぎり町、水俣市、芦北町、津奈木町 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EaEFXampFbTUxTXhXOTVFcTBFNWJ6SVNpWFlPeGVpSlotTW5PcGVhYmtHVlBiQzFSUzV2VzBSRjVOYzdjcUZLQWRoODFQbHdRN19naUpQVzh5RHpYWVdwdGZZd2x0Sk0?oc=5",
+      "pubDate": "2026-11-18T17:31:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度5弱の強い地震 熊本県・球磨村、あさぎり町、水俣市、芦北町、津奈木町 津波の心配なし  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -451,6 +811,15 @@
       "category": "disaster"
     },
     {
+      "title": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VDlxbUVnWkFFcXl6am1ZSS1idk5RNXhTZlRtdktJNUlmdGVrcm15THB5R0tueUdvenowdHdqQlBIWF9HS2gzMkdiWkFRNDJnQW9PcndmNU1UOUE?oc=5",
+      "pubDate": "2026-11-18T17:28:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし  ウェザーニュース",
+      "category": "disaster"
+    },
+    {
       "title": "熊本県で震度5弱の地震 津波の心配なし(気象予報士 日直主任 2026年11月19日)",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZGtjbWdfZDc4VUlSQnMySTh5aTAwdkVzclhYZUh3Rk1tWW1hYlhGN1FhQnR2TXU2dVd1U2ZhNEdZbXdkYzkxX2VrSG8wdms1Uk9SYlFUdE8zTjFWYW1hcFMtTV9tbDhqaGc?oc=5",
       "pubDate": "2026-11-18T17:27:46.000Z",
@@ -474,7 +843,7 @@
       "pubDate": "2026-11-18T17:26:00.000Z",
       "sourceName": "地元メディア",
       "type": "local",
-      "description": "熊本県で最大震度5弱の強い地震 熊本県・球磨村、あさぎり町、水俣市、芦北町、津奈木町  TBS NEWS DIG\n熊本県天草・芦北地方でM5.7の地震 最大震度...",
+      "description": "熊本県で最大震度5弱の強い地震 熊本県・球磨村、あさぎり町、水俣市、芦北町、津奈木町  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -484,6 +853,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "震度2 熊本県天草・芦北地方 2026年11月19日01:39ごろ 地震詳細  TBS NEWS DIG",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本県で最大震度2の地震 熊本県・球磨村",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UXy1zalFYQW1FdFVrZGkydGRDSWpiNWdZYTExZkJjOG9hMDRydXRMT3hKZEtVNTRic051WFN6UE9LT3VrNDhneVRtVVllZXpyV0tHQk8tRQ?oc=5",
+      "pubDate": "2026-11-18T16:41:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本県で最大震度2の地震 熊本県・球磨村  TBS NEWS DIG",
       "category": "disaster"
     },
     {
@@ -521,387 +899,9 @@
       "type": "local",
       "description": "村上宗隆選手の寄付プロジェクト「Beve」熊本地震支援キャップ6,465個を販売。寄付予定額は8,716,221円。母  ニコニコニュース",
       "category": "life"
-    },
-    {
-      "title": "熊本地震からの雇用維持や再就職に熊本県と国、ジョブ産雇の３者が全国初協定 約５６０人が離職【熊本発】",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1INjhTT3lQX25QVGxPYTU4RHhleU1hbk1WQnJBZExmWldsYlE5c25WNHlqLU5uT3RsV2tONi1KLXhaTmFsTG5pa21LV2h4Zw?oc=5",
-      "pubDate": "2026-11-18T12:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震からの雇用維持や再就職に熊本県と国、ジョブ産雇の３者が全国初協定 約５６０人が離職【熊本発】  FNNプライムオンライン",
-      "category": "disaster"
-    },
-    {
-      "title": "バレーボールＶリーグ 熊本ヴィレックスホームゲーム【令和8年熊本地震復興支援マッチ無料招待】｜お出かけ情報",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GR2xiRERjQWxNUE1pN3JVdGg4MlVPUEo2Z2ZiSHZxSEVHQUQ2TWQ1VWxwTzlyVTFrSHVrZW5Za2JaUjhMTFFXcVpucw?oc=5",
-      "pubDate": "2026-11-18T11:58:51.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "バレーボールＶリーグ 熊本ヴィレックスホームゲーム【令和8年熊本地震復興支援マッチ無料招待】｜お出かけ情報  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mVlNmc3A5d0pLeTl5eDJyck5zTE1CNGFYWkM1U1lSUm1VWndiX2VxNUo4a0YwaEs3bTFfNHBKbWVkYmwwTzg3cWJXcHd6dw?oc=5",
-      "pubDate": "2026-11-18T11:12:41.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案  FNNプライムオンライン",
-      "category": "infra"
-    },
-    {
-      "title": "「被災者の痛みの最小化に役立てて」産経新聞社が熊本地震の義援金約２億２８００万円贈る",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fWENKWGxtLUxMcFZpZHE0bjBYeUZYdXhkZ1NObERWcS1VYnVjVnpUdVBPa3U3b0x0REFzVkJkalZqd2lXVDFaMmc3R2JQaUZLOEdhMmYyX3RIbUlKbWh0OGxBRQ?oc=5",
-      "pubDate": "2026-11-18T11:08:10.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "「被災者の痛みの最小化に役立てて」産経新聞社が熊本地震の義援金約２億２８００万円贈る  TKU テレビ熊本",
-      "category": "disaster"
-    },
-    {
-      "title": "[TKUニュース 26.11.18 19:00 ] 地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96czYzak5jSk91b3ByVGo5SHdQRzd0akRPNEhuZVhvWldSZVpaR1B6bm5iRHdwXzZieTc0UFdSVWxUSHlKRFYzaF9TUE1yXzRQcmpyTXNhd1FhbFU2TktXM2xidw?oc=5",
-      "pubDate": "2026-11-18T11:07:52.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "[TKUニュース 26.11.18 19:00 ] 地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案  TKU テレビ熊本",
-      "category": "infra"
-    },
-    {
-      "title": "「被災者の痛みの最小化に役立てて」産経新聞社が熊本地震の義援金約２億２８００万円贈る（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oV2s1QzZpNjFsRFZaTTFBczNWSzlFalFkd3hQYWl1aGlVSkpjYk5zRjBkenZTRmNfS1BTVmtXV3RtMERJYVhzc2dXMUU1NG9uNmoyd0s2OEZJWDV6WnRMQjA0V09oTGVITVU0Ul9MaUs1ZmVoTW9wYXRqRHNzWDA?oc=5",
-      "pubDate": "2026-11-18T11:04:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "「被災者の痛みの最小化に役立てて」産経新聞社が熊本地震の義援金約２億２８００万円贈る（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案（TKUテレビ熊本）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13V0tWMUdUaHh1OWtGbW9rSEhpYlVEbks0LXB3Vmt2YldvdDRiT0RfVkpjLXhEcXRXUjZ2WV80Z18yOFlXSkZXVkhhUGE5UjNRb1dGM2VyaU12YlRuM0VUdGN0ZWtZdG9qRnpGbG45OUY5TTUxU2JONi1HVGU5Qms?oc=5",
-      "pubDate": "2026-11-18T11:04:01.000Z",
-      "sourceName": "TKUテレビ熊本",
-      "type": "local",
-      "description": "地震被災の復旧復興を支援へ 熊本県 約３７２億円増額の補正予算案（TKUテレビ熊本）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性（ＫＫＴ熊本県民テレビ）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZN0Y0ajFwME1aN3N6SHQwdWo5RUNiUVMtaThfSVhKRWtBMDhxMU1MNkttWEFCNmdrY2dQTGdvWTRpVVpyUlhqN3ZSUW9fZ1k2WnNyUXc3UGh5M2EtNEFFeWZaODVTbjdMdmoyRF91MjVIZEpzVXhmX0x0aDc1Wms?oc=5",
-      "pubDate": "2026-11-18T09:57:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性（ＫＫＴ熊本県民テレビ）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性（2026年11月18日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHBwRFJOSDhJMVRzUER6d0s4ZFJUMVZrNlNoYUxjcGUtb2Y5eG1VQk8zWlBzaGNtMEx6UTB2Q0lsemFJVEFSeHk4bWVocUlCeWQtN0N2RlhWd3NKd0lOVzVyOGNOWnFzcHc0aklDQjBJNUYzaFNvWFJrNG9wX2VBNWw0RmtURWM?oc=5",
-      "pubDate": "2026-11-18T09:57:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性（2026年11月18日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性 (ＫＫＴ熊本県民テレビ)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeFFiYnk5UzdtaHg5bkZYT0tPMlYyem4tMzFNZGRLX28tcnpHRDFTTkVuWmlsWUpsa3BFZVkxVXRfRUxfS0dJaURaU1BjQWRPOE1qM2owdTlTREwzNEpTUTVYeVQxRzdTRXhRMUduU1Zrdkk3b3Z5T1h2cExfQXN0UnZrLWZtRjNiSGpaUDFn?oc=5",
-      "pubDate": "2026-11-18T09:57:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "熊本地震の災害関連死 申請は47人に 今後も増加の可能性 (ＫＫＴ熊本県民テレビ)  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "＜2026年熊本地震＞住家被害9万棟超に 5市町の避難者833人",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wZTgzSC1PR2lLdXlPeWx0bkdBelFTSEZvU2djOUQ5T0FJckpnaG1aTHNoQndCLTBXWFF6YWRyOFF0dnhONDdZdnlMMXZWTnc?oc=5",
-      "pubDate": "2026-11-18T09:15:03.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞住家被害9万棟超に 5市町の避難者833人  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "住家被害9万棟超に 5市町の避難者833人 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wZTgzSC1PR2lLdXlPeWx0bkdBelFTSEZvU2djOUQ5T0FJckpnaG1aTHNoQndCLTBXWFF6YWRyOFF0dnhONDdZdnlMMXZWTnc?oc=5",
-      "pubDate": "2026-11-18T09:15:03.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "住家被害9万棟超に 5市町の避難者833人 ＜2026年熊本地震＞  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "＜2026年熊本地震＞救援金1億9千万円を熊本県に贈る 熊日、熊本放送、熊本善意銀行",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0weF9qRFRvVTdLak9YSWMwRWNGbGl6S0FPTUFlWXZZNk9Ob0l5NW40dGpsdVBrRXdvRTY0Y04wZG9BcmlmME9maks3MVZMbFE?oc=5",
-      "pubDate": "2026-11-18T09:10:58.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞救援金1億9千万円を熊本県に贈る 熊日、熊本放送、熊本善意銀行  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震災害支援募金のご報告とお礼",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85OVVyd045TnJZNmJqSkVLdUpFT18tcHRHNWlEcGRGSmJXMGRRYnlzdzhyS0RsU3VHTWRJWjB4SGVJUGJCUE40bW9GN253MlRs?oc=5",
-      "pubDate": "2026-11-18T09:04:17.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震災害支援募金のご報告とお礼  STU48 OFFICIAL WEB SITE｜STU48 FAN CLUB",
-      "category": "life"
-    },
-    {
-      "title": "労災防止へパトロール 公費解体本格化前に 八代労基署など ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zX1FkbThsTDNGTEJrMFFmdmxvUVZlNUZQME05RW9hUzN1ZkdYdEdvLWY5UVZPQnFPVk1ILUM3MzlfZkJpQ3JOcElwZ21jYkk?oc=5",
-      "pubDate": "2026-11-18T09:00:30.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "労災防止へパトロール 公費解体本格化前に 八代労基署など ＜2026年熊本地震＞  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "7月の熊本地震を踏まえ　地震で被害を受けた高速道路の復旧訓練　高松市",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kN05lSVZnNUwzeXRmMXNIeGFZT3B0aEJnS0NNeERERTZMMVVjaEh6eTAxNUlLZTg1Q3BXQktSSjdXNXdtcTc4YlRBaW1qRktNQTF1YUxRZWJsTTFqeTJrSzVIYU5pb2FwcXlkRTM3a2HSAXZBVV95cUxOaE1yUjVkc3dJeWxuOFhDM1RjSnBGaVlpWUVoNmFZdGw0LWtrTkNkY09reDZsRzhreEMycXFsUmZSdTRTMk1JbnRsR05QMzI1VTFFN3NnTW5UdVQtVlBhckFiNUdrU0NONVpjRlY4QkY4YlVSWjN3?oc=5",
-      "pubDate": "2026-11-18T08:40:04.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "7月の熊本地震を踏まえ　地震で被害を受けた高速道路の復旧訓練　高松市  ｄメニューニュース",
-      "category": "infra"
-    },
-    {
-      "title": "＜2026年熊本地震＞芦北町で公費解体始まる 来年2月末までの完了予定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9heHcyMm8xSGp3U2lmb1V0ZTRickxhdlpvZ293RW12ZU9MeUd2Umd6Und3Y2Jvb3lTMGgtZ213X25yazktUzc4TXlDZzVQTDQ?oc=5",
-      "pubDate": "2026-11-18T08:39:29.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "＜2026年熊本地震＞芦北町で公費解体始まる 来年2月末までの完了予定  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "7月の熊本地震を踏まえ 地震で被害を受けた高速道路の復旧訓練 高松市（KSB瀬戸内海放送）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DYlF6WnZnVFA2SzJPRXoxbkRHOE1TcmV0SmxhZlhtZUdlbEVnZHZYTnhVb1RxNS1uSjcwYmhSWVRkU1J3S1htNTFPRVYtRUx5aXFDZUdLci1HQVBaTGVEcFhldjhhVEdnNldlZk5FNDV2RVRpNXRrX0xjN2RaSUE?oc=5",
-      "pubDate": "2026-11-18T08:35:49.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "7月の熊本地震を踏まえ 地震で被害を受けた高速道路の復旧訓練 高松市（KSB瀬戸内海放送）  Yahoo!ニュース",
-      "category": "infra"
-    },
-    {
-      "title": "災害関連死審査の弁護士数に懸念 熊本地震、指針満たさず",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EVmVPbUJMTmlpNXpQdmx6ejhLV3otd2xEZ2w2bjFTYWJCdENtZmNkSkFMRXZiWG45N2NmaDhkWFFWZ1BSRHNpYUdWLS1OczFJbEQ2UjFiNE5qc2Utb0E?oc=5",
-      "pubDate": "2026-11-18T08:31:53.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "災害関連死審査の弁護士数に懸念 熊本地震、指針満たさず  沖縄タイムス社",
-      "category": "disaster"
-    },
-    {
-      "title": "災害関連死審査の弁護士数に懸念 熊本地震、指針満たさず（共同通信）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSjJxN2tZVDlKX1hqZGR4VzRCYlZzNTY1UkYwU2k0UG1mWFpDMjBpSlpncGttMkZydC1MbTE2ZjFxc2h3UmcwcjhsMFJWeEVqckc5cGpPX3BIX1VnU0ZZTUZGZUpzOG1PZmtjY3RDd1ljblBjSUE2bGVsWFMwenc?oc=5",
-      "pubDate": "2026-11-18T08:31:53.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "災害関連死審査の弁護士数に懸念 熊本地震、指針満たさず（共同通信）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震復興支援事業 「NHKのど自慢」の実施について",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaNU5fM1AxeVNGNjZUcnVSLTdXZWlqUDJlWXJUd2pmQk43R2VSZEQ1UjBkZ2Q2ZXRtNnZKYnpIaERxSFFhV1l6YzY5d3NoeXZhaW1NcHpsTFpicjRudkduYmh3?oc=5",
-      "pubDate": "2026-11-18T08:14:28.000Z",
-      "sourceName": "NHK",
-      "type": "local",
-      "description": "令和8年熊本地震復興支援事業 「NHKのど自慢」の実施について  熊本市公式サイト",
-      "category": "life"
-    },
-    {
-      "title": "【再建への針路－熊本地震 県「復旧・復興プラン」点検④】災害廃棄物 27年12月に処理終了目標",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IakR2X2s0RjBVY2tQanFoVDdvQXJRV2NoSWUxX2hvZDRtYzhGSDlTdXQ0NTdDQVF6UEVMTHFfSXc1cGFseGVsakhuQ2R1bk0?oc=5",
-      "pubDate": "2026-11-18T07:44:31.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【再建への針路－熊本地震 県「復旧・復興プラン」点検④】災害廃棄物 27年12月に処理終了目標  熊本日日新聞社",
-      "category": "infra"
-    },
-    {
-      "title": "【動画あり】村上選手の地震復興支援チャリティー帽子、母校に 篤志家が託麻南小（熊本市）に300個寄贈 ビデオメッセージも",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13TXVLeDVYSklHUWc5dnFWbl9xZS1NaDBSTHpib1B2OWp3Nmt5dGdrQjVsRHpDWXNYeUlJZWREa0JYX1hfd0FISzQ2ZlBzQkE?oc=5",
-      "pubDate": "2026-11-18T06:40:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【動画あり】村上選手の地震復興支援チャリティー帽子、母校に 篤志家が託麻南小（熊本市）に300個寄贈 ビデオメッセージも  熊本日日新聞社",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震復興支援チャリティー発表会 「Hula Welina O Nā Pua Mālie / Te Fenua Tahiti 2026 Hō‘ike」｜お出かけ情報",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4taDdRS04tQjNQaDVDbThSeUd3aHBpSVVSN1NRMXVzcW9JcG5VR2g5ZWhsRTNpZXdpZVREb3UtRDlTQXlNbUtpRE1xOA?oc=5",
-      "pubDate": "2026-11-18T06:38:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "熊本地震復興支援チャリティー発表会 「Hula Welina O Nā Pua Mālie / Te Fenua Tahiti 2026 Hō‘ike」｜お出か...",
-      "category": "life"
-    },
-    {
-      "title": "イオンモール、避難訓練を公開 熊本での爆発事故を踏まえ「再入館」防止措置なども確認",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VTlhiUElFUmE0WEt0VkR3bGRWdWgwVk1DN0NBU2xvQUNxbDZMcXI1N00xa2t1eXlaWGcwMDlmMjBnZko1MDV1blFQNUZiWk1ESmhCVmVPdUxGQmV5aW12bG5aUnNkbDQtU1pRc01B?oc=5",
-      "pubDate": "2026-11-18T06:28:25.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオンモール、避難訓練を公開 熊本での爆発事故を踏まえ「再入館」防止措置なども確認  au Webポータル",
-      "category": "life"
-    },
-    {
-      "title": "被災地域の雇用確保へ協定 熊本県、労働局、産雇センター 再就職先を確保 ＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aeFRQRXktVTUwSTJBSGs2QWpua2gyc1k3VEhkOVBLV3l3a0lqR1I1MkU4UE5KSEYzNWhVNjRYdlRzQXY1NmlUUzVBWQ?oc=5",
-      "pubDate": "2026-11-18T06:09:30.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地域の雇用確保へ協定 熊本県、労働局、産雇センター 再就職先を確保 ＜2026年熊本地震＞  47NEWS",
-      "category": "disaster"
-    },
-    {
-      "title": "被災地域の雇用確保へ協定 熊本県、労働局、産雇センター 再就職先を確保 ＜2026年熊本地震＞（熊本日日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOVBncF9uc2N1ZFpmSTJzNUpwTVJYN1dRZUNvUGh6Z2hBb3FHdTJYTG5yTkY2Q2lGSXc3WkhmNG9URG1ham5fWWc3QVVQWWR3V0xWbVVMaHhLUExpdFlaYWUxaTB5MGQ1Y3E5c2xvSDgwOVlXMkNDZVJGb2VkbWc?oc=5",
-      "pubDate": "2026-11-18T06:09:22.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "被災地域の雇用確保へ協定 熊本県、労働局、産雇センター 再就職先を確保 ＜2026年熊本地震＞（熊本日日新聞）  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「創造的な復興を」 熊本地震の救援金2億2828万円を熊本県に寄託 産経新聞社など",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQnNpdkMtRHhOVDdoVkJQX3k4bmN5Vlk4Y1FCRHJ3MEx6b0pIUkdpWDVUWkt2QU82MnVmUTZzaVVZbU1udTJKUGdFSUFfYTJELWFXUnFPbzJUT3J5SHJ3S1NmNEg0aDJWS0FWQ1VNWEt1M1ByeU9vVDgzRkphekk?oc=5",
-      "pubDate": "2026-11-18T04:59:40.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「創造的な復興を」 熊本地震の救援金2億2828万円を熊本県に寄託 産経新聞社など  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "「創造的な復興を」　熊本地震の救援金2億2828万円を熊本県に寄託　産経新聞社など",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFpRVDAxX3BQaG1QX2dZZzREU3l4dEhMSTNmaEVIam1GU1dJaTh2eDhQV3A3MEpBcHdZc2JuMWhmU1Y3cER0VllCSERGWi1QaENfbGpBWGdNNWtqMTNIcUI5RHpaenNaZGttaV9GQkp4S1RtM0R5cURVWGs4SWlURk5XcjBaUzh4cnNLZXJYM29abVl5ZWtsYjl3M0tmeTVnNE9GcWVCZ2TSAa4BQVVfeXFMTlAxMFJFYm9paUR5VWp3X01HZklzM1hjSHFqWUZhX2xfeUNJM1NrbnhOMHZ3d084elhpcmJiTmw5YlFpcWYzNVNwcWNRRnVaWGhGa013R1czaURRLXVvRzcxNUNxVzhkaHVWOERkeGV0cWZYVTJPZWtoMnNBY044OUdOOGNKVGFuRnpucnAzc3ZpVV9EYl9SM193UEJJSl9rM09GRGlaNTVFTk5nd29B?oc=5",
-      "pubDate": "2026-11-18T04:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「創造的な復興を」　熊本地震の救援金2億2828万円を熊本県に寄託　産経新聞社など  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "令和8年熊本地震の復旧・復興支援として総額2.5億円を寄付 | 株式会社NTTドコモ NTTドコモビジネス株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ld3VPUUg5aVZkRkhMcmJIcjZnUmY0UEZkd04xekZIZElabi1DX3J5TUFzY29ueDgxeFdNM3diWnM2UnBMVElUOHZyVVY2dw?oc=5",
-      "pubDate": "2026-11-18T04:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "令和8年熊本地震の復旧・復興支援として総額2.5億円を寄付 | 株式会社NTTドコモ NTTドコモビジネス株式会社  アットプレス",
-      "category": "infra"
-    },
-    {
-      "title": "イオンが店舗で防災訓練 熊本地震受け貴重品携帯避難や再入館禁止など防災対応を確認 営業開始前に約200人参加",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMkZJSGZPSEF3cE9sOUFiT1pxejRxQ2hmdUQxd0psanU0bWFXN2NCSHhWRm9ibW5RQURueFc5aWFNUE1pSDFEbHNOOEg3X1dYUG1lanFXZ1dPMVRxSFR3VEs2U3BPNE9fUEdQUDZhTE9mYnJlbXZqRnBOYV8tOEE?oc=5",
-      "pubDate": "2026-11-18T03:48:24.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオンが店舗で防災訓練 熊本地震受け貴重品携帯避難や再入館禁止など防災対応を確認 営業開始前に約200人参加  Yahoo!ニュース",
-      "category": "life"
-    },
-    {
-      "title": "被災地域の雇用確保へ協定　熊本県、労働局、産雇センター　再就職先を確保　＜2026年熊本地震＞",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeGZSTGllUWxJRmtjTVlZNDNnWHpOdVZOMzVjLWp1R2ZvN3Y5T3ZyQVBVcUFkd0JzSU8xM01tTWxPSTFqVGVHMnZnM2hhUDBaTjdMNWExb0FfdWhSQ0xQUzYyaGttX1lCWHlFdEV5ZFJNX0dHRDVKQldQcHY2WHNkNlpPNEE3NGpBSHoxY251aVZkbzNVbGttbkVOQUlFbjRZY2dscTZka19PVThubUFLXzNEVFNPdUxfMFVabHV0dmV2bk9UV0VqRlhtNVhkV3hvREtBMnAxb9IBhwFBVV95cUxOdEZsNEFJTmhXc0tvTmRXeHYtZ3lKM0hkQWJtSkpHSV9UZzZYWU9hYjBNV01ZV2F5eUN6dEdNWFoyR1o0U095LTlMZHg0U0hERGd6NEY3UDkxVEpxMWh5dktpMTB2RjhGWlFfQ1gzYlpJTlA5NHl3X2FrZzZmUXNxWGFaWS1LbDQ?oc=5",
-      "pubDate": "2026-11-18T03:31:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "被災地域の雇用確保へ協定　熊本県、労働局、産雇センター　再就職先を確保　＜2026年熊本地震＞  ｄメニューニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "地震で被災した八代港の早期復旧や港湾利用者への支援を要望（2026年11月17日掲載）｜KKT NEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzF0M3V5MG1lNjBGRm5xVmMzSGc4X1oyWXhNd1c4LXpYM0hYdUk3dUhQYnVQNjV2alRyMTJidkJGT0NOS2Q0NHZkQmRVZzBkN2NlYktHT29ZcURKdkJsM0JqcVh4R2Z5eUJ4QnIxNUxHZGdWcDRUY3VkVVFqNkd6ZU51QWZVTFk?oc=5",
-      "pubDate": "2026-11-18T03:24:00.000Z",
-      "sourceName": "KKT熊本県民テレビ",
-      "type": "local",
-      "description": "地震で被災した八代港の早期復旧や港湾利用者への支援を要望（2026年11月17日掲載）｜KKT NEWS NNN  日テレNEWS NNN",
-      "category": "infra"
-    },
-    {
-      "title": "イオン施設で再入館防ぐ防災訓練 「入館禁止」の張り紙やパイロン設置 熊本地震後のイオンモール熊本爆発事故踏まえ",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeTV2X0xoekszYmtVM1dDckVxVDZqYWVyVmpHU0hhVk4tTnZwZVFtODh6d0R1MnlhTXdlSmFXbzFsRFVrUEp3N1pWTkRwZ21aYko4emJ5RTl4cUJpTEtVX2lGTFBGYWh1d01PMndHNVdUYWNtS1QwTnduaFQ0d3c?oc=5",
-      "pubDate": "2026-11-18T03:04:22.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオン施設で再入館防ぐ防災訓練 「入館禁止」の張り紙やパイロン設置 熊本地震後のイオンモール熊本爆発事故踏まえ  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "静岡県 7月発生の熊本地震を踏まえ猛暑時の避難生活について考える最終の検討会開かれる （静岡）（2026年11月17日掲載）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNWphTEJ4dVBsS3pacEhDRjlDM2N2T1hpekN5NFZGcS04ckllZzNUZmhFX1FIUW05SGhuZkx3SnVoSVVid3BnenptR3dENDU3S1VRZldab2xjZi13c0ptOHRXWDdOdnhIWjI2TVlSWTRMQ0RYNHpvclF1bXg2Qjg?oc=5",
-      "pubDate": "2026-11-18T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "静岡県 7月発生の熊本地震を踏まえ猛暑時の避難生活について考える最終の検討会開かれる （静岡）（2026年11月17日掲載）  日テレNEWS NNN",
-      "category": "life"
-    },
-    {
-      "title": "熊本地震で課題となった猛暑時の避難生活 県の検討会が報告書取りまとめ 避難所運営マニュアル見直しへ",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GSkxydzJNd19LQktFNmZYeksxZDVLT0dnQXZYMm5OZk5aai1TSVVQSS1uN1N1eWo2bDIwUFMxSG1Ba1NhZE05aWd1VFJKZw?oc=5",
-      "pubDate": "2026-11-18T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で課題となった猛暑時の避難生活 県の検討会が報告書取りまとめ 避難所運営マニュアル見直しへ  FNNプライムオンライン",
-      "category": "life"
-    },
-    {
-      "title": "静岡県 7月発生の熊本地震を踏まえ猛暑時の避難生活について考える最終の検討会開かれる （静岡）",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX01Xdk1FVkJhRzhlWEdXUjRiVDFsVThmbXBBT2VFWXZVNUZONVRoM0I2cVFSQ2NWcmk3T0QxcFhBeWNYTjhqZmJaNlJ4SUhyenV0S2Y3Y0NScTRJT3hWa1lJTUlTZXZDNDQzcmJITll0QXdUVFZ6amNJcnlZTHUxZ2gyZDVfcWM?oc=5",
-      "pubDate": "2026-11-18T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "静岡県 7月発生の熊本地震を踏まえ猛暑時の避難生活について考える最終の検討会開かれる （静岡）  日テレNEWS NNN",
-      "category": "life"
-    },
-    {
-      "title": "村上宗隆選手の寄付プロジェクト「Beve」熊本地震支援キャップ6,465個を販売。寄付予定額は8,716,221円。母校・熊本市立託麻南小学校にも300個を寄贈。",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YUGJabzkyN3VnSFRic0RHWVJ5djk5UlVzeFJWOXBjYnBZZVU5aU1Yano2M3NYbE9xQzV5cUFxLXJKc3M2NGplNFdza0JKelNfUXZfVmZOQTJpSXBlV3lJaDM5S1gtUFI5clpLZW5yaFdCRFZUdU0xVUE3Zw?oc=5",
-      "pubDate": "2026-11-18T03:00:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "村上宗隆選手の寄付プロジェクト「Beve」熊本地震支援キャップ6,465個を販売。寄付予定額は8,716,221円。母校・熊本市立託麻南小学校にも300個を寄贈...",
-      "category": "life"
-    },
-    {
-      "title": "台風で被災の長野豊野町の児童、熊本地震の被災地へ寄付 紙芝居で募金募る",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cERGYzhfcUh0UFRoSzNfV0trbms4OGpuV3hBbjZqZ19NSHNpYk44ZUFfQm9tNXRja25DSDMyTHNUUWZHcFpmWk5Xc3VaZG1BV21SZ3NvMERhblhQa3g1T3gyUWZGNzlXSlFvTlA0SE4?oc=5",
-      "pubDate": "2026-11-18T02:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "台風で被災の長野豊野町の児童、熊本地震の被災地へ寄付 紙芝居で募金募る  信濃毎日新聞デジタル",
-      "category": "disaster"
-    },
-    {
-      "title": "地震復興10年の軌跡を交響曲に 熊本県立劇場など阿蘇神社で奉納演奏 2027年2月ユーチューブ公開も ＜2016年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pODJPTUxGN2MtMnNNcXBQM0RvRkRrUW9qNTFvMmx5TEJTWnRrbkhwLVppUGhLZW1lSzBZT2h4N19zR3cxSEY1VEtsdzNuUHc?oc=5",
-      "pubDate": "2026-11-18T02:40:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "地震復興10年の軌跡を交響曲に 熊本県立劇場など阿蘇神社で奉納演奏 2027年2月ユーチューブ公開も ＜2016年熊本地震  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "人吉市で「神社カフェ」オープンへ 地震被災の松井さん（八代市） 「にぎわう場所にしたい」 ＜2026年熊本地震",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nRXlJVThvVW9ReEVkUzJqQlhIaWRHN3l5RXV5cWd5c0VSSzQ1c2xwaDI3cThPakZKTm11M05uMndmQnNKbTgyb2Q0QjNlQlE?oc=5",
-      "pubDate": "2026-11-18T02:37:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "人吉市で「神社カフェ」オープンへ 地震被災の松井さん（八代市） 「にぎわう場所にしたい」 ＜2026年熊本地震  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "イオンモールが新ルールで避難訓練 避難後の再入館防止",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FVFN4X21UaW94bV9xbzZMajZKRVo0UmRzUXZfZDFzcXN0bXNrTFRHUUxuMzF6WW1kWlU4ZFhCVjZxWXhtYWxWWDF2bEFsQktLNTlreWJkUHM2NHFKSDUwdFZudHZhQ183YnRpMw?oc=5",
-      "pubDate": "2026-11-18T02:16:36.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "イオンモールが新ルールで避難訓練 避難後の再入館防止  日本経済新聞",
-      "category": "life"
     }
   ],
-  "lastSuccess": "2026-11-18T23:29:44.261Z",
-  "lastAttempt": "2026-11-18T23:29:44.261Z",
+  "lastSuccess": "2026-11-19T04:26:28.138Z",
+  "lastAttempt": "2026-11-19T04:26:28.138Z",
   "fetchOk": true
 }
