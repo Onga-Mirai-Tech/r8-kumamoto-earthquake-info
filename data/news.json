@@ -82,13 +82,13 @@
       "category": "disaster"
     },
     {
-      "title": "【速報】水俣市など震度1",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EekxhVm11NDZWZEZHLVFVRWJNZmZCcGVOXzlrck9wcm1DS2M1aEtndkdnZVBoTExxd1RLTU42eF9tMVpBYmNwdldBdkFDeHc?oc=5",
-      "pubDate": "2026-11-21T19:07:27.000Z",
+      "title": "10年ぶりの工房取材",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Eb3B2emVGY0xWNnR0Y2pDU01iVVhKQmFmdHdZTGszUFhlVzFndl9vTnVDeHBiR19ndElxUHNhUGdUWmduRWhtcVowa2s1YVU?oc=5",
+      "pubDate": "2026-11-21T20:00:00.000Z",
       "sourceName": "熊本日日新聞",
       "type": "local",
-      "description": "【速報】水俣市など震度1  熊本日日新聞社",
-      "category": "disaster"
+      "description": "10年ぶりの工房取材  熊本日日新聞社",
+      "category": "other"
     },
     {
       "title": "【再建の針路－熊本地震 県「復旧・復興プラン」点検⑤】地域コミュニティー 形成と再生を支援、見守りも",
@@ -106,6 +106,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度1 熊本県天草・芦北地方を震源とする最大震度1の地震が発生 津波の心配なし  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "【速報】水俣市など震度1",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmFFNFYxdlhhRUZWZkZtZHQtdVo4M2dUUTRyM05sak5XbndsWjEzTGQ1MlNldkN4U1ltLVJROHBOT2VkUV80czN1YlBCLWJ6LVhGU2xCQmx3ZXFNN2NqOUlBS2Y5V2xWcHVyd3BWUjZSQ1VpR2lDdndKM1lYSXhYZG5B0gGHAUFVX3lxTE9fTk1xOGlxQW9fd1h4djJtenptNnU1T09jbFR5Mmo3VHJDQWJwMjNuSUZ0SnRJUFlvRFE3azk3RGY1NnlwX01fWjNIY2NVcHViZmZFcWFubVhPNDlEa2ljd3lvbUJZSXdZZGdoeTJFamxvMTMzaUEtRU1zT19oWXJrOUIzZXFmaw?oc=5",
+      "pubDate": "2026-11-21T13:02:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "【速報】水俣市など震度1  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -187,6 +196,15 @@
       "sourceName": "地元メディア",
       "type": "local",
       "description": "熊本地震の被災地に派遣された静岡県職員と静岡県警の警察官が意見交換会を開催 情報共有と連携の重要性を語る  Yahoo!ニュース",
+      "category": "disaster"
+    },
+    {
+      "title": "熊本地震の被災地に派遣された静岡県職員と静岡県警の警察官が意見交換会を開催 情報共有と連携の重要性を語る（LOOK）",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZDdXZWdDMk5XMEVKSTVwQi1rRVVhd3djazRCZzh5RXBGX1A5a3cwU1MzX09vYmY5dHVQMl9NbVhYQjBZY3RsU2l3Vmh1N2RmbE5XblZUdThUYjlsMElHcGlfTW1UeXRwd3EtZFU1UlQ?oc=5",
+      "pubDate": "2026-11-21T08:57:00.000Z",
+      "sourceName": "地元メディア",
+      "type": "local",
+      "description": "熊本地震の被災地に派遣された静岡県職員と静岡県警の警察官が意見交換会を開催 情報共有と連携の重要性を語る（LOOK）  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -298,21 +316,21 @@
       "category": "disaster"
     },
     {
+      "title": "【速報】水俣市など震度2",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NFE1clFJdzZJQjhkR0hnNEdjODhtWjFvSHFoVm5QN185ZDJ2b0ZQUDAyODIxSVZsZ1JyakhHMm12YlNNOVZORUdBaFo4d2M?oc=5",
+      "pubDate": "2026-11-21T03:21:18.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【速報】水俣市など震度2  熊本日日新聞社",
+      "category": "disaster"
+    },
+    {
       "title": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdDVlemJTMWtTQjRjaXctNUtZZE1DWUZ0YUI0V2J4ckw2WUpOWTVHT1E5azd3MlpaUWJYSDUtbnFYUGp3cjd2el8yUzJCRWJBQUFxUGFuZ1dSMGNIV3ZLNFU1MktIeWZfd21MX0VDMV81dWdQRWZHU2pxY05zdFU?oc=5",
       "pubDate": "2026-11-21T03:21:01.000Z",
       "sourceName": "地元メディア",
       "type": "local",
       "description": "【地震】熊本県内で震度2 熊本県天草・芦北地方を震源とする最大震度2の地震が発生 津波の心配なし  Yahoo!ニュース",
-      "category": "disaster"
-    },
-    {
-      "title": "【速報】水俣市など震度2",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREpud0hPazk0dHh4QkR4U0hGZWY3b1hTYTZNRDk1cGxoNmtHb1pXUkpLQjFHNk5iY2k3VUFEQnYzTlYzWDEta3dVejVKVktILUlzYVItTWZSdHRVWHFrQ3BtLUxxYUlVc3hNbS16V3djLU5lMnVnY2JqWWszWjhibW1B0gGHAUFVX3lxTE8wTl9tV2NxTmJnSUtLZmZZZ2lwaVk5V01fa0UwXzNib2prTkt4eHVsSmxXSTVVZW02YXl5SW9Bb0MtOFFodmZfQ2ZyaGl5Xzh5SVlwVzNRQmtJTEpJS0xBc3RiNFJkZDZlQV9ISFowRDV4MnVKNnVFWjdfWUtfUG5QQjFBNnNOMA?oc=5",
-      "pubDate": "2026-11-21T03:21:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "【速報】水俣市など震度2  ｄメニューニュース",
       "category": "disaster"
     },
     {
@@ -350,6 +368,15 @@
       "type": "local",
       "description": "KCBM鹿児島で熊本地震のチャリティステッカー販売！500円から復興支援  Motor Fan",
       "category": "life"
+    },
+    {
+      "title": "地震情報 | 熊本のニュース｜RKK NEWS｜RKK熊本放送",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ka1lQWW5NZjliU2wxMjEtVUZINTBCV2hhSEQ1WFZFeWhGQ3FKd3ZwME9lX2I0OHVXdDcwcDMtZlVpRHI2UndtVTk5NUVUMFhQWmxiVEoyUUdvM193SmFzSXFB?oc=5",
+      "pubDate": "2026-11-20T23:46:35.000Z",
+      "sourceName": "RKK熊本放送",
+      "type": "local",
+      "description": "地震情報 | 熊本のニュース｜RKK NEWS｜RKK熊本放送  TBS NEWS DIG",
+      "category": "disaster"
     },
     {
       "title": "店主は僧侶、悩み寄り添う 熊本地震避難所に移動喫茶 東日本大震災が契機",
@@ -451,15 +478,6 @@
       "category": "disaster"
     },
     {
-      "title": "【独自】八代工場300人超配置転換案 日本製紙 労組に提示",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTllqX2wyZXg5a1NwbGtwT1A1d2UxdU9MSlhiZVdmQ0NNQjBJbjliM2VlWFQ5Uzg2UjRQVXdzMG1xajlLWXdVUkFpQWVsNmM?oc=5",
-      "pubDate": "2026-11-20T20:00:00.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "【独自】八代工場300人超配置転換案 日本製紙 労組に提示  熊本日日新聞社",
-      "category": "other"
-    },
-    {
       "title": "歌声と演奏で被災地支援 熊本地震・豪雨受けコンサート伊江",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LVlFBZE13ZFZ5X0xZSmNvVTloZE4zWUUybFhtMXZjNndWcktEMHNfTHlhN3pFWTFBQUFGdXpDTVByUlJlN2RUdTRNZXZidW9PVUhDMThld0RnUGVKZXc?oc=5",
       "pubDate": "2026-11-20T20:00:00.000Z",
@@ -467,6 +485,15 @@
       "type": "local",
       "description": "歌声と演奏で被災地支援 熊本地震・豪雨受けコンサート伊江  琉球新報デジタル",
       "category": "life"
+    },
+    {
+      "title": "【独自】八代工場300人超配置転換案 日本製紙 労組に提示",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rTllqX2wyZXg5a1NwbGtwT1A1d2UxdU9MSlhiZVdmQ0NNQjBJbjliM2VlWFQ5Uzg2UjRQVXdzMG1xajlLWXdVUkFpQWVsNmM?oc=5",
+      "pubDate": "2026-11-20T20:00:00.000Z",
+      "sourceName": "熊本日日新聞",
+      "type": "local",
+      "description": "【独自】八代工場300人超配置転換案 日本製紙 労組に提示  熊本日日新聞社",
+      "category": "other"
     },
     {
       "title": "【速報】上天草市で震度1",
@@ -872,36 +899,9 @@
       "type": "local",
       "description": "地震で被災して休業 鶴屋八代店が仮店舗で営業を再開【熊本】  FNNプライムオンライン",
       "category": "disaster"
-    },
-    {
-      "title": "「少しでも修理の足しに」半壊・一部損壊など支援乏しい世帯が対象 熊本市が独自支援金",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoa0liLXMwZERrSnowX3IydkJReEVzSGhnNDhqQU1fZ3R3R1lnM2lEU3JaUHA0OWRaSUpNUUN4UTQ5MU5iREpMbjl6VDBHSkwwdnFWblNuMWlIQQ?oc=5",
-      "pubDate": "2026-11-20T09:59:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "「少しでも修理の足しに」半壊・一部損壊など支援乏しい世帯が対象 熊本市が独自支援金  TBS NEWS DIG",
-      "category": "life"
-    },
-    {
-      "title": "市役所本庁舎の地震被災想定 熊本市が初の全員退避訓練 2027年1月予定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yN3NmNHY3cWVjMzd2blFnTUNORnpURy02RVNBc25HTEVyVVA4SlJYaGdpaUlBdk9QbnhqeHhFT0ZIRUUtcl9PVzE3bE90MUU?oc=5",
-      "pubDate": "2026-11-20T09:58:28.000Z",
-      "sourceName": "熊本日日新聞",
-      "type": "local",
-      "description": "市役所本庁舎の地震被災想定 熊本市が初の全員退避訓練 2027年1月予定  熊本日日新聞社",
-      "category": "disaster"
-    },
-    {
-      "title": "熊本地震で出現した断層の保存を八代市に要望「非常に貴重」日本活断層学会",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESFdCVWNGVlVGNWVXV3ZJejlFT3RLNWpKODJxeTk1QVRxYnRXQ29aTlJmQmlIQklEQTRMNGNHaU1EOUtnVHQwMldLM29hRk03STRCOGtn?oc=5",
-      "pubDate": "2026-11-20T09:56:00.000Z",
-      "sourceName": "地元メディア",
-      "type": "local",
-      "description": "熊本地震で出現した断層の保存を八代市に要望「非常に貴重」日本活断層学会  KAB 熊本朝日放送",
-      "category": "disaster"
     }
   ],
-  "lastSuccess": "2026-11-21T21:39:02.198Z",
-  "lastAttempt": "2026-11-21T21:39:02.198Z",
+  "lastSuccess": "2026-11-22T01:35:30.322Z",
+  "lastAttempt": "2026-11-22T01:35:30.322Z",
   "fetchOk": true
 }
